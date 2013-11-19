@@ -2,20 +2,21 @@
 title: o stronie
 layout: post
 ---
-Gdyby ktoś był zainteresowany jak ta strona została stworzona kilka uwag i linków:
+
+Kilka linków dla tych którzy są zainteresowani jak ta strona została stworzona:
 
 
 Tworząc swoja nowa stronę chciałem
 ====================================
 * by wyglądała dobrze na komputerze i urządzeniach mobilnych
 * była prosta 
-* umożliwiała szybkie tworzenie nowych stron i wprowadzania zmian
-* była szybka
+* była szybka w tworzeniu i modyfikowaniu
+* wczytywała się szybko
 * była darmowa
 * oferowała maksimum swobody i konfigurowalności przy minimalnym wysiłku
 * posiadała zintegrowany backup
 
-Na pewno nie jest to metoda którą można zastosować we wszystkich projektach, dla mnie jest to jednak wprost wymarzone narzędzie.
+Na pewno metoda którą wybrałem nie jest idealna we wszystkich projektach. Dla mnie jest to jednak wprost wymarzone narzędzie.
 
 
 Narzędzie do budowy strony
