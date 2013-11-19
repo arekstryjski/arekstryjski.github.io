@@ -1,3 +1,20 @@
+
+Gdyby ktoś był zainteresowany jak ta strona została stworzona kilka uwag i linków:
+
+
+Tworząc swoja nowa stronę chciałem
+====================================
+* by wyglądała dobrze na komputerze i urządzeniach mobilnych
+* była prosta 
+* umożliwiała szybkie tworzenie nowych stron i wprowadzania zmian
+* była szybka
+* była darmowa
+* oferowała maksimum swobody i konfigurowalności przy minimalnym wysiłku
+* posiadała zintegrowany backup
+
+Na pewno nie jest to metoda którą można zastosować we wszystkich projektach, dla mnie jest to jednak wprost wymarzone narzędzie.
+
+
 Narzędzie do budowy strony
 ============================
 * Git - rozproszone repozytorium kodu/dokumentów 
@@ -28,5 +45,6 @@ Tutoriale
 ==========
 * http://jekyllbootstrap.com/usage/jekyll-quick-start.html
 * http://net.tutsplus.com/tutorials/other/building-static-sites-with-jekyll/
+* http://yeswejekyll.com/#case_study_koodilehto_site
 * http://www.andrewmunsell.com/tutorials/jekyll-by-example/
 
