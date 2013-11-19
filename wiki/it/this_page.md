@@ -1,4 +1,7 @@
-
+---
+title: o stronie
+layout: post
+---
 Gdyby ktoś był zainteresowany jak ta strona została stworzona kilka uwag i linków:
 
 

@@ -1,14 +1,9 @@
 name: "Arek Stryjski"
 description: "żeglarstwo, rejsy, jachty, sailing, cruising, yachts"
 
-
-url: "stryjski.com"
-
-
+url: "http://stryjski.com"
 
 paginate: 10
-
-
 
 markdown: rdiscount
 permalink: pretty
