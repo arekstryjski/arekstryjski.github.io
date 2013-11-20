@@ -7,3 +7,9 @@ paginate: 10
 
 markdown: rdiscount
 permalink: pretty
+
+rdiscount:
+  extensions:
+    - autolink      # greedily urlify links
+    - footnotes     # footnotes
+    - smart         # typographic substitutions with SmartyPants
