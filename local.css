@@ -1,0 +1,21 @@
+@media screen and (min-width: 768px) {
+    .jumbotron {
+         padding-bottom: 28px;
+    }
+    .post-jumbotron {
+        padding-bottom: 8px;
+    }
+}
+
+.post-title { 
+    font-size: 23px; 
+    text-transform:uppercase; 
+    font-weight:bold; 
+    color: #424242 
+}
+
+.post-date {
+    font-size: 10px; 
+    text-transform:lowercase; 
+    color: #555555
+}
