@@ -7,7 +7,7 @@
 <div class="jumbotron post-jumbotron">
     <div class="container">
         <h2 class="post-title">{{ page.title }}</h2>
-        <h6 class="post-date">{{ page.date }}</h6>
+        <h6 class="post-date">{{ page.date | date: "%d" | plus:'0' }} {{ page.date | date: "%B %Y" }}</h6>
     </div>
 </div>
 <div class="container">
