@@ -4,19 +4,13 @@ layout: post
 tag: o mnie
 date: 2013-11-21
 ---
-Nazywam się Arek Stryjski. Mieszkam w Cambridgeshire w UK.
-Na co dzień jestem programistom Java piszącym głównie aplikacje księgowe.
+Nazywam się Arek Stryjski. Mieszkam w Cambridgeshire w UK.  
+Na co dzień jestem programistą Java piszącym głównie aplikacje księgowe.
 
-Jednak moją największą pasją od ponad 10 lat jest żeglarstwo.
-Posiadam paten żeglarski RYA Yachtmaster Offshore (commercially endorsed).
+Jednak moją największą pasją od ponad 10 lat jest żeglarstwo.  
+Posiadam brytyjski paten żeglarski RYA Yachtmaster Offshore (odpowiednik polskiego kapitana jachtowego).
 
-Ta strona powstała by promować moje projekty żeglarskie.
-
-doświadczenie 
-==============
-* żeglarskie CV
-* log book
-* patenty
+Strona ta powstała by promować moje projekty żeglarskie, ale także by dzielić się swoim doświadczeniem.
 
 w czym mogę pomóc
 ==================
@@ -24,6 +18,12 @@ w czym mogę pomóc
 * pomoc w organizacji rejsu
 * pomoc w znalezieniu czarteru jachtu
 * pomoc w rejestracji jachtu pod brytyjską banderą (Part I Registry, MMSI, etc.)
+
+doświadczenie 
+==============
+* żeglarskie CV
+* log book
+* patenty
 
 więcej o mnie
 ==============

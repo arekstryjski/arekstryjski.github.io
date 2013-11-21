@@ -54,3 +54,8 @@ blockquote p {
 .tag_toc_item {
     font-size: 80%;
 }
+
+.tag_toc_date {
+    font-size: 80%;
+    color: #676767    
+}
