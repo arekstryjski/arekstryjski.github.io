@@ -1,0 +1,28 @@
+---
+title: Gdzie mieszkam
+layout: post
+side_menu: about
+date: 2013-01-01
+--- 
+Od marca 2007 mieszkam w Christchurch w Fenland w Wielkiej Brytanii. Wcześniej od końca 2003 roku mieszkaliśmy w March położonym 7 mil obok. 
+Fenland leży w hrabstwie Cambridgeshire. Cambridgeshire zaś wchodzi w skład regionu East Anglia. Właśnie taka jest prawidłowa pisownia tej nazwy. 
+Przyczyna dla której na określenie wschodnich hrabstw Anglii używa się anglo-saksońskiego “Anglia”, a nie normańskiego “England” jest dla mnie niejasna. 
+Czyżby wschód zawsze zostawał w tyle...
+
+Fenland to jednak również określenie krainy geograficznej wychodzącej poza granice Cambridgeshire, która przez wieki była “zawieszona” pomiędzy ziemią, a morzem. 
+Kraina ta składała się z terenów zalewanych morskimi przypływami, bagien, plątaniny rzek i nielicznych zamieszkanych wysp. 
+Podobno dawni mieszkańcy posiadali błony pławne pomiędzy palcami rąk i nóg. Nie było to jednak ewolucyjne przystosowanie do środowiska, 
+a skutek skrajnej izolacji i wynik bliskiego spokrewnienia rodzin zasiedlających poszczególne wyspy.
+
+Ostatecznie tereny te osuszyli w XVIII i XIX wieku osadnicy holenderscy. Dzisiejszy Fenland, czyli Kraj Wiatraków znacznie odbiega od stereotypowego obrazu Anglii. 
+Ta płaska, pokryta głównie polami, poprzecinana kanałami i leżąca w większości poniżej poziomu morza kraina przypomina bardziej Holandię niż inne część Wysp Brytyjskich. 
+Niestety w XX wieku wiatraki zastąpiono pompami parowymi, a później spalinowymi, tak więc dziś częściej widzi się tu nowoczesne turbiny produkujące prąd, niż tradycyjne wiatraki.
+
+Również klimat raczej nie jest tu “typowo angielski”. Co prawda mamy tu, jak w reszcie UK, dwie dominujące pory roku: wiosnę i jesień, ale są też wyraźne różnice.
+Jest zdecydowanie mniej opadów, tzn. jak w Cornwalii mają powódź to u nas tylko mży. Częste i silne wiatry nie pozwalają również na utrzymanie się zbyt licznych mgieł.
+
+<p>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.uk/maps/ms?hl=en&amp;gl=uk&amp;ie=UTF8&amp;om=1&amp;msa=0&amp;msid=204255321763002349681.00043dfa7fe5bfa02aa30&amp;source=embed&amp;ll=54.521081,-3.955078&amp;spn=8.935775,19.775391&amp;t=m&amp;output=embed"> </iframe>
+<br/>
+<small><a href="https://maps.google.co.uk/maps/ms?hl=en&amp;gl=uk&amp;ie=UTF8&amp;om=1&amp;msa=0&amp;msid=204255321763002349681.00043dfa7fe5bfa02aa30&amp;source=embed&amp;ll=54.521081,-3.955078&amp;spn=8.935775,19.775391&amp;t=m" style="color:#0000FF;text-align:left">Otwórz mapę </a> w osobnym oknie</small>
+</p>

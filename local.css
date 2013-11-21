@@ -7,6 +7,11 @@
     }
 }
 
+blockquote p {
+    font-size: 100%;
+    font-weight: 300;
+}
+
 .post-title { 
     font-size: 23px; 
     text-transform:uppercase; 
