@@ -1,3 +1,10 @@
+inne strony
+===========
+* wyłącz squereSpace
+* skipperapps
+* link z SetSail i JoinUs
+* link do Accountz?
+
 kontent
 =========
 * index page finale version
@@ -39,5 +46,6 @@ nowe sekcje
 dev
 ====
 * skrypt w domu
+* /dist - czy to jest jeszcze potrzebne?
 
 
