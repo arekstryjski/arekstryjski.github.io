@@ -1,8 +1,11 @@
 ---
-title: żeglarskie plany
+title: plany najbliższych rejsów
 layout: post
+tag: plany
 date: 2013-11-20
 ---
+rejsy weekendowe
+=================
 Jako skipper prowadzę weekendowe rejsy organizowane przez polonijny klub żeglarski SetSail.  
 Najbliższe terminy:
 

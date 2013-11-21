@@ -1,0 +1,30 @@
+{% include header.html %}
+
+<div class="jumbotron post-jumbotron">
+    <div class="container">
+        <h2 class="post-title">{{ page.title }}</h2>
+        <h6 class="post-date">{{ content }}</h6>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            {% for post in site.posts limit: 999 %}
+            <p>
+            <div class="toc_title">{{ post.title }}</div>
+            <div class="toc_date">{{ post.date | date: "%d.%m.%Y" }}, {{post.tag}}</div>
+            <div class="toc_excerpt">
+                {{ post.excerpt }} <a class="toc_more" href="{{ post.url }}">więcej...</a>
+            </div>
+            <br>
+            </p>
+            {% endfor %}
+        </div>
+    </div>
+    
+</div>
+
+
+
+
+{% include footer.html %}
