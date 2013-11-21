@@ -1,0 +1,54 @@
+---
+title: O mnie
+layout: post
+date: 2013-01-01
+---
+Urodziłem się 18 listopada 1970 roku w Tarnowskich Górach na Górnym Śląsku. 
+Rodzina moja w sposób wyjątkowy łączyły osoby wychowane na pograniczu polsko-niemieckim, polsko-ukraińskim i polsko-białoruskim. 
+W ostatnim spisie powszechnym w Polsce stwierdziłem, że jestem Ślązakiem, co pan ankieter skrzętnie zanotował ołówkiem - nie długopisem - bo rzekomo takiej narodowości "jeszcze" nie ma. 
+Dziś gdybym chciał mógłbym zostać Brytyjczykiem.
+
+W wieku 2 lat rodzinna klątwa nie pozwalająca członkom mojej rodziny osiąść w jednym miejscu na dłużej niż jedno pokolenie, spowodowała, że wraz z rodzicami "wyemigrowałem" do centralnej Polski. 
+Zamieszkaliśmy w Konstantynowie Łódzkim, gdzie pozostałem przez następne 20 lat swojego życia.
+
+Tam ukończyłem szkołę podstawową i średnią. W tym okresie nie wyróżniałem się żadnymi cechami szczególnymi.
+
+Wejście w wiek dorosły i uzyskanie Świadectwa Dojrzałości dziwnie zbiegło się z tzw. upadkiem komunizmu. 
+Wir wydarzeń, choć bardzo bliski, jednak mnie nie porwał i spokojnie rozpocząłem naukę na wydziale socjologicznym Uniwersytetu Łódzkiego. 
+Po kilku latach okazało się, że wydział mój skupia głównie osoby nieprzystosowane społecznie i starające się poznać przyczyny tego stanu rzeczy. 
+Wysiłki były raczej bezowocne, ale pocieszaliśmy się, że nie trafiliśmy na psychologię, gdzie lądowali ludzie, którzy naprawdę mieli nierówno pod czaszkami.
+
+Okres ten był także intensyfikacją prób odnalezienia odpowiedzi na pytanie: "Co ja tu ..... robię?". 
+Przy czym "tu" odnosi się bardziej do całej naszej planety, galaktyki, czy kosmosu niż do jakiegoś konkretnego miejsca. 
+Pytanie to często spotykane jest w bardziej wyrafinowanej duchowo formie: “Kim jestem?”, o czym jeszcze wtedy nie wiedziałem.
+
+Ponieważ nie mogłem znaleźć odpowiedzi - a moja młodzieńcza naiwność sugerowała mi, że zmiana miejsca, czy otoczenia może okazać się pomocna - wyjechałem z Polski. 
+W czasie swojego “tourne” odwiedziłem ośrodki i komuny medytacyjne we Włoszech, Holandii, Niemczech i Austrii.
+
+Najdłużej zagrzałem miejsce w Osho Multiversity w Kufstein, na granicy austriacko-niemieckiej. 
+Wydawało się nawet, że wysoko w Alpach odnalazłem miejsce, gdzie spokojnie będę mógł poszukiwać odpowiedzi na podstawowe pytania egzystencjalne...
+
+Niestety - zanim znalazłem odpowiedź - wróciłem do Polski. 
+Wspierany byłem w tej decyzji przez Austriackich pograniczników, którzy właśnie przechodzili na bezrobocie w związku z wkroczeniem ich kraju do Unii Europejskiej, 
+co nie nastrajało ich przychylnie do kogokolwiek.  
+Jak mówi mój ulubiony prezenter radiowy Piotr Kaczkowski:
+> Nie ma przypadków.
+
+Powrót do Polski, która gwałtownie doganiała resztę świata spowodował, że po okresie duchowo-podróżniczym postanowiłem poznać prawdziwe, czy też normalne życie.
+
+Początkowo zająłem się desktop publishing. Starałem się nawet pisać specjalistyczne artykuły na ten temat w miesięczniku “Świat Druku” w którym wówczas pracowałem. 
+Później - znów wsparty w decyzji ręką licha (które jak pisał Błuhakow “stara się zawsze czynić zło, lecz tylko dobro przynieść może”) personifikowanej w osobie żony pracodawcy - skierowałem się bardziej ku programowaniu i rodzącej się właśnie wówczas “rewolucji internetowej”.
+
+Przynajmniej w jednym wymiarze moje poszukiwania niespodziewanie zatoczyły krąg, gdy przez rok znów mieszkałem w Kufstein. 
+Tym razem nie jako nielegalnie zatrudniony hippis, ale jako “młody profesjonalista”.  
+> Nie ma przypadków :-)
+
+Na początku 1999 roku po raz pierwszy zawodowo zająłem się programowaniem w Javie. W tym czasie pracowałem w różnych firmach i przy różnych projektach w Warszawie, Wurzburgu, Monachium i Łodzi. 
+Od roku 2003 pracuję w Accountz.com w Chatteris (Cambridgeshire) w Wielkiej Brytanii. Początkowo jako software architect, później CTO.
+
+W tym czasie ustabilizowałem się również rodzinnie zostając najpierw mężem Eli (2001), ojcem Michała (2002) i Marty (2005).
+
+Można powiedzieć, że po okresie podróży i poszukiwań w końcu osiadłem w jednym miejscu. Nigdy nie spodziewałem się, że spędzę w Fenlandzie 10 lat swojego życia.
+Lata spędzone w UK to także rozwinięcie mojej pasji żeglarskiej. 
+
+Może nie zmieniam już domów tak często jak dawniej, jednak jeszcze została we mnie jakaś cząstka z nomada i odkrywcy...
