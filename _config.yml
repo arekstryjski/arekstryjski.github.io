@@ -2,9 +2,8 @@ name: "Arek Stryjski"
 description: "żeglarstwo, rejsy, jachty, sailing, cruising, yachts"
 url: "http://stryjski.net"
 lang: pl
-paginate: 5
-paginate_path: "arch/page:num"
-permalink: pretty
+encoding: UTF-8
+permalink: /:categories/:title/
 exclude: [arekstryjski.github.io.iml, README.md]
 #markdown: rdiscount
 #rdiscount:

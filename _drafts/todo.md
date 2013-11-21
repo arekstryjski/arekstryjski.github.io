@@ -7,8 +7,8 @@ inne strony
 
 kontent
 =========
-* index page finale version
-* log book etc
+* log book 
+* !!!! strony planowanych rejsów
 * linki do JoinUs i SetSail
 * stare artykuły z squere space
 * artykuły z wiki
@@ -21,9 +21,9 @@ kontent
 
 look
 =====
-* fotki
 * bg w side menu
 * data po polsku
+* move button to the bottom of the section
 
 SEO
 =====
@@ -32,9 +32,9 @@ SEO
 struktura strony
 ==================
 * index page dla sekcji
-* selekcja w menu
+* !!!! zaznaczanie elementu w menu
 * archiwum dla kategorii
-* GB, tweeter, e-mail
+* !!!! GB, tweeter, e-mail
 * wyszukiwanie
 * albumy
 * komentarze FB?
@@ -46,6 +46,9 @@ nowe sekcje
 dev
 ====
 * skrypt w domu
+* !!!!  DNS: arek.stryjski.net
+* !!!!  spr mail do arek@stryjski.net
 * /dist - czy to jest jeszcze potrzebne?
+* PDF-y
 
 

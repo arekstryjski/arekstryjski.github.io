@@ -1,7 +1,7 @@
 ---
 title: plany najbliższych rejsów
 layout: post
-tag: plany
+category: rejsy
 date: 2013-11-20
 ---
 rejsy weekendowe

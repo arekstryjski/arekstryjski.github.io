@@ -1,10 +1,6 @@
 ---
-title: Hello, World!
+title: Arek Stryjski
 layout: main
 ---
 
-#Hello
-
-Ku będziemy pisać różne rzeczy, ble ble
-
-Brrrrr
+#all content comes from layout in this case.

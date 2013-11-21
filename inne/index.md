@@ -1,7 +1,7 @@
 ---
 title: inne 
 layout: post
-tag: inne
+category: inne
 date: 2013-11-21
 ---
 

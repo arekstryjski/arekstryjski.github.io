@@ -1,8 +1,14 @@
 ---
 title: porady 
 layout: post
-tag: porady
+category: wiki
 date: 2013-11-21
 ---
 
-TODO wiki
+dla załogi
+===========
+* [Co zabrać na rejs?](/wiki/co-zabrac)
+
+dla skippera
+=============
+* ...

@@ -8,13 +8,13 @@
 </div>
 <div class="container">
     <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-10">
             {% for post in site.posts limit: 999 %}
             <p>
             <div class="toc_title">{{ post.title }}</div>
-            <div class="toc_date">{{ post.date | date: "%d.%m.%Y" }}, {{post.tag}}</div>
+            <div class="toc_date">{{ post.date | date: "%d.%m.%Y" }}, {{post.category}}</div>
             <div class="toc_excerpt">
-                {{ post.excerpt }} <a class="toc_more" href="{{ post.url }}">więcej...</a>
+                {{ post.excerpt | strip_html }} <a class="toc_more" href="{{ post.url }}"> więcej...</a>
             </div>
             <br>
             </p>
