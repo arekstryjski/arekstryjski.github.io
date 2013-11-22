@@ -1,10 +1,3 @@
-* selekcja pierwszego elementu
-* powrót btn w sekcji
-* space w 2 menu
-* inne zdjęcie (koszulka)
-
-
-
 inne strony
 ===========
 * wyłącz squereSpace
@@ -13,21 +6,36 @@ inne strony
 
 kontent
 =========
-* log book 
-* !!!! strony planowanych rejsów
-* linki do JoinUs i SetSail
-* stare artykuły z squere space
-* artykuły z wiki
-* Tajlandia
-* Pugia
-* Cypr
-* jak zbudowałem ta stronę
-* Set First Sail 
-* zimowe pływanie w UK
-* jak zarejestrowałem jacht
+* **o mnie**
+    * log book 
+
+* **rejsy**
+    * index
+    * portugalia
+    * norwegia
+    * grecja
+    * tajlandia
+    * Pugia
+    * Cypr
+    
+* **relacje**
+    * index
+    * Set First Sail 
+    * stare artykuły z squere space
+    * zimowe pływanie w UK
+    
+* **inne**
+    * index
+    * jak zbudowałem ta stronę
+    
+* **wiki**
+    * index
+    * artykuły z wiki
+    * jak zarejestrowałem jacht
 
 look
 =====
+* inne zdjęcie (koszulka)
 * bg w side menu
 * data po polsku
 * move button to the bottom of the section
@@ -38,11 +46,8 @@ SEO
 
 struktura strony
 ==================
-* !!!! index page dla sekcji
-* !!!! zaznaczanie elementu w menu
 * archiwum dla kategorii
 * wyszukiwanie
-* albumy
 * komentarze FB?
 
 nowe sekcje

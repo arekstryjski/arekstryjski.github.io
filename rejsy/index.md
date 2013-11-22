@@ -1,6 +1,6 @@
 ---
 title: plany najbliższych rejsów
-layout: post
+layout: section
 category: rejsy
 date: 2013-11-20
 ---

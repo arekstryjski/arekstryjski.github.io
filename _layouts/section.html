@@ -1,0 +1,31 @@
+{% include header.html %}
+
+<style>
+    h1 {font-size: 16px; text-transform:lowercase; font-weight:bold;}
+</style>        
+        
+<div class="jumbotron post-jumbotron">
+    <div class="container">
+        <h2 class="post-title">{{ page.title }}</h2>
+        <h6 class="post-date">&nbsp;</h6>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-7">
+            <div>{{ content }}</div>
+        </div>
+        <div class="col-md-1">
+            <div> </div>
+        </div>
+        {% include side_menu.html param=page.tag %}
+    </div>
+    <div class="row">
+        <div class="col-md-7">
+            <div><a role="button" class="btn btn-xs btn-default" href="/">powrót &raquo;</a></div>
+        </div>
+    </div>
+</div>
+
+
+{% include footer.html %}

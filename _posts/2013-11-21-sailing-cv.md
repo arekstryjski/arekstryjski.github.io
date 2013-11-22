@@ -10,9 +10,7 @@ category: arek
 * nationality: Polish / UK resident 
 * date of birth: 18/11/1970
 * married, 2 children, no smoker
-* phone: +44 1354 638396
-* mobile: +44 7534 801319 
-* <arek@stryjski.net>
+* [e-mail me](/arek/email.html)
 
 qualifications
 ===============

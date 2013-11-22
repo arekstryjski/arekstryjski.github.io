@@ -1,6 +1,6 @@
 ---
 title: inne 
-layout: post
+layout: section
 category: inne
 date: 2013-11-21
 ---

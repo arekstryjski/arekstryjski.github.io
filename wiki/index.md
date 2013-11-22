@@ -1,6 +1,6 @@
 ---
 title: porady 
-layout: post
+layout: section
 category: wiki
 date: 2013-11-21
 ---

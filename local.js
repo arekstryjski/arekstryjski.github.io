@@ -28,25 +28,22 @@
 
         $('a').each(function()
         {
-            $(this).removeClass('active');
             $(this).parent().removeClass('active');
         });
         
-        if (currentPage === '')
+        $('a').each(function()
         {
-            $(this).addClass('active');
-        }
-        else
-        {
-            $('a').each(function()
+            var link = address(this.href);
+            if (currentPage.indexOf(link) != -1 && link !== '')
             {
-                var link = address(this.href);
-                if (currentPage.indexOf(link) != -1)
-                {
-                    $(this).parent().addClass('active');
-                }
-            });
-        }        
+                $(this).parent().addClass('active');
+            }
+            
+            if (currentPage === '' && link === '')
+            {
+                $(this).parent().addClass('active');
+            }
+        });
     });
 
 }( jQuery ));

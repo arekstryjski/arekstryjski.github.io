@@ -1,6 +1,6 @@
 ---
 title: relacje z rejsów
-layout: post
+layout: section
 category: relacje
 date: 2013-11-21
 ---

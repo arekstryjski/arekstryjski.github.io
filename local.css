@@ -17,6 +17,10 @@
     }
 }
 
+.nav-compact > li > a {
+    padding: 10px 5px;
+}
+
 blockquote p {
     font-size: 100%;
     font-weight: 300;

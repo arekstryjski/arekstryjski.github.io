@@ -1,6 +1,6 @@
 ---
 title: więcej o mnie
-layout: post
+layout: section
 category: arek
 date: 2013-11-21
 ---
