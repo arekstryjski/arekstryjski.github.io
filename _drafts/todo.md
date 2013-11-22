@@ -1,8 +1,14 @@
+* selekcja pierwszego elementu
+* powrót btn w sekcji
+* space w 2 menu
+* inne zdjęcie (koszulka)
+
+
+
 inne strony
 ===========
 * wyłącz squereSpace
 * skipperapps
-* link z SetSail i JoinUs
 * link do Accountz?
 
 kontent
@@ -16,6 +22,7 @@ kontent
 * Pugia
 * Cypr
 * jak zbudowałem ta stronę
+* Set First Sail 
 * zimowe pływanie w UK
 * jak zarejestrowałem jacht
 
@@ -31,10 +38,9 @@ SEO
 
 struktura strony
 ==================
-* index page dla sekcji
+* !!!! index page dla sekcji
 * !!!! zaznaczanie elementu w menu
 * archiwum dla kategorii
-* !!!! GB, tweeter, e-mail
 * wyszukiwanie
 * albumy
 * komentarze FB?
@@ -47,7 +53,6 @@ dev
 ====
 * skrypt w domu
 * !!!!  DNS: arek.stryjski.net
-* !!!!  spr mail do arek@stryjski.net
 * /dist - czy to jest jeszcze potrzebne?
 * PDF-y
 

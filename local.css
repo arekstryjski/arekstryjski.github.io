@@ -1,14 +1,20 @@
+.jumbotron {
+    padding-top: 42px;
+    padding-bottom: 8px;
+    /*background-color: #d3f1ff;*/
+}
+.post-jumbotron {
+    padding-bottom: 0px;
+}
+
 @media screen and (min-width: 768px) {
     .jumbotron {
+         padding-top: 48px;
          padding-bottom: 28px;
     }
     .post-jumbotron {
         padding-bottom: 8px;
     }
-}
-
-.jumbotron {
-    /*background-color: #d3f1ff;*/
 }
 
 blockquote p {
