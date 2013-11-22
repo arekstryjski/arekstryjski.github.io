@@ -4,7 +4,7 @@ url: "http://stryjski.net"
 lang: pl
 encoding: UTF-8
 permalink: /:categories/:title/
-exclude: [arekstryjski.github.io.iml, README.md]
+exclude: [arekstryjski.github.io.iml, README.md, res]
 #markdown: rdiscount
 #rdiscount:
 #  extensions:

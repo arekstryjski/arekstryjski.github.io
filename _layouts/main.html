@@ -8,10 +8,6 @@
             Witam wszystkich pasjonatów żeglarstwa i nie tylko. 
         </p>
         <p>
-            Znajdziecie tu przede wszystkim informacje na temat planowanych rejsów. <br/>
-            Obok tego opisy miejsc które już odwiedziliśmy, oraz rzeczy które mnie pasjonują.
-        </p>
-        <p>
             Zapraszam do eksploracji strony i do zobaczenia na pokładzie,<br/>
             <i>Arek</i>
 	    </p>
@@ -27,9 +23,7 @@
                 Najnowsze informacje na temat planowanych rejsów, 
                 a także tych o których dopiero marzymy.
             </p>
-            <span class="bottom">
-                <a class="btn btn-default" href="/rejsy" role="button">przejdź do sekcji &raquo;</a>
-            </span>
+            {% include bt.html url="/rejsy" style="btn-primary" %}
         </div>
         <div class="col-md-4 fixedheight">
             <h2>o mnie</h2>
@@ -37,9 +31,7 @@
                 Wszystko o mnie czego chcielibyście się dowiedzieć. 
                 Także informacje w czym mogę Wam pomóc.
             </p>
-            <span class="bottom">
-                <a class="btn btn-default" href="/arek" role="button">przejdź do sekcji &raquo;</a>
-            </span>
+            {% include bt.html url="/arek" style="btn-default" %}
         </div>
         <div class="col-md-4">
         </div>
@@ -51,9 +43,7 @@
                 Wspomnienia z bliższych i dalszych rejsów. 
                 Okazja do wspomnień, ale i do snucia wspólnych planów.
             </p>
-            <span class="bottom">
-                <a class="btn btn-default" href="/propositions" role="button">przejdź do sekcji &raquo;</a>
-            </span>
+            {% include bt.html url="/relacje" style="btn-default" %}
         </div>
         <div class="col-md-4 fixedheight">
             <h2>wiki</h2>
@@ -61,9 +51,7 @@
                 Wszelkie informacje związane z żeglarstwem. 
                 Mam nadzieję, że znajda tu coś dla siebie zarówno "szczury lądowe", jak i "stare wilki morskie". 
             </p>
-            <span class="bottom">
-                <a class="btn btn-default" href="/wiki" role="button">przejdź do sekcji &raquo;</a>
-            </span>
+            {% include bt.html url="/wiki" style="btn-default" %}
         </div>
         <div class="col-md-4 fixedheight">
             <h2>inne</h2>
@@ -71,9 +59,7 @@
                 Wszystko to co nie zmieściło się w żadnej z powyższych kategorii.  
                 Tu znajdziecie moje nie żeglarskie pasje i zainteresowania.
             </p>
-            <span class="bottom"> 
-                <a class="btn btn-default" href="/wiki" role="button">przejdź do sekcji &raquo;</a>
-            </span>
+            {% include bt.html url="/inne" style="btn-default" %}
         </div>
     </div>
 </div> <!-- /container -->
