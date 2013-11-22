@@ -1,18 +1,20 @@
 <div class="col-md-4">
     <div>
-        <p class="tag_toc_header">najnowsze posty w <a href="/{{ page.category }}">tej kategorii</a>:</p>
-        {% assign count = 0 %}
-        {% for post in site.posts %}
-            {% if post.category contains page.category %}
-                {% if count < 10 %}
-                    {% assign count = count|plus:1 %}
-                    <p class="tag_toc_item">
-                        <a href="{{ post.url }}">{{ post.title }}</a>
-                        <span class="tag_toc_date"> ({{ post.date | date:"%d.%m.%Y" }})</span>
-                    </p>
+        {% if page.category != null %}
+            <p class="tag_toc_header">najnowsze posty w <a href="/{{ page.category }}">tej kategorii</a>:</p>
+            {% assign count = 0 %}
+            {% for post in site.posts %}
+                {% if post.category contains page.category %}
+                    {% if count < 10 %}
+                        {% assign count = count|plus:1 %}
+                        <p class="tag_toc_item">
+                            <a href="{{ post.url }}">{{ post.title }}</a>
+                            <span class="tag_toc_date"> ({{ post.date | date:"%d.%m.%Y" }})</span>
+                        </p>
+                    {% endif %}
                 {% endif %}
-            {% endif %}
-        {% endfor %}
+            {% endfor %}
+        {% endif %}
     </div>
 </div>
 
