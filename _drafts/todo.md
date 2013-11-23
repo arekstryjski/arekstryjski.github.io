@@ -54,4 +54,8 @@ SEO
 =====
 * tags
 
+Bugs tablet
+============
+* social media buttons on 2 row
+
 
