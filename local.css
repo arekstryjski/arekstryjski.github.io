@@ -3,22 +3,62 @@
     padding-bottom: 8px;
     /*background-color: #d3f1ff;*/
 }
+
 .post-jumbotron {
     padding-bottom: 0px;
 }
 
+.fixedheight {
+    position: inherit;
+    height: auto;
+}
+.pull-down {
+    position: inherit;
+}
+
+.nav-compact > li > a {
+     padding: 10px 5px;
+ }
+
+
 @media screen and (min-width: 768px) {
     .jumbotron {
-         padding-top: 48px;
-         padding-bottom: 28px;
+        padding-top: 48px;
+        padding-bottom: 28px;
     }
     .post-jumbotron {
         padding-bottom: 8px;
     }
+    
+    .fixedheight {
+        height: 170px;
+        position:relative;
+    }
+
+    .pull-down {
+        position:absolute;
+        bottom: 0;
+        margin-bottom:7px;
+        right: 25px;
+    }
+
+    .nav-compact > li > a {
+        padding: 10px 5px;
+    }
+}
+
+.sub-menu {
+    background-color: #eeeeee;
+    border-radius: 10px;
+    padding: 20px;
 }
 
 .nav-compact > li > a {
     padding: 10px 5px;
+}
+
+.col-align-bottom {
+  vertical-align: bottom;
 }
 
 blockquote p {

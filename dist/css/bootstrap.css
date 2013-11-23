@@ -2243,7 +2243,7 @@ textarea.input-lg {
   line-height: 1.428571429;
   text-align: center;
   white-space: nowrap;
-  vertical-align: middle;
+  vertical-fixedheight: middle;
   cursor: pointer;
   background-image: none;
   border: 1px solid transparent;

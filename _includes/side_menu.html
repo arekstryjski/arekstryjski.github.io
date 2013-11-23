@@ -1,7 +1,7 @@
-<div class="col-md-4">
+<div class="col-md-4 sub-menu">
     <div>
         {% if page.category != null %}
-            <p class="tag_toc_header">najnowsze posty w <a href="/{{ page.category }}">tej kategorii</a>:</p>
+            <p class="tag_toc_header">najnowsze posty w kategorii <i><a href="/{{ page.category }}"> {{ page.category }}</a></i>:</p>
             {% assign count = 0 %}
             {% for post in site.posts %}
                 {% if post.category contains page.category %}

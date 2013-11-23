@@ -8,6 +8,7 @@ kontent
 =========
 * **o mnie**
     * log book 
+    * inne zdjęcie (koszulka)
 
 * **rejsy**
     * index
@@ -33,16 +34,6 @@ kontent
     * artykuły z wiki
     * jak zarejestrowałem jacht
 
-look
-=====
-* inne zdjęcie (koszulka)
-* bg w side menu
-* data po polsku
-* move button to the bottom of the section
-
-SEO
-=====
-* tags
 
 struktura strony
 ==================
@@ -56,9 +47,11 @@ nowe sekcje
 
 dev
 ====
-* skrypt w domu
 * !!!!  DNS: arek.stryjski.net
-* /dist - czy to jest jeszcze potrzebne?
 * PDF-y
+
+SEO
+=====
+* tags
 
 

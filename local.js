@@ -1,49 +1,85 @@
 (function ( $ ) 
 {
     "use strict";
-    
-	$(document.links).filter(function() 
-    {
-	    return this.hostname != window.location.hostname;
-	}).attr('target', '_blank');
 
-	$('table').attr('class', 'table table-hover');
-
-    $(document).ready(function appStart ()
+    function localURL(str)
     {
-        function address(str)
+        str = str.replace('http://', '').replace(document.domain, '');
+        str = str.substring(str.indexOf('/'), str.length);
+
+        if (str.indexOf('/', str.length - 1) !== -1)
         {
-            str = str.replace('http://', '').replace(document.domain, '');
-            str = str.substring(str.indexOf('/'), str.length);
-            
-            if (str.indexOf('/', str.length - 1) !== -1)
-            {
-                str = str.substring(0, str.length-1);
-            }
-            return str;
+            str = str.substring(0, str.length-1);
         }
-        
-        
-        var currentPage = address(document.URL);     
+        return str;
+    }
+    
+    function links()
+    {
+        $(document.links).filter(function()
+        {
+            return this.hostname != window.location.hostname;
+        }).attr('target', '_blank');
+    }
+    
+    function table()
+    {
+        $('table').attr('class', 'table table-hover');
+    }
+
+    function mainPageLayout()
+    {
+        var currentPage = localURL(document.URL);
 
         $('a').each(function()
         {
             $(this).parent().removeClass('active');
         });
-        
+
         $('a').each(function()
         {
-            var link = address(this.href);
+            var link = localURL(this.href);
             if (currentPage.indexOf(link) != -1 && link !== '')
             {
                 $(this).parent().addClass('active');
             }
-            
+
             if (currentPage === '' && link === '')
             {
                 $(this).parent().addClass('active');
             }
         });
+    }
+
+    function translateDate()
+    {
+        $('.post-date').each(function()
+        {
+            var s = $(this).text();
+            s = s.replace(/january/ig, 'styczeń')
+                 .replace(/february/ig, 'luty')
+                 .replace(/march/ig, 'marzec')
+                 .replace(/april/ig, 'kwiecień')
+                 .replace(/may/ig, 'maj')
+                 .replace(/june/ig, 'czerwiec')
+                 .replace(/july/ig, 'lipiec')
+                 .replace(/august/ig, 'sierpień')
+                 .replace(/september/ig, 'wrzesień')
+                 .replace(/october/ig, 'październik')
+                 .replace(/november/ig, 'listopad')
+                 .replace(/december/ig, 'grudzień');
+            
+            $(this).text(s);
+        });
+    }
+    
+
+    $(document).ready(function appStart ()
+    {
+        links();
+        table();
+        mainPageLayout();
+        translateDate();
     });
 
 }( jQuery ));
