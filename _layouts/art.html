@@ -2,12 +2,12 @@
 
 <style>
     h1 {font-size: 16px; text-transform:lowercase; font-weight:bold;}
-</style>        
-        
+</style>
+
 <div class="jumbotron post-jumbotron">
     <div class="container">
         <h2 class="post-title">{{ page.title }}</h2>
-        <h6 class="post-date">&nbsp;</h6>
+        <h6 class="post-date">opis sekcji</h6>
     </div>
 </div>
 <div class="container">
@@ -18,9 +18,10 @@
         <div class="col-md-1">
             <div> </div>
         </div>
-        {% include side_menu.html col="col-md-3" %}
+        {% include side_menu_all.html col="col-md-3" %}
     </div>
     {% include back_btn.html goto="" %}
 </div>
+
 
 {% include footer.html %}

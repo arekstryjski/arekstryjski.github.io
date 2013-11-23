@@ -12,19 +12,15 @@
 </div>
 <div class="container">
     <div class="row">
-        <div class="col-md-7">
+        <div class="col-md-8">
             <div>{{ content }}</div>
         </div>
         <div class="col-md-1">
             <div> </div>
         </div>
-        {% include side_menu.html param=page.tag %}
+        {% include side_menu.html col="col-md-3" %}
     </div>
-    <div class="row">
-        <div class="col-md-7">
-            <div><a role="button" class="btn btn-xs btn-default" href="/{{ page.category }}">powrót &raquo;</a></div>
-        </div>
-    </div>
+    {% include back_btn.html goto=page.category  %}
 </div>
 
 

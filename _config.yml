@@ -3,7 +3,7 @@ description: "żeglarstwo, rejsy, jachty, sailing, cruising, yachts"
 url: "http://stryjski.net"
 lang: pl
 encoding: UTF-8
-permalink: /:categories/:title/
+permalink: /:title/
 exclude: [arekstryjski.github.io.iml, README.md, res, dist]
 #markdown: rdiscount
 #rdiscount:

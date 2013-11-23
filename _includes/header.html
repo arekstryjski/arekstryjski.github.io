@@ -20,6 +20,7 @@
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
+
 </head>
 
 <body>
@@ -40,10 +41,16 @@
                 <li><a href="/"><span class="glyphicon glyphicon-home"></span></a></li>
                 <li><a href="/rejsy">rejsy</a></li>
                 <li><a href="/relacje">relacje</a></li>
-                <li><a href="/wiki">wiki</a></li>
-                <li><a href="/inne">inne</a></li>
                 <li><a href="/arek">o mnie</a></li>
-                <li><a href="/archiwum">archiwum</a></li>
+                <li class="dropdown">
+                    <a href="wiki" class="dropdown-toggle" data-toggle="dropdown">artykuły <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/yachting">żeglarstwo</a></li>
+                        <li><a href="/inne">inne</a></li>
+                        <li class="divider"></li>
+                        <li><a href="/archiwum">archiwum</a></li>
+                    </ul>
+                </li>   
             </ul>
             <ul class="nav navbar-nav navbar-right nav-compact">
                 <li><a href="https://twitter.com/arekstryjski"><img src="/img/bt/twitter.png"></a></li>
@@ -52,6 +59,6 @@
                 <li><a href="https://plus.google.com/photos/+ArekStryjski/albums"><img src="/img/bt/picasa.png"></a></li>
                 <li><a href="/arek/email.html"><img src="/img/bt/email.png"></a></li>
             </ul>
-        </div><!-- /.nav-collapse -->
-    </div><!-- /.container -->
-</div><!-- /.navbar -->
+        </div>
+    </div>
+</div>

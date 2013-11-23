@@ -30,10 +30,10 @@ W swoich projektach żeglarskich na stałe współpracuję z:
 
 doświadczenie 
 ==============
-* [żeglarskie CV](/arek/sailing-cv/)
+* [żeglarskie CV](/sailing-cv)
 * log book
 
 więcej o mnie
 ==============
-* [moja historia](/arek/about-me)
-* [gdzie mieszkam](/arek/fenland)
+* [moja historia](/o-mnie)
+* [gdzie mieszkam](/fenland)

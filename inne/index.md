@@ -2,7 +2,11 @@
 title: inne 
 layout: section
 category: inne
-date: 2013-11-21
 ---
 
-Tu znajdzie się wszystko co nie znalazło się w innych sekcjach.
+Wszystko to co nie znalazło sie w innej sekcji.  
+
+
+Na początek tylko jeden artykuł:
+ 
+* [jak zbudowałem tą stronę i dlaczego](/o-stronie)

@@ -8,8 +8,8 @@
             Witam na pokładzie.
         </p>
         <p>
-            Zapraszam do eksploracji strony<br/>
-            i do zobaczenia wkrótce na morzu.<br/>
+            Zapraszam do eksploracji strony i<br/>
+            do zobaczenia wkrótce na morzu.<br/>
             <i>Arek</i>
 	    </p>
     </div>
@@ -17,52 +17,46 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-md-4 fixedheight">
-            <h2>rejsy</h2>
-            <p>
-                Najnowsze informacje na temat planowanych rejsów, 
-                a także tych o których dopiero marzymy.
-            </p>
-            {% include bt.html url="/rejsy" style="btn-primary" %}
+        <div class="col-md-8">
+            <div class="row">
+                <div class="col-md-6 fixedheight">
+                    <h2>rejsy</h2>
+                    <p>
+                        Najnowsze informacje na temat planowanych rejsów,
+                        a także tych o których dopiero marzymy.
+                    </p>
+                    {% include explore_btn.html url="/rejsy" style="btn-primary" %}
+                </div>
+                <div class="col-md-6 fixedheight">
+                    <h2>relacje</h2>
+                    <p>
+                        Wspomnienia z bliższych i dalszych rejsów. <br>
+                        Okazja do wspomnień, ale i do snucia wspólnych planów.
+                    </p>
+                    {% include explore_btn.html url="/relacje" style="btn-primary" %}
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 fixedheight">
+                    <h2>artykuły</h2>
+                    <p>
+                        Wszelkie informacje związane z żeglarstwem, ale nie tylko.
+                    </p>
+                    {% include explore_btn.html url="/art.html" style="btn-primary" %}
+                </div>
+                <div class="col-md-6 fixedheight">
+                    <h2>o mnie</h2>
+                    <p>
+                        W czym mogę pomóc, a także wszystko o mnie czego chcielibyście się dowiedzieć.
+                    </p>
+                    {% include explore_btn.html url="/arek" style="btn-primary" %}
+                </div>
+            </div>
         </div>
-        <div class="col-md-4 fixedheight">
-            <h2>o mnie</h2>
-            <p>
-                Wszystko o mnie czego chcielibyście się dowiedzieć. 
-                Także informacje w czym mogę Wam pomóc.
-            </p>
-            {% include bt.html url="/arek" style="btn-default" %}
-        </div>
-        <div class="col-md-4">
-        </div>
-    </div>
-    <div class="row">        
-        <div class="col-md-4 fixedheight">
-            <h2>relacje</h2>
-            <p>
-                Wspomnienia z bliższych i dalszych rejsów. 
-                Okazja do wspomnień, ale i do snucia wspólnych planów.
-            </p>
-            {% include bt.html url="/relacje" style="btn-default" %}
-        </div>
-        <div class="col-md-4 fixedheight">
-            <h2>wiki</h2>
-            <p>
-                Wszelkie informacje związane z żeglarstwem. 
-                Mam nadzieję, że znajda tu coś dla siebie zarówno "szczury lądowe", jak i "stare wilki morskie". 
-            </p>
-            {% include bt.html url="/wiki" style="btn-default" %}
-        </div>
-        <div class="col-md-4 fixedheight">
-            <h2>inne</h2>
-            <p>
-                Wszystko to co nie zmieściło się w żadnej z powyższych kategorii.  
-                Tu znajdziecie moje nie żeglarskie pasje i zainteresowania.
-            </p>
-            {% include bt.html url="/inne" style="btn-default" %}
-        </div>
-    </div>
-</div> <!-- /container -->
+        <div class="col-md-1"></div>
+        {% include side_menu_all.html col="col-md-3" %}
+    </div>   
+</div> 
 
 
 {% include footer.html %}
