@@ -6,10 +6,9 @@ category: rejsy
 Głównym celem rejsu jest opłynięcie wyspy Spitsbergen w archipelagu Svalbard.
 Jeśli warunki lodowe by na to nie pozwoliły będziemy starać się dopłynąć do najbardziej na północy wysuniętego punktu, który będzie dostępny.
 
+![](/img/2013/spitsbergen_2015/mapa.jpg)
 
-![](https://draftin.com:443/images/3982?token=42UGxPPjuns5FvmTD3yKu00XrKNsujVi5jD3dyRWDADPoEedVxiluQ55qcmp_EwXS2MH1ndw3BhlWUhR_sUSamM)
-
-![](https://draftin.com:443/images/3963?token=tldcLZwQ4HPtXAgnVcV0DjpskQO7mu-DrhVtIc0CS5jhpl9DtU0OBAEXCk8bgbd5uwB1ti642twBbxuYs2j79Dc) 
+![](/img/2013/spitsbergen_2015/Spitsbergen.png)
 
 
 Trasa
@@ -22,7 +21,7 @@ Trasa
 Załoga na tym rejsie będzie miała okazję "odkryć" Svalbard i przeprowadzić prawdziwy rejs oceaniczny za kołem podbiegunowym. Pierwszy odcinek to 400NM (5 dni) non-stop w trakcie początku astronomicznego lata - dzień non-stop.
 Warunki lodowe jednak najprawdopodobniej nie pozwolą na okrążenie Spitsbergenu na tym etapie.
 
-![](https://draftin.com:443/images/3979?token=RT5fKX36S5hPDj_CiHsWFeihYAk9MAyLPjeCCTWNyy1AF0n8Vc4zcaq4UICeo0zbaXT3I1pFDDq9Wvd_IEIZ0GY) 
+![](/img/2013/spitsbergen_2015/mis.jpg)
 
 **B. Spitsbergen**
 *Około 700NM*
@@ -33,7 +32,7 @@ Rejs przeprowadzony cały czas przy wybrzeżu Spitsbergenu, aczkolwiek by zreali
 
 Możliwe że uda się odbyć 2 takie etapy.
 
-![](https://draftin.com:443/images/3980?token=YRb73wuQ0bR2ZMUviX654KQGmHKMF8CE2Nio5q_2NpwDBUCJX4Kcfq0rMVgBWoUY3pqsRtMfLpiIrtWyoijRfNE) 
+![](/home/arek/arekstryjski.github.io/img/2013/spitsbergen_2015/svalbard_archipelago_norway_1996.jpg)
 
 **C. Svalbard - Norwegia**
 *Około 600NM*
@@ -56,7 +55,9 @@ Odwiedzane Miejsca
 * Longyearbyen - największe miasto i stolica Svalbard
 * Barentsburg - jedyne wciąż zamieszkałe z rosyjskich miast na Spitsbergenie
 * Hornsund - Polska Stacja Badawcza  
-![](https://draftin.com:443/images/3978?token=5vFk1Wn6q5kFk5Fgzf4GO4tMVoVXbIad111eQYIKltK9yE78a2FRes4EbYZrsPvIy6_iqWShKA2BuIDGwc4tXr0) 
+
+![](/img/2013/spitsbergen_2015/stacja_zima.jpg)
+
 Polska jako jedyny kraj poza Norwegią i Rosją wykorzystuje porozumienie Traktatu Spitsbergeńskiego i utrzymuje stałą osadę na terytorium Svalbard. Polska Stacja Badawcza jest nieprzerwanie zamieszkała, przez około 10 osób, od ponad 50 lat.
 * ...
 * ...
@@ -76,18 +77,16 @@ podstawowe parametry techniczne:
 * powierzchnia żagla: 111m2
 * liczba koi: 8 (w 4 kabinach)
 
-http://www.joinus.pl/index.php/pl/component/content/article/102/945-Bruce-Roberts-NY-46
+<http://www.joinus.pl/index.php/pl/component/content/article/102/945-Bruce-Roberts-NY-46>
 
 
 rejsy przygotowawcze
 =====================
 W ramach przygotowań do rejsu w 2014 roku planujemy dwa rejsy:
 
-* tygodniowy rejs na Północnym Atlantyku (Portugalia/Hiszpania)
-https://draftin.com/documents/178878?token=bjy00L4KY4rBE2EFZpjE9eguGfWf78s3UJ6z7axErIPqGDl8FXMdOl0uzNNHUGEIo0dXN8KocosUi-WCmA75smE
+* tygodniowy rejs na Północnym Atlantyku **[Portugalia - Galicja](http://stryjski.net/grecja-2014)**
 
-* 2 tygodniowy rejs w Norwegii 
-https://draftin.com/documents/179245?token=Q73ZHaV9psFlt1BJI6j3C86MUIUeTjxYZM1I97m-xTiK0sQGz4gjiICWCfztbHZmf-VnIpF_4Dx5f7lxzTIJ7rY
+* dwa tygodniowe rejsy w **[Norwegii](http://stryjski.net/norwegia-2014)**
 
 Celem rejsów przygotowawczych jest zapoznanie się załogi z jachtem, a także sprawdzenie swoich możliwości w żegludze oceanicznej.
 
@@ -107,24 +106,22 @@ Patronat Medialny
 * ...
 * ...
 
-
-![](https://draftin.com:443/images/3981?token=lx_H91wWkgnmO5g4ix5A4R_l0cxn-ZFZ18BEWy1vIZvtvnGgnUtSBMesmhSSs7FSauonCV6LcsllSFtcn0zZc3E) 
+![](/img/2013/spitsbergen_2015/topographic_map_of_svalbard.png)
 
 
 Linki
 =======
 **Miejsca**
 
-* Polska Stacja Badawcza http://hornsund.igf.edu.pl
+* Polska Stacja Badawcza <http://hornsund.igf.edu.pl>
 
 **Locje**
 
-* Norwegian Cruising Guide: http://www.norwegiancruisingguide.com/buy/
-* RCC Pilot Norway: http://www.rccpf.org.uk/publications/europe-a-mediterranean/norway
-* RCC Pilot Arctic: http://www.rccpf.org.uk/publications/arctic/arctic-contents
-* mapy Norwegii: http://kart.kystverket.no/
-* mapy http://navionics.com/
+* Norwegian Cruising Guide: <http://www.norwegiancruisingguide.com/buy/>
+* RCC Pilot Norway: <http://www.rccpf.org.uk/publications/europe-a-mediterranean/norway>
+* RCC Pilot Arctic: <http://www.rccpf.org.uk/publications/arctic/arctic-contents>
+* mapy Norwegii: <http://kart.kystverket.no/>
 
 **Pogoda**
 
-* http://nsidc.org/cryosphere/sotc/sea_ice_animation.html
+* <http://nsidc.org/cryosphere/sotc/sea_ice_animation.html>
