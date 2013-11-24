@@ -4,7 +4,7 @@ layout: section
 category: arek
 date: 2013-11-21
 ---
-![Arek](/img/ja/Picture144.jpg)
+![Arek](/img/ja/szkocja.jpg)
 
 Nazywam się Arek Stryjski. Mieszkam w Cambridgeshire w UK.  
 Na co dzień jestem programistą Java piszącym głównie aplikacje księgowe.
