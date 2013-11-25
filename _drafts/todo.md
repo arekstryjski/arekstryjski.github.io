@@ -8,13 +8,11 @@ kontent
 =========
 * **o mnie**
     * log book 
-    * inne zdjęcie (koszulka)
 
 * **rejsy**
-    * index
-    * portugalia
-    * norwegia
-    * grecja
+    * fotki w index
+    * grecja - opisy miejsc, cena
+    * spitsbergen
     * tajlandia
     * Pugia
     * Cypr
@@ -24,13 +22,9 @@ kontent
     * Set First Sail 
     * stare artykuły z squere space
     * zimowe pływanie w UK
-    
-* **inne**
-    * index
+        
+* **artykuły**
     * jak zbudowałem ta stronę
-    
-* **wiki**
-    * index
     * artykuły z wiki
     * jak zarejestrowałem jacht
 
@@ -54,8 +48,5 @@ SEO
 =====
 * tags
 
-Bugs tablet
-============
-* social media buttons on 2 row
 
 
