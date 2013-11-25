@@ -73,5 +73,5 @@ other work experience
 
 hobby
 ======
-photography, history, cooking and travel
+[photography](https://plus.google.com/photos/+ArekStryjski/albums), history, cooking and travel
 

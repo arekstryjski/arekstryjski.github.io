@@ -7,7 +7,7 @@ date: 2013-11-21
 ![Arek](/img/ja/szkocja.jpg)
 
 Nazywam się Arek Stryjski. Mieszkam w Cambridgeshire w UK.  
-Na co dzień jestem programistą Java piszącym głównie aplikacje księgowe.
+Na co dzień jestem programistą Java piszącym aplikacje księgowe.
 
 Od ponad 10 lat moją największą pasją jest żeglarstwo.  
 Posiadam brytyjski paten żeglarski RYA Yachtmaster Offshore (odpowiednik polskiego kapitana jachtowego).
@@ -20,6 +20,13 @@ w czym mogę pomóc
 * pomoc w organizacji rejsu
 * pomoc w znalezieniu czarteru jachtu
 * pomoc w rejestracji jachtu pod brytyjską banderą (Part I Registry, MMSI, etc.)
+
+kontakt
+========
+* [napisz email](/arek/email.html)
+* [Facebook](https://www.facebook.com/arek.stryjski)
+* [Tweeter](https://twitter.com/arekstryjski)
+* [Google+](https://plus.google.com/+ArekStryjski)
 
 partnerzy
 ==========
