@@ -28,6 +28,10 @@ kontent
     * artykuły z wiki
     * jak zarejestrowałem jacht
 
+look
+======
+* custom icon for home
+
 
 struktura strony
 ==================
@@ -47,6 +51,8 @@ dev
 SEO
 =====
 * tags
+
+* custom icon for home
 
 
 
