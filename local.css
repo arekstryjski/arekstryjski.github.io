@@ -113,3 +113,8 @@ blockquote p {
     font-size: 80%;
     color: #676767    
 }
+
+.icon-as {
+    background-image: url("/img/logo/as-icon.png");
+    background-position: center center;
+}
