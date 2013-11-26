@@ -21,10 +21,19 @@
             return this.hostname != window.location.hostname;
         }).attr('target', '_blank');
     }
+
+    function img()
+    {               
+        $('img').each(function()
+        {
+            var elem = $(this);
+            if (!elem.hasClass('img-no-responsive')) elem.addClass('img-responsive');
+        });
+    }
     
     function table()
     {
-        $('table').attr('class', 'table table-hover');
+        $('table').attr('class', 'table');
     }
 
     function mainPageLayout()
@@ -77,6 +86,7 @@
     $(document).ready(function appStart ()
     {
         links();
+        img();
         table();
         mainPageLayout();
         translateDate();

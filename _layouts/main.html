@@ -4,7 +4,7 @@
 <div class="jumbotron">
     <div class="container">
         <div class="row">
-            <div class="col-md-9">
+            <div class="col-sm-9">
                 <h1>Ahoy!</h1>
                 <p>	
                     Witam na pokładzie.
@@ -17,8 +17,8 @@
                     <i>Arek</i>
                 </p>
             </div>
-            <div class="col-md-2">
-                <img src="/img/logo/as_240.png">
+            <div class="col-sm-2">
+                <img class="hidden-xs img-no-responsive" src="/img/logo/as_240.png">
             </div>
         </div>
     </div>
@@ -26,9 +26,9 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-md-8">
+        <div class="col-sm-8">
             <div class="row">
-                <div class="col-md-6 fixedheight">
+                <div class="col-sm-6 fixedheight">
                     <h2>rejsy</h2>
                     <p>
                         Najnowsze informacje na temat planowanych rejsów,
@@ -36,7 +36,7 @@
                     </p>
                     {% include explore_btn.html url="/rejsy" style="btn-primary" %}
                 </div>
-                <div class="col-md-6 fixedheight">
+                <div class="col-sm-6 fixedheight">
                     <h2>relacje</h2>
                     <p>
                         Wspomnienia z bliższych i dalszych rejsów. <br>
@@ -46,14 +46,14 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-6 fixedheight">
+                <div class="col-sm-6 fixedheight">
                     <h2>artykuły</h2>
                     <p>
                         Wszelkie informacje związane z żeglarstwem, ale nie tylko.
                     </p>
                     {% include explore_btn.html url="/art.html" style="btn-primary" %}
                 </div>
-                <div class="col-md-6 fixedheight">
+                <div class="col-sm-6 fixedheight">
                     <h2>o mnie</h2>
                     <p>
                         W czym mogę pomóc, a także wszystko o mnie czego chcielibyście się dowiedzieć.
@@ -62,8 +62,8 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-1"></div>
-        {% include side_menu_all.html col="col-md-3" %}
+        <div class="col-sm-1"></div>
+        {% include side_menu_all.html col="col-sm-3" %}
     </div>   
 </div> 
 
