@@ -2,6 +2,7 @@
     padding-top: 42px;
     padding-bottom: 8px;
     /*background-color: #d3f1ff;*/
+    border-bottom:thin solid #dddddd;
 }
 
 .post-jumbotron {
@@ -57,6 +58,7 @@ h2 {
     background-color: #eeeeee;
     border-radius: 10px;
     padding: 20px;
+    border:thin solid #dddddd;
 }
 
 .nav-compact > li > a {
@@ -72,10 +74,8 @@ blockquote p {
     font-weight: 300;
 }
 
-.post-title { 
-    font-size: 23px; 
-    text-transform:uppercase; 
-    font-weight:bold; 
+.post-jumbotron h1 { 
+    font-size: 25px; 
     color: #424242 
 }
 
