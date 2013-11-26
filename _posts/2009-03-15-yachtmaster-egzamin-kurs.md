@@ -15,7 +15,7 @@ Kurs przygotowawczy i egzamin zorganizowany był przez [Trafalgar Sailing](http:
 
 ![marina](/img/old/ym-exam-and-preparation/marina.jpg)
 
-Dlaczego akurat w Gibraltarze? Koniec lutego, to nie jest za bardzo pora by wyruszać na Morze Północne, czy nawet Kanał Angielski. 
+Dlaczego akurat w [Gibraltarze](/gibraltar-miasto-tysiaca-i-jednej-armaty)? Koniec lutego, to nie jest za bardzo pora by wyruszać na Morze Północne, czy nawet Kanał Angielski. 
 W Gibraltarze panowały warunki prawie letnie. Temperatura od 15 do 20 stopni. Wiatr do 5 Beauforta, ale zafalowanie na zatoce małe. Deszcz tylko jednego dnia.
 Dodatkowo Gibraltar to wody pływowe. Pływy nie są duże, jedynie 1m, ale w cieśninie występuje stały prąd morski, który należy uwzględniać, we wszystkich kalkulacjach.
 Dodatkowo duży ruch statków handlowych, promów i łodzi rybackich wymaga ciągłej uwagi i znajomości przepisów.
