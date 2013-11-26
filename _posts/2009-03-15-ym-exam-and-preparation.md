@@ -3,7 +3,7 @@ title: Yachtmaster - egzamin i kurs przygotowawczy
 layout: post
 category: yachting
 ---
-[Marcin](http://joinus.pl/) poprosił mnie bym napisał jak wygląda egzamin i kurs przygotowawczy na Yachtmastera, czyli brytyjskiego kapitana, z punktu widzenia polskiego żeglarza.
+[Marcin](http://joinus.pl/index.php/pl/blog-marcina.html) poprosił mnie bym napisał jak wygląda egzamin i kurs przygotowawczy na Yachtmastera, czyli brytyjskiego kapitana, z punktu widzenia polskiego żeglarza.
 
 
 ![ja na jachcie](/img/old/ym-exam-and-preparation/gib.jpg)
@@ -122,5 +122,9 @@ Na pewno w jego trakcie wszyscy popełniliśmy jakieś błędy. Nie znaliśmy od
 
 Zdanie egzaminu na Yachtmastera nie jest na pewno ukoronowaniem "kariery" morskiej. To jedynie kolejnym krok w ciągłym doskonaleniu swoich umiejętności.
 Polecam to doświadczenie każdemu kto prowadzi jacht jako skipper.
+
+Zobacz także:
+* [How to pass your Yachtmaster exam](http://www.rya.org.uk/coursestraining/exams/Pages/howtopassyourexam.aspx)
+* [Yachtmaster Offshore](http://www.rya.org.uk/coursestraining/exams/Pages/Yachtmasteroffshore.aspx)
 
 Powodzenia!
