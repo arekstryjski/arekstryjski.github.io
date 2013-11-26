@@ -13,3 +13,5 @@ dla załogi
 dla skippera
 =============
 Tutaj będę dodawał informacje przydatne głównie dla mnie, ale może ktoś jeszcze na tym skorzysta.  
+* [Safety Briefing check-list](/safety-briefing)
+* [Yachtmaster - egzamin i kurs](/ym-exam-and-preparation)
