@@ -4,7 +4,7 @@ layout: section
 category: rejsy
 ---
 rejsy weekendowe
-=================
+-----------------
 Jako skipper prowadzę weekendowe rejsy organizowane przez polonijny klub żeglarski SetSail.  
 Najbliższe terminy:
 
@@ -14,7 +14,7 @@ Najbliższe terminy:
 Więcej szczegółów na stronie [SetSail](http://www.rejsbus.co.uk/rejsy/).
 
 Rejsy tygodniowe i dłuższe
-===========================
+---------------------------
 * **[Portugalia / Galicja](/portugalia-2014)**  
 *8 -19.04.2014*  
 11 dni,  

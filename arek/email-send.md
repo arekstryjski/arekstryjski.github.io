@@ -5,7 +5,7 @@ date: 2013-11-22
 ---
 
 informacje została wysłana!
-=====================
+---------------------
 
 Postaram się odpisać jak najszybciej się tylko da, jeśli nie jestem na morzu maksymalnie w przeciągu 48h.
 

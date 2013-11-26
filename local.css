@@ -47,6 +47,12 @@
     }
 }
 
+h2 {
+    font-size: 21px; 
+    text-transform:lowercase; 
+    font-weight:normal;
+}
+
 .sub-menu {
     background-color: #eeeeee;
     border-radius: 10px;

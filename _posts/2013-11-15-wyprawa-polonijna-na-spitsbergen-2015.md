@@ -12,7 +12,7 @@ Jeśli warunki lodowe by na to nie pozwoliły będziemy starać się dopłynąć
 
 
 Trasa
-======
+------
 **A. Norwegia - Svalbard**
 *Około 600NM*
 *1100NM przy opłynięciu Svalbard*
@@ -51,7 +51,7 @@ Rejs polonijny organizowany przez SetSail odbędzie się jedynie na jednej z wy�
 
 
 Odwiedzane Miejsca
-===================
+-------------------
 * Longyearbyen - największe miasto i stolica Svalbard
 * Barentsburg - jedyne wciąż zamieszkałe z rosyjskich miast na Spitsbergenie
 * Hornsund - Polska Stacja Badawcza  
@@ -65,7 +65,7 @@ Polska jako jedyny kraj poza Norwegią i Rosją wykorzystuje porozumienie Trakta
 
 
 Jacht
-======
+------
 Rejs odbędzie się na jachcie *JoinUs* - Bruce Roberts NY 46
 
 podstawowe parametry techniczne:
@@ -81,7 +81,7 @@ podstawowe parametry techniczne:
 
 
 rejsy przygotowawcze
-=====================
+---------------------
 W ramach przygotowań do rejsu w 2014 roku planujemy dwa rejsy:
 
 * tygodniowy rejs na Północnym Atlantyku **[Portugalia - Galicja](http://stryjski.net/grecja-2014)**
@@ -94,14 +94,14 @@ Udział w rejsach przygotowawczych nie jest wymagany, aczkolwiek jest sugerowany
 
 
 Organizatorzy
-==============
+--------------
 * SetSail - główny organizator polonijnego etapu wyprawy  
 * JoinUs.pl - koordynator wszystkich etapów i armator yachtu   
 * Yacht Klub Polski London  
 
 
 Patronat Medialny
-==================
+------------------
 * ...
 * ...
 * ...
@@ -110,7 +110,7 @@ Patronat Medialny
 
 
 Linki
-=======
+-------
 **Miejsca**
 
 * Polska Stacja Badawcza <http://hornsund.igf.edu.pl>

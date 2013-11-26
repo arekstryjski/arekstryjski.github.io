@@ -13,7 +13,7 @@ category: arek
 * [e-mail me](/arek/email.html)
 
 qualifications
-===============
+---------------
 * RYA Yachtmaster Offshore commercially endorsed,  
 * SRC, Radar
 * valid ML5 Certificate
@@ -21,12 +21,12 @@ qualifications
 * clean UK driving license
 
 languages
-==========
+----------
 * Polish - mother tongue
 * English - fluent in speech and writing
 
 sailing experience
-==================
+------------------
 * nautical miles: 7856 - 5550 as skipper
 * days at sea: 170 - 123 as skipper
 * sailing areas: Mediterranean, North Sea, Irish and Celtic Seas, English Channel, Bay of Biscay, North Atlantic
@@ -34,7 +34,7 @@ sailing experience
 Working as skipper for JoinUs.pl on club cruises with people of various experience, including kids and complete beginners.
 
 certificates
-=============
+-------------
 
 | sailing                           | number |  date      |
 |-----------------------------------|--------|------------|                 
@@ -64,7 +64,7 @@ certificates
 
 
 other work experience
-======================
+----------------------
 * CTO / software architect at Accountz.com Ltd. (current).  
 * Managing small team of developers and playing important role in management of the whole company.  
 * 15 years professional programmer experience in creating web, mobile and desktop applications.  
@@ -72,6 +72,6 @@ other work experience
 * Writing various articles in professional magazines and web portals (in Polish).  
 
 hobby
-======
+------
 [photography](https://plus.google.com/photos/+ArekStryjski/albums), history, cooking and travel
 
