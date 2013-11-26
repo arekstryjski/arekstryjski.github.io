@@ -9,7 +9,7 @@ Opisy rejsów z poprzedniej strony
 
 * Grecja - majówka 2009
 * [Gibraltar - miasto tysiąca i jednej armaty](/gibraltar-miasto-tysiaca-i-jednej-armaty) luty 2009
-* relacja z kursu na yachtmastera
+* [relacja z kursu na yachtmastera](/yachtmaster-egzamin-kurs)
 * Sycylia maj 2008
 * Chorwacja majówka 2007
 * Chorwacja sierpień 2006
