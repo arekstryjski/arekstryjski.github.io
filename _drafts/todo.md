@@ -47,6 +47,7 @@ dev
 SEO
 =====
 * Backlinks
+* 404
 
 
 
