@@ -44,10 +44,10 @@ module Jekyll
 
   # Change SITEMAP_FILE_NAME if you would like your sitemap file
   # to be called something else
-  SITEMAP_FILE_NAME = "sitemap.xml"
+  SITEMAP_FILE_NAME = "../sitemap.xml"
 
   # Any files to exclude from being included in the sitemap.xml
-  EXCLUDED_FILES = ["atom.xml", "/archiwum/index.html"]
+  EXCLUDED_FILES = ["atom.xml", "/archiwum", "/archiwum/index.html", ]
 
   # Any files that include posts, so that when a new post is added, the last
   # modified date of these pages should take that into account
