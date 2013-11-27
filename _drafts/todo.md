@@ -41,12 +41,10 @@ nowe sekcje
 
 dev
 ====
-* !!!!  DNS: arek.stryjski.net
 * PDF-y
 
 SEO
 =====
-* tags
 
 
 
