@@ -38,6 +38,7 @@ struktura strony
 nowe sekcje
 ===========
 * przepisy kulinarne
+* słownik żeglarski
 
 dev
 ====
@@ -45,6 +46,7 @@ dev
 
 SEO
 =====
+* Backlinks
 
 
 

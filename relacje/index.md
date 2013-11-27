@@ -2,10 +2,11 @@
 title: relacje z rejsów
 layout: section
 category: relacje
-keywords: relacje z rejsów
+keywords: relacje z rejsów, rejsy, rejsy morskie, żeglarstwo, yachting, jachting, Grecja, Gibraltar, Sycylia, Chorwacja
+desc: Relacje z rejsów które prowadziłem w przeszłości. 
 ---
 
-Opisy rejsów z poprzedniej strony
+Relacje z rejsów które prowadziłem w przeszłości
 ----------------------------------
 
 * Grecja - majówka 2009

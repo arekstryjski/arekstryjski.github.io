@@ -2,8 +2,10 @@
 title: plany najbliższych rejsów
 layout: section
 category: rejsy
-keywords: rejsy weekendowe
+keywords: rejsy, rejsy morskie, rejsy weekendowe, żeglarstwo, yachting, jachting, Norwegia, Grecja, Spitsbergen, SetSail
+desc: Informacje na temat planowanych rejsów. Rejsy weekendowe, tygodniowe i dłuższe. 
 ---
+
 rejsy weekendowe
 -----------------
 Jako skipper prowadzę weekendowe rejsy organizowane przez polonijny klub żeglarski SetSail.  

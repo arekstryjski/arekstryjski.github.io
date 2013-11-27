@@ -2,7 +2,8 @@
 title: inne 
 layout: section
 category: inne
-keywords: IT
+keywords: Arek Stryjski, Stryjski, IT
+desc: Artykuły na tematy nie związane z żeglarstwem. . 
 ---
 
 Wszystko to co nie znalazło sie w innej sekcji.  
