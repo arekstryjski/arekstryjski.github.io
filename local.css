@@ -21,6 +21,16 @@
      padding: 10px 5px;
  }
 
+.img-right {
+    float: inherit;
+    margin-left: 0px;
+}
+
+.img-left {
+    float: inherit;
+    margin-right: in 0px;
+}
+
 
 @media screen and (min-width: 768px) {
     .jumbotron {
@@ -45,6 +55,16 @@
 
     .nav-compact > li > a {
         padding: 10px 5px;
+    }
+
+    .img-right {
+        float: right;
+        margin-left: 10px;
+    }
+
+    .img-left {
+        float: left;
+        margin-right: 10px;
     }
 }
 

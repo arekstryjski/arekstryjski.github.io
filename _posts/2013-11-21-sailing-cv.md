@@ -10,7 +10,7 @@ category: arek
 * nationality: Polish / UK resident 
 * date of birth: 18/11/1970
 * married, 2 children, no smoker
-* [e-mail me](/arek/email.html)
+* email: [&#x61;&#114;&#101;&#x6b;&#64;&#x73;&#x74;&#x72;&#121;&#106;&#x73;&#107;&#x69;&#x2e;&#x6e;&#101;&#116;](/arek/email.html)
 
 qualifications
 ---------------
