@@ -2,6 +2,8 @@
 title: Yachtmaster - egzamin i kurs przygotowawczy
 layout: post
 category: yachting
+keywords: Yachtmaster, egzamin, patent, szkolenia, kursy, Gibraltar
+desc: Mój kurs i egzamin na Yachtmaster Offshore.
 ---
 [![ja na jachcie](/img/old/ym-exam-and-preparation/ja.jpg)](class:img-right)
 

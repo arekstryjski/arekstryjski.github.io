@@ -2,6 +2,8 @@
 title: Gibraltar - miasto tysiąca i jednej armaty
 layout: post
 category: relacje
+keywords: Gibraltar
+desc: Co warto zobaczyć na Gibraltarze.
 ---
 [![lotnisko](/img/old/gibraltar/lotnisko.jpg)](class:img-right)
 

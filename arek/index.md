@@ -3,6 +3,7 @@ title: więcej o mnie
 layout: section
 category: arek
 date: 2013-11-21
+keywords: prowadzenie rejsów morskich, czarteru jachtu, rejestracji jachtu
 ---
 ![Arek](/img/ja/szkocja.jpg)
 

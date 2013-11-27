@@ -2,6 +2,8 @@
 title: Safety Briefing check-list
 layout: post
 category: yachting
+keywords: Safety Briefing
+desc: Safety Briefing check-list
 ---
 
 personal safety equipment  

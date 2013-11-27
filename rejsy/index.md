@@ -2,6 +2,7 @@
 title: plany najbliższych rejsów
 layout: section
 category: rejsy
+keywords: rejsy weekendowe
 ---
 rejsy weekendowe
 -----------------

@@ -2,6 +2,7 @@
 title: relacje z rejsów
 layout: section
 category: relacje
+keywords: relacje z rejsów
 ---
 
 Opisy rejsów z poprzedniej strony

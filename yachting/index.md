@@ -2,6 +2,7 @@
 title: jachting i żeglarstwo 
 layout: section
 category: yachting
+keywords: dla załogi, dla skippera
 ---
 
 Mam nadzieję że informacje które sie tutaj pojawią uznacie za przydatne.

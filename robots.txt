@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /archiwum/
+
+User-agent: *
+Disallow: /arek/email.html
+
+User-agent: *
+Disallow: /arek/email-send.html

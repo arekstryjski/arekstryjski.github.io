@@ -2,6 +2,8 @@
 title: Arek Stryjski - sailing CV
 layout: post
 category: arek
+keywords: Yachtmaster Offshore, Yachtmaster, sailing CV
+desc: sailing CV
 ---
 ![Arek](/img/ja/Norwegia289.jpg)
 
