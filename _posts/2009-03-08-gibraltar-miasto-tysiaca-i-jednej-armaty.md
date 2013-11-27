@@ -59,7 +59,7 @@ Oby tak zostało.
 
 ----------------
 
-O tym po co tam byłem można przeczytać tutaj: [Yachtmaster - egzamin i kurs przygotowawczy](//yachtmaster-egzamin-kurs). 
+O tym po co tam byłem można przeczytać tutaj: [Yachtmaster - egzamin i kurs przygotowawczy](/yachtmaster-egzamin-kurs). 
 
 Zapraszam również do galerii:
 
