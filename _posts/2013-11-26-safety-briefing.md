@@ -2,7 +2,7 @@
 title: Safety Briefing check-list
 layout: post
 category: yachting
-keywords: Safety Briefing
+keywords: Safety Briefing, yachting
 desc: Safety Briefing check-list
 ---
 

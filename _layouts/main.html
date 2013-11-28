@@ -18,7 +18,7 @@
                 </p>
             </div>
             <div class="col-sm-2">
-                <img class="hidden-xs img-no-responsive" src="/img/logo/as_240.png">
+                <img class="hidden-xs img-no-responsive" src="/img/logo/as_240.png" alt="Arek Stryjski">
             </div>
         </div>
     </div>
@@ -62,8 +62,12 @@
                 </div>
             </div>
         </div>
-        <div class="col-sm-1"></div>
-        {% include side_menu_all.html col="col-sm-3" %}
+        <div class="col-sm-1"> </div>
+        <div class="col-sm-3">
+            {% include side_menu_all.html %}
+            <br>
+            {% include social_btn.html %}
+        </div>
     </div>   
 </div> 
 

@@ -2,9 +2,10 @@
 title: Wyprawa Polonijna na Spitsbergen 2015
 layout: post
 category: rejsy
-keywords: Wyprawa Polonijna na Spitsbergen, Spitsbergen, Svalbard, Norwegia
-desc: Opis planowanej wyprawy polonijnej na Spitsbergen Svalbard
+keywords: Wyprawa Polonijna na Spitsbergen, Spitsbergen, Svalbard, Norwegia, rejs, wyprawa, rejs morski
+desc: Opis planowanej Wyprawy Polonijnej na Spitsbergen Svalbard
 ---
+
 Głównym celem rejsu jest opłynięcie wyspy Spitsbergen w archipelagu Svalbard.
 Jeśli warunki lodowe by na to nie pozwoliły będziemy starać się dopłynąć do najbardziej na północy wysuniętego punktu, który będzie dostępny.
 
