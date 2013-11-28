@@ -15,7 +15,11 @@
         <div class="col-sm-1">
             <div> </div>
         </div>
-        {% include side_menu.html col="col-sm-3" %}
+        <div class="col-sm-3">
+            {% include side_menu.html %}
+            <br>
+            {% include social_btn.html %}
+        </div>
     </div>
     {% include back_btn.html goto="" %}
 </div>
