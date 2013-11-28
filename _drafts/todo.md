@@ -48,10 +48,18 @@ SEO
 =====
 * <http://www.webgnomes.org/blog/10-seo-analysis-tools/>
 * <http://www.woorank.com/en/www/stryjski.net>
+* <https://www.lipperhey.com/en/dashboard/analysis/2831019/>
+* <http://www.seoptimer.com/report/stryjski.net/5297140409f19>
+
+also
+
+* <http://www.seorush.com/check.php>
+
+todo
 
 * Backlinks
 * 404
-* http://opensourcehacker.com/2013/04/22/charming-social-media-icons-with-font-awesome-and-css3/
+* <http://opensourcehacker.com/2013/04/22/charming-social-media-icons-with-font-awesome-and-css3/>
 
 
 
