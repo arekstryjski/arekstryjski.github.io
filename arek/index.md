@@ -21,14 +21,14 @@ w czym mogę pomóc
 * prowadzenie rejsów morskich na dowolnym akwenie
 * pomoc w organizacji rejsu
 * pomoc w znalezieniu czarteru jachtu
-* pomoc w rejestracji jachtu pod brytyjską banderą (Part I Registry, MMSI, etc.)
+* pomoc w rejestracji jachtu pod brytyjską banderą (Part I Registry, MMSI, etc.)  
 
-kontakt
---------
-* **[napisz email](/arek/email.html)**
-* [Facebook](https://www.facebook.com/arek.stryjski)
-* [Tweeter](https://twitter.com/arekstryjski)
-* [Google+](https://plus.google.com/+ArekStryjski)
+
+doświadczenie 
+--------------
+* [żeglarskie CV](/sailing-cv)
+* log book
+
 
 partnerzy
 ----------
@@ -37,12 +37,18 @@ W swoich projektach żeglarskich na stałe współpracuję z:
 * [JoinUs.pl](http://www.joinus.pl)
 * [SetSail](http://www.rejsbus.co.uk/klub/)
 
-doświadczenie 
---------------
-* [żeglarskie CV](/sailing-cv)
-* log book
 
 więcej o mnie
 --------------
 * [moja historia](/o-mnie)
 * [gdzie mieszkam](/fenland)
+
+
+kontakt
+--------
+* e-mail: [&#x61;&#114;&#101;&#x6b;&#64;&#x73;&#x74;&#x72;&#121;&#106;&#x73;&#107;&#x69;&#x2e;&#x6e;&#101;&#116;](https://stryjski.net/arek/email.html)
+* twitter.com/[arekstryjski](https://twitter.com/arekstryjski)
+* facebook.com/[arek.stryjski](https://www.facebook.com/arek.stryjski)
+* plus.google.com/[+ArekStryjski](https://plus.google.com/+ArekStryjski)
+
+
