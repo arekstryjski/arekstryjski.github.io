@@ -45,6 +45,8 @@ dev
 
 SEO
 =====
+* <http://www.webgnomes.org/blog/10-seo-analysis-tools/>
+* <http://www.woorank.com/en/www/stryjski.net>
 
 
 
