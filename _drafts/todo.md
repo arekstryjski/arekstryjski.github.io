@@ -34,6 +34,7 @@ struktura strony
 * archiwum dla kategorii
 * wyszukiwanie
 * komentarze FB?
+* <http://stackoverflow.com/questions/19060289/social-media-buttons-slow-down-website-load-time>
 
 nowe sekcje
 ===========
