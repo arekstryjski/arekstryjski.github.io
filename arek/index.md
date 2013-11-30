@@ -6,7 +6,7 @@ date: 2013-11-21
 keywords: Arek Stryjski, Stryjski, rejsy, rejsy morskie, żeglarstwo, yachting, jachting, prowadzenie rejsów morskich, czarteru jachtu, rejestracji jachtu
 desc: Informacje na mój temat, moje żeglarskie CV, log book, kontakt. 
 ---
-![Arek Stryjski](/img/ja/szkocja.jpg)
+![Arek Stryjski](/img/ja/Arek-Stryjski-Szkocja.jpg)
 
 Nazywam się Arek Stryjski. Mieszkam w Cambridgeshire w UK.  
 Na co dzień jestem programistą Java piszącym aplikacje księgowe.
@@ -26,8 +26,8 @@ w czym mogę pomóc
 
 doświadczenie 
 --------------
-* [żeglarskie CV](/sailing-cv)
-* log book
+* [żeglarskie CV](/arek/sailing-cv.html)
+* [logbook](/arek/logbook.html)
 
 
 partnerzy
