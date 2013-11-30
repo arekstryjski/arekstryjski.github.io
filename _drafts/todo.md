@@ -7,7 +7,6 @@ inne strony
 kontent
 =========
 * **o mnie**
-    * log book 
 
 * **rejsy**
     * fotki w index
