@@ -3,32 +3,77 @@
 <div class="jumbotron post-jumbotron">
     <div class="container">
         <h1 class="post-title">{{ page.title }}</h1>
-        <h6 class="post-date">last updated: {{ page.date | date: "%y.%m.%d" }}</h6>
+        <h6 class="post-date">last updated: {{ page.date | date: "%d.%m.%Y" }}</h6>
     </div>
 </div>
 <div class="container">
     <div class="row">
         <div class="col-sm-12">
+            <h2>Totals</h2>
+            <table>
+                <thead>
+                <tr>
+                    <th></th>
+                    <th style="text-align:right;">NM</th>
+                    <th style="text-align:right;">days</th>
+                </tr>
+                </thead>
+                {% assign nm = 0 %}
+                {% assign days = 0 %}
+                {% assign nmSkip = 0 %}
+                {% assign daysSkip = 0 %}
+                
+                {% for log in site.data.logbook %}
+                    {% assign nm = nm | plus:log.nm %}
+                    {% assign days = days | plus:log.day %}
+                    {% if log.pos == 'skipper' %}
+                        {% assign nmSkip = nmSkip | plus:log.nm %}
+                        {% assign daysSkip = daysSkip | plus:log.day %}
+                    {% endif %}                    
+                {% endfor %}
+                <tbody>
+                <tr>
+                    <td>total</td>
+                    <td style="text-align:right;">{{nm}}</td>
+                    <td style="text-align:right;">{{days}}</td>
+                </tr>
+                <tr>
+                    <td>as skipper</td>
+                    <td style="text-align:right;">{{nmSkip}}</td>
+                    <td style="text-align:right;">{{daysSkip}}</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td style="text-align:right;"></td>
+                    <td style="text-align:right;"></td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <h2>Details</h2>
             <small>
             <table>
                 <thead>
                 <tr>
-                    <th>start</th>
-                    <th>end</th>
+                    <th></th>
+                    <th>date</th>
                     <th style="text-align:right;">days</th>
                     <th style="text-align:right;">NM</th>
                     <th>position</th>
                     <th>area</th>
-                    <th>ports</th>
-                    <th>yacht name</th>
-                    <th>yacht type</th>
+                    <th>visited ports</th>
+                    <th>yacht</th>
+                    <th>type</th>
                 </tr>
                 </thead>
                 <tbody>
                 {% for log in site.data.logbook %}
                 <tr>
-                    <td>{{log.start}}</td>
-                    <td>{{log.end}}</td>
+                    <td style="text-align:right;">{{log.log}}</td>
+                    <td>{{log.start | date: "%d/%m/%y"}} - {{log.end | date: "%d/%m/%y"}}</td>
                     <td style="text-align:right;">{{log.day}}</td>
                     <td style="text-align:right;">{{log.nm}}</td>
                     <td>{{log.pos}}</td>
@@ -38,6 +83,17 @@
                     <td>{{log.y_type}}</td>
                 </tr>
                 {% endfor %}
+
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
                 </tbody>
             </table>
             </small>

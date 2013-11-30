@@ -1,14 +1,13 @@
 ---
 title: Arek Stryjski - sailing CV
-layout: post
+layout: page
 category: arek
-keywords: Arek Stryjski, Stryjski, RYA, Yachtmaster Offshore, Yachtmaster, sailing CV
+date: 2013-11-29
 desc: Arek Stryjski - sailing CV
 ---
 
-![Arek Stryjski](/img/ja/Norwegia289.jpg)
 
-
+[![Arek Stryjski](/img/ja/Arek-Stryjski-Norwegia.jpg)](class:img-right)
 
 * nationality: Polish / UK resident 
 * date of birth: 18/11/1970
@@ -18,7 +17,8 @@ desc: Arek Stryjski - sailing CV
 qualifications
 ---------------
 * RYA Yachtmaster Offshore commercially endorsed,  
-* SRC, Radar
+* SRC
+* Radar
 * valid ML5 Certificate
 * PADI Open Water Diver
 * clean UK driving license
