@@ -35,7 +35,7 @@ Rejs przeprowadzony cały czas przy wybrzeżu Spitsbergenu, aczkolwiek by zreali
 
 Możliwe że uda się odbyć 2 takie etapy.
 
-![](/home/arek/arekstryjski.github.io/img/2013/spitsbergen_2015/svalbard_archipelago_norway_1996.jpg)
+![](/img/2013/spitsbergen_2015/svalbard_archipelago_norway_1996.jpg)
 
 **C. Svalbard - Norwegia**
 *Około 600NM*
