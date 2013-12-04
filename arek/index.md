@@ -46,7 +46,7 @@ więcej o mnie
 
 kontakt
 --------
-* e-mail: [&#x61;&#114;&#101;&#x6b;&#64;&#x73;&#x74;&#x72;&#121;&#106;&#x73;&#107;&#x69;&#x2e;&#x6e;&#101;&#116;](https://stryjski.net/arek/email.html)
+* e-mail: [&#x61;&#114;&#101;&#x6b;&#64;&#x73;&#x74;&#x72;&#121;&#106;&#x73;&#107;&#x69;&#x2e;&#x6e;&#101;&#116;](http://stryjski.net/arek/email.html)
 * twitter.com/[arekstryjski](https://twitter.com/arekstryjski)
 * facebook.com/[arek.stryjski](https://www.facebook.com/arek.stryjski)
 * plus.google.com/[+ArekStryjski](https://plus.google.com/+ArekStryjski)
