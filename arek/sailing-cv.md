@@ -12,7 +12,7 @@ desc: Arek Stryjski - sailing CV
 * nationality: Polish / UK resident 
 * date of birth: 18/11/1970
 * married, 2 children, no smoker
-* email: [&#x61;&#114;&#101;&#x6b;&#64;&#x73;&#x74;&#x72;&#121;&#106;&#x73;&#107;&#x69;&#x2e;&#x6e;&#101;&#116;](https://stryjski.net/arek/email.html)
+* email: [&#x61;&#114;&#101;&#x6b;&#64;&#x73;&#x74;&#x72;&#121;&#106;&#x73;&#107;&#x69;&#x2e;&#x6e;&#101;&#116;](http://stryjski.net/arek/email.html)
 
 qualifications
 ---------------
@@ -54,7 +54,7 @@ certificates
 | Day Skipper - Shorebased          | North Sea Yachting | 11/12/2005 |
 | Yachtmaster - Shorebased          | North Sea Yachting | 08/03/2006 |
 | First Aid Course                  | DR Sailing         | 26/01/2009 |	
-| Yachtmaster Offshore Preparation  | Trafalgar Sailing  | 27/02/2009 |
+| Yachtmaster Offshore Preparation  | Trafalgar Sailing  | 23/02/2009 |
 | Small Craft Sea Survival          | Diveline Ltd.      | 14/05/2013 |	
 | Professional Practices & Responsibilities | RYA online | 07/06/2013 |
 | Radar Course                      | YachtCom           | 14/07/2013 |

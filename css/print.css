@@ -1,0 +1,14 @@
+.sub-menu {
+    display:none !important;
+}
+
+.no-print {
+    display:none !important;
+}
+
+.post-address {
+    display: block !important;
+    font-size: 10px;
+    text-transform:lowercase;
+    color: #555555;
+}

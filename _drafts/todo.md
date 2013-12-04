@@ -43,7 +43,6 @@ struktura strony
 dev
 ====
 * PDF-y
-* printing
 * <http://chrisdingli.com/2013/06/23/generating-a-sitemap-xml-file-in-jekyll-without-plugins/>
 * <http://vvv.tobiassjosten.net/jekyll/jekyll-sitemap-without-plugins/>
 
