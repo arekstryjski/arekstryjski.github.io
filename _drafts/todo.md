@@ -39,6 +39,9 @@ struktura strony
 * wyszukiwanie
 * komentarze FB?
 * <http://stackoverflow.com/questions/19060289/social-media-buttons-slow-down-website-load-time>
+* Conversion Form
+* <http://en.wikipedia.org/wiki/Dublin_Core>
+
 
 dev
 ====

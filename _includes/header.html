@@ -23,6 +23,9 @@
     <![endif]-->
 
     <link rel="canonical" href="{{ site.url }}{{ page.url }}"/>
+    {% if page.no_index == true %}
+    <meta name="robots" content="noindex">
+    {% endif %}
 </head>
 
 <body>

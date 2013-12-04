@@ -12,3 +12,9 @@
     text-transform:lowercase;
     color: #555555;
 }
+
+.print-nl {
+    display: block !important;
+    color: #ffffff;
+    page-break-before:always
+}
