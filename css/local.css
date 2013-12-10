@@ -70,7 +70,7 @@
 
 h2 {
     font-size: 21px; 
-    text-transform:lowercase; 
+    /*text-transform:lowercase; */
     font-weight:normal;
 }
 
@@ -150,6 +150,6 @@ blockquote p {
 
 .map_canvas {
     width: 500px;
-    height: 400px;
+    height: 300px;
     background-color: #CCC;
 }
