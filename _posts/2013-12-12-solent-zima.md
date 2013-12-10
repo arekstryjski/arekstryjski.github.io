@@ -1,5 +1,5 @@
 ---
-title: Zimowe Żeglowanie
+title: Solent zimą
 layout: post
 category: relacje
 keywords: żeglowanie, zima, Solent 
@@ -9,6 +9,12 @@ desc: Pierwsze weekendowe rejsy SetSail - Solent zima 2013
 <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
 
 Treść...
+
+<div class="map_canvas" id="solent1"></div>
+
+<div class="map_canvas" id="solent2"></div>
+
+<div class="map_canvas" id="solent3"></div>
 
 <div class="map_canvas" id="solent4"></div>
 
@@ -22,15 +28,21 @@ function loadKmlLayer(src, map)
     map: map
   });
 }
-function initialize() 
+
+function initMap(url, id) 
 {
-    var solent4 = document.getElementById('solent4');
-    var map4 = new google.maps.Map(solent4, {
-      center: new google.maps.LatLng(50.7017, -1.2868),
-      zoom: 10,
+    var mapDiv = document.getElementById(id);
+    var map = new google.maps.Map(mapDiv, {
       mapTypeId: google.maps.MapTypeId.TERRAIN
     });        
-    loadKmlLayer("http://0.0.0.0:4000/tracks/2013-12-08-solent.kmz", map4);
+    loadKmlLayer(url, map);
+}
+function initialize() 
+{    
+    initMap("http://stryjski.net/tracks/2013-11-08-solent.kmz", 'solent1');
+    initMap("http://stryjski.net/tracks/2013-11-09-solent.kmz", 'solent2');
+    initMap("http://stryjski.net/tracks/2013-12-07-solent.kmz", 'solent3');
+    initMap("http://stryjski.net/tracks/2013-12-08-solent.kmz", 'solent4');
 }
 
 google.maps.event.addDomListener(window, 'load', initialize);
