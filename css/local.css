@@ -147,3 +147,9 @@ blockquote p {
     font-size: 80%;
     color: #676767    
 }
+
+.map_canvas {
+    width: 500px;
+    height: 400px;
+    background-color: #CCC;
+}
