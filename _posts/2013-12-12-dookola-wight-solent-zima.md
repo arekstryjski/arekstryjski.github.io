@@ -116,10 +116,10 @@ function initMap(url, id) {
     loadKmlLayer(url, map);
 }
 function initialize() {    
-    initMap("http://stryjski.net/tracks/2013-11-09-solent.kmz", 'solent1');
-    initMap("http://stryjski.net/tracks/2013-11-10-solent.kmz", 'solent2');
-    initMap("http://stryjski.net/tracks/2013-12-07-solent.kmz", 'solent3');
-    initMap("http://stryjski.net/tracks/2013-12-08-solent.kmz", 'solent4');
+    initMap("http://stryjski.net/tracks/2013-11-09-solent.kml", 'solent1');
+    initMap("http://stryjski.net/tracks/2013-11-10-solent.kml", 'solent2');
+    initMap("http://stryjski.net/tracks/2013-12-07-solent.kml", 'solent3');
+    initMap("http://stryjski.net/tracks/2013-12-08-solent.kml", 'solent4');
 }
 google.maps.event.addDomListener(window, 'load', initialize);
 </script>
