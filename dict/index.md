@@ -18,8 +18,13 @@ Słownik podzielony jest na kategorie grupujące razem słowa powiązane ze sob�
 * **[yacht parts](/dict/yacht-parts/) - części jachtu**
     * [hull](/dict/yacht-parts/hull/) - kadłub
     * [sails](/dict/yacht-parts/sails/) - żagle
-    * [rigging](/dict/yacht-parts/rigging/) - olinowanie  
+    * [rigging](/dict/yacht-parts/rigging/) - olinowanie      
+    * [mooring](/dict/yacht-parts/mooring/) - cumy      
+    * [equipment](/dict/yacht-parts/equipment/) - wyposażenie  
 * **[sailing](/dict/sailing/) - żegluga** 
+* **[navigation](/dict/navigation/) - nawigacja** 
+* **[knots](/dict/knots/) - węzły** 
+* **[port](/dict/port/) - port** 
   
   
 pomóż

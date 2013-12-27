@@ -9,9 +9,9 @@ level: cc
 
 [pl]
 ----
-Stalowa linka biegnąca ze szczytu [masztu](/dict/yacht-parts/hull/mast) do [rufy](/dict/yacht-parts/hull/stern) i podtrzymująca go.
+Stalowa linka biegnąca ze szczytu [masztu](/dict/yacht-parts/sails/mast.html) do [rufy](/dict/yacht-parts/hull/stern.html) i podtrzymująca go.
 
 
 [en]
 ----
-The wire [stay](stay) that runs from the top of the [mast](/dict/yacht-parts/hull/mast) to the [stern](/dict/yacht-parts/hull/stern), to support the mast.
+The wire [stay](/dict/yacht-parts/rigging/stay.html) that runs from the top of the [mast](/dict/yacht-parts/sails/mast.html) to the [stern](/dict/yacht-parts/hull/stern.html), to support the mast.

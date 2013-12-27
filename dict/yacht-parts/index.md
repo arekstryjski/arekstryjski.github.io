@@ -7,6 +7,8 @@ date: 2013-12-27
 
 Nazwy części jachtu zostały pogrupowane w następujące subkategorie:
 
-* [hull](/dict/yacht-parts/hull/index.html) - kadłu
-* [sails](/dict/yacht-parts/sails/index.html) - żagle
-* [rigging](/dict/yacht-parts/rigging/index.html) - olinowanie  
+* [hull](/dict/yacht-parts/hull/) - kadłub
+* [sails](/dict/yacht-parts/sails/) - żagle
+* [rigging](/dict/yacht-parts/rigging/) - olinowanie      
+* [mooring](/dict/yacht-parts/mooring/) - cumy      
+* [equipment](/dict/yacht-parts/equipment/) - wyposażenie  

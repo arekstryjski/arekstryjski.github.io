@@ -10,7 +10,7 @@
 
 {% assign cat = page.url | split: '/' %}
 {% assign index = 2 %}
-{% if cat[3] != null %}
+{% if cat[4] != null %}
 {% assign index = 3 %}
 {% endif %}
 
@@ -19,8 +19,9 @@
     <div class="row">
         <div class="col-sm-12">
             <ul>
-                {% for page in site.pages %}
-                {% if page.url contains cat[index] %}
+                {% assign words = site.pages | sort: 'url' %}
+                {% for page in words %}
+                {% if page.url contains cat[index] and page.url contains 'dict' %}
                 {% if page.url contains 'index' %}
                 {% else %}
                 <li><a href="{{page.url}}">{{ page.en }}</a> - {{ page.pl }}</li>

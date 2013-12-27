@@ -8,13 +8,13 @@ level: cc
 
 [pl]
 ----
-Płynąć do tyłu. Dosłownie płynąć w kierunku [rufy](stern).  
+Płynąć do tyłu. Dosłownie płynąć w kierunku [rufy](/dict/yacht-parts/hull/stern.html).  
 Słowa tego używa się także do określenia innego obiektu względem jachtu.
 
 
 [en]
 ----
-Moving astern means going backwards, in direction of the [stern](stern).
+Moving astern means going backwards, in direction of the [stern](/dict/yacht-parts/hull/stern.html).
 
   
   
