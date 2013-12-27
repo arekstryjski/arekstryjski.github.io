@@ -1,3 +1,14 @@
+- log: 25
+  start: 2013-12-06
+  end: 2013-12-08
+  day: 2
+  nm: 76
+  pos: skipper
+  sea: Solent
+  ports: Portsmouth, Yarmouth, Portsmouth
+  y_name: Vintage
+  y_type: Sun Odyssey 43 
+  
 - log: 24
   start: 2013-11-08
   end: 2013-11-10
