@@ -4,6 +4,7 @@ layout: section
 category: rejsy
 keywords: rejsy, rejsy morskie, rejsy weekendowe, żeglarstwo, yachting, jachting, Norwegia, Grecja, Spitsbergen, SetSail
 desc: Informacje na temat planowanych rejsów. Rejsy weekendowe, tygodniowe i dłuższe. 
+date: 2013-11-27
 ---
 
 rejsy weekendowe
