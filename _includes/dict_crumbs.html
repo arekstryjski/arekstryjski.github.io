@@ -1,0 +1,13 @@
+{% assign cat = page.url | split: '/' %}
+<div class="row no-print">
+    <div class="col-md-12">
+        <a role="button" class="btn btn-xs btn-default" href="/dict/">słownik</a>
+        {% if cat[3] != null %}
+        / <a role="button" class="btn btn-xs btn-default" href="/dict/{{ cat[2] }}">{{cat[2]}}</a>
+        {% endif %}
+        {% if cat[4] != null %}
+        / <a role="button" class="btn btn-xs btn-default" href="/dict/{{ cat[2] }}/{{ cat[3] }}">{{cat[3]}}</a>
+        {% endif %}
+    </div>
+    <br>
+</div>

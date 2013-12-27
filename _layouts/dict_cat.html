@@ -1,0 +1,35 @@
+{% include header.html %}
+
+<div class="jumbotron post-jumbotron">
+    <div class="container">
+        <h1 class="post-title">{{ page.en }} - {{ page.pl }}</h1>
+        <h6 class="post-date">&nbsp;</h6>
+        <h6 class="post-address">{{ site.url }}{{ page.url }}</h6>
+    </div>
+</div>
+
+{% assign cat = page.url | split: '/' %}
+{% assign index = 2 %}
+{% if cat[3] != null %}
+{% assign index = 3 %}
+{% endif %}
+
+<div class="container">
+    {% include dict_crumbs.html %}
+    <div class="row">
+        <div class="col-sm-12">
+            <ul>
+                {% for page in site.pages %}
+                {% if page.url contains cat[index] %}
+                {% if page.url contains 'index' %}
+                {% else %}
+                <li><a href="{{page.url}}">{{ page.en }}</a> - {{ page.pl }}</li>
+                {% endif %}
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
+
+{% include footer.html %}
