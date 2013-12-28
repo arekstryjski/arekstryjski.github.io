@@ -10,8 +10,14 @@
 <div class="container">
     {% include dict_crumbs.html %}
     <div class="row">
-        <div class="col-sm-12">
-            <div>{{ content }}</div>
+        <div class="col-sm-8">
+        <div>{{ content }}</div>
+        </div>
+        <div class="col-sm-1">
+            <div></div>
+        </div>
+        <div class="col-sm-3">
+            {% include social_btn.html %}
         </div>
     </div>
 </div>

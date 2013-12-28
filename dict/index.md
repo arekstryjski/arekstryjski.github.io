@@ -25,6 +25,8 @@ Słownik podzielony jest na kategorie grupujące razem słowa powiązane ze sob�
 * **[navigation](/dict/navigation/) - nawigacja** 
 * **[knots](/dict/knots/) - węzły** 
 * **[port](/dict/port/) - port** 
+
+Alternatywnie wyszukaj poszukiwanego hasła w wyszukiwarce w prawym górnym rogu strony.
   
   
 pomóż

@@ -2,7 +2,7 @@
     padding-top: 42px;
     padding-bottom: 8px;
     /*background-color: #d3f1ff;*/
-    border-bottom:thin solid #dddddd;
+    border-bottom: thin solid #dddddd;
 }
 
 .post-jumbotron {
@@ -13,13 +13,14 @@
     position: inherit;
     height: auto;
 }
+
 .pull-down {
     position: inherit;
 }
 
 .nav-compact > li > a {
-     padding: 10px 5px;
- }
+    padding: 10px 5px;
+}
 
 .img-right {
     float: inherit;
@@ -31,25 +32,25 @@
     margin-right: in 0px;
 }
 
-
 @media screen and (min-width: 768px) {
     .jumbotron {
         padding-top: 48px;
         padding-bottom: 28px;
     }
+
     .post-jumbotron {
         padding-bottom: 8px;
     }
-    
+
     .fixedheight {
         height: 170px;
-        position:relative;
+        position: relative;
     }
 
     .pull-down {
-        position:absolute;
+        position: absolute;
         bottom: 0;
-        margin-bottom:7px;
+        margin-bottom: 7px;
         right: 25px;
     }
 
@@ -69,16 +70,16 @@
 }
 
 h2 {
-    font-size: 21px; 
-    text-transform:lowercase; 
-    font-weight:normal;
+    font-size: 21px;
+    text-transform: lowercase;
+    font-weight: normal;
 }
 
 .sub-menu {
     background-color: #eeeeee;
     border-radius: 5px;
     padding: 20px;
-    border:thin solid #dddddd;
+    border: thin solid #dddddd;
 }
 
 .nav-compact > li > a {
@@ -86,7 +87,7 @@ h2 {
 }
 
 .col-align-bottom {
-  vertical-align: bottom;
+    vertical-align: bottom;
 }
 
 blockquote p {
@@ -94,39 +95,39 @@ blockquote p {
     font-weight: 300;
 }
 
-.post-jumbotron h1 { 
-    font-size: 25px; 
-    color: #424242 ;
+.post-jumbotron h1 {
+    font-size: 25px;
+    color: #424242;
 }
 
 .post-date {
-    font-size: 10px; 
-    text-transform:lowercase; 
+    font-size: 10px;
+    text-transform: lowercase;
     color: #555555;
 }
 
 .post-address {
-    display:none;
+    display: none;
 }
 
 .print-nl {
-    display:none;
+    display: none;
 }
 
 .toc_title {
     font-size: 100%;
-    font-weight:bold;
+    font-weight: bold;
     color: #424242;
 }
 
 .toc_date {
     font-size: 10px;
-    text-transform:lowercase;
+    text-transform: lowercase;
     color: #555555;
 }
 
 .toc_excerpt {
-    
+
 }
 
 .toc_more {
@@ -136,7 +137,7 @@ blockquote p {
 
 .tag_toc_header {
     font-size: 80%;
-    font-weight:bold;
+    font-weight: bold;
 }
 
 .tag_toc_item {
@@ -145,5 +146,5 @@ blockquote p {
 
 .tag_toc_date {
     font-size: 80%;
-    color: #676767    
+    color: #676767
 }

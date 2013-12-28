@@ -10,8 +10,8 @@ level: cc
 ----
 
 
+Zobacz także: [berth](/dict/port/berth.html).
 
 [en]
 ----
 * Bed or Bunk on board.
-* Place for the yacht to lie in marina.
