@@ -1,16 +1,9 @@
 ---
 en: bearing
-pl: 
+pl: pomiar kierunku
 layout: dict_word
 date: 2013-12-27
 level: cc
 ---
 
-[pl]
-----
-
-
-
-[en]
-----
-The measurement of compass direction to an object.
+Pomiar kierunku kompasa do jakiegoś obiektu podawany w stopniach.

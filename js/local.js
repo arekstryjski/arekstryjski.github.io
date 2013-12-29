@@ -1,6 +1,7 @@
-(function ( $ ) 
+(function($)
 {
     "use strict";
+
 
     function localURL(str)
     {
@@ -9,11 +10,11 @@
 
         if (str.indexOf('/', str.length - 1) !== -1)
         {
-            str = str.substring(0, str.length-1);
+            str = str.substring(0, str.length - 1);
         }
         return str;
     }
-    
+
     function links()
     {
         $(document.links).filter(function()
@@ -23,14 +24,14 @@
     }
 
     function img()
-    {               
+    {
         $('img').each(function()
         {
             var elem = $(this);
             if (!elem.hasClass('img-no-responsive')) elem.addClass('img-responsive');
         });
     }
-    
+
     function table()
     {
         $('table').attr('class', 'table');
@@ -66,24 +67,24 @@
         {
             var s = $(this).text();
             s = s.replace(/january/ig, 'styczeń')
-                 .replace(/february/ig, 'luty')
-                 .replace(/march/ig, 'marzec')
-                 .replace(/april/ig, 'kwiecień')
-                 .replace(/may/ig, 'maj')
-                 .replace(/june/ig, 'czerwiec')
-                 .replace(/july/ig, 'lipiec')
-                 .replace(/august/ig, 'sierpień')
-                 .replace(/september/ig, 'wrzesień')
-                 .replace(/october/ig, 'październik')
-                 .replace(/november/ig, 'listopad')
-                 .replace(/december/ig, 'grudzień');
-            
+                    .replace(/february/ig, 'luty')
+                    .replace(/march/ig, 'marzec')
+                    .replace(/april/ig, 'kwiecień')
+                    .replace(/may/ig, 'maj')
+                    .replace(/june/ig, 'czerwiec')
+                    .replace(/july/ig, 'lipiec')
+                    .replace(/august/ig, 'sierpień')
+                    .replace(/september/ig, 'wrzesień')
+                    .replace(/october/ig, 'październik')
+                    .replace(/november/ig, 'listopad')
+                    .replace(/december/ig, 'grudzień');
+
             $(this).text(s);
         });
     }
-    
 
-    $(document).ready(function appStart ()
+
+    $(document).ready(function appStart()
     {
         links();
         img();
@@ -92,4 +93,26 @@
         translateDate();
     });
 
-}( jQuery ));
+}(jQuery));
+
+
+//------------------------------
+
+function play(el, words)
+{
+    if (el.mp3)
+    {
+        if (el.mp3.paused) el.mp3.play();
+        else el.mp3.pause();
+    }
+    else
+    {
+        words = words.replace(' ', '+');
+        var soundfile = 'http://tts-api.com/tts.mp3?q=' + words
+
+        el.mp3 = new Audio(soundfile);
+        el.mp3.play();
+    }
+}
+
+

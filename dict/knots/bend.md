@@ -6,11 +6,5 @@ date: 2013-12-27
 level: cc
 ---
 
-[pl]
-----
+Typ węzła łączącego dwie liny [[rope](/dict/yacht-parts/rigging/rope.html), [line](/dict/yacht-parts/rigging/line.html)] razem. 
 
-
-
-[en]
-----
-Type of knot that joins two [ropes](/dict/rigging/rope.html) together.

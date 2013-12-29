@@ -148,3 +148,13 @@ blockquote p {
     font-size: 80%;
     color: #676767
 }
+
+.dic-lang {
+    color: #929292;
+    font-family: monospace;
+}
+
+.dic-word {
+    color: #4e4e4e;
+    font-weight: bold;
+}

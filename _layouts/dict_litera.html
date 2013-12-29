@@ -2,29 +2,26 @@
 
 <div class="jumbotron post-jumbotron">
     <div class="container">
-        <h1 class="post-title">{{ page.en }} - {{ page.pl }}</h1>
-        <h6 class="post-date">&nbsp;</h6>
+        <h1 class="post-title">litera: {{ page.title | upcase }}</h1>
+        <h6 class="post-date">angielsko - polski słownik żeglarski</h6>
         <h6 class="post-address">{{ site.url }}{{ page.url }}</h6>
     </div>
 </div>
-
-{% assign cat = page.url | split: '/' %}
-{% assign index = 2 %}
-{% if cat[4] != null %}
-{% assign index = 3 %}
-{% endif %}
 
 <div class="container">
     {% include dict_crumbs.html %}
     <div class="row">
         <div class="col-sm-8">
             <ul>
-                {% assign words = site.pages | sort: 'url' %}
-                {% for page in words %}
-                {% if page.url contains cat[index] and page.url contains 'dict' %}
-                {% if page.url contains 'index' %}
+                {% assign words = site.pages | sort: 'name' %}
+                {% for word in words %}
+                {% if word.pl != null and word.name != 'index.html' %}
+                {% if word.url contains 'index' %}
                 {% else %}
-                <li><a href="{{page.url}}">{{ page.en }}</a> - {{ page.pl }}</li>
+                {% assign ch = word.pl | split : '' %}
+                {% if ch[0] == page.title %}
+                <li>{{ word.pl }} {{word.title}} - <a href="{{word.url}}">{{ word.en }}</a></li>
+                {% endif %}
                 {% endif %}
                 {% endif %}
                 {% endfor %}
