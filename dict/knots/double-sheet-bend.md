@@ -8,6 +8,8 @@ level: cc
 
 Węzeł łączący dwie liny o tej samej grubości.
 
+![double sheet bend](/img/dict/double_sheet_bend.png)
+
 *zobacz też:* 
 
 * [single sheet bend](/dict/knots/single-sheet-bend.html)

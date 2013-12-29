@@ -10,8 +10,8 @@ Nazwy określające kurs jachtu względem wiatru. Wyróżnia sie następujące k
 
 ![point of sail](/img/dict/points_of_sail.png)
 
-* *A* **kąt martwy** - jacht nie jest w stanie płynąć wprost na wiatr
-* *B* **bajdewind** - gdy wiatr wieje pomiędzy półwiatrem, a kątem martwym 
-* *C* **[beam reach](/dict/sailing/beam-reach.html) / półwiatr** - gdy wiatr wieje z boku
-* *D* **[broad reach](/dict/sailing/broad-reach.html) / baksztag** - gdy wiatr wieje pomiędzy fordewindem a półwiatrem
-* *E* **fordewind** - gdy wiatr wieje prosto od rufy
+* *A*  **[dead-ahead](/dict/sailing/dead-ahead.html) / kąt martwy** [0°] - jacht nie jest w stanie płynąć wprost na wiatr
+* *B*  **[close-hauled](/dict/sailing/close-hauled.html) / bajdewind** [30°] - gdy wiatr wieje pomiędzy półwiatrem, a kątem martwym 
+* *C*  **[beam reach](/dict/sailing/beam-reach.html) / półwiatr**  [90°] - gdy wiatr wieje z boku
+* *D*  **[broad reach](/dict/sailing/broad-reach.html) / baksztag** [120°] - gdy wiatr wieje pomiędzy fordewindem a półwiatrem
+* *E*  **[downwind](/dict/sailing/downwind.html) / fordewind** [180°] - gdy wiatr wieje prosto od rufy

@@ -8,12 +8,12 @@ level: cc
 
 Kierunek w którym płynie jacht wyrażony w
   
-* stopniach (np: 135°) lub   
+* stopniach (np: 135°)  
+lub   
 * kierunkach geograficznych (np: SE - south-east).
  
- 
- 
-Kurs w języku angielskim czyta się zawsze podając poszczególne cyfry, a nie czytając całą liczbę, np:  
+  
+W języku angielskim podając kurs czyta się zawsze poszczególne cyfry osobno, a nie całą liczbę, np:  
     
     135° - one, three, five  
   
@@ -26,3 +26,10 @@ i w ten sam sposób je odczytujemy:
 
     005° - zero, zero, five  
     045° - zero, four, five  
+    
+    
+    
+*zobacz też:*
+
+* [compass course](/dict/navigation/compass-course.html)
+* [true course](/dict/navigation/true-course.html)

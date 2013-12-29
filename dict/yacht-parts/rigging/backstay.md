@@ -7,7 +7,7 @@ date: 2013-12-27
 level: cc
 ---
 
-Stalowa linka - sztag [[stay](/dict/yacht-parts/rigging/stay.html)] - biegnąca ze szczytu masztu [[mast](/dict/yacht-parts/sails/mast.html)] 
+Stalowa linka - sztag [[stay](/dict/yacht-parts/rigging/stay.html)] - biegnąca ze szczytu masztu [[mast](/dict/yacht-parts/deck/mast.html)] 
 do rufy [[stern](/dict/yacht-parts/hull/stern.html)] i podtrzymująca go.
 
 W języku angielskim nie ma rozróżnienia na:
