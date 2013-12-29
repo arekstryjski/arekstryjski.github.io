@@ -16,7 +16,7 @@ alternatywna forma zapisu: [jibe](/dict/sailing/jibe.html)
 Komendy i wykonywane czynności:
 
 1. Jacht płynie baksztagiem [[broad reach](/dict/sailing/broad-reach.html)] na lewym [[port](/dict/yacht-parts/hull/port.html)] halsie [[tack](/dict/sailing/tack.html)].   
-   Sternik wydaje komedę:  jmh
+   Sternik wydaje komedę:  
 
          Prepare to jibe! 
       
