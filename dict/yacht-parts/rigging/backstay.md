@@ -7,11 +7,18 @@ date: 2013-12-27
 level: cc
 ---
 
-[pl]
-----
-Stalowa linka biegnąca ze szczytu [masztu](/dict/yacht-parts/sails/mast.html) do [rufy](/dict/yacht-parts/hull/stern.html) i podtrzymująca go.
+Stalowa linka - sztag [[stay](/dict/yacht-parts/rigging/stay.html)] - biegnąca ze szczytu masztu [[mast](/dict/yacht-parts/sails/mast.html)] 
+do rufy [[stern](/dict/yacht-parts/hull/stern.html)] i podtrzymująca go.
+
+W języku angielskim nie ma rozróżnienia na:
+
+* achtersztag - jedna linka bagnica z masztu na środek rufy
+![backstay](/img/dict/backstay.png)
+
+* baksztag - dwie liny biegnące z masztu do boków rufy
+![running backstay](/img/dict/running_backstay.png)
 
 
-[en]
-----
-The wire [stay](/dict/yacht-parts/rigging/stay.html) that runs from the top of the [mast](/dict/yacht-parts/sails/mast.html) to the [stern](/dict/yacht-parts/hull/stern.html), to support the mast.
+*zobacz też:*
+
+* [stay](/dict/yacht-parts/rigging/stay.html)

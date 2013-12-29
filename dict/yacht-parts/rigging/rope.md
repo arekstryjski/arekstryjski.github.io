@@ -6,10 +6,10 @@ date: 2013-12-27
 level: cc
 ---
 
-[pl]
-----
+Określenie dotyczy materiału z jakiego wykonane są liny na jachcie.  
+Jeśli lina została przycięta, zamocowana lub nadano jej jakąkolwiek funkcę na jachcie określa się ją jako [[line](/dict/yacht-parts/rigging/line.html)].
 
+*zobacz też:*
 
-[en]
-----
-*Rope* refers to the manufactured material. Once rope is purposely sized, cut, spliced, or simply assigned a function, the result is referred to as a *[line](/dict/yacht-parts/rigging/line.html)*.
+* [line](/dict/yacht-parts/rigging/line.html)
+* [mooring lines](/dict/mooring/mooring-lines.html)

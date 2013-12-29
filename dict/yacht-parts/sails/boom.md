@@ -6,11 +6,4 @@ date: 2013-12-27
 level: cc
 ---
 
-[pl]
-----
-
-
-
-[en]
-----
-The horizontal spar from the [mast](/dict/sails/mast.html), at the base of the [mainsail](/dict/sails/mainsail.html).
+Poprzeczny drążek przymocowany do masztu [[mast](/dict/yacht-parts/sails/mast.html)] do którego mocowany jest grot [[mainsail](/dict/yacht-parts/sails/mainsail.html)].

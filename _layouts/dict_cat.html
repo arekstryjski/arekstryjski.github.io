@@ -3,7 +3,7 @@
 <div class="jumbotron post-jumbotron">
     <div class="container">
         <h1 class="post-title">{{ page.en }} - {{ page.pl }}</h1>
-        <h6 class="post-date">&nbsp;</h6>
+        <h6 class="post-date">angielsko - polski słownik żeglarski</h6>
         <h6 class="post-address">{{ site.url }}{{ page.url }}</h6>
     </div>
 </div>
@@ -18,6 +18,12 @@
     {% include dict_crumbs.html %}
     <div class="row">
         <div class="col-sm-8">
+            <h4 class="dic-lang">[en] <span class="dic-word">{{ page.en }}</span>
+                <span class="glyphicon glyphicon-volume-up no-print" onclick="play(this, '{{ page.en }}');"></span>
+            </h4>
+            <h4 class="dic-lang">[pl] <span class="dic-word">{{ page.pl }}</span></h4>
+            <br>
+            {{ content }}
             <ul>
                 {% assign words = site.pages | sort: 'url' %}
                 {% for page in words %}

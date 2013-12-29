@@ -6,11 +6,5 @@ date: 2013-12-27
 level: cc
 ---
 
-[pl]
-----
+Miejsce poniżej podłogi w kabinie, gdzie gromadzi się woda.
 
-
-
-[en]
-----
-Place where water gathers on a yacht.

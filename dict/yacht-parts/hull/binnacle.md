@@ -6,11 +6,6 @@ date: 2013-12-27
 level: cc
 ---
 
-[pl]
-----
+Kolumna do której przymocowane jest koło sterowe.   
+Najczęściej znajduje sie na niej również kompas i inne przyrządy nawigacyjne.
 
-
-
-[en]
-----
-Pillar that holds the wheel steering and compass.

@@ -7,24 +7,25 @@ date: 2013-12-27
 Angielsko-Polski słownik żeglarski ma na celu pomóc nie tylko osobą pragnącym kształci się na kursach żeglarskich RYA, 
 a także wszystkim zainteresowanym żeglarstwem.   
 
-Mam nadzieję że dzięki niemu angielskie słownictwo żeglarskie stanie sie bardziej zrozumiałe.
+Mam nadzieję że dzięki niemu angielskie słownictwo żeglarskie stanie się bardziej zrozumiałe.
 
 
 kategorie
 ----------
 
-Słownik podzielony jest na kategorie grupujące razem słowa powiązane ze sobą.
+Słownik podzielony jest na kategorie grupujące razem słowa powiązane ze sobą tematycznie:
 
 * **[yacht parts](/dict/yacht-parts/) - części jachtu**
     * [hull](/dict/yacht-parts/hull/) - kadłub
     * [sails](/dict/yacht-parts/sails/) - żagle
-    * [rigging](/dict/yacht-parts/rigging/) - olinowanie      
-    * [mooring](/dict/yacht-parts/mooring/) - cumy      
+    * [rigging](/dict/yacht-parts/rigging/) - olinowanie    
     * [equipment](/dict/yacht-parts/equipment/) - wyposażenie  
-* **[sailing](/dict/sailing/) - żegluga** 
+* **[sailing](/dict/sailing/) - żegluga**   
+* **[mooring](/dict/mooring/) - cumowanie**      
 * **[navigation](/dict/navigation/) - nawigacja** 
 * **[knots](/dict/knots/) - węzły** 
 * **[port](/dict/port/) - port** 
+
 
 alfabetycznie 
 --------
@@ -77,13 +78,15 @@ alfabetycznie
 [P](/dict/pl/p.html)
 [R](/dict/pl/r.html)
 [S](/dict/pl/s.html)
+[Ś](/dict/pl/ś.html)
 [T](/dict/pl/t.html)
 [U](/dict/pl/u.html)
 [W](/dict/pl/w.html)
 [Z](/dict/pl/z.html)
+[Ż](/dict/pl/ż.html)
 **
 
-Alternatywnie wyszukaj poszukiwanego hasła w wyszukiwarce w prawym górnym rogu strony.
+Alternatywnie wyszukaj poszukiwanego słowa wpisując je w wyszukiwarce w prawym górnym rogu strony.
   
   
 pomóż
@@ -95,5 +98,10 @@ Z czasem mam nadzieje go uzupełnić także o bardziej zaawansowane zagadnienia.
 Jeśli jakiegoś słowa tu brakuje, chciałbyś coś dodać lub skorygować proszę o [kontakt](http://stryjski.net/arek/email.html)
 
 Jeśli uznasz ten słownik za pomocny proszę podziel się informacja o nim z innymi klikając na jeden z linków po prawej.
+
+podziękowania
+---------------
+
+* Na stronach słownika wykorzystuję ilustracje pobrane z Wikipedii i dystrybuowane na podstawie licencji [Creative Commons](http://en.wikipedia.org/wiki/Creative_Commons)
 
 

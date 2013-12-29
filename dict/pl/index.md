@@ -1,6 +1,6 @@
 ---
 title: słownik żeglarski 
-layout: dict
+layout: dict_alfabet
 desc: Angielsko-Polski słownik żeglarski. Angielskie słownictwo i terminologia żeglarska pomocna w ukończeniu kursów RYA. 
 date: 2013-12-27
 ---
@@ -27,8 +27,10 @@ hasła polskie
 [P](/dict/pl/p.html)
 [R](/dict/pl/r.html)
 [S](/dict/pl/s.html)
+[Ś](/dict/pl/ś.html)
 [T](/dict/pl/t.html)
 [U](/dict/pl/u.html)
 [W](/dict/pl/w.html)
 [Z](/dict/pl/z.html)
+[Ż](/dict/pl/ż.html)
 **

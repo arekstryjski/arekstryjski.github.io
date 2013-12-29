@@ -6,10 +6,10 @@ date: 2013-12-27
 level: cc
 ---
 
-[pl]
-----
+Główny żagiel jachtu przymocowany do masztu [[mast](/dict/yacht-parts/sails/mast.html)] i bumu [[boom](/dict/yacht-parts/sails/boom.html)].
 
+![sails](/img/dict/sails.png)
 
+Części żagla:
 
-[en]
-----
+![części żagla](/img/dict/parts_of_a_sail.png)

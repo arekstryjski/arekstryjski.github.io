@@ -1,16 +1,14 @@
 ---
 en: beam
-pl: środek jachtu
+pl: śródokręcie
 layout: dict_word
 date: 2013-12-27
 level: cc
 ---
 
-[pl]
-----
 Środkowa, najszersza część jachtu.
 
+*zobacz też:*
 
-[en]
-----
-The widest part of the yacht.
+* [bow](/dict/yacht-parts/hull/bow.html)
+* [stern](/dict/yacht-parts/hull/stern.html)

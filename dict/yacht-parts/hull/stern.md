@@ -6,11 +6,9 @@ date: 2013-12-27
 level: cc
 ---
 
-[pl]
-----
-Tył jachtu.
+Tylna część jachtu.
 
+*zobacz też:* 
 
-[en]
-----
-Back of the yacht.
+* [bow](/dict/yacht-parts/hull/bow.html)
+* [beam](/dict/yacht-parts/hull/beam.html)

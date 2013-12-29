@@ -6,11 +6,6 @@ date: 2013-12-27
 level: cc
 ---
 
-[pl]
-----
+Miejsce do zacumowania w marinie [[marina](/dict/port/marina.html)], najczęściej z podanym numerem.
 
 Zobacz także: [berth](/dict/yacht-parts/hull/berth.html).
-
-[en]
-----
-Place for the yacht to lie in marina.

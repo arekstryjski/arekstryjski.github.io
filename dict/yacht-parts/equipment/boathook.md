@@ -6,11 +6,5 @@ date: 2013-12-27
 level: cc
 ---
 
-[pl]
-----
-
-
-
-[en]
-----
-A long handled hook for picking up [ropes](/dict/rigging/rope.html) etc in the water.
+Długi drewniany, aluminiowy bądź plastikowy drążek zakończony hakiem.   
+Służy do wyławiania lin i innych przedmiotów z wody.

@@ -6,10 +6,10 @@ date: 2013-12-27
 level: cc
 ---
 
-[pl]
-----
+Lina której nadano na jachcie jakąś funkcję.
 
 
+*zobacz też:*
 
-[en]
-----
+* [rope](/dict/yacht-parts/rigging/rope.html)
+* [mooring lines](/dict/mooring/mooring-lines.html)

@@ -6,11 +6,4 @@ date: 2013-12-27
 level: cc
 ---
 
-[pl]
-----
-
-
-
-[en]
-----
-To alert [course](/dict/sailing/course.html) away from the wind direction.
+Zmienić kurs [[course](/dict/navigation/course.html)] jachtu w kierunku przeciwnym do tego z którego wieje wiatr.
