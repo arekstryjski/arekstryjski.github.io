@@ -21,52 +21,44 @@
     <div class="row">
         <div class="col-sm-8">
             <div class="row">
+                <div class="col-sm-1">
+                    <h4 class="dic-lang">{{ page.pho }}</h4>
+                    <div>{{ page.pho }}</div>
+                </div>
+                <div class="col-sm-9">
+                    <div>{{ page.morse }}</div>
+                </div>
+                <div class="col-sm-2">
+                    <img src="/img/letters/{{page.title}}.png"/>
+                </div>                
+            </div>
+            <div class="row">
                 <div class="col-sm-12">
-                    <p class="no-print"><strong>
-                        <a href="/dict/en/a.html">A</a>
-                        <a href="/dict/en/b.html">B</a>
-                        <a href="/dict/en/c.html">C</a>
-                        <a href="/dict/en/d.html">D</a>
-                        <a href="/dict/en/e.html">E</a>
-                        <a href="/dict/en/f.html">F</a>
-                        <a href="/dict/en/g.html">G</a>
-                        <a href="/dict/en/h.html">H</a>
-                        <a href="/dict/en/i.html">I</a>
-                        <a href="/dict/en/j.html">J</a>
-                        <a href="/dict/en/k.html">K</a>
-                        <a href="/dict/en/l.html">L</a>
-                        <a href="/dict/en/n.html">N</a>
-                        <a href="/dict/en/m.html">M</a>
-                        <a href="/dict/en/o.html">O</a>
-                        <a href="/dict/en/p.html">P</a>
-                        <a href="/dict/en/r.html">R</a>
-                        <a href="/dict/en/s.html">S</a>
-                        <a href="/dict/en/t.html">T</a>
-                        <a href="/dict/en/u.html">U</a>
-                        <a href="/dict/en/v.html">V</a>
-                        <a href="/dict/en/w.html">W</a>
-                        <a href="/dict/en/y.html">Y</a>
-                        <a href="/dict/en/x.html">X</a>
-                        <a href="/dict/en/z.html">Z</a>
-                    </strong></p>
+                    {{ content }}
                 </div>
             </div>
             <div class="row">
                 <div class="col-sm-12">
-                    <p> 
-                    <ul>
-                        {% assign words = site.pages | sort: 'name' %}
-                        {% for word in words %}
-                        {% if word.en != null %}
-                        {% assign ch = word.en | split : '' %}
-                        {% assign char = ch[0] | downcase %}
-                        {% if char == page.title %}
-                        <li><a href="{{word.url}}">{{ word.en }}</a> - {{ word.pl }} {{word.title}}</li>
-                        {% endif %}
-                        {% endif %}
-                        {% endfor %}
-                    </ul>
-                    {{ content }}
+                    <p class="no-print">
+                        {% include dict_alfabet_en.html %}
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                    <p>                        
+                        <ul>
+                            {% assign words = site.pages | sort: 'name' %}
+                            {% for word in words %}
+                            {% if word.en != null %}
+                            {% assign ch = word.en | split : '' %}
+                            {% assign char = ch[0] | downcase %}
+                            {% if char == page.title %}
+                            <li><a href="{{word.url}}">{{ word.en }}</a> - {{ word.pl }} {{word.title}}</li>
+                            {% endif %}
+                            {% endif %}
+                            {% endfor %}
+                        </ul>
                     </p>
                 </div>
             </div> 
