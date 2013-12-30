@@ -24,11 +24,6 @@ lik
 
 
 
-PL?
-----
-barber hauler 
-rafting
-
 
 TODO
 -------
