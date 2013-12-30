@@ -1,0 +1,18 @@
+---
+en: reefing points
+pl: ucho refowe
+layout: dict_word
+date: 2013-12-29
+level: cc
+cat: sails
+---
+
+*alternatywna nazwa:* [cringle](/dict/cringle.html)
+
+Wzmocnione miejsce w żaglu przez które przechodzą linki refowe [[reefing lines](/dict/reefing-lines.html)]
+
+![części żagla](/img/dict/parts_of_a_sail.png)
+
+*zobacz też:*
+
+* [parts of sails](/dict/parts-of-sails.html)

@@ -16,17 +16,17 @@ kategorie
 Słownik podzielony jest na kategorie grupujące razem słowa powiązane ze sobą tematycznie:
 
 * **yacht parts / części jachtu**
-    * [hull](/dict/hull/) / kadłub
-    * [deck](/dict/deck/) / pokład
-    * [sails](/dict/sails/) / żagle
-    * [rigging](/dict/rigging/) / olinowanie    
-    * [equipment](/dict/equipment/) / wyposażenie      
-* **[sailing](/dict/sailing/) / żegluga**   
-* **[mooring](/dict/mooring/) / cumowanie**      
-* **[navigation](/dict/navigation/) / nawigacja** 
-* **[distress](/dict/distress/) / sytuacje awaryjne** 
-* **[knots](/dict/knots/) / węzły** 
-* **[port](/dict/port/) / port** 
+    * [hull](/dict/hull.html) / kadłub
+    * [deck](/dict/deck.html) / pokład
+    * [sails](/dict/sails.html) / żagle
+    * [rigging](/dict/rigging.html) / olinowanie    
+    * [equipment](/dict/equipment.html) / wyposażenie      
+* **[sailing](/dict/sailing.html) / żegluga**   
+* **[mooring](/dict/mooring.html) / cumowanie**      
+* **[navigation](/dict/navigation.html) / nawigacja** 
+* **[distress](/dict/distress.html) / sytuacje awaryjne** 
+* **[knots](/dict/knots.html) / węzły** 
+* **[port](/dict/port.html) / port** 
 
 
 alfabetycznie 
