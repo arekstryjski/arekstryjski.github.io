@@ -1,6 +1,6 @@
 ---
 en: tack
-pl: 
+pl: róg halsowy
 layout: dict_word
 date: 2013-12-29
 level: cc
