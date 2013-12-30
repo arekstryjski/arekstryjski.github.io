@@ -1,6 +1,6 @@
 ---
 en: alongside
-pl: longside 
+pl: przy burcie 
 layout: dict_word
 date: 2013-12-27
 level: cc

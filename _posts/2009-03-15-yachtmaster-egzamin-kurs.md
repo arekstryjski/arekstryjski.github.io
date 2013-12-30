@@ -52,7 +52,7 @@ Na kursie największy nacisk kładzie się na manewry przeprowadzane na żaglach
 
 Manewry na silniku to:
 
-* podchodzenie i odchodzenie od kei rufą, dziobem i longside,
+* podchodzenie i odchodzenie od kei rufą, dziobem i alongside,
 * obrót jachtu o 360 stopni dookoła własnej osi (wykorzystanie prop-work nie jest tu najważniejsze, raczej obranie właściwego kierunku obrotu w stosunku do wiatru),
 * kotwiczenie i opuszczanie kotwicowiska.
 

@@ -6,7 +6,7 @@ date: 2013-12-27
 level: cc
 ---
 
-Węzeł łączący dwie liny o tej samej grubości.
+Węzeł łączący dwie liny.
 
 ![double sheet bend](/img/dict/double_sheet_bend.png)
 

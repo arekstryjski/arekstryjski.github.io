@@ -6,7 +6,7 @@ date: 2013-12-27
 level: cc
 ---
 
-Gdy jach cumuje longside [[alongside](/dict/mooring/alongside.html)] lina która powstrzymuje jacht przed płynięciem do przodu.
+Gdy jach cumuje burtą [[alongside](/dict/mooring/alongside.html)] lina która powstrzymuje jacht przed płynięciem do przodu.
 
 
 *zobacz też:*
