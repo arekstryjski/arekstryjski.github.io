@@ -5,6 +5,7 @@ layout: dict_word
 date: 2013-12-29
 level: cc
 cat: sailing
+sub: point-of-sail
 ---
 
 Kursu względem wiatru [[point of sail](/dict/point-of-sail.html)] gdy wiatr wieje z przedniej części yachtu.  

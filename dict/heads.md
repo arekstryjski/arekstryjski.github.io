@@ -11,4 +11,4 @@ Toaleta na jachcie.
 
 *zobacz też:*
 
-* [parts of sails](/dict/heads.html)
+* [head](/dict/head.html)

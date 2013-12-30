@@ -5,6 +5,7 @@ layout: dict_word
 date: 2013-12-30
 level: cc
 cat: sailing
+sub: point-of-sail
 ---
 
 Kursu względem wiatru [[point of sail](/dict/point-of-sail.html)] gdy wiatr wieje wprost z rufy [[stern](/dict/stern.html)].  

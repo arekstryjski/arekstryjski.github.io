@@ -5,6 +5,7 @@ layout: dict_word
 date: 2013-12-29
 level: cc
 cat: sails
+sub: parts-of-sails
 ---
 
 *alternatywna nazwa:* [cringle](/dict/cringle.html)

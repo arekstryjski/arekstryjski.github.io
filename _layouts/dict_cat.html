@@ -8,33 +8,21 @@
     </div>
 </div>
 
-{% assign cat = page.url | split: '/' %}
-{% assign index = 2 %}
-{% if cat[4] != null %}
-{% assign index = 3 %}
-{% endif %}
-
 <div class="container">
     {% include dict_crumbs.html %}
     <div class="row">
         <div class="col-sm-8">
-            <h4 class="dic-lang">[en] <span class="dic-word">{{ page.en }}</span>
-                <span class="glyphicon glyphicon-volume-up no-print" onclick="play(this, '{{ page.en }}');"></span>
-            </h4>
-            <h4 class="dic-lang">[pl] <span class="dic-word">{{ page.pl }}</span></h4>
-            <br>
+            {% include dict_haslo.html %}
             {{ content }}
-            <ul>
+            <h2>hasła w tej kategorii: </h2>
+            <p><ul>
                 {% assign words = site.pages | sort: 'url' %}
-                {% for page in words %}
-                {% if page.url contains cat[index] and page.url contains 'dict' %}
-                {% if page.url contains 'index' %}
-                {% else %}
-                <li><a href="{{page.url}}">{{ page.en }}</a> - {{ page.pl }}</li>
-                {% endif %}
+                {% for w in words %}
+                {% if w.cat == page.en and w.url contains 'dict' %}
+                    <li><a href="{{w.url}}">{{ w.en }}</a> - {{ w.pl }}</li>
                 {% endif %}
                 {% endfor %}
-            </ul>
+            </ul></p>
         </div>
         <div class="col-sm-1">
             <div></div>

@@ -1,8 +1,15 @@
 {% include header.html %}
 
+{% assign ch = page.title | upcase %}
+{% assign t = 'litera: ' | append: ch %}
+{% assign l = page.title | size %}
+{% if l > 2 %}
+{% assign t = page.title %}
+{% endif %}
+        
 <div class="jumbotron post-jumbotron">
     <div class="container">
-        <h1 class="post-title">litera: {{ page.title | upcase }}</h1>
+        <h1 class="post-title">{{ t }}</h1>
         <h6 class="post-date">angielsko - polski słownik żeglarski</h6>
         <h6 class="post-address">{{ site.url }}{{ page.url }}</h6>
     </div>
@@ -12,17 +19,54 @@
     {% include dict_crumbs.html %}
     <div class="row">
         <div class="col-sm-8">
-            <ul>
-                {% assign words = site.pages | sort: 'name' %}
-                {% for word in words %}
-                {% if word.pl != null %}
-                {% assign ch = word.pl | split : '' %}
-                {% if ch[0] == page.title %}
-                <li>{{ word.pl }} {{word.title}} - <a href="{{word.url}}">{{ word.en }}</a></li>
-                {% endif %}
-                {% endif %}
-                {% endfor %}
-            </ul>
+            <div class="row">
+                <div class="col-sm-12">
+                    <p class="no-print"><strong>
+                        <a href="/dict/pl/a.html">A</a>
+                        <a href="/dict/pl/b.html">B</a>
+                        <a href="/dict/pl/c.html">C</a>
+                        <a href="/dict/pl/d.html">D</a>
+                        <a href="/dict/pl/e.html">E</a>
+                        <a href="/dict/pl/f.html">F</a>
+                        <a href="/dict/pl/g.html">G</a>
+                        <a href="/dict/pl/h.html">H</a>
+                        <a href="/dict/pl/i.html">I</a>
+                        <a href="/dict/pl/j.html">J</a>
+                        <a href="/dict/pl/k.html">K</a>
+                        <a href="/dict/pl/l.html">L</a>
+                        <a href="/dict/pl/n.html">N</a>
+                        <a href="/dict/pl/m.html">M</a>
+                        <a href="/dict/pl/o.html">O</a>
+                        <a href="/dict/pl/p.html">P</a>
+                        <a href="/dict/pl/r.html">R</a>
+                        <a href="/dict/pl/s.html">S</a>
+                        <a href="/dict/pl/%C5%9B.html">Ś</a>
+                        <a href="/dict/pl/t.html">T</a>
+                        <a href="/dict/pl/u.html">U</a>
+                        <a href="/dict/pl/w.html">W</a>
+                        <a href="/dict/pl/z.html">Z</a>
+                        <a href="/dict/pl/%C5%BC.html">Ż</a>
+                    </strong></p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                    <p>
+                    <ul>
+                        {% assign words = site.pages | sort: 'name' %}
+                        {% for word in words %}
+                        {% if word.pl != null %}
+                        {% assign ch = word.pl | split : '' %}
+                        {% if ch[0] == page.title %}
+                        <li>{{ word.pl }} {{word.title}} - <a href="{{word.url}}">{{ word.en }}</a></li>
+                        {% endif %}
+                        {% endif %}
+                        {% endfor %}
+                    </ul>
+                    {{ content }}
+                    </p>
+                </div>
+            </div>
         </div>
         <div class="col-sm-1">
             <div></div>
@@ -34,3 +78,14 @@
 </div>
 
 {% include footer.html %}
+
+
+
+
+
+
+
+
+
+
+

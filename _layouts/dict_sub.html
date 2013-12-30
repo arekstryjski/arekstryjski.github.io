@@ -15,6 +15,16 @@
         <div class="col-sm-8">
             {% include dict_haslo.html %}
             {{ content }}
+            <h2>hasła w tej podkategorii: </h2>
+            <p><ul>
+                {% assign words = site.pages | sort: 'url' %}
+                {% for w in words %}
+                {% assign s = w.sub | replace: '-', ' ' %}
+                {% if s == page.en and w.url contains 'dict' %}
+                <li><a href="{{w.url}}">{{ w.en }}</a> - {{ w.pl }}</li>
+                {% endif %}
+                {% endfor %}
+        </ul></p>
         </div>
         <div class="col-sm-1">
             <div></div>
