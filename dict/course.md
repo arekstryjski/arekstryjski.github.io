@@ -1,9 +1,8 @@
 ---
 en: course
 pl: kurs
-layout: dict_word
+layout: dict_sub
 date: 2013-12-27
-level: cc
 cat: navigation
 ---
 
@@ -29,8 +28,3 @@ i w ten sam sposób je odczytujemy:
     045° - zero, four, five  
     
     
-    
-*zobacz też:*
-
-* [compass course](/dict/compass-course.html)
-* [true course](/dict/true-course.html)

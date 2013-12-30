@@ -1,9 +1,8 @@
 ---
 en: mooring lines
 pl: liny cumownicze
-layout: dict_word
+layout: dict_sub
 date: 2013-12-29
-level: cc
 cat: mooring
 ---
 
@@ -19,4 +18,7 @@ Liny cumownicze:
 
 * [rope](/dict/rope.html)
 * [line](/dict/line.html)
+
+<!-- TODO: forma pojedyncza -->
+<!-- TODO: znajdź inne w subkategorii -->
 

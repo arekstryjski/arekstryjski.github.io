@@ -3,7 +3,6 @@ en: broad reach
 pl: baksztag
 layout: dict_word
 date: 2013-12-27
-level: cc
 cat: sailing
 sub: point-of-sail
 ---
@@ -13,7 +12,3 @@ Na tym kursie jacht płynie pod katem około 120° w stosunku do wiatru.
 
 ![point of sail](/img/dict/points_of_sail.png)
 **D** - na rysunku
-
-*zobacz też:*
-
-* [point of sail](/dict/point-of-sail.html)

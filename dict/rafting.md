@@ -3,7 +3,6 @@ en: rafting
 pl: 
 layout: dict_word
 date: 2013-12-29
-level: cc
 cat: mooring
 ---
 
@@ -17,3 +16,6 @@ Gdy jacht jest w ten sposób zacumowany przechodzimy na nabrzeże przez dziób y
 
 * [alongside](/dict/alongside.html)
 * [mediterranean style](/dict/mediterranean-style.html)
+
+
+<!-- TODO: PL -->

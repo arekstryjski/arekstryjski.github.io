@@ -3,14 +3,13 @@ en: gybe
 pl: zwrot przez rufę
 layout: dict_word
 date: 2013-12-29
-level: cc
 cat: sailing
 ---
 
+*to samo co: [jibe](/dict/jibe.html)*
+
 Manewr zmiany kursu [[course](/dict/course.html)] polegający na przejściu rufy jachtu przez wiatr 
 i zmianie halsu [[tack](/dict/tack.html)].
-
-alternatywna forma zapisu: [jibe](/dict/jibe.html)
 
 ![gybe](/img/dict/gybe.png)
 
@@ -22,14 +21,14 @@ Komendy i wykonywane czynności:
          Prepare to jibe! 
       
 2. Jacht odpada od wiatru [[bearing away](/dict/bearing away.html)].
-   Grot [[mainsail](/dict/mainsail.html)] jest wybierany [[hauling](/dict/hauling.html)] 
+   Grot [[mainsail](/dict/mainsail.html)] jest wybierany [[haul](/dict/haul.html)] 
    by bum [[boom](/dict/boom.html)] nie przeleciał na druga stronę jachtu niekontrolowanie.  
    Sternik wydaje komedę:  
 
          Bearing away! 
 
 3. Jacht płynie z wiatrem [[downwind](/dict/downwind.html)], bum [[boom](/dict/boom.html)] przechodzi na druga stronę i jest luzowany.  
-   W momencie gdy bum przechodzi przez oś yachtu sternik wydaje komedę:   
+   Krótko przed tym jak bum zacznie przechodzić na druga stronę yachtu, sternik wydaje komedę:   
 
          Jibe-ho! 
     

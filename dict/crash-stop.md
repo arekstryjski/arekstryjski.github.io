@@ -3,7 +3,6 @@ en: crash stop
 pl: nagłe zatrzymanie jachtu
 layout: dict_word
 date: 2013-12-29
-level: cc
 cat: sailing
 ---
 

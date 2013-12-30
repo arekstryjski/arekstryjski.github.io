@@ -4,7 +4,6 @@ pl: achtersztag, baksztag
 layout: dict_word
 desc: Angielsko-Polski słownik żeglarski
 date: 2013-12-27
-level: cc
 cat: rigging
 ---
 

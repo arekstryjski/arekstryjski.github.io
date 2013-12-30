@@ -3,7 +3,6 @@ en: astern
 pl: w tył
 layout: dict_word
 date: 2013-12-27
-level: cc
 cat: sailing
 ---
 
