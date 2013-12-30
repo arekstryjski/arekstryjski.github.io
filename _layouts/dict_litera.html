@@ -57,7 +57,8 @@
                         {% for word in words %}
                         {% if word.pl != null %}
                         {% assign ch = word.pl | split : '' %}
-                        {% if ch[0] == page.title %}
+                        {% assign char = ch[0] | downcase %}
+                        {% if char == page.title %}
                         <li>{{ word.pl }} {{word.title}} - <a href="{{word.url}}">{{ word.en }}</a></li>
                         {% endif %}
                         {% endif %}

@@ -32,6 +32,4 @@ rafting
 
 TODO
 -------
-* słowa zaczynające się od dużej litery w alfabecie
-* płaski układ i kategorie jako meta data
 * page title on letter is crap
