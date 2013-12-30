@@ -8,4 +8,4 @@ level: cc
 
 Miejsce do zacumowania w marinie [[marina](/dict/port/marina.html)], najczęściej z podanym numerem.
 
-Zobacz także: [berth](/dict/yacht-parts/hull/berth.html).
+Zobacz także: [berth](/dict/hull/berth.html).

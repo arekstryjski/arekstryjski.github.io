@@ -6,7 +6,7 @@ date: 2013-12-27
 level: cc
 ---
 
-Typ węzła łączącego dwie liny [[line](/dict/yacht-parts/rigging/line.html)] razem głównie szotów [[sheet](/dict/rigging/sheet.html)].   
+Typ węzła łączącego dwie liny [[line](/dict/rigging/line.html)] razem głównie szotów [[sheet](/dict/rigging/sheet.html)].   
 Wyróżnia sie dwie odmiany:
 
 * [single sheet bend](/dict/knots/single-sheet-bend.html) - węzeł szotowy

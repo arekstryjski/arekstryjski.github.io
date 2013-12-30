@@ -16,6 +16,6 @@ Liny cumownicze:
 
 *zobacz też:*
 
-* [rope](/dict/yacht-parts/rigging/rope.html)
-* [line](/dict/yacht-parts/rigging/line.html)
+* [rope](/dict/rigging/rope.html)
+* [line](/dict/rigging/line.html)
 

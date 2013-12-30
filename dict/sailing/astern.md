@@ -6,7 +6,7 @@ date: 2013-12-27
 level: cc
 ---
 
-Płynąć do tyłu. Dosłownie płynąć w kierunku rufy [[stern](/dict/yacht-parts/hull/stern.html)].  
+Płynąć do tyłu. Dosłownie płynąć w kierunku rufy [[stern](/dict/hull/stern.html)].  
 Słowa tego używa się także do określenia innego obiektu względem naszego jachtu.
 
   

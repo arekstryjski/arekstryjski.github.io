@@ -6,7 +6,7 @@ date: 2013-12-27
 level: cc
 ---
 
-Gdy jach cumuje burtą [[alongside](/dict/mooring/alongside.html)] lina trzymająca jacht ze śródokręcia [[beam](/dict/yacht-parts/hull/beam.html)].
+Gdy jach cumuje burtą [[alongside](/dict/mooring/alongside.html)] lina trzymająca jacht ze śródokręcia [[beam](/dict/hull/beam.html)].
 Lina powstrzymuje yacht przed oddaleniem sie od nabrzeża/pomostu.
 
 Lina ta ma najczęściej charakter tymczasowy i zastąpiona jest później innymi cumami.  
