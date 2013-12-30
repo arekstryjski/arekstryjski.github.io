@@ -27,3 +27,10 @@ lik
 PL?
 ----
 barber hauler 
+rafting
+
+
+TODO
+-------
+* słowa zaczynające się od dużej litery w alfabecie
+* płaski układ i kategorie jako meta data

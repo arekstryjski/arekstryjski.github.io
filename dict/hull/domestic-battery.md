@@ -1,0 +1,11 @@
+---
+en: domestic battery
+pl: akumulator domowy
+layout: dict_word
+date: 2013-12-30
+level: cc
+---
+
+Akumulator(y) służący do zasilania urządzeń nawigacyjnych, świateł nawigacyjnych [[navigation-lights](/dict/deck/navigation-lights.html)], 
+oświetlenia wnętrza jachtu i wyostrzenia domowego typu lodówka.  
+Na jachcie powinien znajdować się jeszcze osobny akumulator rozruchowy do silnika [[engine battery](/dict/hull/engine-battery.html)].
