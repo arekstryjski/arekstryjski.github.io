@@ -1,5 +1,5 @@
 ---
-en: easy
+en: ease
 pl: luzować
 layout: dict_word
 date: 2013-12-30
