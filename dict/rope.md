@@ -12,4 +12,4 @@ Jeśli lina została przycięta, zamocowana lub nadano jej jakąkolwiek funkcę 
 *zobacz też:*
 
 * [line](/dict/line.html)
-* [mooring lines](/dict/mooring-lines.html)
+* [mooring line](/dict/mooring-line.html)

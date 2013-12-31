@@ -12,4 +12,4 @@ Lina której nadano na jachcie jakąś funkcję.
 *zobacz też:*
 
 * [rope](/dict/rope.html)
-* [mooring lines](/dict/mooring-lines.html)
+* [mooring line](/dict/mooring-line.html)

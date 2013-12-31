@@ -6,4 +6,4 @@ date: 2013-12-29
 cat: mooring
 ---
 
-*to samo co: [mooring line](/dict/mooring-lines.html)*
+*to samo co: [mooring line](/dict/mooring-line.html)*
