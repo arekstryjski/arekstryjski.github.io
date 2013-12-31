@@ -1,7 +1,7 @@
 ---
 title: z
 layout: dict_letter
-morse: ‒ ‒ · · 
+morse: ‒ ‒ • • 
 pho: Zulu
 ---
 > I require a [tug](/dict/tug.html).

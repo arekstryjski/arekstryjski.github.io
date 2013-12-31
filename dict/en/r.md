@@ -1,7 +1,7 @@
 ---
 title: r
 layout: dict_letter
-morse: · ‒ ·
+morse: • ‒ •
 pho: Romeo
 ---
-> The way is off my ship.
+> *not used*

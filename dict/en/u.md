@@ -1,7 +1,7 @@
 ---
 title: u
 layout: dict_letter
-morse: · · ‒
+morse: • • ‒
 pho: Uniform
 ---
 > You are running into danger.

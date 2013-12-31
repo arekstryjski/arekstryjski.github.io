@@ -1,7 +1,7 @@
 ---
 title: e
 layout: dict_letter
-morse: ·
+morse: •
 pho: Echo
 ---
 > I am altering my course to [starboard](/dict/starboard.html).

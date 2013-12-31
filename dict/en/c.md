@@ -1,7 +1,7 @@
 ---
 title: c
 layout: dict_letter
-morse: ‒ · ‒ ·
+morse: ‒ • ‒ •
 pho: Charlie
 ---
 > Affirmative.

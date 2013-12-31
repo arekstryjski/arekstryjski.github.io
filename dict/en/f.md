@@ -1,7 +1,7 @@
 ---
 title: f
 layout: dict_letter
-morse: · · ‒ ·
+morse: • • ‒ •
 pho: Foxtrot
 ---
 > I am disabled; communicate with me. 

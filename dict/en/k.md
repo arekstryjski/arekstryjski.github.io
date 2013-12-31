@@ -1,7 +1,7 @@
 ---
 title: k
 layout: dict_letter
-morse: ‒ · ‒
+morse: ‒ • ‒
 pho: Kilo
 ---
 > I wish to communicate with you.

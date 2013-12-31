@@ -1,7 +1,7 @@
 ---
 title: n
 layout: dict_letter
-morse: ‒ ·
+morse: ‒ •
 pho: November
 ---
 > Negative.

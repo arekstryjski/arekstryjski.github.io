@@ -1,7 +1,7 @@
 ---
 title: v
 layout: dict_letter
-morse: · · · ‒
+morse: • • • ‒
 pho: Victor
 ---
 > I require assistance.

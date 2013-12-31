@@ -1,7 +1,7 @@
 ---
 title: w
 layout: dict_letter
-morse: · ‒ ‒
+morse: • ‒ ‒
 pho: Whiskey
 ---
 > I require medical assistance.

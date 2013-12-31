@@ -5,7 +5,7 @@ desc: Angielsko-Polski słownik żeglarski. Angielskie słownictwo i terminologi
 date: 2013-12-27
 ---
 Hasła angielskie uszeregowane alfabetycznie.   
-Kliknij w literę by wyświetlić hasła rozpoczynające sie na tę literę.
+Kliknij w literę by wyświetlić hasła rozpoczynające się na daną literę.
 
 
 

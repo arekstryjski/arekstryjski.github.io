@@ -16,39 +16,23 @@
 </div>
 
 <div class="container">
-    {% include dict_crumbs.html %}
+    <div class="row">
+        <div class="col-sm-8">
+            {% include dict_alfabet.html lang="pl" %}
+            {% include dict_crumbs.html %}
+        </div>
+    </div>
     <div class="row">
         <div class="col-sm-8">
             <div class="row">
-                <div class="col-sm-12">
-                    <p class="no-print"><strong>
-                        <a href="/dict/pl/a.html">A</a>
-                        <a href="/dict/pl/b.html">B</a>
-                        <a href="/dict/pl/c.html">C</a>
-                        <a href="/dict/pl/d.html">D</a>
-                        <a href="/dict/pl/e.html">E</a>
-                        <a href="/dict/pl/f.html">F</a>
-                        <a href="/dict/pl/g.html">G</a>
-                        <a href="/dict/pl/h.html">H</a>
-                        <a href="/dict/pl/i.html">I</a>
-                        <a href="/dict/pl/j.html">J</a>
-                        <a href="/dict/pl/k.html">K</a>
-                        <a href="/dict/pl/l.html">L</a>
-                        <a href="/dict/pl/n.html">N</a>
-                        <a href="/dict/pl/m.html">M</a>
-                        <a href="/dict/pl/o.html">O</a>
-                        <a href="/dict/pl/p.html">P</a>
-                        <a href="/dict/pl/r.html">R</a>
-                        <a href="/dict/pl/s.html">S</a>
-                        <a href="/dict/pl/%C5%9B.html">Ś</a>
-                        <a href="/dict/pl/t.html">T</a>
-                        <a href="/dict/pl/u.html">U</a>
-                        <a href="/dict/pl/w.html">W</a>
-                        <a href="/dict/en/y.html">Y</a>
-                        <a href="/dict/en/x.html">X</a>
-                        <a href="/dict/pl/z.html">Z</a>
-                        <a href="/dict/pl/%C5%BC.html">Ż</a>
-                    </strong></p>
+                <div class="col-sm-10">
+                    <h4 class="dic-lang dic-word">{{ page.pho }} {{ page.morse }}</h4>
+                    {{ content }}
+                </div>
+                <div class="col-sm-2">
+                    {% if page.title != 'ś' and page.title != 'ż' and l < 2 %}
+                    <img src="/img/letters/{{page.title}}.png"/>
+                    {% endif %}
                 </div>
             </div>
             <div class="row">
@@ -66,7 +50,6 @@
                         {% endif %}
                         {% endfor %}
                     </ul>
-                    {{ content }}
                     </p>
                 </div>
             </div>
@@ -77,7 +60,7 @@
         <div class="col-sm-3">
             {% include social_btn.html %}
         </div>
-    </div>
+    </div>  
 </div>
 
 {% include footer.html %}

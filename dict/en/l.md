@@ -1,7 +1,7 @@
 ---
 title: l
 layout: dict_letter
-morse: · ‒ · ·
+morse: • ‒ • •
 pho: Lima
 ---
-> The ship is quarantined.
+> You should stop your vessel instantly.
