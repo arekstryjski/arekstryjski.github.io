@@ -5,6 +5,7 @@ layout: dict_word
 desc: Angielsko-Polski słownik żeglarski
 date: 2013-12-27
 cat: rigging
+sub: stay
 ---
 
 Stalowa linka - sztag [[stay](/dict/stay.html)] - biegnąca ze szczytu masztu [[mast](/dict/mast.html)] 
@@ -19,6 +20,3 @@ W języku angielskim nie ma rozróżnienia na:
 ![running backstay](/img/dict/running_backstay.png)
 
 
-*zobacz też:*
-
-* [stay](/dict/stay.html)

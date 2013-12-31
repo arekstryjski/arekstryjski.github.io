@@ -18,7 +18,9 @@ hamlet
 
 PL:
 ---
-lik
+liklinka
+stępka
+
 
 
 

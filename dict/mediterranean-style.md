@@ -6,7 +6,7 @@ date: 2013-12-29
 cat: mooring
 ---
 
-Dosłownie *cumowanie na styl śródziemnomorski*.  
+Dosłownie: *cumowanie w stylu śródziemnomorskim*.  
 
 Cumowanie rufą (albo czasem dziobem) do pomostu, rzucając z dziobu kotwicę, 
 albo wykorzystując specjalną linkę cumowniczą na stałe przymocowana do dna portu/mariny.
