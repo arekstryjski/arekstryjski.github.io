@@ -6,6 +6,8 @@ date: 2013-12-27
 cat: navigation
 ---
 
-Pomiar kierunku do jakiegoś obiektu przy użyciu kompasa, podawany w stopniach.
+Pomiar kierunku do jakiegoś obiektu przy użyciu kompasu ręcznego [[hand-bearing compass](/dict/hand-bearing-compass.html)], podawany w stopniach. 
 
-<!-- TODO: link do kompas -->
+<!-- TODO: 3 point bearing -->
+<!-- TODO: wariacja, dewiacja -->
+

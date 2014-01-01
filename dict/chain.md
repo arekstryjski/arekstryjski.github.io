@@ -6,7 +6,7 @@ date: 2013-12-31
 cat: deck
 ---
 
-Łańcuch np. kotwiczny.
+Łańcuch np. kotwiczny [[anchor](/dict/anchor.html)].
 
 *zobacz też:*
 

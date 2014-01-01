@@ -6,4 +6,4 @@ date: 2013-12-30
 cat: deck
 ---
 
-<!-- TODO: opis -->
+Stalowe linki tworzące "płotek" na pokładzie [[deck](/dict/deck.html)].

@@ -1,6 +1,6 @@
 ---
-en: in-mast furling mainsail
-pl: grot rolowany do masztu
+en: in-mast furling
+pl: rolowanie do masztu
 layout: dict_word
 date: 2013-12-31
 cat: sails

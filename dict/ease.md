@@ -7,3 +7,7 @@ cat: sailing
 ---
 
 Powoli i stopniowo wypuszczać linę [[line](/dict/line.html)].
+
+*zobacz też:*
+
+* [sheet-in](/dict/sheet-in.html)

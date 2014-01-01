@@ -10,4 +10,5 @@ Zmienić kurs [[course](/dict/course.html)] jachtu w kierunku przeciwnym do tego
 
 *zobacz też:*
 
+* [luff up](/dict/luff-up.html)
 * [free off](/dict/free-off.html)

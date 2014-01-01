@@ -2,8 +2,8 @@
 en: grab bag
 pl: torba ratunkowa
 layout: dict_word
-date: 2014/01/01
-cat: safety
+date: 2014-01-01
+cat: equipment
 sub: safety-equipment
 ---
 

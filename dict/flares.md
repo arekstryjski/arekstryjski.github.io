@@ -3,7 +3,7 @@ en: flares
 pl: środki sygnalizacyjne
 layout: dict_word
 date: 2013-12-31
-cat: safety
+cat: equipment
 sub: safety-equipment
 ---
 
