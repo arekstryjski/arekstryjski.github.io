@@ -167,3 +167,8 @@ blockquote p {
 .alfabet {
     font-family: monospace;
 }
+
+.dict-tech {
+    font-style: italic;
+    color: #929292
+}

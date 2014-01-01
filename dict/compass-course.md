@@ -4,7 +4,7 @@ pl: kurs kompasowy
 layout: dict_word
 date: 2013-12-29
 cat: navigation
-cat: course
+sub: course
 ---
 
 Kurs który nawigator podaje sternikowi i którym chce by jacht płynął.

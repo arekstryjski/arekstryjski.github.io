@@ -10,4 +10,4 @@ Części burty wystające ponad wodę.
 
 *zobacz też:*
 
-* [overhang](/dict/overhang.html)
+* [free board](/dict/free-board.html)
