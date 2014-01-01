@@ -163,3 +163,7 @@ blockquote p {
     font-weight: bolder;
     text-decoration:underline;
 }
+
+.alfabet {
+    font-family: monospace;
+}

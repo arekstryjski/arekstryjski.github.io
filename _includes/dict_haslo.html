@@ -2,5 +2,8 @@
     <span class="dic-word">{{ page.en }}</span> 
     <span class="glyphicon glyphicon-volume-up no-print" onclick="play(this, '{{ page.en }}');"></span>
 </h4>
-<h4 class="dic-lang">[pl] <span class="dic-word">{{ page.pl }}</span></h4>
+<h4 class="dic-lang">[pl] <span class="dic-word">{{ page.pl }}</span></h4> 
+{% if page.pl2 != null %}        
+<h4 class="dic-lang">&nbsp;&nbsp;&nbsp;&nbsp; <span class="dic-word">{{ page.pl2 }}</span></h4>
+{% endif %}
 <br>

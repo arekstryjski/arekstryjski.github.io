@@ -41,13 +41,13 @@
                         <ul>
                             {% assign words = site.pages | sort: 'name' %}
                             {% for word in words %}
-                            {% if word.en != null %}
-                            {% assign ch = word.en | split : '' %}
-                            {% assign char = ch[0] | downcase %}
-                            {% if char == page.title %}
-                            <li><a href="{{word.url}}">{{ word.en }}</a> - {{ word.pl }} {{word.title}}</li>
-                            {% endif %}
-                            {% endif %}
+                                {% if word.en != null %}
+                                    {% assign ch = word.en | split : '' %}
+                                    {% assign char = ch[0] | downcase %}
+                                    {% if char == page.title %}
+                                        <li><a href="{{word.url}}">{{ word.en }}</a> - {{ word.pl }} {{word.title}}</li>
+                                    {% endif %}
+                                {% endif %}
                             {% endfor %}
                         </ul>
                     </p>

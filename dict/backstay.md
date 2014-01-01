@@ -1,6 +1,7 @@
 ---
 en: backstay 
-pl: achtersztag, baksztag
+pl: achtersztag
+pl2: baksztag
 layout: dict_word
 desc: Angielsko-Polski słownik żeglarski
 date: 2013-12-27

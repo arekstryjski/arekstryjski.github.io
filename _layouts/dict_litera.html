@@ -38,18 +38,25 @@
             <div class="row">
                 <div class="col-sm-12">
                     <p>
-                    <ul>
-                        {% assign words = site.pages | sort: 'name' %}
-                        {% for word in words %}
-                        {% if word.pl != null %}
-                        {% assign ch = word.pl | split : '' %}
-                        {% assign char = ch[0] | downcase %}
-                        {% if char == page.title %}
-                        <li>{{ word.pl }} {{word.title}} - <a href="{{word.url}}">{{ word.en }}</a></li>
-                        {% endif %}
-                        {% endif %}
-                        {% endfor %}
-                    </ul>
+                        <ul>
+                            {% assign words = site.pages | sort: 'name' %}
+                            {% for word in words %}
+                                {% if word.pl != null %}
+                                    {% assign ch = word.pl | split : '' %}
+                                    {% assign char = ch[0] | downcase %}
+                                    {% if char == page.title %}
+                                        <li>{{ word.pl }} {{word.title}} - <a href="{{word.url}}">{{ word.en }}</a></li>
+                                    {% endif %}
+                                {% endif %}
+                                {% if word.pl2 != null %}
+                                    {% assign ch = word.pl2 | split : '' %}
+                                    {% assign char = ch[0] | downcase %}
+                                    {% if char == page.title %}
+                                        <li>{{ word.pl2 }} {{word.title}} - <a href="{{word.url}}">{{ word.en }}</a></li>
+                                    {% endif %}
+                                {% endif %}
+                            {% endfor %}
+                        </ul>
                     </p>
                 </div>
             </div>

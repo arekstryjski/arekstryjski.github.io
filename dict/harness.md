@@ -1,6 +1,7 @@
 ---
 en: harness
-pl: uprząż; szelki bezpieczeństwa
+pl: uprząż
+pl2: szelki bezpieczeństwa
 layout: dict_word
 date: 2014-01-01
 cat: equipment
