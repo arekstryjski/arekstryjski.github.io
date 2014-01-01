@@ -7,6 +7,7 @@ cat: sails
 sub: parts-of-sails
 ---
 
+Przednia krawędź żagla.
+
 ![części żagla](/img/dict/parts_of_a_sail.png)
 
-<!-- TODO: opis -->

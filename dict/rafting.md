@@ -8,8 +8,8 @@ cat: mooring
 
 Cumowanie do innego jachtu.
 
-Etykieta żeglarska wymaga by zapytać sie o zgodę o cumowanie do innego jachtu lub statku.  
-Gdy jacht jest w ten sposób zacumowany przechodzimy na nabrzeże przez dziób yachtu znajdującego sie między nami, a pomostem.
+Etykieta żeglarska wymaga by zapytać się o zgodę o cumowanie do innego jachtu lub statku.  
+Gdy jacht jest w ten sposób zacumowany przechodzimy na nabrzeże przez dziób yachtu znajdującego się między nami, a pomostem.
 
 
 *zobacz też:*

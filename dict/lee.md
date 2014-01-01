@@ -12,3 +12,4 @@ cat: sailing
 * [leeward](/dict/leeward.html)
 * [lee board](/dict/lee-board.html)
 * [lee helm](/dict/lee-helm.html)
+* [lee cloth](/dict/lee-cloth.html)

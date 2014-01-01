@@ -1,10 +1,10 @@
 ---
-en: tide
-pl: pływy
-pl2: prąd morski
+en: Pan-Pan
+pl: Pan-Pan
 layout: dict_word
 date: 2014-01-01
-cat: navigation
+cat: safety
+sub: distress
 ---
 
 <!-- TODO: opis -->

@@ -7,6 +7,6 @@ cat: equipment
 sub: safety-equipment
 ---
 
-Linka zakończona dwoma specjalnymi karabinkami bezpieczeństwa której jeden koniec przypina sie do
+Linka zakończona dwoma specjalnymi karabinkami bezpieczeństwa której jeden koniec przypina się do
 szelek bezpieczeństwa [[harness](/dict/harness.html)], a drugi do pokładu [[deck](/dict/deck.html)]
 np. do jumpsztagu [[jackstay](/dict/jackstay.html)].

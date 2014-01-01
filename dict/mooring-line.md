@@ -8,7 +8,7 @@ cat: mooring
 
 *to samo co: [warp](/dict/warp.html)*
 
-Lina cumownicza.
+Lina cumownicza przymocowana do jachtu i nabrzeża.
 
 *zobacz też:*
 

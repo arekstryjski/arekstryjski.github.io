@@ -7,7 +7,7 @@ cat: knots
 ---
 
 Typ węzła łączącego dwie liny [[line](/dict/line.html)] razem głównie szotów [[sheet](/dict/sheet.html)].   
-Wyróżnia sie dwie odmiany:
+Wyróżnia się dwie odmiany:
 
 * [single sheet bend](/dict/single-sheet-bend.html) - węzeł szotowy
 * [double sheet bend](/dict/double-sheet-bend.html) - węzeł bramszotowy

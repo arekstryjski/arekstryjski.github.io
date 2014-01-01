@@ -4,4 +4,4 @@ layout: dict_letter
 morse: ‒ ‒ ‒
 pho: Oscar
 ---
-> [Man overboard](/dict/man-over-board.html).
+> [Man overboard](/dict/man-overboard.html).

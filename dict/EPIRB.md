@@ -10,4 +10,4 @@ sub: safety-equipment
 Emergency Positioning Indicating Radio Beacon  
 
 Urządzenie ratunkowe wysyłające sygnał radiowy do satelitów i pozwalający służbą ratowniczym odnaleźć jacht, 
-czy tratwę ratunkową [[life raft](/dict/life-raft.html)]. 
+czy tratwę ratunkową [[liferaft](/dict/liferaft.html)]. 

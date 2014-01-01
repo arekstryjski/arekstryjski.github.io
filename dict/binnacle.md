@@ -7,5 +7,5 @@ cat: hull
 ---
 
 Kolumna do której przymocowane jest koło sterowe.   
-Najczęściej znajduje sie na niej również kompas i inne przyrządy nawigacyjne.
+Najczęściej znajduje się na niej również kompas i inne przyrządy nawigacyjne.
 

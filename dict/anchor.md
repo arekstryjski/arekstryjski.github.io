@@ -7,3 +7,7 @@ cat: deck
 ---
 
 Kotwica na jachcie, ale także manewr zakotwiczenia.
+
+*zobacz też:*
+
+* [ground tackle](/dict/ground-tackle.html)

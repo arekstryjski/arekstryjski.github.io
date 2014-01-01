@@ -11,3 +11,4 @@ cat: deck
 *zobacz też:*
 
 * [chain plate](/dict/chain-plate.html)
+* [ground tackle](/dict/ground-tackle.html)

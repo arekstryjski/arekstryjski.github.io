@@ -26,8 +26,9 @@ Słownik podzielony jest na kategorie grupujące razem słowa powiązane ze sob�
 **prowadzenie jachtu:**
 
 * [sailing](/dict/sailing.html) / żegluga    
-* [navigation](/dict/navigation.html) / nawigacja 
 * [mooring](/dict/mooring.html) / cumowanie     
+* [navigation](/dict/navigation.html) / nawigacja 
+* [communication](/dict/communication.html) / komunikacja 
 * [safety](/dict/safety.html) / bezpieczeństwo 
 
 **inne:**

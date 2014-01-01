@@ -1,7 +1,6 @@
 ---
-en: tide
-pl: pływy
-pl2: prąd morski
+en: tidal streams
+pl: prądy morskie
 layout: dict_word
 date: 2014-01-01
 cat: navigation

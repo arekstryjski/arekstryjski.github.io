@@ -7,7 +7,7 @@ cat: equipment
 sub: safety-equipment
 ---
 
-Pojemnik zawierający wyposażenie ratunkowe, które należy zabrać na tratwę ratunkową [[life raft](/dict/life-raft.html)] 
+Pojemnik zawierający wyposażenie ratunkowe, które należy zabrać na tratwę ratunkową [[liferaft](/dict/liferaft.html)] 
 w momencie opuszczania jachtu.
 
 <!-- TODO: co powinno być w torbie -->

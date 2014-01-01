@@ -6,7 +6,7 @@ date: 2013-12-27
 cat: sailing
 ---
 
-Nazwy określające kurs jachtu względem wiatru. Wyróżnia sie następujące kierunki:
+Nazwy określające kurs jachtu względem wiatru. Wyróżnia się następujące kierunki:
 
 ---------------------------------------------------
 | ilustracja | angielski | polski | kąt   | wiatr wieje |

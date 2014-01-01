@@ -7,6 +7,6 @@ cat: sails
 sub: parts-of-sails
 ---
 
-![części żagla](/img/dict/parts_of_a_sail.png)
+Tylna krawędź żagla od rogu fałowego [[head](/dict/head.html)] do rogu szotowego [[clew](/dict/clew.html)]. 
 
-<!-- TODO: opis -->
+![części żagla](/img/dict/parts_of_a_sail.png)
