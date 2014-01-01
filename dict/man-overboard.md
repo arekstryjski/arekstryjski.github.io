@@ -1,5 +1,5 @@
 ---
-en: men overboard
+en: man overboard
 pl: człowiek za burtą
 layout: dict_word
 date: 2013-12-29

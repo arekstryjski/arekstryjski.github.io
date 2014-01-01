@@ -33,7 +33,7 @@ Sygnał alarmowy nadawany przez radio VHF na kanale 16 w sytuacji zagrożenia i 
 
 * podając pozycję używamy długości [[longitude](/dict/longitude.html)] i szerokości [[latitude](/dict/latitude.html)] geograficznej, 
 albo odległości i kierunku od punktu orientacyjnego [[landmark](/dict/landmark.html)] np. wyspy czy przylądka
-* podając liczbę osób nie zapomnijmy o sobie i osobie poszkodowanej np. człowieku za burtą [[mantoverboard](/dict/man-overboard.html)]
+* podając liczbę osób nie zapomnijmy o sobie i osobie poszkodowanej np. człowieku za burtą [[man overboard](/dict/man-overboard.html)]
 * po wypowiedzeniu *over* nie zapomnijmy zwolnić przycisku służącego do nadawania.
 * normalnie radio VHF może obsługiwać jedynie osoba posiadająca odpowiednie uprawnienia, jednak Mayday powinna nadać każda osoba do tego zdolna.
 
