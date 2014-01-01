@@ -28,7 +28,6 @@ Słownik podzielony jest na kategorie grupujące razem słowa powiązane ze sob�
 * [sailing](/dict/sailing.html) / żegluga    
 * [navigation](/dict/navigation.html) / nawigacja 
 * [mooring](/dict/mooring.html) / cumowanie     
-* [distress](/dict/distress.html) / sytuacje awaryjne 
 * [safety](/dict/safety.html) / bezpieczeństwo 
 
 **inne:**

@@ -3,7 +3,8 @@ en: flares
 pl: środki sygnalizacyjne
 layout: dict_word
 date: 2013-12-31
-cat: distress
+cat: safety
+sub: safety-equipment
 ---
 
 Środki pirotechniczne używane w celu zwrócenia na siebie uwagi i/lub zakomunikowania innym że znajdujemy się 
@@ -21,6 +22,8 @@ Wyróżnia się następujące rodzaje rakiet:
 | orange smoke | pomarańczowy dym  | użyta by pomóc odnaleźć jacht z powietrza | 2 |
 
 \* *podane liczby dla obszarów 2 i 3 [[area of operation](/dict/area-of-operation.html)]*
+
+![flares](/img/dict/flares.jpg)
 
 
 

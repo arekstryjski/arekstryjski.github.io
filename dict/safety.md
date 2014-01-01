@@ -5,6 +5,10 @@ layout: dict_cat
 date: 2013-12-31
 ---
 
-<!-- TODO: opis -->
+podkategorie:
+-------------
+* [distress](/dict/distress.html)
+* [safety equipment](/dict/safety-equipment.html)
+
 
 
