@@ -1,0 +1,29 @@
+---
+layout: nil
+---            
+[
+    {% for p in site.pages %}
+        {% if p.pl != null %}
+        {
+            "title"    : "{{ p.en | escape }} / {{ p.pl | escape }}",
+            "category" : "",
+            "url"      : "{{ p.url }}",
+            "date"     : "{{ p.date }}"
+        },
+        {% endif %} {% if p.pl2 != null %}
+        {
+            "title"    : "{{ p.en | escape }} / {{ p.pl2 | escape }}",
+            "category" : "",
+            "url"      : "{{ p.url }}",
+            "date"     : "{{ p.date }}"
+        },
+        {% endif %}            
+    {% endfor %}
+    {
+        "title"    : "słownik żeglarski",
+        "category" : "",
+        "url"      : "/dict/index.html",
+        "date"     : "2014-01-01"
+    }
+]            
+    

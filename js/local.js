@@ -91,6 +91,8 @@
         table();
         mainPageLayout();
         translateDate();
+
+        $('.quick-search-field').simpleJekyllSearch();
     });
 
 }(jQuery));
