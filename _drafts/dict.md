@@ -19,7 +19,6 @@ hamlet
 
 PL:
 ---
-liklinka
 stępka
 
 
