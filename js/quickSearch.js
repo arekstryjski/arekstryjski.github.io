@@ -2,11 +2,11 @@
     $.fn.simpleJekyllSearch = function(options) {
         var settings = $.extend({
             jsonFile            : '/dict/search.json',
-            template            : '<a href="{url}" title="{title}">{title}</a><br>',
-            searchResults       : '.results',
-            searchResultsTitle  : '<h4>wyniki</h4>',
+            template            : '<li role="presentation"><a role="menuitem" tabindex="-1" href="{url}">{title}</a></li>',
+            searchResults       : '#quick_search_results',
+            searchResultsTitle  : '',
             limit               : '10',
-            noResults           : '<p><small>nic nie znaleziono...</small></p>'
+            noResults           : '<li role="presentation"><a role="menuitem" tabindex="-1" href="/dict/index.html">nic nie znaleziono...</a></li>'
         }, options);
 
         var jsonData = [],
@@ -51,6 +51,10 @@
                     clearSearchResults();
                 }
             });
+
+            $("#quick_search_field").focusout(function() {
+                clearSearchResults();
+            });
         }
 
         function performSearch(str){
@@ -82,12 +86,15 @@
                     });
                     searchResults.append($(output));
                 }
+                $('#quick_search_results').dropdown('toggle');
             }else{
                 searchResults.append( settings.noResults );
+                $('#quick_search_results').dropdown('toggle');
             }
-        }
+        }        
         function clearSearchResults(){
             searchResults.children().remove();
+            $('.input-group.open').removeClass('open');
         }
     }
 }(jQuery));

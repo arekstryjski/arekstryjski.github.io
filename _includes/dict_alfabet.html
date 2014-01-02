@@ -1,6 +1,10 @@
-{% assign lang = include.lang %}
-<p class="no-print alfabet">
-<strong>
+<div class="row no-print">
+    <div class="col-sm-8">
+
+        <div class="input-group">
+            <span class="input-group-addon alfabet">
+                
+    {% assign lang = include.lang %}
     {% if page.title == 'a' %}
     <a class="dict_letter_select" href="/dict/{{lang}}/a.html">A</a>
     {% else %}
@@ -172,12 +176,23 @@
     <a href="/dict/{{lang}}/%C5%BC.html">Ż</a>
     {% endif %}
     {% endif %}
-</strong>
-&nbsp;
+
 {% if lang == 'pl' %}
-<a href="/dict/en/"><small>angielski</small></a>
+<a href="/dict/en/"><small>[en]</small></a>
 {% endif %}
 {% if lang == 'en' %}
-<a href="/dict/pl/"><small>polski</small></a>
+<a href="/dict/pl/"><small>[pl]</small></a>
 {% endif %}
-</p>
+            </span>
+
+            <input id="quick_search_field" type="text" class="quick-search-field form-control" placeholder="wpisz słowo" size="100">
+            <!--<ul id="quick_search_results" class="dropdown-menu pull-right" role="menu" aria-labelledby="quick_search_field">-->
+            <!--</ul>  -->
+            
+            <p id="quick_search_results"></p>
+            
+        </div>
+    </div>
+</div>
+
+    
