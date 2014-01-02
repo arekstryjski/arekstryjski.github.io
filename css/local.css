@@ -159,13 +159,17 @@ blockquote p {
     font-weight: bold;
 }
 
-.dict_letter_select {
-    font-weight: bolder;
-    text-decoration:underline;
+.alfabet_select {
+    color: #000000;
 }
 
 .alfabet {
     font-family: monospace;
+    font-size: 11pt;
+}
+
+.alfabet_lang {
+    font-size: 7pt;
 }
 
 .dict-tech {

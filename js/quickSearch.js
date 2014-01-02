@@ -2,11 +2,11 @@
     $.fn.simpleJekyllSearch = function(options) {
         var settings = $.extend({
             jsonFile            : '/dict/search.json',
-            template            : '<li role="presentation"><a role="menuitem" tabindex="-1" href="{url}">{title}</a></li>',
+            template            : '<li role="presentation"><a class="quick_search_link" role="menuitem" tabindex="-1" href="{url}">{title}</a></li>',
             searchResults       : '#quick_search_results',
             searchResultsTitle  : '',
-            limit               : '10',
-            noResults           : '<li role="presentation"><a role="menuitem" tabindex="-1" href="/dict/index.html">nic nie znaleziono...</a></li>'
+            limit               : '25',
+            noResults           : '<li role="presentation"><a class="quick_search_link" role="menuitem" tabindex="-1" href="/dict/index.html">nic nie znaleziono...</a></li>'
         }, options);
 
         var jsonData = [],
@@ -51,10 +51,14 @@
                     clearSearchResults();
                 }
             });
-
-            $("#quick_search_field").focusout(function() {
-                clearSearchResults();
+            
+            searchResults.on('click', 'a.quick_search_link', function(event) {
+                window.open($(this).attr("href"), "_self");
             });
+
+            $(':not(a.quick_search_link)').click(function() {
+                $('.input-group.open').removeClass('open');
+            })
         }
 
         function performSearch(str){
@@ -62,11 +66,9 @@
 
             for (var i = 0; i < jsonData.length; i++) {
                 var obj = jsonData[i];
-                for (key in obj) {
-                    if (obj.hasOwnProperty(key) && obj[key].toLowerCase().indexOf(str.toLowerCase()) >= 0){
-                        matches.push(obj);
-                        break;
-                    }
+                if (obj['title'].toLowerCase().indexOf(str.toLowerCase()) >= 0)
+                {
+                    matches.push(obj);
                 }
             }
             return matches;
@@ -76,7 +78,7 @@
             clearSearchResults();
 
             searchResults.append( $(settings.searchResultsTitle) );
-
+            
             if(m && m.length){
                 for (var i = 0; i < m.length && i < settings.limit; i++) {
                     var obj = m[i];
@@ -88,7 +90,7 @@
                 }
                 $('#quick_search_results').dropdown('toggle');
             }else{
-                searchResults.append( settings.noResults );
+                searchResults.append( settings.noResults );                
                 $('#quick_search_results').dropdown('toggle');
             }
         }        
