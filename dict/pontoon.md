@@ -6,7 +6,7 @@ date: 2013-12-30
 cat: port
 ---
 
-Ponton służący do cumowania jachtów.  
+Pływająca platforma do której cumują [[mooring](/dict/mooring.html)] jachty.  
 
 Ponieważ ponton unosi się na wodzie i podnosi oraz opada razem z pływami [[tide](/dict/tide.html)] 
 umożliwia on wygodne zacumowanie jachtu na wodach pływowych - nie ma potrzeby luzowania [[ease](/dict/ease.html)] 

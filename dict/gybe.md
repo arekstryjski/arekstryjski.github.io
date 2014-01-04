@@ -8,14 +8,14 @@ cat: sailing
 
 *to samo co: [jibe](/dict/jibe.html)*
 
-Manewr zmiany kursu [[course](/dict/course.html)] polegający na przejściu rufy jachtu przez wiatr 
-i zmianie halsu [[tack](/dict/tack.html)].
+Manewr zmiany kursu [[course](/dict/course.html)] polegający na przejściu rufy [[stern](/dict/stern.html)] 
+jachtu przez wiatr i zmianie halsu [[tack](/dict/tack_2.html)].
 
 ![gybe](/img/dict/gybe.png)
 
 Komendy i wykonywane czynności:
 
-1. Jacht płynie baksztagiem [[broad reach](/dict/broad-reach.html)] na lewym [[port](/dict/port.html)] halsie [[tack](/dict/tack.html)].   
+1. Jacht płynie baksztagiem [[broad reach](/dict/broad-reach.html)] na lewym halsie [[port tack](/dict/port-tack.html)].   
    Sternik wydaje komedę:  
 
          Prepare to jibe! 
@@ -28,11 +28,16 @@ Komendy i wykonywane czynności:
          Bearing away! 
 
 3. Jacht płynie z wiatrem [[downwind](/dict/downwind.html)], bum [[boom](/dict/boom.html)] przechodzi na druga stronę i jest luzowany.  
+   Gdy fok [[jib](/dict/jib.html)] przestaje pracować jest przeciągany na drugą stronę.  
    Krótko przed tym jak bum zacznie przechodzić na druga stronę yachtu, sternik wydaje komedę:   
 
          Jibe-ho! 
     
 4. Ustawienie żagli na nowym halsie [[tack](/dict/tack.html)].
 
-5. Jacht płynie baksztagiem [[broad reach](/dict/broad-reach.html)] na prawym [[starboard](/dict/starboard.html)] halsie [[tack](/dict/tack.html)]. 
+5. Jacht płynie baksztagiem [[broad reach](/dict/broad-reach.html)] na prawym halsie [[starboard tack](/dict/starboard-tack.html)]. 
+
+*zobacz też:*
+
+* [tack](/dict/tack.html)
 

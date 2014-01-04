@@ -7,3 +7,7 @@ cat: rigging
 ---
 
 Szot [[sheet](/dict/sheet.html)] który w danym momencie nie jest używany.
+
+*zobacz też:*
+
+* [working sheet](/dict/working-sheet.html)
