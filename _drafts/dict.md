@@ -32,3 +32,4 @@ stępka
 TODO
 -------
 * page title on letter is crap
+* nothing found zmień na request translation
