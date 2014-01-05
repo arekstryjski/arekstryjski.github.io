@@ -3,8 +3,8 @@ en: genoa
 pl: genua
 layout: dict_word
 date: 2013-12-31
-cat: sails
-sub: headsail
+cat: rig
+sub: types-of-sails
 ---
 
 Żagiel przedni [[headsail](/dict/headsail.html)] którego długość jest większa niż długość pokładu [[deck](/dict/deck.html)] 

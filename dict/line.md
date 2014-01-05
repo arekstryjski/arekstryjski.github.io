@@ -3,7 +3,7 @@ en: line
 pl: lina
 layout: dict_word
 date: 2013-12-27
-cat: rigging
+cat: rig
 ---
 
 Lina której nadano na jachcie jakąś funkcję.

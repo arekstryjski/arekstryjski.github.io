@@ -31,4 +31,3 @@ stępka
 TODO
 -------
 * page title on letter is crap
-* 'to samo co' na dole

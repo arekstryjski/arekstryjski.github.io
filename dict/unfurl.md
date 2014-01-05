@@ -3,7 +3,7 @@ en: unfurl
 pl: rozwinąć żagle
 layout: dict_word
 date: 2013-12-31
-cat: sails
+cat: sailing
 ---
 
 Rozwinąć żagle.

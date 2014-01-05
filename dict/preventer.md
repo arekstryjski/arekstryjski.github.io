@@ -3,7 +3,8 @@ en: preventer
 pl: lina zabezpieczająca
 layout: dict_word
 date: 2014-01-05
-cat: rigging
+cat: rig
+sub: running-rigging
 ---
 
 Lina zabezpieczająca bum od gwałtownego przelecenia na drugą stronę jachtu w sposób niekontrolowany.  

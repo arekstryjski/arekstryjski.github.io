@@ -3,7 +3,8 @@ en: halyard
 pl: fał
 layout: dict_word
 date: 2013-12-30
-cat: rigging
+cat: rig
+sub: running-rigging
 ---
 
 Lina służąca do wciągnięcia żagla na maszt.

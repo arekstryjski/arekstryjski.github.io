@@ -3,7 +3,7 @@ en: mainsail
 pl: grot
 layout: dict_word
 date: 2013-12-27
-cat: sails
+cat: rig
 sub: types-of-sails
 ---
 

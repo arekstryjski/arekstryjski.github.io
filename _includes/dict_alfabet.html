@@ -1,7 +1,9 @@
 <div id="quick_search" class="row no-print">
-    <div class="col-sm-8">
+    <div class="col-sm-9">
 
         <div class="input-group">
+
+            <input id="quick_search_field" type="text" class="quick-search-field form-control" placeholder="wpisz słowo" size="100">
             <span class="input-group-addon alfabet">
                 
     {% assign lang = include.lang %}
@@ -94,6 +96,14 @@
     {% else %}
     <a href="/dict/{{lang}}/o.html">O</a>
     {% endif %}
+                
+    {% if lang == 'pl' %}
+    {% if page.title == 'ó' %}
+    <a class="alfabet_select" href="/dict/{{lang}}/%C3%B3.html">Ó</a>
+    {% else %}
+    <a href="/dict/{{lang}}/%C3%B3.html">Ó</a>
+    {% endif %}
+    {% endif %}
 
     {% if page.title == 'p' %}
     <a class="alfabet_select" href="/dict/{{lang}}/p.html">P</a>
@@ -185,11 +195,9 @@
     {% endif %}
             </span>
 
-            <input id="quick_search_field" type="text" class="quick-search-field form-control" placeholder="wpisz słowo" size="100">
-            <ul id="quick_search_results" class="dropdown-menu pull-right" role="menu" aria-labelledby="quick_search_field">
-                <a href="/dict/index.html">fix</a>
-            </ul>                         
-        </div>        
+            <ul id="quick_search_results" class="dropdown-menu" role="menu" aria-labelledby="quick_search_field"></ul>                                     
+        </div>       
+        
     </div>
 </div>
 

@@ -3,7 +3,7 @@ en: chain
 pl: łańcuch
 layout: dict_word
 date: 2013-12-31
-cat: deck
+cat: equipment
 ---
 
 Łańcuch np. kotwiczny [[anchor](/dict/anchor.html)].

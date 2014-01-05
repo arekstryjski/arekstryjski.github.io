@@ -3,7 +3,7 @@ en: rope
 pl: lina
 layout: dict_word
 date: 2013-12-27
-cat: rigging
+cat: rig
 ---
 
 Określenie dotyczy materiału z jakiego wykonane są liny na jachcie.  

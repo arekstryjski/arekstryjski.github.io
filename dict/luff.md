@@ -3,7 +3,7 @@ en: luff
 pl: lik przedni
 layout: dict_word
 date: 2013-12-29
-cat: sails
+cat: rig
 sub: parts-of-sails
 ---
 

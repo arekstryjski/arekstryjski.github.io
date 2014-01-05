@@ -3,7 +3,8 @@ en: reefing lines
 pl: linki refowe
 layout: dict_word
 date: 2013-12-29
-cat: rigging
+cat: rig
+sub: running-rigging
 ---
 
 Liny używane do refowania grota [[mainsail](/dict/mainsail.html)].

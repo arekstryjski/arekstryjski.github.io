@@ -3,7 +3,8 @@ en: foil
 pl: likszpara
 layout: dict_word
 date: 2013-12-31
-cat: rigging
+cat: rig
+sub: running-rigging
 ---
 
 Plastikowa lub metalowa prowadnica przymocowana do sztagu foka [[forestay](/dict/forestay.html)] 

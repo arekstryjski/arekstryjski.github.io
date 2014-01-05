@@ -3,8 +3,8 @@ en: forestay
 pl: sztag foka
 layout: dict_word
 date: 2013-12-31
-cat: rigging
-sub: stay
+cat: rig
+sub: standing-rigging
 ---
 
 Stalowa linka - sztag [[stay](/dict/stay.html)] - biegnąca ze szczytu masztu [[mast](/dict/mast.html)] 

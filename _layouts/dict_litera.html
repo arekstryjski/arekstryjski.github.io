@@ -19,14 +19,14 @@
     {% include dict_alfabet.html lang="pl" %}
     {% include dict_crumbs.html %}
     <div class="row">
-        <div class="col-sm-8">
+        <div class="col-sm-9">
             <div class="row">
                 <div class="col-sm-10">
                     <h4 class="dic-lang dic-word">{{ page.pho }} {{ page.morse }}</h4>
                     {{ content }}
                 </div>
                 <div class="col-sm-2">
-                    {% if page.title != 'ś' and page.title != 'ż' and l < 2 %}
+                    {% if page.title != 'ś' and page.title != 'ż' and page.title != 'ó' and l < 2 %}
                     <img src="/img/letters/{{page.title}}.png"/>
                     {% endif %}
                 </div>
@@ -56,9 +56,6 @@
                     </p>
                 </div>
             </div>
-        </div>
-        <div class="col-sm-1">
-            <div></div>
         </div>
         <div class="col-sm-3">
             {% include social_btn.html %}

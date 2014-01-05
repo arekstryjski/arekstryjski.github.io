@@ -3,7 +3,7 @@ en: binnacle
 pl: kolumna steru
 layout: dict_word
 date: 2013-12-27
-cat: hull
+cat: deck
 ---
 
 Kolumna do której przymocowane jest koło sterowe.   

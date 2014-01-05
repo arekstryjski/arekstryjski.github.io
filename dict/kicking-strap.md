@@ -3,7 +3,8 @@ en: kicking strap
 pl: obciągacz bomu
 layout: dict_word
 date: 2014-01-01
-cat: rigging
+cat: rig
+sub: running-rigging
 ---
 
 Lina służąca do pociągnięcia bumu [[boom](/dict/boom.html)] w dół.  

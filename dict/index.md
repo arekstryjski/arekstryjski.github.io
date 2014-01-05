@@ -1,26 +1,44 @@
 ---
 title: słownik żeglarski 
 layout: dict
-desc: Angielsko-Polski słownik żeglarski. Angielskie słownictwo i terminologia żeglarska pomocna w ukończeniu kursów RYA. 
+desc: Angielsko-Polski słownik żeglarski. Angielskie słownictwo i terminologia żeglarska. 
 date: 2013-12-31
 ---
-Angielsko-Polski słownik żeglarski ma na celu pomóc nie tylko osobą pragnącym kształci się na kursach żeglarskich RYA, 
-a także wszystkim zainteresowanym żeglarstwem.   
 
-Mam nadzieję że dzięki niemu angielskie słownictwo żeglarskie stanie się bardziej zrozumiałe.
+[![słownik żeglarski](/img/logo/beta.jpg)](class:img-right)
 
+cel
+---
+
+Tworząc Angielsko-Polski Słownik Żeglarski chciałem nie tylko przetłumaczyć angielską terminologię żeglarską, 
+ale przede wszystkim prosto wytłumaczyć opisywane terminy.  
+Terminologia żeglarska wydaje się często obca i niezrozumiała nawet dla osób biegle posługujących się danym językiem.
+
+dla kogo
+--------
+ 
+Myślałem głównie o osobach, tak jak ja kiedyś, pragnących szkolić się w brytyjskim systemie RYA.  
+Mam jednak nadzieję, że będzie on przydatny dla wszystkich żeglarzy pragnących poznać angielską terminologię żeglarską.
+ 
+jak korzystać
+-------------
+ 
+Jeśli poszukujesz tłumaczenia jakiegoś słowa wpisz je w pole szybkiego wyszukiwania znajdujące w lewym górnym rogu strony. 
+Ewentualnie kliknij literę alfabetu na którą dane słowo się zaczyna.
+ 
+Znalazłszy się na stronie opisującej dany termin mam nadzieję, że klikniesz na link do kolejnego słowa 
+i zaczniesz w ten sposób poznawać nowe terminy.
+
+Jeśli nie wiesz gdzie zacząć wybierz jedna z kategorii wymienionych poniżej.
 
 kategorie
 ----------
-
-Słownik podzielony jest na kategorie grupujące razem słowa powiązane ze sobą tematycznie:
 
 **części jachtu:**
 
 * [hull](/dict/hull.html) / kadłub
 * [deck](/dict/deck.html) / pokład
-* [sails](/dict/sails.html) / żagle
-* [rigging](/dict/rigging.html) / olinowanie    
+* [rig](/dict/rig.html) / ożaglowanie   
 * [equipment](/dict/equipment.html) / wyposażenie   
    
 **prowadzenie jachtu:**
@@ -35,9 +53,6 @@ Słownik podzielony jest na kategorie grupujące razem słowa powiązane ze sob�
 
 * [knots](/dict/knots.html) / węzły 
 * [port](/dict/port.html) / w porcie 
-
-
-Alternatywnie wyszukaj poszukiwanego słowa wpisując je w wyszukiwarce w prawym górnym rogu strony.
   
   
 pomóż

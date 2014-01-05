@@ -3,7 +3,8 @@ en: luff groove
 pl: likszpara
 layout: dict_word
 date: 2014-01-01
-cat: rigging
+cat: rig
+sub: running-rigging
 ---
 
 Szpara w prowadnicy [[foil](/dict/foil.html)] przymocowanej do sztagu foka [[forestay](/dict/forestay.html)] 

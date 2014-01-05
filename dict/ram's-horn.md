@@ -3,7 +3,8 @@ en: ram's horn
 pl: 
 layout: dict_word
 date: 2014-01-05
-cat: deck
+cat: rig
+sub: spars
 ---
 
 Metalowy hak na maszcie [[mast](/dict/mast.html)] na który nakłada sie ucho szotowe [[cringle](/dict/cringle.html)] 

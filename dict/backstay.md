@@ -5,8 +5,8 @@ pl2: baksztag
 layout: dict_word
 desc: Angielsko-Polski słownik żeglarski
 date: 2013-12-27
-cat: rigging
-sub: stay
+cat: rig
+sub: standing-rigging
 ---
 
 Stalowa linka - sztag [[stay](/dict/stay.html)] - biegnąca ze szczytu masztu [[mast](/dict/mast.html)] 

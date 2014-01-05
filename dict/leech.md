@@ -3,7 +3,7 @@ en: leech
 pl: lik wolny (tylni)
 layout: dict_word
 date: 2013-12-29
-cat: sails
+cat: rig
 sub: parts-of-sails
 ---
 

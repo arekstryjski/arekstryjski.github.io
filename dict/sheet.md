@@ -3,7 +3,8 @@ en: sheet
 pl: szot
 layout: dict_word
 date: 2013-12-29
-cat: rigging
+cat: rig
+sub: running-rigging
 ---
 
 <!-- TODO: opis -->

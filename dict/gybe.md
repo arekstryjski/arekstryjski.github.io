@@ -6,8 +6,6 @@ date: 2013-12-29
 cat: sailing
 ---
 
-*to samo co: [jibe](/dict/jibe.html)*
-
 Manewr zmiany kursu [[course](/dict/course.html)] polegający na przejściu rufy [[stern](/dict/stern.html)] 
 jachtu przez wiatr i zmianie halsu [[tack](/dict/tack_2.html)].
 
@@ -36,6 +34,8 @@ Komendy i wykonywane czynności:
 4. Ustawienie żagli na nowym halsie [[tack](/dict/tack.html)].
 
 5. Jacht płynie baksztagiem [[broad reach](/dict/broad-reach.html)] na prawym halsie [[starboard tack](/dict/starboard-tack.html)]. 
+
+*to samo co: [jibe](/dict/jibe.html)*
 
 *zobacz też:*
 
