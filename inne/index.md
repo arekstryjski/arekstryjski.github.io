@@ -6,7 +6,7 @@ keywords: Arek Stryjski, Stryjski, IT
 desc: Artykuły na tematy nie związane z żeglarstwem. . 
 ---
 
-Wszystko to co nie znalazło sie w innej sekcji.  
+Wszystko to co nie znalazło się w innej sekcji.  
 
 
 Na początek tylko jeden artykuł:

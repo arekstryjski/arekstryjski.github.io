@@ -1,0 +1,42 @@
+{% include header.html %}
+
+<div class="jumbotron post-jumbotron">
+    <div class="container">
+        <h1 class="post-title">{{ page.en }} - {{ page.pl }}</h1>
+        <h6 class="post-date">angielsko - polski słownik żeglarski</h6>
+        <h6 class="post-address">{{ site.url }}{{ page.url }}</h6>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+            <div class="row">
+                <div class="col-sm-12">
+                    {% include dict_alfabet.html lang="en" %}
+                </div>
+                <div class="col-sm-12">
+                    {% include dict_crumbs.html %}
+                </div>
+                <div class="col-sm-12">
+                    {% include dict_haslo.html %}
+                    {{ content }}
+                    <h2>hasła w tej kategorii: </h2>
+                    <p><ul>
+                        {% assign words = site.pages | sort: 'url' %}
+                        {% for w in words %}
+                        {% if w.cat == page.en and w.url contains 'dict' %}
+                            <li><a href="{{w.url}}">{{ w.en }}</a> - {{ w.pl }}</li>
+                        {% endif %}
+                        {% endfor %}
+                    </ul></p>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-3">
+            {% include social_btn.html %}
+        </div>
+    </div>
+</div>
+
+{% include footer.html %}
