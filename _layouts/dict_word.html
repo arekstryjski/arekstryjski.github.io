@@ -9,22 +9,27 @@
         <h6 class="post-address">{{ site.url }}{{ page.url }}</h6>
     </div>
 </div>
-<div class="container">
-    {% include dict_alfabet.html lang="en" %}
-    {% include dict_crumbs.html %}
+<div class="container">    
     <div class="row">
-        <div class="col-sm-8">
-            {% include dict_haslo.html %}
-            {{ content }}
-            {% if page.sub != null %}
-            <p>
-                <span class="dict-tech">zobacz także inne hasła w podkategorii: </span>
-                <a href="/dict/{{page.sub}}.html">{{page.sub | replace: '-', ' '}}</a>
-            </p>
-            {% endif %}
-        </div>
-        <div class="col-sm-1">
-            <div></div>
+        <div class="col-sm-9">
+            <div class="row">
+                <div class="col-sm-12">
+                    {% include dict_alfabet.html lang="en" %}
+                </div>
+                <div class="col-sm-12">
+                    {% include dict_crumbs.html %}
+                </div>
+                <div class="col-sm-12">
+                    {% include dict_haslo.html %}
+                    {{ content }}
+                    {% if page.sub != null %}
+                    <p>
+                        <span class="dict-tech">zobacz także inne hasła w podkategorii: </span>
+                        <a href="/dict/{{page.sub}}.html">{{page.sub | replace: '-', ' '}}</a>
+                    </p>
+                    {% endif %}
+                </div>
+            </div>
         </div>
         <div class="col-sm-3">
             {% include social_btn.html %}

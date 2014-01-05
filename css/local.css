@@ -76,11 +76,9 @@ h2 {
 }
 
 .sub-menu {
-    background-color: #eeeeee;
     border-radius: 5px;
-    padding: 20px;
-    border: thin solid #dddddd;
 }
+
 
 .nav-compact > li > a {
     padding: 10px 5px;

@@ -9,19 +9,24 @@
     </div>
 </div>
 <div class="container">
-    {% include dict_alfabet.html lang="en" %}
     <div class="row">
-        <div class="col-sm-8">
-            <div>{{ content }}</div>
-        </div>
-        <div class="col-sm-1">
-            <div></div>
+        <div class="col-sm-9">
+            <div class="row">
+                <div class="col-sm-12">
+                    {% include dict_alfabet.html lang="en" %}
+                </div>
+                <div class="col-sm-12">
+                    {{ content }}
+                </div>
+                <div class="col-sm-12">
+                    {% include back_btn.html goto="" %}
+                </div>
+            </div>
         </div>
         <div class="col-sm-3">
             {% include social_btn.html %}
         </div>
-    </div>
-    {% include back_btn.html goto="" %}
+    </div>    
 </div>
 
 {% include footer.html %}

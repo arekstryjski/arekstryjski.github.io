@@ -15,52 +15,60 @@
     </div>
 </div>
 
-<div class="container">
-    {% include dict_alfabet.html lang="pl" %}
-    {% include dict_crumbs.html %}
+<div class="container">     
     <div class="row">
         <div class="col-sm-9">
             <div class="row">
-                <div class="col-sm-10">
-                    <h4 class="dic-lang dic-word">{{ page.pho }} {{ page.morse }}</h4>
-                    {{ content }}
-                </div>
-                <div class="col-sm-2">
-                    {% if page.title != 'ś' and page.title != 'ż' and page.title != 'ó' and l < 2 %}
-                    <img src="/img/letters/{{page.title}}.png"/>
-                    {% endif %}
-                </div>
-            </div>
-            <div class="row">
                 <div class="col-sm-12">
-                    <p>
-                        <ul>
-                            {% assign words = site.pages | sort: 'name' %}
-                            {% for word in words %}
-                                {% if word.pl != null %}
-                                    {% assign ch = word.pl | split : '' %}
-                                    {% assign char = ch[0] | downcase %}
-                                    {% if char == page.title %}
-                                        <li>{{ word.pl }} {{word.title}} - <a href="{{word.url}}">{{ word.en }}</a></li>
-                                    {% endif %}
-                                {% endif %}
-                                {% if word.pl2 != null %}
-                                    {% assign ch = word.pl2 | split : '' %}
-                                    {% assign char = ch[0] | downcase %}
-                                    {% if char == page.title %}
-                                        <li>{{ word.pl2 }} {{word.title}} - <a href="{{word.url}}">{{ word.en }}</a></li>
-                                    {% endif %}
-                                {% endif %}
-                            {% endfor %}
-                        </ul>
-                    </p>
+                    {% include dict_alfabet.html lang="en" %}
+                </div>
+                <div class="col-sm-12">
+                    {% include dict_crumbs.html %}
+                </div>
+                <div class="col-sm-12">
+                    <div class="row">
+                        <div class="col-sm-10">
+                            <h4 class="dic-lang dic-word">{{ page.pho }} {{ page.morse }}</h4>
+                            {{ content }}
+                        </div>
+                        <div class="col-sm-2">
+                            {% if page.title != 'ś' and page.title != 'ż' and page.title != 'ó' and l < 2 %}
+                            <img src="/img/letters/{{page.title}}.png"/>
+                            {% endif %}
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <p>
+                                <ul>
+                                    {% assign words = site.pages | sort: 'name' %}
+                                    {% for word in words %}
+                                        {% if word.pl != null %}
+                                            {% assign ch = word.pl | split : '' %}
+                                            {% assign char = ch[0] | downcase %}
+                                            {% if char == page.title %}
+                                                <li>{{ word.pl }} {{word.title}} - <a href="{{word.url}}">{{ word.en }}</a></li>
+                                            {% endif %}
+                                        {% endif %}
+                                        {% if word.pl2 != null %}
+                                            {% assign ch = word.pl2 | split : '' %}
+                                            {% assign char = ch[0] | downcase %}
+                                            {% if char == page.title %}
+                                                <li>{{ word.pl2 }} {{word.title}} - <a href="{{word.url}}">{{ word.en }}</a></li>
+                                            {% endif %}
+                                        {% endif %}
+                                    {% endfor %}
+                                </ul>
+                            </p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
         <div class="col-sm-3">
             {% include social_btn.html %}
         </div>
-    </div>  
+    </div>
 </div>
 
 {% include footer.html %}
