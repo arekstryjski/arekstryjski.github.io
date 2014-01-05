@@ -12,3 +12,5 @@ Na tym kursie jacht płynie pod katem około 180° w stosunku do wiatru.
 
 ![point of sail](/img/dict/points_of_sail.png)
 **E** - na rysunku
+
+*to samo co: [running](/dict/running.html)*

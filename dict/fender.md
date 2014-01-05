@@ -9,3 +9,7 @@ cat: equipment
 Gumowa "poduszka" w kształcie walca lub kuli zwisająca z burt jachtu, gdy jest zacumowany 
 i chroniąca nadwodne części burty [[topside](/dict/topside.html)] przed uszkodzeniem.
 
+*zobacz też:*
+
+* [roving fender](/dict/roving-fender.html)
+

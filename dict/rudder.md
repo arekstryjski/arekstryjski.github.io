@@ -6,4 +6,4 @@ date: 2014-01-05
 cat: hull
 ---
 
-<!-- TODO: opis -->
+Obrotowy płat sterujący jachtem.
