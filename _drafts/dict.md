@@ -2,6 +2,7 @@ http://serwistlumacza.com/content/view/217/34/
 ===================================================
 
 http://comminfo.rutgers.edu/~elfox/terms.html
+http://www.dropanchorhere.com/fsetj/jarr.html
 
 http://www.velmundi.pl/pl,baza_wiedzy,slownik_zeglarski_polsko_angielski.html
 http://www.seamaster.pl/pdf/angielski-dla-zeglarzy.pdf
@@ -30,3 +31,4 @@ stępka
 TODO
 -------
 * page title on letter is crap
+* 'to samo co' na dole
