@@ -2,7 +2,7 @@
 en: barber hauler 
 pl: 
 layout: dict_word
-date: 2013-12-27/
+date: 2013-12-27
 cat: rigging
 ---
 
