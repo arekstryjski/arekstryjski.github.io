@@ -1,0 +1,23 @@
+---
+layout: nil
+---            
+[
+    {% for p in site.pages | sort: 'url' %}
+        {% if p.pl != null %}
+        {
+            "title"    : "{{ p.en | escape }} / {{ p.pl | escape }}",
+            "url"      : "{{ p.url }}"
+        },
+        {% endif %} {% if p.pl2 != null %}
+        {
+            "title"    : "{{ p.en | escape }} / {{ p.pl2 | escape }}",
+            "url"      : "{{ p.url }}"
+        },
+        {% endif %}            
+    {% endfor %}
+    {
+        "title"    : "słownik żeglarski",
+        "url"      : "/dict/index.html"
+    }
+]            
+    

@@ -3,10 +3,10 @@ title: jachting i żeglarstwo
 layout: section
 category: yachting
 keywords: dla załogi, dla skippera, żeglarstwo, yachting, jachting, załoga, skipper, porady
-desc: Informacje i porady żeglarskie. Porady przydatne zarówno dla osób pierwszy raz wybierających sie na rejs jak i dla skipperów.
+desc: Informacje i porady żeglarskie. Porady przydatne zarówno dla osób pierwszy raz wybierających się na rejs jak i dla skipperów.
 ---
 
-Mam nadzieję że informacje które sie tutaj pojawią uznacie za przydatne.
+Mam nadzieję że informacje które się tutaj pojawią uznacie za przydatne.
 
 dla załogi
 -----------

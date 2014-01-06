@@ -30,7 +30,6 @@ kontent
 nowe sekcje
 ===========
 * przepisy kulinarne
-* słownik żeglarski
 
 
 struktura strony

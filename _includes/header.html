@@ -4,17 +4,26 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="{{page.desc}}">
     <meta name="author" content="Arek Stryjski">
+    {% if page.en == null %}
+    <meta name="description" content="{{page.desc}}">
+    {% else %}
+    <meta name="description" content="Angielsko-Polski słownik żeglarski >> {{ page.en }} - {{ page.pl }}">
+    {% endif %}
+
     <link rel="shortcut icon" href="/img/logo/as_small.png">
 
+    {% if page.en == null %}
     <title>{{ page.title }} - Arek Stryjski</title>
+    {% else %}
+    <title>{{ page.en }} - {{ page.pl }} :: słownik żeglarski - Arek Stryjski</title>
+    {% endif %}
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap-theme.min.css">
     <link rel="stylesheet" href="/css/local.css">
-    <link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
+    <link rel="stylesheet" href="/css/print.css" type="text/css" media="print"/>
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -31,10 +40,12 @@
 <body>
 
 <div id="fb-root"></div>
-<script>(function(d, s, id) {
+<script>(function(d, s, id)
+{
     var js, fjs = d.getElementsByTagName(s)[0];
     if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
+    js = d.createElement(s);
+    js.id = id;
     js.src = "//connect.facebook.net/pl_PL/all.js#xfbml=1";
     fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
@@ -53,10 +64,17 @@
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
                 <li><a href="/"><span class="glyphicon glyphicon-home"></span></a></li>
-                <li><a href="/rejsy">rejsy</a></li>
-                <li><a href="/relacje">relacje</a></li>
                 <li class="dropdown">
-                    <a href="/art/html" class="dropdown-toggle" data-toggle="dropdown">artykuły <b class="caret"></b></a>
+                    <a href="/rejsy" class="dropdown-toggle" data-toggle="dropdown">rejsy <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/rejsy">plany</a></li>
+                        <li><a href="/relacje">relacje</a></li>
+                    </ul>
+                </li>
+                <li><a href="/dict">słownik</a></li>
+                <li class="dropdown">
+                    <a href="/art.html" class="dropdown-toggle" data-toggle="dropdown">artykuły <b
+                            class="caret"></b></a>
                     <ul class="dropdown-menu">
                         <li><a href="/yachting">żeglarstwo</a></li>
                         <li><a href="/inne">inne</a></li>
@@ -65,11 +83,10 @@
                         <li class="divider"></li>
                         <li><a href="/archiwum">archiwum</a></li>
                     </ul>
-                </li>   
-            </ul>
-            <ul class="nav navbar-nav navbar-right">
+                </li>
                 <li><a href="/arek">o mnie</a></li>
             </ul>
+            {% include search.html goto="" %}
         </div>
     </div>
 </div>
