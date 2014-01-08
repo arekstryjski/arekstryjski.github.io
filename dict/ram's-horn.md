@@ -8,5 +8,4 @@ sub: spars
 ---
 
 Metalowy hak na maszcie [[mast](/dict/mast.html)] na który nakłada sie ucho szotowe [[cringle](/dict/cringle.html)] 
-grota [[mailsail](/dict/mailsail.html)] podczas refowania [[reefing](/dict/reefing.html)]. 
-grota [[mailsail](/dict/mailsail.html)] podczas refowania [[reef](/dict/reef.html)]. 
+grota [[mainsail](/dict/mainsail.html)] podczas refowania [[reef](/dict/reef.html)]. 

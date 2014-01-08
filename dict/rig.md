@@ -6,7 +6,7 @@ layout: dict_cat
 date: 2014-01-05
 ---
 
-Maszt [[mast](/dict/mast.html)], bum [[boom](/dict/boom.html)], sztagi [[stays](/dict/stays.html)] i żagle [[sails](/dict/sails.html)].
+Maszt [[mast](/dict/mast.html)], bum [[boom](/dict/boom.html)], sztagi [[stay](/dict/stay.html)] i żagle [[sails](/dict/sails.html)].
 
 podkategorie:
 -------------

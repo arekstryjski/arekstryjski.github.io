@@ -25,7 +25,7 @@ Komendy i wykonywane czynności:
 
          Lee-ho! 
 
-3. Jacht płynie na wiatr [[dead ahead](/dict/dead ahead.html)] siłą rozpędu.  
+3. Jacht płynie na wiatr [[dead ahead](/dict/dead-ahead.html)] siłą rozpędu.  
    W momencie gdy fok [[jib](/dict/jib.html)] zacznie samoczynnie przechodzić na drugą stronę jachtu (ale nie wcześniej) 
    szot który do tej pory był wykorzystywany [[working sheet](/dict/working-sheet.html)] jest luzowany [[ease](/dict/ease.html)].  
    Szot który do tej pory był wolny [[lazy sheet](/dict/lazy-sheet.html)] jest wybierany [[haul](/dict/haul.html)].        

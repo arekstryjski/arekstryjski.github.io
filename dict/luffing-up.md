@@ -6,7 +6,7 @@ date: 2014-01-01
 cat: sailing
 ---
 
-Wyostrzyć [[luff up](/dict/luff up.html)] zbyt mocno, co powoduje zwolnienie jachtu.
+Wyostrzyć [[luff up](/dict/luff-up.html)] zbyt mocno, co powoduje zwolnienie jachtu.
 
 *zobacz też:*
 
