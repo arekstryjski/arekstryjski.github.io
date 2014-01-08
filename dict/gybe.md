@@ -18,7 +18,7 @@ Komendy i wykonywane czynności:
 
          Prepare to jibe! 
       
-2. Jacht odpada od wiatru [[bearing away](/dict/bearing-away.html)].
+2. Jacht odpada od wiatru [[bear away](/dict/bear-away.html)].
    Grot [[mainsail](/dict/mainsail.html)] jest wybierany [[haul](/dict/haul.html)] 
    by bum [[boom](/dict/boom.html)] nie przeleciał na druga stronę jachtu niekontrolowanie.  
    Sternik wydaje komedę:  

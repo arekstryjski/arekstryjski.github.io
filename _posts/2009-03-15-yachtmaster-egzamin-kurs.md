@@ -12,11 +12,11 @@ desc: Mój kurs i egzamin na Yachtmaster Offshore w Gibraltarze.
 Mam duże wątpliwości, czy można mnie nazwać polskim żeglarzem. Wszystkie kursy i kwalifikacje robiłem w [RYA](http://www.rya.org.uk/). Pływałem jednak głównie z Polakami, więc pewne porównanie pomiędzy obydwoma systemami jednak mam.
 Mam nadzieję, że ten opis przyda się komuś w przyszłości.
 
-Kurs przygotowawczy i egzamin zorganizowany był przez [Trafalgar Sailing](http://www.trafalgarsailing.co.uk), jedną z 4 szkół żeglarskich w Gibraltarze akredytowanych przez RYA. Z ich usług jestem zadowolony. Wg. opinii zebranych na miejscu wszystkie szkoły w Gibraltarze oferują podobny, dobry standard merytoryczny i obsługi klienta. Zresztą są one powiązane - np. nasz egzaminator jest instruktorem w innej szkole.
+Kurs przygotowawczy i egzamin zorganizowany był przez [Trafalgar Sailing](http://www.trafalgarsailing.co.uk/), jedną z 4 szkół żeglarskich w Gibraltarze akredytowanych przez RYA. Z ich usług jestem zadowolony. Wg. opinii zebranych na miejscu wszystkie szkoły w Gibraltarze oferują podobny, dobry standard merytoryczny i obsługi klienta. Zresztą są one powiązane - np. nasz egzaminator jest instruktorem w innej szkole.
 
 [![marina](/img/old/ym-exam-and-preparation/marina.jpg)](class:img-left)
 
-Dlaczego akurat w [Gibraltarze](/gibraltar-miasto-tysiaca-i-jednej-armaty)? Koniec lutego, to nie jest za bardzo pora by wyruszać na Morze Północne, czy nawet Kanał Angielski. 
+Dlaczego akurat w [Gibraltarze](/gibraltar-miasto-tysiaca-i-jednej-armaty/)? Koniec lutego, to nie jest za bardzo pora by wyruszać na Morze Północne, czy nawet Kanał Angielski. 
 W Gibraltarze panowały warunki prawie letnie. Temperatura od 15 do 20 stopni. Wiatr do 5 Beauforta, ale zafalowanie na zatoce małe. Deszcz tylko jednego dnia.
 Dodatkowo Gibraltar to wody pływowe. Pływy nie są duże, jedynie 1m, ale w cieśninie występuje stały prąd morski, który należy uwzględniać, we wszystkich kalkulacjach.
 Dodatkowo duży ruch statków handlowych, promów i łodzi rybackich wymaga ciągłej uwagi i znajomości przepisów.
