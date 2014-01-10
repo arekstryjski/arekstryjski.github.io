@@ -87,9 +87,9 @@ rejsy przygotowawcze
 ---------------------
 W ramach przygotowań do rejsu w 2014 roku planujemy dwa rejsy:
 
-* tygodniowy rejs na Północnym Atlantyku **[Portugalia - Galicja](http://stryjski.net/grecja-2014)**
+* tygodniowy rejs na Północnym Atlantyku **[Portugalia - Galicja](/portugalia-2014)**
 
-* dwa tygodniowe rejsy w **[Norwegii](http://stryjski.net/norwegia-2014)**
+* dwa tygodniowe rejsy w **[Norwegii](/norwegia-2014)**
 
 Celem rejsów przygotowawczych jest zapoznanie się załogi z jachtem, a także sprawdzenie swoich możliwości w żegludze oceanicznej.
 

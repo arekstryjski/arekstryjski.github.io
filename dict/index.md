@@ -61,7 +61,7 @@ pomóż
 W chwili obecnej w słowniku wpisane są jedynie podstawowe pojęcia żeglarskie przydatne dla każdego członka załogi. 
 Z czasem mam nadzieje go uzupełnić także o bardziej zaawansowane zagadnienia.
 
-Jeśli jakiegoś słowa tu brakuje, chciałbyś coś dodać lub skorygować proszę o [kontakt](http://stryjski.net/arek/email.html)
+Jeśli jakiegoś słowa tu brakuje, chciałbyś coś dodać lub skorygować proszę o [kontakt](/arek/email.html)
 
 Jeśli uznasz ten słownik za pomocny proszę podziel się informacja o nim z innymi klikając na jeden z linków po prawej.
 
