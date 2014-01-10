@@ -39,14 +39,14 @@ Isle of Wight
 
 Znaczenie nazwy wyspy owiane jest tajemnicą.    
 
-Rzymianie nazywali wyspę *vectis*, co w łacinie oznacza *dźwignia*, *zastawka* i miałaby się odnosić do położenia wyspy w Solent. 
+Rzymianie nazywali wyspę *vectis*, co w łacinie oznacza *dźwignia*, *zastawka* i miałaby się odnosić do położenia wyspy w Solent.  
 W językach celtyckich, używanych powszechnie przez mieszkańców wysp brytyjskich w tych czasach, może ono z kolei oznaczać *podróż*, *wyprawa*.  
 
 Inna etymologia łączy nazwę wyspy ze staroangielskim słowem *wight* które pochodzi od germańskiego *wextiz*.  
 Nazwa mogłoby wtedy oznaczać *siostrzaną wyspę* albo *małego towarzysza*.  
 
 Inni tłumaczą te słowo jako *stwór*, *istota* czy *potwór* i Wight byłaby wtedy *Wyspą Stworów*.  
-Taką nazwę mogli pierwsi saksońscy mieszkańcy nadać wyspie, gdyż znajdowano tu wiele kości dinozaurów, 
+Taką nazwę mogli nadać wyspie pierwsi saksońscy mieszkańcy, gdyż znajdowano tu wiele kości dinozaurów, 
 których istnienia nie potrafiono wtedy wytłumaczyć.  
 
 Raczej na pewno *wight* - choć tak samo wymawiane - nie jest inną formą zapisu słowa *white* [*biały*]. 
@@ -60,15 +60,15 @@ koniec sezonu
 W Anglii sezon żeglarski tradycyjnie kończy się jednak dopiero w Boże Narodzenie. 
 Niektórzy, tak jak Mark z [Four Seasons Charter](http://www.fourseasonscharter.co.uk/) skąd czarterowaliśmy jachty, twierdzą nawet, że sezon tutaj trwa cały rok.  
 
-Pogoda nam wyjątkowo dopisała. Jedynie w pierwszy z weekendów, w sobotę, padał deszcz. W pozostałe dniach świeciło słońce i wiał zachodni wiatr 10-18 węzłów, 
+Pogoda nam wyjątkowo dopisała. Jedynie w pierwszy z weekendów, w sobotę, padał deszcz. W pozostałe dni świeciło słońce i wiał zachodni wiatr 10-18 węzłów, 
 stwarzając idealne warunki do żeglugi.  
 
-Neptun wyjątkowo nam sprzyjał zważywszy, że w październiku - dwa tygodnie przed rejsem - właśnie na wyspie Wight zanotowano rekordowe wiatry wiejące z siłą huraganu. 
+Neptun wyjątkowo nam sprzyjał zważywszy, że w październiku - dwa tygodnie przed rejsem - właśnie na wyspie Wight zanotowano rekordowe wiatry wiejące z siłą huraganu.   
 W grudniu, zaledwie dzień przed rejsem, na Morzu Północnym miał miejsce największy przypływ od 60 lat. Naturalnie wysoki przypływ wynikający z faz księżyca [*spring tide*] 
 spotęgowany został falami sztormu i zalał wiele nadmorskich miejscowości.  
 
 Nie odstraszyło to jednak angielskich żeglarzy. Na wodzie bynajmniej nie byliśmy sami.  
-Co prawda na Solent nie taki panował ruch jak latem, jednak w oba weekendy spotykaliśmy jachty biorące udział w lokalnych regatach,
+Co prawda na Solent nie panował ruch jak latem, jednak w oba weekendy spotykaliśmy jachty biorące udział w lokalnych regatach,
 rejsach szkoleniowych, czy pływających rekreacyjnie tak jak my.
 
 ![marina świt](/img/2013/setsail/marina_swit.jpg)
@@ -79,12 +79,12 @@ Okolice Portsmouth, Southampton i Isle of Wight, czyli Solent to tradycyjna mekk
 Wielu znanych żeglarzy stawiało tutaj swoje pierwsze kroki. Osłonięte wody Solent to wspaniałe miejsce do nauki żeglarstwa i nawigacji. 
 
 Planując tu rejs trzeba wziąć pod uwagę nie tylko odległości i pogodę, ale przede wszystkim pływy i bardzo silne prądy morskie.  
-Dosłownie setki boi wyznaczają skomplikowane tory wodne dla statków i jachtów oraz pokazują mielizny które należy omijać, 
+Dosłownie setki boi wyznaczających skomplikowane tory wodne dla statków i jachtów oraz pokazujące mielizny, które należy omijać, 
 stanowią świetną szkołą pilotażu.
  
 Dla wielu z nas rejsy były więc doskonałą okazją do podnoszenia swoich umiejętności żeglarskich.  
-Niektórzy, mający doświadczenie jedynie z Mazur, pierwszy raz płynęli jachtem na morzu.  
-Inni po raz pierwszy mieli okazję stanąć za sterem i wyprowadzić jachtu z portu, czy przećwiczyć manewr "człowiek za burtą".  
+Niektórzy, mający doświadczenie jedynie z Mazur, pierwszy raz płynęli jachtem na morzu. 
+Inni po raz pierwszy mieli okazję stanąć za sterem i wyprowadzić jacht z portu, czy przećwiczyć manewr "człowiek za burtą". 
 Jeszcze inni po raz pierwszy płynęli nocą i mieli okazję spróbować nawigacji.  
 Były nawet osoby, które pierwszy raz w życiu znalazły się na jachcie.
 
@@ -96,7 +96,7 @@ W czasie obu weekendów rejs rozpoczynaliśmy w marinie Haslar w Portsmouth i na
 Może nie zawsze takie były nasze plany, ale żeglarstwo to także sztuka dostosowywania się do możliwości, warunków pogodowych i okoliczności.  
 
 W czasie pierwszego weekendu udało nam się zobaczyć skały The Needles tak jak widzieli je od wieków żeglarze i zdobywcy - 
-a nie turyści brytyjscy - od strony morza.  
+a nie turyści brytyjscy - czyli od strony morza.  
 
 W drugi opłynęliśmy całą wyspę dookoła.
 
@@ -120,7 +120,7 @@ W drugi opłynęliśmy całą wyspę dookoła.
 
 &nbsp;  
 
-Dwa weekendowe rejsy to na pewno to zaledwie początek. Pozostało wiele miejsc w Solent i dalej, które będziemy chcieli odwiedzić w przyszłości.  
+Dwa weekendowe rejsy to na pewno zaledwie początek. Pozostało wiele miejsc w Solent i dalej, które będziemy chcieli odwiedzić w przyszłości.  
 Mam nadzieję, że znajdziecie czas by do nas dołączyć.
 
 **Ahoj i SetSail**
