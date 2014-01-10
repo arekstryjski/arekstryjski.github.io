@@ -134,7 +134,7 @@ Mam nadzieję, że znajdziecie czas by do nas [dołączyć](/rejsy/).
 podziekowania
 --------------
 
-* Serdecznie dziękuję [Michałowi Przech](https://secure.flickr.com/photos/nigh7swimming/sets/) za możliwość opublikowania zdjęć z rejsu.  
+* Serdecznie dziękuję [Michałowi Przech](https://secure.flickr.com/photos/nigh7swimming/sets/) i Katarzynie Wróblewskiej możliwość opublikowania zdjęć z rejsu.  
   *foto Copyright &copy; Michał Przech*
 
 
