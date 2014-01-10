@@ -3,7 +3,8 @@ title: Dookoła wyspy Wight - Solent zimą
 layout: post
 category: relacje
 keywords: żeglowanie, zima, Solent, Wight
-desc: Pierwsze weekendowe rejsy SetSail. Dwa rejsy dookoła Isle of Wight, Solent, zima 2013.
+desc: Pierwsze weekendowe rejsy SetSail. Dwa rejsy dookoła Isle of Wight, Solent, listopad, grudzień 2013.
+img: /img/2013/setsail/sun_l.jpg
 ---
 ![Solent zimą](/img/2013/setsail/sun_l.jpg)
 
@@ -121,7 +122,7 @@ W drugi opłynęliśmy całą wyspę dookoła.
 &nbsp;  
 
 Dwa weekendowe rejsy to na pewno zaledwie początek. Pozostało wiele miejsc w Solent i dalej, które będziemy chcieli odwiedzić w przyszłości.  
-Mam nadzieję, że znajdziecie czas by do nas dołączyć.
+Mam nadzieję, że znajdziecie czas by do nas [dołączyć](/rejsy/).
 
 **Ahoj i SetSail**
 
