@@ -9,6 +9,7 @@ desc: Relacje z rejsów które prowadziłem w przeszłości.
 Relacje z rejsów które prowadziłem w przeszłości
 ----------------------------------
 
+* [Dookoła wyspy Wight - Solent zimą](/dookola-wight-solent-zima) listopad/grudzień 2013
 * Grecja - majówka 2009
 * [Gibraltar - miasto tysiąca i jednej armaty](/gibraltar-miasto-tysiaca-i-jednej-armaty/) luty 2009
 * [relacja z kursu na yachtmastera](/yachtmaster-egzamin-kurs/)
