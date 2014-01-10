@@ -152,6 +152,7 @@ blockquote p {
     font-family: monospace;
 }
 
+
 .dic-word {
     color: #4e4e4e;
     font-weight: bold;
@@ -173,4 +174,11 @@ blockquote p {
 .dict-tech {
     font-style: italic;
     color: #929292
+}
+
+
+.map_canvas {
+    width: 500px;
+    height: 300px;
+    background-color: #CCC;
 }
