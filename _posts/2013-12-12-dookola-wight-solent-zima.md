@@ -92,6 +92,9 @@ Mam nadzieję, że znajdziecie czas by do nas dołączyć.
 
 *Achoj i SetSeail*
 
+---
+*Zdjęcia &copy; [Michał Przech](https://secure.flickr.com/photos/nigh7swimming/sets/)*
+
 
 
 
