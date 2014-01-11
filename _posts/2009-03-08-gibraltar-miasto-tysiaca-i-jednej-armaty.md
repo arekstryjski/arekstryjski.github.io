@@ -4,6 +4,7 @@ layout: post
 category: relacje
 keywords: rejs, kurs, Gibraltar
 desc: Co warto zobaczyć na Gibraltarze.
+img: /img/old/gibraltar/meczet.jpg
 ---
 [![lotnisko](/img/old/gibraltar/lotnisko.jpg)](class:img-right)
 
