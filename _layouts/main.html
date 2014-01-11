@@ -4,8 +4,8 @@
 <div class="jumbotron">
     <div class="container">
         <div class="row">
-            <div class="col-sm-9">
-                <h1>Ahoy!</h1>
+            <div class="col-md-9">
+                <h1>Ahoj!</h1>
                 <p>	
                     Witam na pokładzie.
                 </p>
@@ -17,7 +17,7 @@
                     <i>Arek</i>
                 </p>
             </div>
-            <div class="col-sm-2">
+            <div class="col-md-2">
                 <img class="hidden-xs img-no-responsive" src="/img/logo/as_240.png" alt="Arek Stryjski">
             </div>
         </div>
@@ -25,44 +25,60 @@
 </div>
 
 <div class="container">
-    <div class="row">
-        <div class="col-sm-9">
-            <div class="row">
-                <div class="col-sm-6 fixedheight">
-                    <h2>rejsy</h2>
+    <div class="row">     
+        <div class="col-md-9">
+            <div class="row main-row">
+                <div class="col-md-12">
+                    <h2 class="main-header">słownik</h2>
                     <p>
-                        Najnowsze informacje na temat planowanych rejsów,
-                        a także tych o których dopiero marzymy.
+                        Poszukujesz tłumaczenia jakiegoś terminu żeglarskiego? 
+                        Znajdź odpowiednią <a href="/dict/" class="main-link">kategorię</a> 
+                        albo wpisz słowo tutaj:<br>                        
+                        {% include dict_alfabet.html lang="en" %}
                     </p>
-                    {% include explore_btn.html url="/rejsy" style="btn-primary" %}
-                </div>
-                <div class="col-sm-6 fixedheight">
-                    <h2>relacje</h2>
-                    <p>
-                        Wspomnienia z bliższych i dalszych rejsów. <br>
-                        Okazja do wspomnień, ale i do snucia wspólnych planów.
-                    </p>
-                    {% include explore_btn.html url="/relacje" style="btn-primary" %}
                 </div>
             </div>
-            <div class="row">
-                <div class="col-sm-6 fixedheight">
-                    <h2>artykuły</h2>
+            <div class="row main-row">
+                <div class="col-md-4">
+                    <h2 class="main-header">rejsy</h2>
                     <p>
-                        Wszelkie informacje związane z żeglarstwem, ale nie tylko.
+                        Najnowsze informacje na temat <a href="/rejsy/" class="main-link">planowanych rejsów</a>,
+                        a także tych o których dopiero marzymy.
                     </p>
-                    {% include explore_btn.html url="/art.html" style="btn-primary" %}
+                    <p>                        
+                        <a href="/relacje/" class="main-link">Relacje</a> i wspomnienie z miejsc gdzie już byliśmy.
+                    </p>
                 </div>
-                <div class="col-sm-6 fixedheight">
-                    <h2>o mnie</h2>
+                <div class="col-md-8">
+                    <img class="main-img" src="/img/frontpage/zatoka.jpg" alt="rejsy"/>
+                </div>
+            </div>
+            <div class="row main-row">
+                <div class="col-md-4">
+                    <h2 class="main-header">artykuły</h2>
                     <p>
-                        W czym mogę pomóc, a także wszystko o mnie czego chcielibyście się dowiedzieć.
+                        Przydatne informacje związane z <a href="/yachting/" class="main-link">żeglarstwem</a>, 
+                        ale <a href="/inne/" class="main-link">nie tylko</a>.
                     </p>
-                    {% include explore_btn.html url="/arek/" style="btn-primary" %}
+                </div>
+                <div class="col-md-8">
+                    <img class="main-img" src="/img/frontpage/rura.jpg" alt="rejsy"/>
+                </div>
+            </div>
+            <div class="row main-row">
+                <div class="col-md-4">
+                    <h2 class="main-header">o mnie</h2>
+                    <p>
+                        W czym mogę pomóc, a także wszystko <a href="/arek/" class="main-link">o mnie</a> 
+                        co chcielibyście się dowiedzieć.
+                    </p>
+                </div>
+                <div class="col-md-8">
+                    <img class="main-img" src="/img/frontpage/arek_stryjski.jpg" alt="rejsy"/>
                 </div>
             </div>
         </div>
-        <div class="col-sm-3">
+        <div class="col-md-3">
             {% include side_menu_all.html %}
             <hr>
             {% include social_btn.html %}

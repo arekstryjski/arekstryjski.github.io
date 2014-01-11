@@ -182,3 +182,18 @@ blockquote p {
     height: 300px;
     background-color: #CCC;
 }
+
+.main-link {
+    font-weight: bold;
+}
+
+.main-header {
+    font-size: 21pt;
+}
+
+.main-img {
+}
+
+.main-row {
+    margin-bottom:25px;
+}
