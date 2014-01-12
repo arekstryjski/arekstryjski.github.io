@@ -30,7 +30,7 @@ Wizyta na Gibraltarze w lutym 2009 roku.
 > Od dawna istnieją tu społeczności włoska, hinduska i żydowska. Społeczności ukraińska i polska pojawiły zapewne całkiem niedawno, 
 > ale w jakimś sensie stanowią kontynuację pewnej tradycji.
 
-[![Gibraltar](/img/old/gibraltar/meczet_big.jpg)](/gibraltar-miasto-tysiaca-i-jednej-armaty/)
+[![Gibraltar](/img/old/gibraltar/meczet.jpg)](/gibraltar-miasto-tysiaca-i-jednej-armaty/)
 
 
 
@@ -44,7 +44,7 @@ Luty 2009.
 > Jak mówił Jim: egzaminator jest na jachcie po to by dać wam certyfikat, a nie po to by was oblać.  Z naszej 5-tki, zdali wszyscy.  
 > Na pewno w jego trakcie wszyscy popełniliśmy jakieś błędy. Nie znaliśmy odpowiedzi na jakieś trudne pytanie. 
 
-[![Yachtmaster Offshore](/img/old/ym-exam-and-preparation/marina_big.jpg)](/yachtmaster-egzamin-kurs/)
+[![Yachtmaster Offshore](/img/old/ym-exam-and-preparation/marina.jpg)](/yachtmaster-egzamin-kurs/)
 
 <!-- Grecja - majówka 2009 -->
 <!-- Sycylia maj 2008 -->

@@ -5,7 +5,7 @@ category: yachting
 keywords: Yachtmaster, Yachtmaster Offshore, RYA, egzamin, patent, szkolenia, kursy, Gibraltar
 desc: Mój kurs i egzamin na Yachtmaster Offshore w Gibraltarze.
 ---
-[![ja na jachcie](/img/old/ym-exam-and-preparation/ja.jpg)](class:img-right)
+![ja na jachcie](/img/old/ym-exam-and-preparation/ja.jpg)
 
 [Marcin](http://joinus.pl/index.php/pl/blog-marcina.html) poprosił mnie bym napisał jak wygląda egzamin i kurs przygotowawczy na Yachtmastera, czyli brytyjskiego kapitana, z punktu widzenia polskiego żeglarza.
 
@@ -14,7 +14,7 @@ Mam nadzieję, że ten opis przyda się komuś w przyszłości.
 
 Kurs przygotowawczy i egzamin zorganizowany był przez [Trafalgar Sailing](http://trafalgarsailing.co.uk/), jedną z 4 szkół żeglarskich w Gibraltarze akredytowanych przez RYA. Z ich usług jestem zadowolony. Wg. opinii zebranych na miejscu wszystkie szkoły w Gibraltarze oferują podobny, dobry standard merytoryczny i obsługi klienta. Zresztą są one powiązane - np. nasz egzaminator jest instruktorem w innej szkole.
 
-[![marina](/img/old/ym-exam-and-preparation/marina.jpg)](class:img-left)
+![marina](/img/old/ym-exam-and-preparation/marina.jpg)
 
 Dlaczego akurat w [Gibraltarze](/gibraltar-miasto-tysiaca-i-jednej-armaty/)? Koniec lutego, to nie jest za bardzo pora by wyruszać na Morze Północne, czy nawet Kanał Angielski. 
 W Gibraltarze panowały warunki prawie letnie. Temperatura od 15 do 20 stopni. Wiatr do 5 Beauforta, ale zafalowanie na zatoce małe. Deszcz tylko jednego dnia.
@@ -26,7 +26,7 @@ Kurs odbywał się od poniedziałku do piątku od 0900 do około 1900, raz 2200.
 Kurs to przede wszystkim praktyczne ćwiczenie manewrów w zatoce i marinie. Przez tydzień przepłynęliśmy zaledwie 142 mil morskich. 
 Na noc wracaliśmy do mariny w Gibraltarze. Z tego co wiem nie jest to jednak zawsze regułą i czasami odwiedza się również inne porty.
 
-[![Gibraltar](/img/old/ym-exam-and-preparation/gib.jpg)](class:img-right)
+![Gibraltar](/img/old/ym-exam-and-preparation/gib.jpg)
 
 Pływaliśmy Bavarią 36, czyli typowym jachtem szkoleniowym. W systemie brytyjskim każdy kurs i egzamin (nawet na żeglarza) musi się odbywać na morskim jachcie kabinowym o długości co najmniej 33 stóp, z ożaglowaniem slop. System stawiania i refowania grota był tradycyjny. Genua na rolerze. 
 W RYA wychodzi się z założenia, że kursy maja przygotowywać do pływania na typowych jachtach czarterowych, a nie zapoznać z tradycją żeglarską.
@@ -36,7 +36,7 @@ W kursie brało udział 5 osób. Ja i Obi byliśmy na kursie przygotowawczym do 
 Oba kursy, przygotowawczy do egzaminu Yachtmaster i praktyczny Coastal Skipper, to dokładnie ten sam kurs. Z "niewiadomych" przyczyn ten pierwszy jest jednak nieznacznie droższy.
 Same egzaminy są również podobne. Jak mówił nasz instruktor Jim, to praktycznie ten sam egzamin, ale na przyszłych kapitanów patrzy się surowiej.
 
-[![marina na lotnisku](/img/old/ym-exam-and-preparation/samolot.jpg)](class:img-left)
+![marina na lotnisku](/img/old/ym-exam-and-preparation/samolot.jpg)
 
 Do przystąpienia do obu egzaminów wymagane jest posiadanie certyfikatu operatora radia krótkiego zasięgu (VHF) i kursu pierwszej pomocy.
 Kandydaci powinni ukończyć kurs teoretyczny i zdać egzamin teoretyczny na poziomie Yachtmaster, lub co najmniej Day Skipper. Ewentualnie posiadać porównywalną wiedzę teoretyczną zdobyta w inny sposób. W naszym przypadku wszyscy ukończyli oba kursy teoretyczne, więc trudno mi powiedzieć jak traktowane są osoby, które zdobyły wiedzę teoretyczną inaczej.
@@ -76,7 +76,7 @@ Dodatkowo w czasie egzaminu zadawane są pytania teoretyczne. W naszym przypadku
 * pogoda,
 * interpolacja pływów - obliczenia wysokości i czasu dla portów nie objętych dokładnymi tabelami (secondary port), oraz interpolacja prędkości prądu pomiędzy springs i neaps.
 
-[![on nie zdał](/img/old/ym-exam-and-preparation/latarnia.jpg)](class:img-right)
+![on nie zdał](/img/old/ym-exam-and-preparation/latarnia.jpg)
 
 Ważne było również przeprowadzenie odpowiedniej odprawy bezpieczeństwa (safety briefing). Co istotne, w tym przypadku można, a nawet trzeba posługiwać się notatkami.
 
@@ -106,7 +106,7 @@ Nasz egzaminator kładł też duży nacisk na działanie i konserwację silnika:
 * pasek alternatora,
 * wymiana turbiny w sprężarce.
 
-[![jachty](/img/old/ym-exam-and-preparation/jachty.jpg)](class:img-left)
+![jachty](/img/old/ym-exam-and-preparation/jachty.jpg)
 
 Ważnym elementem egzaminu jest sprawdzenie zdolności komunikacyjnych. Nie chodzi o dokładną znajomość angielskiej terminologii żeglarskiej - choć jest ona z pewnością przydatna - ale o możliwość jasnego przedstawienia sytuacji i zadań załodze. 
 Każdy, nawet najprostszy manewr, poprzedzony powinien być wyjaśnieniem planu działania i zadań każdego członka załogi. Tacking czy jaibing powinien być przeprowadzony w ten sposób, że odpowiednie (nie koniecznie tradycyjne, ale zrozumiałe dla załogi) komendy są wydawane w odpowiednim momencie przez sternika lub skippera.
@@ -116,7 +116,7 @@ Egzamin wiąże się zapewne dla wszystkich ze stresem. Prawdopodobnie jest to z
 Większość egzaminu jest sprawdzeniem działania w sytuacjach kryzysowych, co naturalnie wiąże się ze stresem. Jak to podkreślił nasz instruktor Jim, kurs i egzamin ma umieścić nas poza strefą komfortową. Sprawdzić, czy w sytuacji zagrożenia nie popełnimy jakiegoś kardynalnego błędu.
 Jednocześnie podkreślał, że jest to jedynie kolejny dzień na wodzie. Wymagania nie są jakoś specjalnie wygórowane. Wbrew obiegowej opinii kapitan to nie Bóg, więc nieomylność i wszechwiedza nie są wymagane.
 
-[![zatoka](/img/old/ym-exam-and-preparation/zatoka.jpg)](class:img-right)
+![zatoka](/img/old/ym-exam-and-preparation/zatoka.jpg)
 
 Jak mówił Jim: egzaminator jest na jachcie po to by dać wam certyfikat, a nie po to by was oblać. Z naszej 5-tki, 4 osoby zdawały egzamin w tym samym czasie co ja. Zdali wszyscy.
 Na pewno w jego trakcie wszyscy popełniliśmy jakieś błędy. Nie znaliśmy odpowiedzi na jakieś trudne pytanie. Zarówno kurs, jak i egzamin wykazał luki w wiedzy i doświadczeniu.
