@@ -7,6 +7,6 @@ desc: Inne mam nadzieję że zabawne artykuły.
 ---
 
 ;-)
-
  
-* [bajka o Czerwonym Kapturku](/czerwony-kapturek)
+* [bajka o Czerwonym Kapturku](/czerwony-kapturek/)
+
