@@ -14,9 +14,9 @@
     height: auto;
 }
 
-.pull-down {
-    position: inherit;
-}
+/*.pull-down {*/
+    /*position: inherit;*/
+/*}*/
 
 .nav-compact > li > a {
     padding: 10px 5px;
@@ -196,4 +196,10 @@ blockquote p {
 
 .main-row {
     margin-bottom:25px;
+}
+
+#mc_embed_signup {
+    background:#fff; 
+    clear:left; 
+    font:14px Helvetica,Arial,sans-serif; 
 }
