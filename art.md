@@ -9,9 +9,14 @@ layout: art
 Artykuły przydatne zarówno dla tych którzy popłyną pierwszy raz, jak także dla "starych wilków morskich".
 
 
+[fun](/fun)
+-------------
+;-)
+
+
 [inne](/inne)
 -------------
-To wszystko co mnie interesuje a co nie dotyczy żeglarstwa.
+To wszystko inne...
 
 
 Pozostałe sekcje
