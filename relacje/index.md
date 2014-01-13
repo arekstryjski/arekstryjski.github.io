@@ -15,7 +15,7 @@ Relacja z dwu weekendowych rejsów w UK w listopadzie i grudniu 2013.
 
 > Gdy inni żeglarze grzeją się w domach i przeglądają zdjęcia z letnich rejsów, my postanowiliśmy wybrać się jachtem na Kanał Angielski.
 
-[![Solent zimą](/img/2013/setsail/sun_l.jpg)](/dookola-wight-solent-zim/a) 
+[![Solent zimą](/img/2013/setsail/sun_l.jpg)](/dookola-wight-solent-zim/) 
 
 
 
