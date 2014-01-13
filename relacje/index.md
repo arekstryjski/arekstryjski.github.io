@@ -8,14 +8,30 @@ img: /img/2013/setsail/sun_l.jpg
 ---
 
 
-[Dookoła wyspy Wight - Solent zimą](/dookola-wight-solent-zima) 
+[Dookoła wyspy Wight - Solent zimą](/dookola-wight-solent-zima/) 
 ---------------------------------------------------------------
 
 Relacja z dwu weekendowych rejsów w UK w listopadzie i grudniu 2013.
 
 > Gdy inni żeglarze grzeją się w domach i przeglądają zdjęcia z letnich rejsów, my postanowiliśmy wybrać się jachtem na Kanał Angielski.
 
-[![Solent zimą](/img/2013/setsail/sun_l.jpg)](/dookola-wight-solent-zima) 
+[![Solent zimą](/img/2013/setsail/sun_l.jpg)](/dookola-wight-solent-zim/a) 
+
+
+
+
+
+[Grecja majówka 2009](/grecja-majowka/) 
+--------------------
+
+Relacja z rejsu rodzinnego w Grecji.
+
+>Tym razem na majówkę wybrał się ze mną nie tylko Michał (7 lat), ale również po raz pierwszy nasza Marta (4), 
+oraz Ania (8) i Kacper (11) oczywiście wraz z rodzicami.  
+
+[![Grecja majówka](/img/old/grecja-2009/serifos.jpg)](/grecja-majowka/) 
+
+
 
 
 
@@ -31,6 +47,8 @@ Wizyta na Gibraltarze w lutym 2009 roku.
 > ale w jakimś sensie stanowią kontynuację pewnej tradycji.
 
 [![Gibraltar](/img/old/gibraltar/meczet.jpg)](/gibraltar-miasto-tysiaca-i-jednej-armaty/)
+
+
 
 
 
