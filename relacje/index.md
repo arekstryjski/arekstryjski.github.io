@@ -64,8 +64,21 @@ Luty 2009.
 
 [![Yachtmaster Offshore](/img/old/ym-exam-and-preparation/marina.jpg)](/yachtmaster-egzamin-kurs/)
 
-<!-- Grecja - majówka 2009 -->
-<!-- Sycylia maj 2008 -->
+
+
+
+[Sycylia maj 2008](/sycylia-maj-2008/)
+----------------------------------------
+
+Relacja z majówki na Sycylii w 2008 roku.
+ 
+> Włochy zawsze były moim ulubionym krajem. Sycylia fascynowała mnie dodatkowo ze względu na swoją średniowieczną historię. 
+>
+> Normańskie królestwo Sycylii ze swą unikalną kulturą 
+jaka powstała tam na styku bizantyjsko - arabsko - włosko - normandzkim, jest czymś unikalnym w dziejach Europy po dzień dzisiejszy.
+
+[![Sycylia maj 2008](/img/old/sycylia/cefalu.jpg)](/sycylia-maj-2008/)
+
 <!-- Chorwacja majówka 2007 -->
 <!-- Chorwacja sierpień 2006 -->
 <!-- rejs Kornaty - wodospady Krka -->

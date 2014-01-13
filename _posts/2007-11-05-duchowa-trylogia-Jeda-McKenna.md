@@ -4,7 +4,10 @@ layout: post
 category: inne 
 keywords: Jed McKenna, enlightenment, oświecenie
 desc: Recenzja książek Jeda McKenna Spiritual Enlightenment - The Damnedest Thing, Spiritually Incorrect Enlightenment i Spiritual Warfare.
+img: /img/old/inne/Maya2.jpg
 ---
+
+![Jed McKenna](/img/old/inne/Maya2.jpg)
 
 Kim jest Jed McKenna?  
 ---------------------

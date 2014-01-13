@@ -1,10 +1,12 @@
 ---
 title: Czerwony Kapturek
 layout: post
-category: fun
+category: inne
 keywords: bajki
 desc: Moja interpretacja bajki o Czerwonym Kapturku
 ---
+![Czerwony Kapturek](/img/old/inne/czerwony_kapturek.jpg)
+
 Ostatnio często czytam wieczorem Michałowi bajkę o Czerwonym Kapturku.   
 Jak człowiek czyta coś po raz n-ty, to zaczyna się zastanawiać o co w tym wszystkim chodzi.  
 

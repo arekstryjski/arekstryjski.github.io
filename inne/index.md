@@ -13,7 +13,11 @@ Na początek tylko jeden artykuł:
  
 * [jak zbudowałem tą stronę i dlaczego](/o-stronie)
 
+;-)
+ 
+* [bajka o Czerwonym Kapturku](/czerwony-kapturek/)
 
-Ktoś kiedyś uznał to za istotne więc niech zostanie:
+i kilka innych artykułów ocalonych z poprzedniego wcielenia strony:
 
-* [pożegnanie z Guru - duchowa trylogia Jeda McKenna](/duchowa-trylogia-Jeda-McKenna/)
+* [Pożegnanie z Guru - duchowa trylogia Jeda McKenna](/duchowa-trylogia-Jeda-McKenna/)
+* [Czego nie nauczyłem się na lekcjach historii](/czego-nie-nauczylem-na-historii/)
