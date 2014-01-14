@@ -32,6 +32,11 @@
     margin-right: in 0px;
 }
 
+
+img {
+    border-radius: 6px;
+}
+
 @media screen and (min-width: 768px) {
     .jumbotron {
         padding-top: 48px;
