@@ -4,7 +4,7 @@ layout: post
 category: relacje
 keywords: Grecja, majówka, rejs
 desc: Relacja z rodzinnego rejsu w Grecji.
-img: /img/old/gibraltar/meczet.jpg
+img: /img/old/grecja-2009/serifos.jpg
 ---
 
 ![JoinUs](/img/old/grecja-2009/puchar.jpg)

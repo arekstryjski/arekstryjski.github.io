@@ -74,6 +74,11 @@ img {
     }
 }
 
+blockquote {
+    font-style: italic;
+    color: #464646;
+}
+
 h2 {
     font-size: 21px;
     text-transform: lowercase;
