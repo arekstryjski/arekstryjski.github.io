@@ -171,4 +171,4 @@ Druga część okrzyku brzmi: "I ja też umrę..."
 
 -----------------------------
 
-[Enlightenment Trilogy by Jed McKenna: www.wisefoolpress.com](www.wisefoolpress.com)
+[Enlightenment Trilogy by Jed McKenna: www.wisefoolpress.com](http://www.wisefoolpress.com)
