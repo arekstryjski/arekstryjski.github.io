@@ -14,7 +14,7 @@ Najbliższe terminy:
 
 * 1-2.02.2014
 
-Więcej szczegółów na stronie [SetSail](http://www.rejsbus.co.uk/rejsy/).
+Więcej szczegółów na stronie [SetSail](http://setsail.org.uk).
 
 Rejsy tygodniowe i dłuższe
 ---------------------------

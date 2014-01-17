@@ -35,7 +35,7 @@ partnerzy
 W swoich projektach żeglarskich na stałe współpracuję z:
 
 * [JoinUs.pl](http://www.joinus.pl)
-* [SetSail](http://www.rejsbus.co.uk/klub/)
+* [SetSail](http://setsail.org.uk)
 
 
 więcej o mnie
