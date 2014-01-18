@@ -1,7 +1,6 @@
 .jumbotron {
     padding-top: 42px;
-    padding-bottom: 8px;
-    /*background-color: #d3f1ff;*/
+    padding-bottom: 0px;
     border-bottom: thin solid #dddddd;
 }
 
@@ -14,10 +13,6 @@
     height: auto;
 }
 
-/*.pull-down {*/
-    /*position: inherit;*/
-/*}*/
-
 .nav-compact > li > a {
     padding: 10px 5px;
 }
@@ -29,17 +24,31 @@
 
 .img-left {
     float: inherit;
-    margin-right: in 0px;
+    margin-right: 0px;
+}
+
+
+img {
+    border-radius: 6px;
+}
+
+.post-jumbotron h1 {
+    font-size: 20pt;
+    color: #424242;
+}
+
+h1 {
+    font-size: 20pt;
 }
 
 @media screen and (min-width: 768px) {
     .jumbotron {
         padding-top: 48px;
-        padding-bottom: 28px;
+        padding-bottom: 0px;
     }
 
     .post-jumbotron {
-        padding-bottom: 8px;
+        padding-bottom: 0px;
     }
 
     .fixedheight {
@@ -66,6 +75,10 @@
     .img-left {
         float: left;
         margin-right: 10px;
+    }
+
+    .jumbotron h1 {
+        font-size: 20pt;
     }
 }
 
@@ -96,11 +109,6 @@ h2 {
 blockquote p {
     font-size: 100%;
     font-weight: 300;
-}
-
-.post-jumbotron h1 {
-    font-size: 25px;
-    color: #424242;
 }
 
 .post-date {
@@ -186,6 +194,14 @@ blockquote p {
     width: 500px;
     height: 300px;
     background-color: #CCC;
+}
+
+.main-ahoj {
+    font-size: 42pt;
+}
+
+.main-podpis {
+    font-style: italic;
 }
 
 .main-link {
