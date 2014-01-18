@@ -85,6 +85,8 @@ h1 {
 blockquote {
     font-style: italic;
     color: #464646;
+    border-left: 5px solid #428bca;
+    background-color: #fafaff;
 }
 
 h2 {

@@ -3,8 +3,9 @@ title: relacje z rejsów
 layout: section
 category: relacje
 keywords: relacje z rejsów, rejsy, rejsy morskie, żeglarstwo, yachting, jachting, Grecja, Gibraltar, Sycylia, Chorwacja
-desc: Relacje z rejsów które prowadziłem w przeszłości. 
+desc: Relacje z rejsów które prowadziłem w przeszłości. Rejsy weekendowe w UK, Grecja, Gibraltar, Sycylia.
 img: /img/2013/setsail/sun_l.jpg
+date: 2014-01-18
 ---
 
 
