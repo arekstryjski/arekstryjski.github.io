@@ -22,6 +22,14 @@ Rejs zaczynamy w **Lizbonie**. Pragniemy odwiedzić **Porto** i **Viana do Caste
 **Illa de Ons**, **Ria de Arosa**, **Camariñas** i **A Coruña** w hiszpańskiej Galicii.  
 Po rejsie możliwość odwiedzenia **Santiago de Compostela** w trakcie Wielkanocy.  
 
+<p>
+<a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-success pull-right">zarezerwuj miejsce</a>
+<span class="pull-right" >&nbsp;&nbsp;</span>
+<a role="button" href="/rejsy/pytanie.html" type="button" class="btn btn-xs btn-primary pull-right">mam pytanie</a>         
+<br>
+</p>
+
+----------------------------------------------------
 
 [Norwegia 2014](/norwegia-2014/)
 ----------------------------
@@ -37,6 +45,14 @@ Po rejsie możliwość odwiedzenia **Santiago de Compostela** w trakcie Wielkano
 Zaczynamy zawsze w **Bergen**. W pierwszym tygodniu planujemy odwiedzić **Nærøyfjorden** i **Aurlandsfjord**.  
 W drugim zobaczymy **Lysefjord** i okolice **Stavanger** gdzie zakończymy rejs.
 
+<p>
+<a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-success pull-right">zarezerwuj miejsce</a>
+<span class="pull-right" >&nbsp;&nbsp;</span>
+<a role="button" href="/rejsy/pytanie.html" type="button" class="btn btn-xs btn-primary pull-right">mam pytanie</a>         
+<br>
+</p>
+
+----------------------------------------------------
 
 [Grecja 2014](/grecja-2014/)
 ------------------------
@@ -52,6 +68,14 @@ Płyniemy przez całe **Morze Egejskie** z północy na południe. Mamy zamiar o
 **Saloniki**, **Skopelos**, **Skyros**, **Chios**, **Samos**, **Kos**, **Rodos**.  
 Rejs o charakterze rodzinnym.
 
+<p>
+<a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-success pull-right">zarezerwuj miejsce</a>
+<span class="pull-right" >&nbsp;&nbsp;</span>
+<a role="button" href="/rejsy/pytanie.html" type="button" class="btn btn-xs btn-primary pull-right">mam pytanie</a>         
+<br>
+</p>
+
+----------------------------------------------------
 
 rejsy weekendowe
 -----------------
@@ -63,9 +87,11 @@ Najbliższe terminy:
 
 * 1-2.02.2014
 
-Więcej szczegółów na stronie [SetSail](http://setsail.org.uk).
+Zobacz jak było na poprzednich rejsach: [Dookoła wyspy Wight - Solent zimą](/dookola-wight-solent-zima/)
 
+Więcej szczegółów i rezerwacja miejsc na stronie [SetSail](http://setsail.org.uk).
 
+----------------------------------------------------
 
 [Polonijna Wyprawa na Spitsbergen](/wyprawa-polonijna-na-spitsbergen-2015)
 ------------------------------------------------------------------------------
@@ -73,6 +99,7 @@ Więcej szczegółów na stronie [SetSail](http://setsail.org.uk).
 *2 - 3 tygodnie*  
   
 Szczegóły juz wkrótce.  
+
 
 
 

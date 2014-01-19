@@ -1,26 +1,45 @@
-<div class="row alert alert-info">   
+{% if page.interest != null %}
+<div class="alert alert-info">   
+<div class="row ">   
     <div class="col-sm-8">
         <div class="btn-group">
             <button type="button" class="btn btn-xs btn-default dropdown-toggle" data-toggle="dropdown">
               <span class="glyphicon glyphicon-info-sign"></span>
             </button>
             <ul class="dropdown-menu" role="menu">
-                <li>koje:</li>
-                <li><span type="label" class="label label-default">&nbsp;&nbsp;</span> skipper</li>
-                <li><span type="label" class="label label-success">&nbsp;&nbsp;</span> zarezerwowane</li>
-                <li><span type="label" class="label label-warning">&nbsp;&nbsp;</span> wstępna rezerwacja</li>
-                <li><span type="label" class="label label-primary">&nbsp;&nbsp;</span> wolne</li>
+                <li>&nbsp; koje:</li>
+                <li>&nbsp; <span type="label" class="label label-default">&nbsp;&nbsp;</span> skipper</li>
+                <li>&nbsp; <span type="label" class="label label-success">&nbsp;&nbsp;</span> zarezerwowane</li>
+                <li>&nbsp; <span type="label" class="label label-warning">&nbsp;&nbsp;</span> wstępna rezerwacja</li>
+                <li>&nbsp; <span type="label" class="label label-primary">&nbsp;&nbsp;</span> wolne</li>
             </ul>
         </div> 
-        <b>rezerwacja 1 tydzień</b>
+        <b>&nbsp;{{ include.label }}: </b>
         <span type="label" class="label label-default">&nbsp;&nbsp;</span>    
-        <span type="label" class="label label-success">&nbsp;&nbsp;</span>    
-        <span type="label" class="label label-warning">&nbsp;&nbsp;</span>    
-        <span type="label" class="label label-primary">&nbsp;&nbsp;</span>
+        {% for i in (1..include.paid) %}<span type="label" class="label label-success">&nbsp;&nbsp;</span> {% endfor %}    
+        {% for i in (1..include.res) %}<span type="label" class="label label-warning">&nbsp;&nbsp;</span> {% endfor %}    
+        {% for i in (1..include.free) %}<span type="label" class="label label-primary">&nbsp;&nbsp;</span> {% endfor %}
     </div>
     <div class="col-sm-4">
-        <button type="button" class="btn btn-xs btn-success pull-right">zarezerwuj miejsce</button>
+        <a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-success pull-right">zarezerwuj miejsce</a>
         <span class="pull-right" >&nbsp;&nbsp;</span>
-        <button type="button" class="btn btn-xs btn-primary pull-right">mam pytanie</button>  
+        <a role="button" href="/rejsy/pytanie.html" type="button" class="btn btn-xs btn-primary pull-right">mam pytanie</a>  
     </div> 
 </div>
+{% if page.interest2 != null %}    
+<br>
+<div class="row">   
+    <div class="col-sm-8">
+        <span>&nbsp; &nbsp; &nbsp;&nbsp;</span>  
+        <b>&nbsp;{{ include.label2 }}: </b>
+        <span type="label" class="label label-default">&nbsp;&nbsp;</span>    
+        {% for i in (1..include.paid2) %}<span type="label" class="label label-success">&nbsp;&nbsp;</span> {% endfor %}    
+        {% for i in (1..include.res2) %}<span type="label" class="label label-warning">&nbsp;&nbsp;</span> {% endfor %}    
+        {% for i in (1..include.free2) %}<span type="label" class="label label-primary">&nbsp;&nbsp;</span> {% endfor %}
+    </div>
+    <div class="col-sm-4">
+    </div> 
+</div> 
+{% endif %}    
+</div>
+{% endif %}

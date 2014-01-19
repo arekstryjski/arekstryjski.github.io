@@ -1,0 +1,75 @@
+{% include header.html %}
+
+<div class="jumbotron post-jumbotron">
+    <div class="container">
+        <h2 class="post-title">{{ page.title }}</h2>
+        <h6 class="post-date">{{ content }}</h6>
+        <h6 class="post-address">{{ site.url }}{{ page.url }}</h6>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-7">
+            <form class="form-horizontal" role="form" action="http://getsimpleform.com/messages?form_api_token=52d9d47888a36b51f3ccdc1d385f681c" method="post">
+                <input type='hidden' name='redirect_to' value='http://stryjski.net/arek/email-send.html' />
+                <div class="form-group">
+                    <label for="who" class="col-sm-2 control-label">imię</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" id="who" name="who" placeholder="imię nazwisko">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="email" class="col-sm-2 control-label">email</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" id="email" name="email" placeholder="proszę wpisz e-mail bym mógł odpowiedzieć">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="tel" class="col-sm-2 control-label">telefon</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" id="tel" name="tel" placeholder="numer telefonu">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="subject" class="col-sm-2 control-label">rejs</label>
+                    <div class="col-sm-10">  
+                        <select class="form-control" id="subject" name="subject" placeholder="rejs który Cie interesuje">
+                          <option>Portugalia - Galicia :: 8.04 - 19.04.2014</option>
+                          <option>Norwegia :: 13.09 - 20.09.2014</option>
+                          <option>Norwegia :: 20.09 - 27.09.2014</option>
+                          <option>Grecja :: 21.10 - 04.11.2014</option>
+                          <option>rejsy weekendowe UK</option>
+                          <option>Spitsbergen 2015</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="liczba" class="col-sm-2 control-label">liczba osób</label>
+                    <div class="col-sm-10">  
+                        <select class="form-control" id="liczba" name="liczba">
+                          <option>1</option>
+                          <option>2</option>
+                          <option>3</option>
+                          <option>4</option>
+                          <option>5</option>
+                          <option>cały jacht</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="message" class="col-sm-2 control-label">uwagi</label>
+                    <div class="col-sm-10">
+                        <textarea class="form-control" id="message" name="message" rows="7" ></textarea>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-sm-offset-2 col-sm-10">
+                        <button type="submit" class="btn btn-success">Wyślij</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+{% include footer.html %}
