@@ -10,6 +10,9 @@
 <div class="container">
     <div class="row">
         <div class="col-sm-9">
+            {% if page.interest_free != null %}
+                {% include interest.html %}
+            {% endif %}
             <div>{{ content }}</div>
         </div>
         <div class="col-sm-3">
