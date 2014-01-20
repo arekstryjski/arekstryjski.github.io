@@ -13,6 +13,9 @@ date: 2014-01-18
 
 [![Portugalia - Galicia](/img/2013/portugalia_2014/Belem_Tower.jpg)](/portugalia-2014/) 
 
+> W ramach jednego rejsu zamierzamy odwiedzić "obie" Portugalie.
+> Galicia będąca dziś częścią Hiszpanii stanowi kolebkę królestwa Portugalii. Stąd w XII wieku ruszyła rekonkwista na południe półwyspu Iberyjskiego.  
+
 **8.04 - 19.04**  
 *11 dniowy rejs w trakcie ferii wielkanocnych.*  
 *~400 mil morskich*  
@@ -36,6 +39,9 @@ Po rejsie możliwość odwiedzenia **Santiago de Compostela** w trakcie Wielkano
 
 [![norwegia](/img/2013/norwegia_2014/the_viking_valley_big.jpg)](/norwegia-2014/) 
 
+> Norwegia to jeden z najpiękniejszych krajów Europy. Tutejsza, w dużej mierze jeszcze dziewicza przyroda, nie ma odpowiedników w całej Europie.     
+> Setki fiordów i tysiące wysp i wysepek to wręcz raj dla żeglarzy. 
+
 **13.09 - 20.09**  
 **20.09 - 27.09**  
 *Dwa tygodniowe rejsy (można wziąć udział obu).*  
@@ -58,6 +64,10 @@ W drugim zobaczymy **Lysefjord** i okolice **Stavanger** gdzie zakończymy rejs.
 ------------------------
 
 [![grecja](/img/2013/grecja_2014/grecja_big.jpg)](/grecja-2014/) 
+
+> Nauczeni doświadczeniem z rejsów w Grecji w latach poprzednich, po każdym dniu żeglugi przeznaczymy jeden dzień na eksplorację wysp i odpoczynek.  
+> Na wyspach greckich zabytkowe wsie i miasteczka położone są z reguły w górach w głębi wyspy, z dala od portów. Ich eksploracja wymaga poświęcenia czasu i pozostania na wyspie co najmniej 24 godziny. 
+
 
 **21.10 - 04.11**  
 *Rejs 2 tygodniowy (jeden z tygodni w trakcie brytyjskich ferii szkolnych.*  
