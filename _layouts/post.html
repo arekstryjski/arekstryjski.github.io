@@ -3,13 +3,14 @@
 <div class="jumbotron post-jumbotron">
     <div class="container">
         <h1 class="post-title">{{ page.title }}</h1>
-        <h6 class="post-date">{{ page.date | date: "%d" | plus:'0' }} {{ page.date | date: "%B %Y" }}</h6>
+        <h6 class="post-date">data publikacji: {{ page.date | date: "%d" | plus:'0' }} {{ page.date | date: "%B %Y" }}</h6>
         <h6 class="post-address">{{ site.url }}{{ page.url }}</h6>
     </div>
 </div>
 <div class="container">
     <div class="row">
         <div class="col-sm-9">
+            {% include interest.html label=page.interest paid=page.interest_paid res=page.interest_res free=page.interest_free label2=page.interest2 paid2=page.interest_paid2 res2=page.interest_res2 free2=page.interest_free2 %}
             <div>{{ content }}</div>
         </div>
         <div class="col-sm-3">
