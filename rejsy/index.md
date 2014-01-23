@@ -8,7 +8,7 @@ img: /img/2013/setsail/sun_l.jpg
 date: 2014-01-18
 ---
 
-[Portugalia - Galicia 2014](/portugalia-2014)
+[Portugalia - Galicia 2014](/portugalia-2014/)
 ------------------------------------------------
 
 [![Portugalia - Galicia](/img/2013/portugalia_2014/Belem_Tower.jpg)](/portugalia-2014/) 
@@ -26,7 +26,7 @@ Rejs zaczynamy w **Lizbonie**. Pragniemy odwiedzić **Porto** i **Viana do Caste
 Po rejsie możliwość odwiedzenia **Santiago de Compostela** w trakcie Wielkanocy.  
 
 <p>
-<a role="button" href="/rejsy/portugalia.html" type="button" class="btn btn-xs btn-danger">szczegóły</a>
+<a role="button" href="/portugalia-2014/" type="button" class="btn btn-xs btn-danger">szczegóły</a>
 <a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-success pull-right">zarezerwuj miejsce</a>
 <span class="pull-right" >&nbsp;&nbsp;</span>
 <a role="button" href="/rejsy/pytanie.html" type="button" class="btn btn-xs btn-primary pull-right">mam pytanie</a>         
@@ -53,7 +53,7 @@ Zaczynamy zawsze w **Bergen**. W pierwszym tygodniu planujemy odwiedzić **Nær�
 W drugim zobaczymy **Lysefjord** i okolice **Stavanger** gdzie zakończymy rejs.
 
 <p>
-<a role="button" href="/rejsy/portugalia.html" type="button" class="btn btn-xs btn-danger">szczegóły</a>
+<a role="button" href="/norwegia-2014/" type="button" class="btn btn-xs btn-danger">szczegóły</a>
 <a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-success pull-right">zarezerwuj miejsce</a>
 <span class="pull-right" >&nbsp;&nbsp;</span>
 <a role="button" href="/rejsy/pytanie.html" type="button" class="btn btn-xs btn-primary pull-right">mam pytanie</a>         
@@ -81,7 +81,7 @@ Płyniemy przez całe **Morze Egejskie** z północy na południe. Mamy zamiar o
 Rejs o charakterze rodzinnym.
 
 <p>
-<a role="button" href="/rejsy/portugalia.html" type="button" class="btn btn-xs btn-danger">szczegóły</a>
+<a role="button" href="/grecja-2014/" type="button" class="btn btn-xs btn-danger">szczegóły</a>
 <a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-success pull-right">zarezerwuj miejsce</a>
 <span class="pull-right" >&nbsp;&nbsp;</span>
 <a role="button" href="/rejsy/pytanie.html" type="button" class="btn btn-xs btn-primary pull-right">mam pytanie</a>         
@@ -114,7 +114,7 @@ Więcej szczegółów i rezerwacja miejsc na stronie [SetSail](http://setsail.or
 *Więcej informacji wkrótce*
 
 <p>
-<a role="button" href="/rejsy/portugalia.html" type="button" class="btn btn-xs btn-danger">szczegóły</a>
+<a role="button" href="/wyprawa-polonijna-na-spitsbergen-2015/" type="button" class="btn btn-xs btn-danger">szczegóły</a>
 </p>
 
 
