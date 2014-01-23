@@ -9,9 +9,9 @@
             <ul class="dropdown-menu" role="menu">
                 <li>&nbsp; koje:</li>
                 <li>&nbsp; <span type="label" class="label label-default">&nbsp;&nbsp;</span> skipper</li>
-                <li>&nbsp; <span type="label" class="label label-success">&nbsp;&nbsp;</span> zarezerwowane</li>
+                <li>&nbsp; <span type="label" class="label label-danger">&nbsp;&nbsp;</span> zarezerwowane</li>
                 <li>&nbsp; <span type="label" class="label label-warning">&nbsp;&nbsp;</span> wstępna rezerwacja</li>
-                <li>&nbsp; <span type="label" class="label label-primary">&nbsp;&nbsp;</span> wolne</li>
+                <li>&nbsp; <span type="label" class="label label-success">&nbsp;&nbsp;</span> wolne</li>
             </ul>
         </div> 
         <b>&nbsp;{{ include.label }}: </b>
@@ -33,9 +33,9 @@
         <span>&nbsp; &nbsp; &nbsp;&nbsp;</span>  
         <b>&nbsp;{{ include.label2 }}: </b>
         <span type="label" class="label label-default">&nbsp;&nbsp;</span>    
-        {% for i in (1..include.paid2) %}<span type="label" class="label label-success">&nbsp;&nbsp;</span> {% endfor %}    
+        {% for i in (1..include.paid2) %}<span type="label" class="label label-danger">&nbsp;&nbsp;</span> {% endfor %}    
         {% for i in (1..include.res2) %}<span type="label" class="label label-warning">&nbsp;&nbsp;</span> {% endfor %}    
-        {% for i in (1..include.free2) %}<span type="label" class="label label-primary">&nbsp;&nbsp;</span> {% endfor %}
+        {% for i in (1..include.free2) %}<span type="label" class="label label-success">&nbsp;&nbsp;</span> {% endfor %}
     </div>
     <div class="col-sm-4">
     </div> 
