@@ -15,10 +15,10 @@
             </ul>
         </div> 
         <b>&nbsp;{{ include.label }}: </b>
-        <span type="label" class="label label-default">&nbsp;&nbsp;</span>    
-        {% for i in (1..include.paid) %}<span type="label" class="label label-success">&nbsp;&nbsp;</span> {% endfor %}    
-        {% for i in (1..include.res) %}<span type="label" class="label label-warning">&nbsp;&nbsp;</span> {% endfor %}    
-        {% for i in (1..include.free) %}<span type="label" class="label label-primary">&nbsp;&nbsp;</span> {% endfor %}
+        <span type="label" class="label label-default">&nbsp;&nbsp;</span>
+        {% for i in (1..include.paid2) %}<span type="label" class="label label-danger">&nbsp;&nbsp;</span> {% endfor %}
+        {% for i in (1..include.res2) %}<span type="label" class="label label-warning">&nbsp;&nbsp;</span> {% endfor %}
+        {% for i in (1..include.free2) %}<span type="label" class="label label-success">&nbsp;&nbsp;</span> {% endfor %}
     </div>
     <div class="col-sm-4">
         <a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-danger pull-right">zarezerwuj miejsce</a>
