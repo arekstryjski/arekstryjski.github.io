@@ -27,9 +27,9 @@ Po rejsie możliwość odwiedzenia **Santiago de Compostela** w trakcie Wielkano
 
 <p>
 <a role="button" href="/portugalia-2014/" type="button" class="btn btn-xs btn-primary">szczegóły</a>
-<a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-success pull-right">zarezerwuj miejsce</a>
+<a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-danger pull-right">zarezerwuj miejsce</a>
 <span class="pull-right" >&nbsp;&nbsp;</span>
-<a role="button" href="/rejsy/pytanie.html" type="button" class="btn btn-xs btn-danger pull-right">mam pytanie</a>         
+<a role="button" href="/rejsy/pytanie.html" type="button" class="btn btn-xs btn-success pull-right">mam pytanie</a>         
 <br>
 </p>
 
@@ -54,9 +54,9 @@ W drugim zobaczymy **Lysefjord** i okolice **Stavanger** gdzie zakończymy rejs.
 
 <p>
 <a role="button" href="/norwegia-2014/" type="button" class="btn btn-xs btn-primary">szczegóły</a>
-<a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-success pull-right">zarezerwuj miejsce</a>
+<a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-danger pull-right">zarezerwuj miejsce</a>
 <span class="pull-right" >&nbsp;&nbsp;</span>
-<a role="button" href="/rejsy/pytanie.html" type="button" class="btn btn-xs btn-danger pull-right">mam pytanie</a>         
+<a role="button" href="/rejsy/pytanie.html" type="button" class="btn btn-xs btn-success pull-right">mam pytanie</a>         
 <br>
 </p>
 
@@ -82,9 +82,9 @@ Rejs o charakterze rodzinnym.
 
 <p>
 <a role="button" href="/grecja-2014/" type="button" class="btn btn-xs btn-primary">szczegóły</a>
-<a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-success pull-right">zarezerwuj miejsce</a>
+<a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-danger pull-right">zarezerwuj miejsce</a>
 <span class="pull-right" >&nbsp;&nbsp;</span>
-<a role="button" href="/rejsy/pytanie.html" type="button" class="btn btn-xs btn-danger pull-right">mam pytanie</a>         
+<a role="button" href="/rejsy/pytanie.html" type="button" class="btn btn-xs btn-success pull-right">mam pytanie</a>         
 <br>
 </p>
 
