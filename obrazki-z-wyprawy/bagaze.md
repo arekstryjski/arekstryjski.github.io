@@ -1,0 +1,32 @@
+---
+title: Bagaże - Obrazki z Wyprawy
+layout: post
+category: relacje
+keywords: rejs, rejs morski, Islandia, 
+desc: \"Szybko poprawiliśmy, że to nie może być dzień drugi skoro nie było jeszcze nocy.\" Relacja z rejsu Islandia - Wyspy Owcze - Szkocja - Hebrydy - Mann - Irlandia.
+img: TODO!!!
+date: 2014-02-12
+---
+
+![](https://draftin.com:443/images/673?token=mzsIu500BG6rhgSiqsyXgFuGvn3gtofuer3PIu6jotHj2neJLlHkqAAydKKPenGb36kku_GjVtF6iK-DVi7NZSk) 
+
+Poranek niczym nie różni się od poprzedniego wieczoru i nocy, ale jakoś trzeba nazywać porę kilka godzin po przebudzeniu. Dzwonimy 
+do wypożyczalni samochodów spytać, czy pamiętają o nas i czy wiedzą gdzie dostarczyć auto.   
+O nas może nie zapomnieli, ale nie mają zamówionego przez nas bagażnika na dach.   
+
+Po godzinie pojawia się auto. Niestety bagażnik, tzw. trumna, nie spełnia za bardzo naszych oczekiwań.   
+Jest nas siódemka i każdy oprócz potrzebnej tu ciepłej odzieży zabrał sztormiaki i śpiwory. Mamy też nieco jedzenia, 
+mapy morskie a w moim przypadku nawet kamizelkę ratunkową.  
+Za bardzo nie mamy jednak wyjścia i musimy brać co mamy.   
+Jest niedziela i większość sklepów zamknięta. Dodatkowo na Islandii rzeczy niestandardowe, jak duży bagażnik na auto terenowe, 
+zamawia się w Europie przez internet.  
+
+Pakowanie to połączenie wrestlingu z układaniem kostki Rubika. Każda torba trafia przynajmniej w trzy miejsca zanim udaje 
+się w końcu wszystko upchnąć.  
+
+W aucie nie ma tylko torby Dagmary. Nie ma jej też na Islandii.  
+Przyleci za kilka godzin i będzie goniła nas po całym kraju przez kolejne trzy dni. Niestety - a może na szczęście, 
+bo naprawdę nie byłoby już gdzie jej włożyć - dogoni nas dopiero gdy wrócimy do Rejkiawiku przejąć jacht od poprzedniej załogi.  
+
+Teraz czeka nas zwiedzanie wnętrza wyspy.  
+
