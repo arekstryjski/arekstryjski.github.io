@@ -8,7 +8,7 @@ img: /img/2013/setsail/sun_l.jpg
 date: 2014-02-07
 ---
 
-**[Miało być inaczej](/obrazki-z-wyprawy/mialo-byc-inaczej.html)**
+**[miało być inaczej](/obrazki-z-wyprawy/mialo-byc-inaczej.html)**
    
 > Koniec z pakowaniem się wieczorem po pracy.   
 > Koniec z drukowaniem biletów i rezerwacji o północy.   
@@ -18,7 +18,7 @@ date: 2014-02-07
 
 -----------------------
 
-**[Lato, lato wszędzie](/obrazki-z-wyprawy/lato-wszedzie.html)**
+**[lato, lato wszędzie](/obrazki-z-wyprawy/lato-wszedzie.html)**
 
 > Wow!   
 > Są jednak miejsca na ziemi gdzie latem jest chłodniej niż w UK.  
@@ -27,7 +27,7 @@ date: 2014-02-07
 
 -----------------------
 
-**[Pustynia](/obrazki-z-wyprawy/pustynia.html)**
+**[pustynia](/obrazki-z-wyprawy/pustynia.html)**
 
 > Patrz tutaj rosną drzewa!  
 
@@ -35,7 +35,7 @@ date: 2014-02-07
 
 -----------------------
 
-**[Czy to tu?](/obrazki-z-wyprawy/czy-to-tu.html)**
+**[czy to tu?](/obrazki-z-wyprawy/czy-to-tu.html)**
 
 > Nasz hotel nie prezentował się okazale.   
 > Prawdę powiedziawszy nie prezentował się wcale.
@@ -44,7 +44,7 @@ date: 2014-02-07
 
 -----------------------
 
-**[Dzień pierwszy, doba druga](/obrazki-z-wyprawy/dzien-1-doba-2.html)**
+**[dzień pierwszy, doba druga](/obrazki-z-wyprawy/dzien-1-doba-2.html)**
 
 > to nie może być dzień drugi skoro nie było jeszcze nocy
 
@@ -52,7 +52,7 @@ date: 2014-02-07
 
 -----------------------
 
-**[Bagaże](/obrazki-z-wyprawy/bagaze.html)**
+**[bagaże](/obrazki-z-wyprawy/bagaze.html)**
 
 > Poranek niczym nie różni się od poprzedniego wieczoru i nocy
 
@@ -69,7 +69,7 @@ date: 2014-02-07
 
 -----------------------
 
-**[Jedną nogą w Ameryce](/obrazki-z-wyprawy/noga-w-ameryce.html)**
+**[jedną nogą w Ameryce](/obrazki-z-wyprawy/noga-w-ameryce.html)**
 
 > na Islandii Wikingowie nie mieli dużych możliwości do grabieży i napadów
 
@@ -77,7 +77,7 @@ date: 2014-02-07
 
 -----------------------
 
-**[Wyspa wody](/obrazki-z-wyprawy/wyspa-wody.html)**
+**[wyspa wody](/obrazki-z-wyprawy/wyspa-wody.html)**
 
 > Najbardziej przypomina to morze, ale to niemożliwe by było ono zawieszone pomiędzy górami a niebem.
 
@@ -85,7 +85,15 @@ date: 2014-02-07
 
 -----------------------
 
-**[Przeprawa](/obrazki-z-wyprawy/przeprawa.html)**
+**[wyspa ognia](/obrazki-z-wyprawy/wyspa-ognia.html)**
+
+> 
+
+*[czytaj dalej...](/obrazki-z-wyprawy/wyspa-ognia.html)*
+
+-----------------------
+
+**[przeprawa](/obrazki-z-wyprawy/przeprawa.html)**
 
 > 
 
@@ -93,7 +101,7 @@ date: 2014-02-07
 
 -----------------------
 
-**[Co lód robi? Cieli.](/obrazki-z-wyprawy/lod-sie-cieli.html)**
+**[lód się cieli](/obrazki-z-wyprawy/lod-sie-cieli.html)**
 
 > 
 

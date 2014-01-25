@@ -17,8 +17,8 @@ swe istnienie zawdzięcza jej więc cała Islandia.
 
 ![](https://draftin.com:443/images/872?token=2ed-lzqwvRe5wEkocihI-rESq8NkkIr1BAzCzoksmi-12j31Vqr0chkqv5k3_S_t7jG8B3wRdly9WBsBWxpCUsY) 
 
-Parlament Islandzki uważany jest za najstarszą nieprzerwanie  działającą instytucje tego rodzaju na świecie. Zrodził się on ze 
-zgromadzenia wodzów i wolnych wojowników Wikińskich.    
+Parlament Islandzki uważany jest za najstarszą nieprzerwanie działającą instytucje tego rodzaju na świecie. Zrodził się on ze 
+zgromadzenia wodzów i wolnych osadników Wikińskich.    
 Może z racji że na Islandii Wikingowie nie mieli dużych możliwości do grabieży i napadów, dość wcześnie znaleźli oni 
 upodobanie w prawie. Zwycięstwo w sądzie, które również tutaj się odbywały, było równie zaszczytne co zwycięstwo na polu 
 bitwy. Mimo to jeśli walka na argumenty nie przynosiła rozstrzygnięć dobywano tu także mieczy i rozstrzygano spory w bardziej 
@@ -26,8 +26,12 @@ bezpośrednim starciu.
 
 ![](https://draftin.com:443/images/873?token=IpwmEY5_LeWIKsIRxx5_VjLEGDenUVUOmprQ4WVatPLl82PwYfq_TKY3YK-UQSWxaFfpiZSCnxiiRjDk8U8iGMQ) 
 
-Pojedynek który zaważył znacząco na dalszej historii wyspy odbył się tutaj w 16xx. Zmierzyli się w nim dwaj biskupi 
+Odbył sie tu także pojedynek, który znacząco zaważył na dalszej historii wyspy. Zmierzyli się w nim dwaj biskupi 
 przewodzący stronnictwu protestanckiemu i katolickiemu w kościele Islandzkim. Co prawda wygrał katolik, jednak wkrótce 
-później został on schwytany i zgładzony wraz ze wszystkimi swoimi synami.   
-Mimo gorącego przywiązania do Rzymu kler Islandzki interpretował przykazania nieco odmiennie niż w innych częściach Europy. Nie tylko 
-nie przestrzegano celibatu, ale wręcz usankcjonowano dziedziczność tytułów kościelnych.  
+później został on schwytany i zgładzony wraz ze wszystkimi swoimi synami. Cała wyspa przeszła wkrótce na protestantyzm.  
+ja widać wyroki boskie to jedno, a zdanie ogółu to drugie...
+
+Kler Islandzki interpretował przykazania nieco odmiennie niż w innych częściach Europy.  
+Nie tylko nie przestrzegano celibatu i księża i biskupi otwarcie zakładali rodziny, ale wręcz usankcjonowano dziedziczność tytułów kościelnych.
+    
+*[czytaj dalej...](/obrazki-z-wyprawy/wyspa-wody.html)*
