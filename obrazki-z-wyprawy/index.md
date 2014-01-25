@@ -20,8 +20,7 @@ date: 2014-02-07
 
 **[lato, lato wszędzie](/obrazki-z-wyprawy/lato-wszedzie.html)**
 
-> Wow!   
-> Są jednak miejsca na ziemi gdzie latem jest chłodniej niż w UK.  
+> Wow! Są jednak miejsca na ziemi gdzie latem jest chłodniej niż w UK.  
 
 *[czytaj dalej...](/obrazki-z-wyprawy/lato-wszedzie.html)*
 
@@ -54,7 +53,7 @@ date: 2014-02-07
 
 **[bagaże](/obrazki-z-wyprawy/bagaze.html)**
 
-> Poranek niczym nie różni się od poprzedniego wieczoru i nocy
+> Poranek niczym nie różnił się od poprzedniego wieczoru i nocy
 
 *[czytaj dalej...](/obrazki-z-wyprawy/bagaze.html)*
 
@@ -111,7 +110,8 @@ date: 2014-02-07
 
 **[na pokład](/obrazki-z-wyprawy/na-poklad.html)**
 
-> 
+> Jacht będzie nas uczył nie tylko sprawności mistrza Kung Fu,   
+> ale przede wszystkim spokoju ducha mnicha buddyjskiego.
 
 *[czytaj dalej...](/obrazki-z-wyprawy/na-poklad.html)*
 
@@ -141,11 +141,11 @@ date: 2014-02-07
 
 -----------------------
 
-**[koniec świata](/obrazki-z-wyprawy/koniec-swiata.html)**
+**[wielorybnicy](/obrazki-z-wyprawy/wielorybnicy.html)**
 
 > 
 
-*[czytaj dalej...](/obrazki-z-wyprawy/koniec-swiata.html)*
+*[czytaj dalej...](/obrazki-z-wyprawy/wielorybnicy.html)*
 
 -----------------------
 
@@ -157,11 +157,11 @@ date: 2014-02-07
 
 -----------------------
 
-**[czas pożegnań](/obrazki-z-wyprawy/czas-pozegnan.html)**
+**[czas pożegnań](/obrazki-z-wyprawy/koniec-swiata.html)**
 
 > 
 
-*[czytaj dalej...](/obrazki-z-wyprawy/czas-pozegnan.html)*
+*[czytaj dalej...](/obrazki-z-wyprawy/koniec-swiata.html)*
 
 -----------------------
 
