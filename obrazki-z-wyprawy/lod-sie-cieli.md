@@ -13,7 +13,7 @@ będziemy jechać z tą prędkością będziemy mieli godzinę na obejrzenie jed
 Zdążymy też na przeprawę ostatnim nocnym autobusem do naszego hotelu.
 
 Wojtek przestaje zważać na przydrożne słupki z zamontowanymi bateriami słonecznymi. Przekonuje siebie i nas, że są 
-to raczej mini stacje metrologiczne, a nie fotoradary. Pewnie miał rację, bo żaden mandat nas nie dogonił.  
+to raczej mini stacje metrologiczne, a nie fotoradary. Pewnie miał rację, bo mandatu nam nie przysłano.  
 Widzieliśmy jednak innych kierowców zatrzymanych przez policję zapewne za przekroczenie prędkości.  
 
 Określenie, że w Jökulsárlón "lód się cieli" nie wzbudzał zachwytu całej załogi swoją poprawnością gramatyczną.   

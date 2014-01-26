@@ -22,7 +22,7 @@ mapy morskie a w moim przypadku nawet kamizelkę ratunkową.
 Za bardzo nie mamy jednak wyjścia i musimy brać co mamy.   
 Jest niedziela i większość sklepów zamknięta. Dodatkowo na Islandii rzeczy niestandardowe, jak duży bagażnik na auto terenowe, 
 czy jak później sie dowiemy sprzęt na jacht, zamawia się w Europie przez internet. Mieszkańców jest tak mało, że pewnych 
-rzeczy nie opłaca się sprowadzić i trzymać w sklepach lub hurtowniach, bo a nuz ktoś kupi. 
+rzeczy nie opłaca się sprowadzić i trzymać w sklepach lub hurtowniach licząc, że a nuż ktoś kupi. 
 
 Pakowanie to połączenie wrestlingu z układaniem kostki Rubika. Każda torba trafia przynajmniej w trzy miejsca zanim udaje 
 się w końcu wszystko upchnąć.  

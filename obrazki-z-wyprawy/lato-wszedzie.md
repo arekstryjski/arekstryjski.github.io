@@ -19,7 +19,7 @@ Ruszyliśmy. Kilka kroków, ostatni uśmiech stewardess, blask słońca i jeste�
 Chwila oczekiwania i... nic.   
 
 Zamiast fali gorącego powietrza, raczej rześki wiaterek.   
-Wow! są jednak miejsca na ziemi gdzie latem jest chłodniej niż w UK.  
+Wow! są jednak miejsca gdzie latem jest chłodniej niż w UK.  
 
 Czemu mnie to zaskakuje.   
 

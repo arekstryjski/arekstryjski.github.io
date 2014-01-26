@@ -20,7 +20,7 @@ date: 2014-02-07
 
 **[lato, lato wszędzie](/obrazki-z-wyprawy/lato-wszedzie.html)**
 
-> Wow! Są jednak miejsca na ziemi gdzie latem jest chłodniej niż w UK.  
+> Wow! Są jednak miejsca gdzie latem jest chłodniej niż w UK.  
 
 *[czytaj dalej...](/obrazki-z-wyprawy/lato-wszedzie.html)*
 
@@ -61,8 +61,7 @@ date: 2014-02-07
 
 **[Tybet](/obrazki-z-wyprawy/tybet.html)**
 
-> Indiańskie groby?   
-> Kopczyki usypane przez wyznawców buddyzmu?
+> Indiańskie groby? Kopczyki usypane przez wyznawców buddyzmu?
 
 *[czytaj dalej...](/obrazki-z-wyprawy/tybet.html)*
 
@@ -86,7 +85,7 @@ date: 2014-02-07
 
 **[wyspa ognia](/obrazki-z-wyprawy/wyspa-ognia.html)**
 
-> 
+> Co kilka minut gejzer wyrzuca w górę setki litrów wody i pary na wysokość 30m.
 
 *[czytaj dalej...](/obrazki-z-wyprawy/wyspa-ognia.html)*
 
@@ -94,7 +93,7 @@ date: 2014-02-07
 
 **[przeprawa](/obrazki-z-wyprawy/przeprawa.html)**
 
-> 
+> Żeglarze po dopłynięciu do portu wznoszą czasami toast 'Za cudowne ocalenie!'
 
 *[czytaj dalej...](/obrazki-z-wyprawy/przeprawa.html)*
 
@@ -102,7 +101,7 @@ date: 2014-02-07
 
 **[lód się cieli](/obrazki-z-wyprawy/lod-sie-cieli.html)**
 
-> 
+> Wszystko łącznie z czasem wydaje się stać w miejscu.
 
 *[czytaj dalej...](/obrazki-z-wyprawy/lod-sie-cieli.html)*
 
@@ -119,7 +118,7 @@ date: 2014-02-07
 
 **[Pompeje XX wieku](/obrazki-z-wyprawy/pompeje-20-wieku.html)**
 
-> 
+> strażacy polewają lawę i płonące budynki, nie po to by ugasić pożary, ale by powstrzymać czoło strumienia lawy
 
 *[czytaj dalej...](/obrazki-z-wyprawy/pompeje-20-wieku.html)*
 
@@ -127,7 +126,7 @@ date: 2014-02-07
 
 **[Atlantyk](/obrazki-z-wyprawy/atlantyk.html)**
 
-> 
+> Po przepięknej słonecznej nocy ani śladu.
 
 *[czytaj dalej...](/obrazki-z-wyprawy/atlantyk.html)*
 
