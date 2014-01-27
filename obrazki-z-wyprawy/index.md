@@ -134,7 +134,7 @@ date: 2014-02-07
 
 **[Shire](/obrazki-z-wyprawy/shire.html)**
 
-> 
+> Tu można powiedzieć, że w końcu trafiamy na koniec świata, a przynajmniej Europy. 
 
 *[czytaj dalej...](/obrazki-z-wyprawy/shire.html)*
 
