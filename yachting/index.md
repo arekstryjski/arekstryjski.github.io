@@ -12,6 +12,10 @@ dla załogi
 -----------
 * [Co zabrać na rejs?](/co-zabrac)
 
+szkolenia
+----------
+* [Szkolenia RYA](/szkolenia-rya)
+
 dla skippera
 -------------
 Tutaj będę dodawał informacje przydatne głównie dla mnie, ale może ktoś jeszcze na tym skorzysta.   
