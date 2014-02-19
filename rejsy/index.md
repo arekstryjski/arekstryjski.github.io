@@ -98,11 +98,16 @@ rejsy weekendowe
 W UK prowadzę weekendowe rejsy organizowane przez polonijny klub żeglarski SetSail.  
 Najbliższe terminy:  
 
-* 1-2.02.2014
+* **21-23 marzec 2014**: *Solent*
+* **2-4 maj 2014** (May Bank Holiday): *Crossing the Channel*
+* **8 maj 2014**: *Sea Sailing Adventure - toddlers*
+* **9, 10 maj 2014**: *Sea Sailing Adventure - rodzicie i dzieci/młodzież*
+* **23-26 maj 2014** (May Bank Holiday): *Crossing the Channel*
+
+Więcej szczegółów [SetSail](http://setsail.org.uk).  
+Jeśli masz pytanie [napisz do mnie](/rejsy/rezerwacja.md).
 
 Zobacz jak było na poprzednich rejsach: [Dookoła wyspy Wight - Solent zimą](/dookola-wight-solent-zima/)
-
-Więcej szczegółów i rezerwacja miejsc na stronie [SetSail](http://setsail.org.uk).
 
 ----------------------------------------------------
 
