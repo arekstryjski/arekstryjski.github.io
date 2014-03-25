@@ -1,3 +1,14 @@
+- log: 27
+  start: 2014-03-21
+  end: 2014-03-23
+  day: 2
+  nm: 88
+  pos: skipper (supervision)
+  sea: Solent
+  ports: Portsmouth, Yarmouth, Portsmouth
+  y_name: Vantage
+  y_type: Sun Odyssey 43 
+
 - log: 26
   start: 2014-01-31
   end: 2014-02-02

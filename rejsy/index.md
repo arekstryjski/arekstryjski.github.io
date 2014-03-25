@@ -60,33 +60,6 @@ W drugim zobaczymy **Lysefjord** i okolice **Stavanger** gdzie zakończymy rejs.
 <br>
 </p>
 
-----------------------------------------------------
-
-[Grecja 2014](/grecja-2014/)
-------------------------
-
-[![grecja](/img/2013/grecja_2014/grecja_big.jpg)](/grecja-2014/) 
-
-> Nauczeni doświadczeniem z rejsów w Grecji w latach poprzednich, po każdym dniu żeglugi przeznaczymy jeden dzień na eksplorację wysp i odpoczynek.  
-> Na wyspach greckich zabytkowe wsie i miasteczka położone są z reguły w górach w głębi wyspy, z dala od portów. Ich eksploracja wymaga poświęcenia czasu i pozostania na wyspie co najmniej 24 godziny. 
-
-
-**21.10 - 04.11**  
-*Rejs 2 tygodniowy (jeden z tygodni w trakcie brytyjskich ferii szkolnych.*  
-*~440 mil morskich*  
-*£270 + kasa jachtowa*
-
-Płyniemy przez całe **Morze Egejskie** z północy na południe. Mamy zamiar odwiedzić: 
-**Saloniki**, **Skopelos**, **Skyros**, **Chios**, **Samos**, **Kos**, **Rodos**.  
-Rejs o charakterze rodzinnym.
-
-<p>
-<a role="button" href="/grecja-2014/" type="button" class="btn btn-xs btn-primary">szczegóły</a>
-<a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-danger pull-right">zarezerwuj miejsce</a>
-<span class="pull-right" >&nbsp;&nbsp;</span>
-<a role="button" href="/rejsy/pytanie.html" type="button" class="btn btn-xs btn-success pull-right">mam pytanie</a>         
-<br>
-</p>
 
 ----------------------------------------------------
 
@@ -98,7 +71,6 @@ rejsy weekendowe
 W UK prowadzę weekendowe rejsy organizowane przez polonijny klub żeglarski SetSail.  
 Najbliższe terminy:  
 
-* **21-23 marzec 2014**: *Solent*
 * **2-4 maj 2014** (May Bank Holiday): *Crossing the Channel*
 * **8 maj 2014**: *Sea Sailing Adventure - toddlers*
 * **9, 10 maj 2014**: *Sea Sailing Adventure - rodzicie i dzieci/młodzież*
