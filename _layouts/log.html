@@ -27,7 +27,7 @@
                 {% for log in site.data.logbook %}
                     {% assign nm = nm | plus:log.nm %}
                     {% assign days = days | plus:log.day %}
-                    {% if log.pos == 'skipper' %}
+                    {% if log.pos contains 'skipper' %}
                         {% assign nmSkip = nmSkip | plus:log.nm %}
                         {% assign daysSkip = daysSkip | plus:log.day %}
                     {% endif %}                    
