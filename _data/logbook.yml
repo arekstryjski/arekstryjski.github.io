@@ -1,3 +1,14 @@
+- log: 28
+  start: 2014-04-08
+  end: 2014-04-19
+  day: 11
+  nm: 457
+  pos: skipper 
+  sea: Atlantic
+  ports: Lisbon - Porto - Viana do Castelo - Combarro - Muros - A Coruña
+  y_name: JoinUs
+  y_type: Bruce Roberts NY 46
+
 - log: 27
   start: 2014-03-21
   end: 2014-03-23

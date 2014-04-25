@@ -5,35 +5,9 @@ category: rejsy
 keywords: rejsy, rejsy morskie, rejsy weekendowe, żeglarstwo, yachting, jachting, Portugalia, Galicia, Hiszpania, Norwegia, Grecja, Spitsbergen
 desc: Informacje na temat planowanych rejsów. Rejsy weekendowe w UK. Rejs wielkanocny w Portugalii i hiszpańskiej Galicji. Rejsy do Norwegii i Grecji. 
 img: /img/2013/setsail/sun_l.jpg
-date: 2014-01-18
+date: 2014-04-25
 ---
 
-[Portugalia - Galicia 2014](/portugalia-2014/)
-------------------------------------------------
-
-[![Portugalia - Galicia](/img/2013/portugalia_2014/Belem_Tower.jpg)](/portugalia-2014/) 
-
-> W ramach jednego rejsu zamierzamy odwiedzić "obie" Portugalie.
-> Galicia będąca dziś częścią Hiszpanii stanowi kolebkę królestwa Portugalii. Stąd w XII wieku ruszyła rekonkwista na południe półwyspu Iberyjskiego.  
-
-**8.04 - 19.04**  
-*11 dniowy rejs w trakcie ferii wielkanocnych.*  
-*~400 mil morskich*  
-*£260 + kasa jachtowa*
-
-Rejs zaczynamy w **Lizbonie**. Pragniemy odwiedzić **Porto** i **Viana do Castelo** w Portugalii, oraz **Bayona**, 
-**Illa de Ons**, **Ria de Arosa**, **Camariñas** i **A Coruña** w hiszpańskiej Galicii.  
-Po rejsie możliwość odwiedzenia **Santiago de Compostela** w trakcie Wielkanocy.  
-
-<p>
-<a role="button" href="/portugalia-2014/" type="button" class="btn btn-xs btn-primary">szczegóły</a>
-<a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-danger pull-right">zarezerwuj miejsce</a>
-<span class="pull-right" >&nbsp;&nbsp;</span>
-<a role="button" href="/rejsy/pytanie.html" type="button" class="btn btn-xs btn-success pull-right">mam pytanie</a>         
-<br>
-</p>
-
-----------------------------------------------------
 
 [Norwegia 2014](/norwegia-2014/)
 ----------------------------
