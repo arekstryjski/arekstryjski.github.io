@@ -1,3 +1,25 @@
+- log: 30 
+  start: 2014-05-08
+  end: 2014-05-10
+  day: 3
+  nm: 33
+  pos: skipper 
+  sea: Solent
+  ports: Portsmouth
+  y_name: JoinUs
+  y_type: Bruce Roberts NY 46
+
+- log: 29
+  start: 2014-05-02  
+  end: 2014-05-15
+  day: 3
+  nm: 164
+  pos: skipper 
+  sea: English Channel
+  ports: Portsmouth - Cherbourg - Portsmouth
+  y_name: JoinUs
+  y_type: Bruce Roberts NY 46
+
 - log: 28
   start: 2014-04-08
   end: 2014-04-19

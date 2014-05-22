@@ -2,7 +2,7 @@
 title: Arek Stryjski - sailing CV
 layout: page
 category: arek
-date: 2014-02-04
+date: 2014-05-22
 desc: Arek Stryjski - sailing CV
 ---
 
@@ -30,9 +30,9 @@ languages
 
 sailing experience
 ------------------
-* nautical miles: 7963 - 5657 as skipper
-* days at sea: 174 - 127 as skipper
-* sailing areas: Mediterranean, North Sea, Irish and Celtic Seas, English Channel, Bay of Biscay, North Atlantic
+* nautical miles: 8705 - 6399 as skipper
+* days at sea: 193 - 146 as skipper
+* sailing areas: North Atlantic, Bay of Biscay, North Sea, Irish and Celtic Seas, English Channel, Mediterranean 
 
 Working as skipper for JoinUs.pl on vacation cruises with people of various experience, including kids and complete beginners.  
 Organizing and skippering weekend sailing trips in UK for SetSail sailing club with people of various experience.  
