@@ -1,3 +1,14 @@
+- log: 31
+  start: 2014-05-23
+  end: 2014-05-26
+  day: 3
+  nm: 134
+  pos: skipper (supervision)
+  sea: English Channel
+  ports: Portsmouth, Weymouth, Poole, Portsmouth
+  y_name: Forrader
+  y_type: Sun Odyssey 43 
+  
 - log: 30 
   start: 2014-05-08
   end: 2014-05-10

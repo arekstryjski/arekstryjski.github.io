@@ -1,7 +1,7 @@
 ---
 title: Arek Stryjski - logbook
 layout: log
-date: 2014-05-22
+date: 2014-05-27
 category: arek
 desc: Arek Stryjski - logbook
 ---
