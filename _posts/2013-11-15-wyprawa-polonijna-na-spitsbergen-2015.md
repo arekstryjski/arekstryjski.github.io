@@ -9,67 +9,53 @@ desc: Opis planowanej Wyprawy Polonijnej na Spitsbergen Svalbard
 Głównym celem rejsu jest opłynięcie wyspy Spitsbergen w archipelagu Svalbard.
 Jeśli warunki lodowe by na to nie pozwoliły będziemy starać się dopłynąć do najbardziej na północy wysuniętego punktu, który będzie dostępny.
 
+Płyniemy na przełomie lipca i sierpnia kiedy:
+* można się spodziewać najwyższych temperatur,
+* wody wokół Svalbard powinny byc już całkowicie wolne od lodu zimowego,
+* dzień trwa tam 24 godziny na dobę,
+* nie powinny dopaść nas jeszcze jesienne sztormy.
+
 ![](/img/2013/spitsbergen_2015/mapa.jpg)
 
 ![](/img/2013/spitsbergen_2015/Spitsbergen.png)
 
 
+
 Trasa
 ------
-**A. Norwegia - Svalbard**
-*Około 600NM*
-*1100NM przy opłynięciu Svalbard*
-*2-3 tygodnie*
-*Czerwiec 2015*
-Załoga na tym rejsie będzie miała okazję "odkryć" Svalbard i przeprowadzić prawdziwy rejs oceaniczny za kołem podbiegunowym. Pierwszy odcinek to 400NM (5 dni) non-stop w trakcie początku astronomicznego lata - dzień non-stop.
-Warunki lodowe jednak najprawdopodobniej nie pozwolą na okrążenie Spitsbergenu na tym etapie.
 
-![](/img/2013/spitsbergen_2015/mis.jpg)
-
-**B. Spitsbergen**
+**dookoła Spitsbergenu**
 *Około 700NM*
 *2 tygodnie*
-*Lipiec 2015*
-Głównym celem rejsu jest okrążenie Spitsbergenu.
-Rejs przeprowadzony cały czas przy wybrzeżu Spitsbergenu, aczkolwiek by zrealizować główny cel - okrążenie wyspy - niezbędne będzie płynięcie jeśli tylko warunki lodowe na to pozwolą, jedynie z małymi przystankami.
-
-Możliwe że uda się odbyć 2 takie etapy.
+*25 lipiec - 8 sierpień 2015*
 
 ![](/img/2013/spitsbergen_2015/svalbard_archipelago_norway_1996.jpg)
 
-**C. Svalbard - Norwegia**
-*Około 600NM*
-*900NM przy częściowym opłynięciu wyspy od północy*
-*2-3 tygodnie*
-*Sierpień 2015*
-Jeśli warunki pogodowe na to pozwolą, załoga na tym etapie częściowo okrąży Svalbard, a następnie wróci do Norwegii.
-Ostatni etap to 5 dniowy rejs non-stop (400NM)
+Cena
+-----
+* 2000-2500pln (£400-500)
 
-![](https://draftin.com:443/images/3983?token=qQ8q7hKtmvjW7Oq00YWLa605KttfpRxWdr18yc-7Q3-dczj6J6m9W5wQNd6nJf98Av1-L4sVvac3dLW64mJErYc) 
-
-Tarasy rejsów mogą ulec modyfikacji w związku z uzgodnieniami pomiędzy załogami poszczególnych etapów i koordynatorem całej wyprawy.
-Niezbędna będzie też bardziej szczegółowa analiza warunków lodowych i pogodowych w tym rejonie, jak również w całej Norwegii (jacht musi bezpiecznie dopłynąć i wrócić z/do Północnej Norwegii).
-
-Rejs polonijny organizowany przez SetSail odbędzie się jedynie na jednej z wyżej wymienionych tras.
+![](/img/2013/spitsbergen_2015/mis.jpg)
 
 
 Odwiedzane Miejsca
 -------------------
 * Longyearbyen - największe miasto i stolica Svalbard
 * Barentsburg - jedyne wciąż zamieszkałe z rosyjskich miast na Spitsbergenie
-* Hornsund - Polska Stacja Badawcza  
+* Hornsund - Polska Stacja Polarna  
 
 ![](/img/2013/spitsbergen_2015/stacja_zima.jpg)
 
-Polska jako jedyny kraj poza Norwegią i Rosją wykorzystuje porozumienie Traktatu Spitsbergeńskiego i utrzymuje stałą osadę na terytorium Svalbard. Polska Stacja Badawcza jest nieprzerwanie zamieszkała, przez około 10 osób, od ponad 50 lat.
-* ...
-* ...
-* ...
+Polska jako jedyny kraj poza Norwegią i Rosją wykorzystuje porozumienie Traktatu Spitsbergeńskiego i utrzymuje stałą osadę na terytorium Svalbard.
+Polska Stacja Badawcza jest nieprzerwanie zamieszkała, przez około 10 osób, od ponad 50 lat.
+
 
 
 Jacht
 ------
 Rejs odbędzie się na jachcie *JoinUs* - Bruce Roberts NY 46
+
+![JoinUs dziób](/img/2014/joinus/kadlub5.jpg)
 
 podstawowe parametry techniczne:
 
@@ -78,22 +64,11 @@ podstawowe parametry techniczne:
 * zanurzenie: 2.15m
 * silnik 136HP
 * powierzchnia żagla: 111m2
-* liczba koi: 8 (w 4 kabinach)
+* liczba koi: 8+1 (w 4 kabinach)
+* **[więcej o jachcie](/rejsy/joinus.html)**
 
-<http://www.joinus.pl/index.php/pl/component/content/article/102/945-Bruce-Roberts-NY-46>
+W 2014 roku jachcie tym przeprowadziłem rejs [Portugalia - Galicja](/portugalia-2014), dwa rejsy na Kanale Angielskim oraz planuję kolejne rejsy w Norwegii [jesienią](/norwegia-2014) 2014 i wiosną 2015 co daje mi okazję dobrze poznać ta jednostkę. 
 
-
-rejsy przygotowawcze
----------------------
-W ramach przygotowań do rejsu w 2014 roku planujemy dwa rejsy:
-
-* tygodniowy rejs na Północnym Atlantyku **[Portugalia - Galicja](/portugalia-2014)**
-
-* dwa tygodniowe rejsy w **[Norwegii](/norwegia-2014)**
-
-Celem rejsów przygotowawczych jest zapoznanie się załogi z jachtem, a także sprawdzenie swoich możliwości w żegludze oceanicznej.
-
-Udział w rejsach przygotowawczych nie jest wymagany, aczkolwiek jest sugerowany zwłaszcza dla mniej doświadczonych uczestników.
 
 
 Organizatorzy
@@ -103,11 +78,6 @@ Organizatorzy
 * Yacht Klub Polski London  
 
 
-Patronat Medialny
-------------------
-* ...
-* ...
-* ...
 
 ![](/img/2013/spitsbergen_2015/topographic_map_of_svalbard.png)
 
@@ -116,7 +86,7 @@ Linki
 -------
 **Miejsca**
 
-* Polska Stacja Badawcza <http://hornsund.igf.edu.pl>
+* Polska Stacja Polarna Hornsund im. Stanisława Siedleckiego <http://hornsund.igf.edu.pl>
 
 **Locje**
 
