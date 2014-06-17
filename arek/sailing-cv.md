@@ -2,7 +2,7 @@
 title: Arek Stryjski - sailing CV
 layout: page
 category: arek
-date: 2014-05-27
+date: 2014-06-17
 desc: Arek Stryjski - sailing CV
 ---
 
@@ -18,7 +18,7 @@ qualifications
 ---------------
 * RYA Yachtmaster Offshore commercially endorsed,  
 * SRC
-* Radar
+* RYA FirstAid, Radar, Diesel
 * valid ML5 Certificate
 * PADI Open Water Diver
 * clean UK driving license
@@ -60,6 +60,7 @@ certificates
 | Small Craft Sea Survival          | Diveline Ltd.      | 14/05/2013 |	
 | Professional Practices & Responsibilities | RYA online | 07/06/2013 |
 | Radar Course                      | YachtCom           | 14/07/2013 |
+| Diesel Engine Course              | Emsworth School of Navigation | 14/06/2014 |
 |                                   |                    |            |
 
 | other                 | number     | training centre            |  date      |

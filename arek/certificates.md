@@ -1,7 +1,7 @@
 ---
 title: Arek Stryjski - sailing certificates
 layout: page
-date: 2013-11-29
+date: 2014-06-16
 category: arek
 no_index: true
 desc: Arek Stryjski - sailing certificates
@@ -24,6 +24,10 @@ desc: Arek Stryjski - sailing certificates
 <hr class="print-nl">
 
 ![Arek Stryjski - Radar](/img/certificates/radar.jpg)
+
+<hr class="print-nl">
+
+![Arek Stryjski - Radar](/img/certificates/diesel.jpg)
   
 <hr class="print-nl">
 
