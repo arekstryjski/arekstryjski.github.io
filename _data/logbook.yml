@@ -1,3 +1,47 @@
+- log: 35
+  start: 2014-11-07
+  end: 2014-11-09
+  day: 2
+  nm: 32
+  pos: skipper 
+  sea: Solent
+  ports: Portsmouth, Cowes, Portsmouth
+  y_name: Destination Anywhere
+  y_type: Bavaria 46
+  
+- log: 34
+  start: 2014-09-20
+  end: 2014-09-27
+  day: 7
+  nm: 228
+  pos: skipper 
+  sea: North Sea
+  ports: Bergen, Espevær, Skudeneshavn, Lysebotn, Mosterøy, Stavanger
+  y_name: JoinUs
+  y_type: Bruce Roberts NY 46
+  
+- log: 33
+  start: 2014-09-13
+  end: 2014-09-20
+  day: 7
+  nm: 302
+  pos: skipper 
+  sea: North Sea
+  ports: Bergen, Fedje, Vik, Flam, Mundal, Bergen
+  y_name: JoinUs
+  y_type: Bruce Roberts NY 46
+  
+- log: 32
+  start: 2014-08-22 
+  end: 2014-08-25
+  day: 3
+  nm: 220
+  pos: skipper 
+  sea: English Channel
+  ports: Portsmouth, St Peters Port, Portsmouth
+  y_name: Destination Anywhere
+  y_type: Bavaria 46
+  
 - log: 31
   start: 2014-05-23
   end: 2014-05-26
@@ -38,7 +82,7 @@
   nm: 457
   pos: skipper 
   sea: Atlantic
-  ports: Lisbon - Porto - Viana do Castelo - Combarro - Muros - A Coruña
+  ports: Lisbon, Porto, Viana do Castelo, Combarro, Muros, A Coruña
   y_name: JoinUs
   y_type: Bruce Roberts NY 46
 
