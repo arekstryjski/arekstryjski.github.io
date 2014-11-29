@@ -9,26 +9,46 @@ date: 2014-04-25
 ---
 
 
-[Norwegia 2014](/norwegia-2014/)
+[Norwegia 2015](/norwegia-2015/) 
 ----------------------------
 
-[![norwegia](/img/2013/norwegia_2014/the_viking_valley_big.jpg)](/norwegia-2014/) 
+[![norwegia](/img/2014/norwegia/Reine-Lofoten-Islands-Norway.jpg)](/norwegia-2015/) 
 
 > Norwegia to jeden z najpiękniejszych krajów Europy. Tutejsza, w dużej mierze jeszcze dziewicza przyroda, nie ma odpowiedników w całej Europie.     
 > Setki fiordów i tysiące wysp i wysepek to wręcz raj dla żeglarzy. 
 
-**13.09 - 20.09**  
-**20.09 - 27.09**  
-*Dwa tygodniowe rejsy (można wziąć udział obu).*  
-*~300 i ~180 mil morskich*  
-*£190 (tydzień) + kasa jachtowa*
+**23.05 - 2.06**  
+*rejsy 10 dniowy*  
+*~415 mil morskich*  
+*1230zł (£230) + kasa jachtowa*
 
-Zaczynamy zawsze w **Bergen**. W pierwszym tygodniu planujemy odwiedzić **Nærøyfjorden** i **Aurlandsfjord**.  
-W drugim zobaczymy **Lysefjord** i okolice **Stavanger** gdzie zakończymy rejs.
+Rejs zaczynamy w **Trondheim**. Planujemy odwiedzić północne wybrzeże Norwegii i **Lofoty**. Rejs zakończymy w **Bodo**.
 
 <p>
-<a role="button" href="/norwegia-2014/" type="button" class="btn btn-xs btn-primary">szczegóły</a>
+<a role="button" href="/norwegia-2015/" type="button" class="btn btn-xs btn-primary">szczegóły</a>
 <a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-danger pull-right">zarezerwuj miejsce</a>
+<span class="pull-right" >&nbsp;&nbsp;</span>
+<a role="button" href="/rejsy/pytanie.html" type="button" class="btn btn-xs btn-success pull-right">mam pytanie</a>         
+<br>
+</p>
+
+----------------------------------------------------
+
+[Wyprawa na Spitsbergen 2015](/wyprawa-polonijna-na-spitsbergen-2015)
+------------------------------------------------------------------------------
+
+[![Spitsbergen](/img/2014/norwegia/spitsbergen_mis.jpg)](/wyprawa-polonijna-na-spitsbergen-2015/) 
+
+> Głównym celem rejsu jest opłynięcie wyspy Spitsbergen w archipelagu Svalbard.  
+
+**25 lipiec - 8 sierpień 2015**   
+*2 tygodnie*  
+*~720 mil morskich*  
+*2496zł (£480) + kasa jachtowa*  
+
+<p>
+<a role="button" href="/wyprawa-polonijna-na-spitsbergen-2015/" type="button" class="btn btn-xs btn-primary">szczegóły</a>
+<a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-danger pull-right">lista rezerwowa</a>
 <span class="pull-right" >&nbsp;&nbsp;</span>
 <a role="button" href="/rejsy/pytanie.html" type="button" class="btn btn-xs btn-success pull-right">mam pytanie</a>         
 <br>
@@ -45,28 +65,13 @@ rejsy weekendowe
 W UK prowadzę weekendowe rejsy organizowane przez polonijny klub żeglarski SetSail.  
 Najbliższe terminy:  
 
-* **2-4 maj 2014** (May Bank Holiday): *Crossing the Channel*
-* **8 maj 2014**: *Sea Sailing Adventure - toddlers*
-* **9, 10 maj 2014**: *Sea Sailing Adventure - rodzicie i dzieci/młodzież*
-* **23-26 maj 2014** (May Bank Holiday): *Crossing the Channel*
+* **12-14 grudnia 2014**: *Hardcore: Crossing the Channel*
 
 Więcej szczegółów [SetSail](http://setsail.org.uk).  
 Jeśli masz pytanie [napisz do mnie](/rejsy/rezerwacja.md).
 
 Zobacz jak było na poprzednich rejsach: [Dookoła wyspy Wight - Solent zimą](/dookola-wight-solent-zima/)
 
-----------------------------------------------------
-
-[Polonijna Wyprawa na Spitsbergen](/wyprawa-polonijna-na-spitsbergen-2015)
-------------------------------------------------------------------------------
-**czerwiec/lipiec 2015**  
-*2 - 3 tygodnie*  
-
-*Więcej informacji wkrótce*
-
-<p>
-<a role="button" href="/wyprawa-polonijna-na-spitsbergen-2015/" type="button" class="btn btn-xs btn-primary">szczegóły</a>
-</p>
 
 
 

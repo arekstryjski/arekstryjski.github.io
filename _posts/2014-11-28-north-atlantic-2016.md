@@ -19,7 +19,7 @@ trasa
 --------
 Planuję odbyć rejs na jednej z wymienionych poniżej tras:
 
-* Stavanger - Szetlandy - Wyspy Owcze - Islandia ~750NM
+* Szkocja - Orkany - Szetlandy - Wyspy Owcze - Islandia ~700NM
 * wokół Islandii ~900NM
 * Islandia - Jan Mayen - Spitsbergen ~1050NM
 
