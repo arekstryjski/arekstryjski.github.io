@@ -14,8 +14,7 @@ date: 2014-04-25
 
 [![norwegia](/img/2014/norwegia/Reine-Lofoten-Islands-Norway.jpg)](/norwegia-2015/) 
 
-> Norwegia to jeden z najpiękniejszych krajów Europy. Tutejsza, w dużej mierze jeszcze dziewicza przyroda, nie ma odpowiedników w całej Europie.     
-> Setki fiordów i tysiące wysp i wysepek to wręcz raj dla żeglarzy. 
+> Po sukcesie rejsu na fiordy norweskie we wrześniu 2014 przyszedł czas by odwiedzić północ tego przepięknego kraju i malownicze wyspy Lofoty.
 
 **23.05 - 2.06**  
 *rejsy 10 dniowy*  
@@ -46,6 +45,8 @@ Rejs zaczynamy w **Trondheim**. Planujemy odwiedzić północne wybrzeże Norweg
 *~720 mil morskich*  
 *2496zł (£480) + kasa jachtowa*  
 
+Podobny rejs zorganizowany tez będzie w [roku 2016](/spitsbergen-2016).
+
 <p>
 <a role="button" href="/wyprawa-polonijna-na-spitsbergen-2015/" type="button" class="btn btn-xs btn-primary">szczegóły</a>
 <a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-danger pull-right">lista rezerwowa</a>
@@ -66,9 +67,16 @@ W UK prowadzę weekendowe rejsy organizowane przez polonijny klub żeglarski Set
 Najbliższe terminy:  
 
 * **12-14 grudnia 2014**: *Hardcore: Crossing the Channel*
+* **13-15 marca 2015**: *rejs szkoleniowo turystyczny - Solent*
+* **10-12 kwietnia 2015**: *rejs szkoleniowo turystyczny - Solent*
+* **1-4 maj 2015**: *Bank Holiday*
+* **25-28 czerwca 2015**: *4 dni - Wyspy Scilly*
+* **28-31 sierpnia 2015**: *Bank Holiday*
 
-Więcej szczegółów [SetSail](http://setsail.org.uk).  
-Jeśli masz pytanie [napisz do mnie](/rejsy/rezerwacja.md).
+Większość rejsów zaczyna się i kończy w Haslar Marina, Gosport (koło Portsmouth). 
+W zwykłe weekendy z reguły pływamy na Solent. W Bank Holidays płyniemy do Francji/Wysp Normandzkich lub gdzieś dalej na wybrzeżu angielskim.
+
+Więcej szczegółów [SetSail](http://setsail.org.uk). Jeśli masz pytanie [napisz do mnie](/rejsy/rezerwacja.md).
 
 Zobacz jak było na poprzednich rejsach: [Dookoła wyspy Wight - Solent zimą](/dookola-wight-solent-zima/)
 

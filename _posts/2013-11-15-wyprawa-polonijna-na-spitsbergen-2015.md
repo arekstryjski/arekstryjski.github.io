@@ -30,7 +30,6 @@ zobacz także:
 
 * [Trondheim - Lofoty - Bodo 2015](/norwegia-2015)
 * [Spitsbergen 2016](/spitsbergen-2016)
-* [Północny Atlantyk 2016](/north-atlantic-2016)
 
 cena
 -----
@@ -218,7 +217,7 @@ odwiedzane miejsca
 * Barentsburg - jedyne wciąż zamieszkałe z rosyjskich miast na Spitsbergenie
 * Hornsund - Polska Stacja Polarna  
 
-![](/img/2013/spitsbergen_2015/stacja_zima.jpg)
+![Polska Stacja Badawcza Hornsund](/img/2013/spitsbergen_2015/stacja_zima.jpg)
 
 Polska jako jedyny kraj poza Norwegią i Rosją wykorzystuje porozumienie Traktatu Spitsbergeńskiego i utrzymuje stałą osadę na terytorium Svalbard.
 [Polska Stacja Badawcza](http://hornsund.igf.edu.pl) jest nieprzerwanie zamieszkała, przez około 10 osób, od ponad 50 lat.
@@ -228,7 +227,7 @@ Polska jako jedyny kraj poza Norwegią i Rosją wykorzystuje porozumienie Trakta
 
 
 
-![](/img/2013/spitsbergen_2015/svalbard_archipelago_norway_1996.jpg)
+![svalbard archipelago](/img/2013/spitsbergen_2015/svalbard_archipelago_norway_1996.jpg)
 
 
 Linki
