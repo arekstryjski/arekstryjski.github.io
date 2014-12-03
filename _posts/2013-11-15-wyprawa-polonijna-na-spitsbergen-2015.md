@@ -29,7 +29,7 @@ Dlaczego akurat wtedy:
 zobacz także:
 
 * [Trondheim - Lofoty - Bodo 2015](/norwegia-2015)
-* [Spitsbergen 2016](/spitsbergen-2016)
+* [Islandia - Grenlandia - Jan mayen - Spitsbergen 2016](/jan-mayen-2016)
 
 cena
 -----

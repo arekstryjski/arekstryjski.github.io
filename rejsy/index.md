@@ -45,8 +45,6 @@ Rejs zaczynamy w **Trondheim**. Planujemy odwiedzić północne wybrzeże Norweg
 *~720 mil morskich*  
 *2496zł (£480) + kasa jachtowa*  
 
-Podobny rejs zorganizowany tez będzie w [roku 2016](/spitsbergen-2016).
-
 <p>
 <a role="button" href="/wyprawa-polonijna-na-spitsbergen-2015/" type="button" class="btn btn-xs btn-primary">szczegóły</a>
 <a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-danger pull-right">lista rezerwowa</a>
@@ -79,6 +77,30 @@ W zwykłe weekendy z reguły pływamy na Solent. W Bank Holidays płyniemy do Fr
 Więcej szczegółów [SetSail](http://setsail.org.uk). Jeśli masz pytanie [napisz do mnie](/rejsy/rezerwacja.md).
 
 Zobacz jak było na poprzednich rejsach: [Dookoła wyspy Wight - Solent zimą](/dookola-wight-solent-zima/)
+
+----------------------------------------------------
+
+[Wyprawa: Islandia - Grenlandia - Jan Mayen - Spitsbergen 2016](/jan-mayen-2016)
+------------------------------------------------------------------------------
+
+[![Jan Mayen](/img/2014/jan_mayen/jan_mayen_wieloryby.jpg)](/jan-mayen-2016)
+
+> Rzadko kto dociera jachtem do północnej Islandii. Jeszcze mniej osób pływa w Grenlandii i na Spitsbergenie. 
+> Jan Mayen to zagubiona wyspa północy o której rzadko kto nawet słyszał.  
+> W czasie naszej wyprawy chcielibyśmy odwiedzić wszystkie te miejsca. 1400 mil morskich żeglugi w większości po Oceanie Arktycznym 
+> to niepowtarzalna okazja dla ludzi szukających prawdziwej przygody i pragnących odkryć daleką północ. 
+
+**lipiec 2016**   
+*3 tygodnie*  
+*~1200 mil morskich*  
+
+<p>
+<a role="button" href="/wyprawa-polonijna-na-spitsbergen-2015/" type="button" class="btn btn-xs btn-primary">szczegóły</a>
+<a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-danger pull-right">zarezerwuj miejsce</a>
+<span class="pull-right" >&nbsp;&nbsp;</span>
+<a role="button" href="/rejsy/pytanie.html" type="button" class="btn btn-xs btn-success pull-right">mam pytanie</a>         
+<br>
+</p>
 
 
 
