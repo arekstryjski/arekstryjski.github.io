@@ -87,7 +87,7 @@ Zobacz jak było na poprzednich rejsach: [Dookoła wyspy Wight - Solent zimą](/
 
 > Rzadko kto dociera jachtem do północnej Islandii. Jeszcze mniej osób pływa w Grenlandii i na Spitsbergenie. 
 > Jan Mayen to zagubiona wyspa północy o której rzadko kto nawet słyszał.  
-> W czasie naszej wyprawy chcielibyśmy odwiedzić wszystkie te miejsca. 1400 mil morskich żeglugi w większości po Oceanie Arktycznym 
+> W czasie naszej wyprawy chcielibyśmy odwiedzić wszystkie te miejsca. Co najmniej 1200 mil morskich żeglugi w większości po Oceanie Arktycznym 
 > to niepowtarzalna okazja dla ludzi szukających prawdziwej przygody i pragnących odkryć daleką północ. 
 
 **lipiec 2016**   
