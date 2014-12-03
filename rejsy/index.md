@@ -92,7 +92,7 @@ Zobacz jak było na poprzednich rejsach: [Dookoła wyspy Wight - Solent zimą](/
 
 **lipiec 2016**   
 *3 tygodnie*  
-*~1200 mil morskich*  
+*~1400 mil morskich*  
 
 <p>
 <a role="button" href="/wyprawa-polonijna-na-spitsbergen-2015/" type="button" class="btn btn-xs btn-primary">szczegóły</a>
