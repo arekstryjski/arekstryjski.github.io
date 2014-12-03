@@ -5,7 +5,7 @@ category: rejsy
 keywords: rejsy, rejsy morskie, rejsy weekendowe, żeglarstwo, yachting, jachting, Portugalia, Galicia, Hiszpania, Norwegia, Grecja, Spitsbergen
 desc: Informacje na temat planowanych rejsów. Rejsy weekendowe w UK. Rejs wielkanocny w Portugalii i hiszpańskiej Galicji. Rejsy do Norwegii i Grecji. 
 img: /img/2013/setsail/sun_l.jpg
-date: 2014-04-25
+date: 2014-12-03
 ---
 
 
