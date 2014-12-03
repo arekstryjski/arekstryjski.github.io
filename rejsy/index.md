@@ -16,7 +16,7 @@ date: 2014-12-03
 
 > Po sukcesie rejsu na fiordy norweskie we wrześniu 2014 przyszedł czas by odwiedzić północ tego przepięknego kraju i malownicze wyspy Lofoty.
 
-**23.05 - 2.06**  
+**23 maj - 2 czerwiec 2015**  
 *rejsy 10 dniowy*  
 *~415 mil morskich*  
 *1230zł (£230) + kasa jachtowa*
