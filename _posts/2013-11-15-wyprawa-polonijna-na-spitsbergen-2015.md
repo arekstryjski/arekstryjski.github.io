@@ -13,7 +13,8 @@ interest_free: 0
 Głównym celem rejsu jest opłynięcie wyspy Spitsbergen w archipelagu Svalbard.  
 Jeśli warunki lodowe by na to nie pozwoliły będziemy starać się dopłynąć do najbardziej na północy wysuniętego punktu, który będzie dostępny.
 
-![](/img/2014/norwegia/spitsbergen_mis.jpg)
+![miś](/img/2014/norwegia/spitsbergen_mis.jpg)
+
 
 termin
 -------
@@ -29,7 +30,8 @@ Dlaczego akurat wtedy:
 zobacz także:
 
 * [Trondheim - Lofoty - Bodo 2015](/norwegia-2015)
-* [Islandia - Grenlandia - Jan mayen - Spitsbergen 2016](/jan-mayen-2016)
+* [Islandia - Grenlandia - Jan Mayen - Spitsbergen 2016](/jan-mayen-2016)
+
 
 cena
 -----
@@ -70,10 +72,10 @@ Umożliwi nam to:
 zasadami bezpieczeństwa i przepisami dotyczącymi ochrony środowiska które będą nas obowiązywać.
 
 
-![](/img/2013/spitsbergen_2015/topographic_map_of_svalbard.png)
+![svalbard map](/img/2013/spitsbergen_2015/topographic_map_of_svalbard.png)
 
 
-trasa A: opłynięcie wokół - Heleysundet
+opłynięcie wokół - Heleysundet
 ------
 
 * trasa całkowita: 675NM
@@ -104,7 +106,7 @@ Okrążamy wyspę płynąc na północ - zgodnie z ruchem wskazówek zegara.
 | n  |  9.08 | ląd |   -  | odlot |
 
 
-trasa B: opłynięcie wokół - na wschód od Edgeoya
+opłynięcie wokół - na wschód od Edgeoya
 ------
 
 * trasa całkowita: 720NM
@@ -137,7 +139,7 @@ Jeśli taka sytuacja wystąpi opłyniemy od wschodu Barentsoya i Edgeoya.
 | n  |  9.08 | ląd |  -   | odlot |
  
 
-trasa C: zachodni Spitsbergen
+zachodni Spitsbergen
 ------
 
 * trasa całkowita: 555NM
@@ -190,25 +192,25 @@ podstawowe parametry techniczne:
 
 * konstrukcja kadłuba: stal
 * długość: 15m
-* zanurzenie: 2.15m
-* silnik 136HP
-* powierzchnia żagla: 111m2
-* liczba koi: 10 (w 5 kabinach)
+* zanurzenie: 2.18m
+* silnik 85HP
+* powierzchnia żagla: 111m<sup>2</sup>
+* liczba koi: 10+1 (w 5 kabinach)
 * **[więcej o jachcie](/rejsy/joinus.html)**
 
 W 2014 roku na jachcie tym przeprowadziłem rejs [Portugalia - Galicja](/portugalia-2014), 
-dwa rejsy na Kanale Angielskim oraz 2 tygodniowy rejs w Norwegii [jesienią](/norwegia-2014). 
-dało mi to okazję dobrze poznać tą jednostkę. 
+dwa rejsy na Kanale Angielskim oraz 2 tygodniowy rejs w [Norwegii](/norwegia-2014). 
+Dało mi to okazję dobrze poznać tą jednostkę. 
+
 
 organizatorzy
 --------------
-Rejs jest jednym z etapów szerszej wyprawy na Spitsbergen i do Norwegii zorganizowanej przez [JoinUS](http://joinus.eu).
+Rejs jest jednym z etapów szerszej wyprawy na Spitsbergen i do Norwegii zorganizowanej przez [JoinUs](http://joinus.eu).
 Odwiedź główna stronę wyprawy [Spitsbergen 2015](http://joinus.eu/index.php/rejsy/europa-polnocna/215-spitsbergen-2015#grafik).
 
 W ramach tej imprezy prowadzę również rejs [Trondheim - Lofoty - Bodo](/norwegia-2015).
 
 W realizacji obu etapów pomaga również polonijny klub żeglarski z Londynu [SetSail](http://setsail.co.uk).
-
 
 
 odwiedzane miejsca
