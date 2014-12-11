@@ -14,13 +14,13 @@ bezpieczeństwo osobiste
 * Umiesz pływać?   
   Jeśli nie, czy inni o tym wiedzą?
 * Używasz tabletek przeciw chorobie morskiej?   
-  Wiesz gdzie leżą, lub wiesz od kogo możesz je otrzymać?  
+  Wiesz gdzie leżą, lub od kogo możesz je otrzymać?  
   Wiesz jak je używać?  
   Co wzmaga chorobę morską?  
   Co zrobić gdy dopadnie nas choroba morska?
 * Bierzesz jakieś lekarstwa?   
-  Czy ktoś o tym wie?   
-  Czy masz jakieś efekty uboczne brania lub zaniechania brania lekarstw?
+  Czy ktoś na jachcie o tym wie?   
+  Czy wywołują one (lub ich brak) jakieś efekty uboczne?
 * Masz odpowiednie zabezpieczenia przed zimnem i słońcem?
     
 wnętrze jachtu
@@ -38,26 +38,25 @@ wnętrze jachtu
 pokład
 ------
 
-* Co stanowi największe zagrożenie na jachcie?
+* Zagrożenia na jachcie?
 * Kiedy i gdzie wpiąć pasy bezpieczeństwa?  
 * Kiedy i w jaki sposób możesz opuszczać kokpit?   
-  [*pytaj, nie biegaj, liny bezpieczeństwa, jedna ręka dla jachtu, przechodzimy po stronie boomu*]
 * Kto jest odpowiedzialny za należytą obserwację otoczenia jachtu?  
   Na co zwracać uwagę?  
-  Kogo informować?  
-* Jak rozpoznać kurs kolizyjny?
+  Kogo informować?   
+  Jak rozpoznać kurs kolizyjny?
 * Jak i kiedy możesz opuścić ster/wachtę?
 * Jak uruchomić i zatrzymać silnik?
-* Gdzie jest koło ratunkowe?  
-  Jak je użyć?
-* Gdzie jest ręczna pompa zęzowa? 
-* Gdzie jest tratwa ratunkowa?   
-  Jak i kiedy może być użyta?
 * Czy wiesz jak używać kabestanów?
 * Jak przywiązać cumę?
 * Jak przywiązać odbijacz?
 * Jak utrzymać porządek z linami w czasie żeglugi?
 * Jak nie razić światłem sternika?
+* Gdzie jest koło ratunkowe?  
+  Jak je użyć?
+* Gdzie jest ręczna pompa zęzowa? 
+* Gdzie jest tratwa ratunkowa?   
+  Jak i kiedy może być użyta?
 
 zasady
 ------
