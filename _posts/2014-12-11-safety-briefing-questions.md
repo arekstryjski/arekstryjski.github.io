@@ -5,9 +5,8 @@ category: yachting
 keywords: Safety Briefing, yachting
 desc: Safety Briefing check-list questions
 ---
-
-osobiste środki bezpieczeństwa
--------------------------------
+bezpieczeństwo osobiste
+-----------------------
 
 * Gdzie jest Twoja kamizelka ratunkowa i/lub pasy bezpieczeństwa?   
   Jak ich użyć?  
@@ -84,7 +83,9 @@ watchkeepers
 * Gdzie jest ster awaryjny?
 * Czy jacht ma radar i/lub AIS?  
   Wiesz jak ich użyć?
-* Gdzie są mapy?
-  Wiesz jak używać chart ploter?
-* Gdzie na jachcie znajduje się *grab bag*?  
+* Gdzie są mapy?  
+  Wiesz jak używać chart ploter?  
+  Jak wytyczamy trasę?  
+  Czy używamy logbook?  
+* Gdzie na jachcie znajduje się *grab bag*?    
   Co zabierzesz do tratwy? 
