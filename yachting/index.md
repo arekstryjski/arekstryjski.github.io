@@ -20,5 +20,5 @@ dla skippera
 -------------
 Tutaj będę dodawał informacje przydatne głównie dla mnie, ale może ktoś jeszcze na tym skorzysta.   
 
-* [Safety Briefing check-list](/safety-briefing)  
+* [Safety Briefing](/safety-briefing-questions)  
 * [Yachtmaster - egzamin i kurs](/yachtmaster-egzamin-kurs)  
