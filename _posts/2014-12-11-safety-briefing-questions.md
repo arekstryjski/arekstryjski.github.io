@@ -33,7 +33,6 @@ wnętrze jachtu
 * Kiedy i jak użyć toalety?
 * Jak oszczędzać wodę?  
 * Jak oszczędzać prąd? 
-* Jak nie razić światłem sternika?
 * Gdzie pod żadnym względem nie stawiamy szklanek i innych napojów?
 
 pokład
@@ -58,6 +57,7 @@ pokład
 * Jak przywiązać cumę?
 * Jak przywiązać odbijacz?
 * Jak utrzymać porządek z linami w czasie żeglugi?
+* Jak nie razić światłem sternika?
 
 zasady
 ------
