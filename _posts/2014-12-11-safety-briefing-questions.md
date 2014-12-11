@@ -47,10 +47,10 @@ pokład
   Jak rozpoznać kurs kolizyjny?
 * Jak i kiedy możesz opuścić ster/wachtę?
 * Jak uruchomić i zatrzymać silnik?
-* Czy wiesz jak używać kabestanów?
-* Jak przywiązać cumę?
-* Jak przywiązać odbijacz?
-* Jak utrzymać porządek z linami w czasie żeglugi?
+* Czy wiesz jak używać kabestanów?  
+  Jak przywiązać cumę?  
+  Jak przywiązać odbijacz?  
+  Jak utrzymać porządek z linami w czasie żeglugi?
 * Jak nie razić światłem sternika?
 * Gdzie jest koło ratunkowe?  
   Jak je użyć?
@@ -70,8 +70,8 @@ zasady
 > **Pytania?**  
 >    
 
-watchkeepers 
---------------
+watchkeepers
+-------------
 
 * Gdzie są włączniki (światła, kotwica, główny wyłącznik, itp)?
 * Gdzie są rakiety sygnalizacyjne? 
