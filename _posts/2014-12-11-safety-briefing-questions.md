@@ -5,7 +5,6 @@ category: yachting
 keywords: Safety Briefing, yachting
 desc: Safety Briefing check-list questions
 ---
-**Odpowiedz na każde z pytań:**
 
 osobiste środki bezpieczeństwa
 -------------------------------
