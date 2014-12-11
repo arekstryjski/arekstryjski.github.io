@@ -51,13 +51,15 @@ pokład
 * Jak rozpoznać kurs kolizyjny?
 * Jak i kiedy możesz opuścić ster/wachtę?
 * Jak uruchomić i zatrzymać silnik?
-* Czy wiesz jak używać kabestanów?
-* Jak utrzymać porządek z linami w czasie żeglugi?
 * Gdzie jest koło ratunkowe?  
   Jak je użyć?
 * Gdzie jest ręczna pompa zęzowa? 
 * Gdzie jest tratwa ratunkowa?   
   Jak i kiedy może być użyta?
+* Czy wiesz jak używać kabestanów?
+* Jak przywiązać cumę?
+* Jak przywiązać odbijacz?
+* Jak utrzymać porządek z linami w czasie żeglugi?
 
 zasady
 ------
