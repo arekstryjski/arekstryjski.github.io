@@ -1,3 +1,14 @@
+- log: 36
+  start: 2014-12-12
+  end: 2014-12-14
+  day: 2
+  nm: 181
+  pos: skipper (supervision)
+  sea: English Channel
+  ports: Gosport, Alderney, Gosport
+  y_name: Destination Anywhere
+  y_type: Bavaria 46
+  
 - log: 35
   start: 2014-11-07
   end: 2014-11-09
@@ -5,7 +16,7 @@
   nm: 32
   pos: skipper 
   sea: Solent
-  ports: Portsmouth, Cowes, Portsmouth
+  ports: Gosport, Cowes, Gosport
   y_name: Destination Anywhere
   y_type: Bavaria 46
   
@@ -38,7 +49,7 @@
   nm: 220
   pos: skipper 
   sea: English Channel
-  ports: Portsmouth, St Peters Port, Portsmouth
+  ports: Gosport, St Peters Port, Gosport
   y_name: Destination Anywhere
   y_type: Bavaria 46
   
@@ -49,7 +60,7 @@
   nm: 134
   pos: skipper (supervision)
   sea: English Channel
-  ports: Portsmouth, Weymouth, Poole, Portsmouth
+  ports: Gosport, Weymouth, Poole, Gosport
   y_name: Forrader
   y_type: Sun Odyssey 43 
   
@@ -60,7 +71,7 @@
   nm: 33
   pos: skipper 
   sea: Solent
-  ports: Portsmouth
+  ports: Gosport
   y_name: JoinUs
   y_type: Bruce Roberts NY 46
 
@@ -71,7 +82,7 @@
   nm: 164
   pos: skipper 
   sea: English Channel
-  ports: Portsmouth - Cherbourg - Portsmouth
+  ports: Gosport - Cherbourg - Gosport
   y_name: JoinUs
   y_type: Bruce Roberts NY 46
 
@@ -93,7 +104,7 @@
   nm: 88
   pos: skipper (supervision)
   sea: Solent
-  ports: Portsmouth, Yarmouth, Portsmouth
+  ports: Gosport, Yarmouth, Gosport
   y_name: Vantage
   y_type: Sun Odyssey 43 
 
@@ -104,7 +115,7 @@
   nm: 31
   pos: skipper
   sea: Solent
-  ports: Portsmouth, Cowes, Portsmouth
+  ports: Gosport, Cowes, Gosport
   y_name: Forrader
   y_type: Sun Odyssey 43 
   
@@ -115,7 +126,7 @@
   nm: 76
   pos: skipper
   sea: Solent
-  ports: Portsmouth, Yarmouth, Portsmouth
+  ports: Gosport, Yarmouth, Gosport
   y_name: Vantage
   y_type: Sun Odyssey 43 
   
@@ -126,7 +137,7 @@
   nm: 75
   pos: skipper
   sea: Solent
-  ports: Portsmouth, Yarmouth, Portsmouth
+  ports: Gosport, Yarmouth, Gosport
   y_name: Forrader
   y_type: Sun Odyssey 43 
   
