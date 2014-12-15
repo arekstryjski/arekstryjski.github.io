@@ -18,11 +18,12 @@ Strona ta powstała by promować moje projekty żeglarskie, ale także by dzieli
 
 w czym mogę pomóc
 ------------------
-* prowadzenie rejsów morskich na dowolnym akwenie
+* prowadzenie rejsów morskich na dowolnym akwenie 
 * pomoc w organizacji rejsu
 * pomoc w znalezieniu czarteru jachtu
 * pomoc w rejestracji jachtu pod brytyjską banderą (Part I Registry, MMSI, etc.)  
 
+Sprawdź mój [kalendarz](/arek/kalendarz.html)
 
 doświadczenie 
 --------------

@@ -2,10 +2,10 @@
 title: plany najbliższych rejsów
 layout: section
 category: rejsy
-keywords: rejsy, rejsy morskie, rejsy weekendowe, żeglarstwo, yachting, jachting, Portugalia, Galicia, Hiszpania, Norwegia, Grecja, Spitsbergen
-desc: Informacje na temat planowanych rejsów. Rejsy weekendowe w UK. Rejs wielkanocny w Portugalii i hiszpańskiej Galicji. Rejsy do Norwegii i Grecji. 
+keywords: rejsy, rejsy morskie, rejsy weekendowe, żeglarstwo, yachting, jachting, Norwegia, Spitsbergen, Jan Mayen
+desc: Informacje na temat planowanych rejsów. Norwegia, Spitsbergen, Jan Mayen. Rejsy weekendowe w UK. 
 img: /img/2013/setsail/sun_l.jpg
-date: 2014-12-03
+date: 2014-12-15
 ---
 
 
@@ -102,7 +102,9 @@ Zobacz jak było na poprzednich rejsach: [Dookoła wyspy Wight - Solent zimą](/
 <br>
 </p>
 
+----------------------------------------------------
 
+[zobacz w kalendarzu](/arek/kalendarz.html)
 
 
 
