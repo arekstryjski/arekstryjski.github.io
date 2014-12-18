@@ -19,7 +19,7 @@ date: 2014-12-15
 **23 maj - 2 czerwiec 2015**  
 *rejsy 10 dniowy*  
 *~415 mil morskich*  
-*1230zł (£230) + kasa jachtowa*
+*1230zł (~ £235) + kasa jachtowa*
 
 Rejs zaczynamy w **Trondheim**. Planujemy odwiedzić północne wybrzeże Norwegii i **Lofoty**. Rejs zakończymy w **Bodo**.
 
