@@ -64,12 +64,12 @@ rejsy weekendowe
 W UK prowadzę weekendowe rejsy organizowane przez polonijny klub żeglarski SetSail.  
 Najbliższe terminy:  
 
-* **12-14 grudnia 2014**: *Hardcore: Crossing the Channel*
-* **13-15 marca 2015**: *rejs szkoleniowo turystyczny - Solent*
-* **10-12 kwietnia 2015**: *rejs szkoleniowo turystyczny - Solent*
+* **13-15 marzec 2015**: *rejs szkoleniowo turystyczny - Solent*
+* **10-12 kwiecień 2015**: *rejs szkoleniowo turystyczny - Solent*
 * **1-4 maj 2015**: *Bank Holiday*
-* **25-28 czerwca 2015**: *4 dni - Wyspy Scilly*
-* **28-31 sierpnia 2015**: *Bank Holiday*
+* **25-28 czerwiec 2015**: *4 dni - Wyspy Scilly*
+* **28-31 sierpień 2015**: *Bank Holiday*
+* **6-8 listopad 2015**: *2 rocznica SetSail - Solent*
 
 Większość rejsów zaczyna się i kończy w Haslar Marina, Gosport (koło Portsmouth). 
 W zwykłe weekendy z reguły pływamy na Solent. W Bank Holidays płyniemy do Francji/Wysp Normandzkich lub gdzieś dalej na wybrzeżu angielskim.
