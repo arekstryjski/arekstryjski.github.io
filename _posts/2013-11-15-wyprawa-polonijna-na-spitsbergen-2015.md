@@ -206,7 +206,7 @@ Dało mi to okazję dobrze poznać tą jednostkę.
 organizatorzy
 --------------
 Rejs jest jednym z etapów szerszej wyprawy na Spitsbergen i do Norwegii zorganizowanej przez [JoinUs](http://joinus.eu).
-Odwiedź główna stronę wyprawy [Spitsbergen 2015](http://joinus.eu/index.php/rejsy/europa-polnocna/215-spitsbergen-2015#grafik).
+Odwiedź główna stronę wyprawy [Svalbard 2015](http://www.svalbard.com.pl/).
 
 W ramach tej imprezy prowadzę również rejs [Trondheim - Lofoty - Bodo](/norwegia-2015).
 
