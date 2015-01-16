@@ -23,7 +23,7 @@ pilot books
   Phyllis Nickel, John Harries, Hans Jakob Valderhaug, Eli Husum  
   [[pdf](http://www.norwegiancruisingguide.com/)]
   
-* ***Arctic and Northern Waters***  
+* *RCC Pilotage Foundation:* ***Arctic and Northern Waters***  
   Jane Russell   
   [[pdf](http://www.rccpf.org.uk/passage-planning/arctic)]
   
@@ -70,7 +70,7 @@ historia
 ---------
 * ***A Brief History of the Vikings***   
   Jonathan Clements   
-  [[kindle](http://www.amazon.co.uk/s/ref=nb_sb_noss_1)]  
+  [[kindle](http://www.amazon.co.uk/Brief-History-Vikings-Jonathan-Clements-ebook/dp/B00AJN9KHC/ref=sr_1_1)]  
 
 * ***The Northmen's Fury*** *A History of the Viking World*  
   Philip Parker  
