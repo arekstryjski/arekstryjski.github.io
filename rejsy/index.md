@@ -5,7 +5,7 @@ category: rejsy
 keywords: rejsy, rejsy morskie, rejsy weekendowe, żeglarstwo, yachting, jachting, Norwegia, Spitsbergen, Jan Mayen
 desc: Informacje na temat planowanych rejsów. Norwegia, Spitsbergen, Jan Mayen. Rejsy weekendowe w UK. 
 img: /img/2013/setsail/sun_l.jpg
-date: 2014-12-15
+date: 2015-01-16
 ---
 
 
@@ -69,12 +69,15 @@ Najbliższe terminy:
 * **1-4 maj 2015**: *Bank Holiday*
 * **25-28 czerwiec 2015**: *4 dni - Wyspy Scilly*
 * **28-31 sierpień 2015**: *Bank Holiday*
+* **25-27 wrzesień 2015**: *rejs szkoleniowo turystyczny - Solent*
+* **16-18 październik 2015**: *rejs szkoleniowo turystyczny - Solent*
 * **6-8 listopad 2015**: *2 rocznica SetSail - Solent*
+* **4-6 grudzień 2015**: *rejs szkoleniowo turystyczny - Solent*
 
 Większość rejsów zaczyna się i kończy w Haslar Marina, Gosport (koło Portsmouth). 
 W zwykłe weekendy z reguły pływamy na Solent. W Bank Holidays płyniemy do Francji/Wysp Normandzkich lub gdzieś dalej na wybrzeżu angielskim.
 
-Więcej szczegółów [SetSail](http://setsail.org.uk). Jeśli masz pytanie [napisz do mnie](/rejsy/rezerwacja.md).
+Więcej szczegółów [SetSail](http://setsail.org.uk). Jeśli masz pytanie [napisz do mnie](/rejsy/rezerwacja).
 
 Zobacz jak było na poprzednich rejsach: [Dookoła wyspy Wight - Solent zimą](/dookola-wight-solent-zima/)
 
