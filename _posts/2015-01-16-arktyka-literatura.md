@@ -20,7 +20,7 @@ pilot books
   [[kindle](http://www.amazon.co.uk/High-Latitude-Sailing-waters-world-ebook/dp/B00KDYK2FQ/ref=sr_1_1)]
   
 * ***Norwegian Cruising Guide*** *Norway, Svalbard, and the west coast of Sweden*  
-  Phyllis Nickel, John Harries, Hans Jakob Valderhaug, Eli Husum  
+  Phyllis Nickel, John Harries 
   [[pdf](http://www.norwegiancruisingguide.com/)]
   
 * *RCC Pilotage Foundation:* ***Arctic and Northern Waters***  
@@ -83,6 +83,10 @@ historia
 
 albumy
 -------
+* ***A Voyage North on Morgan’s Cloud***  
+  John Harries  
+  [[eBook](http://www.morganscloud.com/2012/10/07/arctic-voyage-ebook/)]  
+
 * ***The Fjords of Norway*** *- Photo Gallery*  
   Fred Kox  
   [[kindle](http://www.amazon.co.uk/Fjords-Norway-Photo-Gallery-ebook/dp/B00NU5VNIK/ref=sr_1_1)]
