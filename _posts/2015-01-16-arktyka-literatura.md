@@ -11,25 +11,33 @@ Książki poświęcone Arktyce i szerzej pojętej północy:
 
 pilot books
 -----------
-* ***Sail to Svalbard***  
-  Jon Amtrup  
-  [[kindle](http://www.amazon.co.uk/Sail-Svalbard-Jon-Amtrup-ebook/dp/B0056GW9S4/ref=sr_1_1)]
-  
-* ***High Latitude Sailing*** *How to sail the cold waters of the world*  
-  Jon Amtrup, Bob Shepton  
-  [[kindle](http://www.amazon.co.uk/High-Latitude-Sailing-waters-world-ebook/dp/B00KDYK2FQ/ref=sr_1_1)]
-  
 * ***Norwegian Cruising Guide*** *Norway, Svalbard, and the west coast of Sweden*  
-  Phyllis Nickel, John Harries 
+  Phyllis Nickel, John Harries  
   [[pdf](http://www.norwegiancruisingguide.com/)]
   
+* ***Sail to Svalbard***  
+  Jon Amtrup   
+  [[kindle](http://www.amazon.co.uk/Sail-Svalbard-Jon-Amtrup-ebook/dp/B0056GW9S4/ref=sr_1_1)]
+    
 * *RCC Pilotage Foundation:* ***Arctic and Northern Waters***  
   Jane Russell   
   [[pdf](http://www.rccpf.org.uk/passage-planning/arctic)]
   
 * *The Nowegian Pilot, volume 7:* ***Sailing Directions Svalbard and Jan Mayen***  
-  Norwegian Hydrographic Service  
+  Norwegian Hydrographic Service   
   [[pdf](http://www.statkart.no/en/Kart/Nautical-Publications/The-Norwegian-Pilot-Guide/)]
+  
+  
+poradniki
+---------
+* ***High Latitude Sailing*** *How to sail the cold waters of the world*  
+  Jon Amtrup, Bob Shepton   
+  [[kindle](http://www.amazon.co.uk/High-Latitude-Sailing-waters-world-ebook/dp/B00KDYK2FQ/ref=sr_1_1)]
+  
+* *Attainable Adventure Cruising:* ***Why The High Latitudes***  
+  Phyllis Nickel, John Harries  
+  [[www](http://www.morganscloud.com/series/why-the-high-latitudes/)]
+
 
 
 przewodniki
