@@ -6,7 +6,7 @@ keywords: arktyka, żeglarstwo, Svalbard, Spitsbergen
 desc: Literatura żeglarska na temat arktyki i północnej Norwegii. 
 ---
 
-Tematyka wielu z pozycji zamieszczonych poniżej obejmuje nie tylko rejony arktyczne, ale także szerzej pojętej północy.
+Książki poświęcone Arktyce i szerzej pojętej północy:
 
 
 pilot books
@@ -15,7 +15,7 @@ pilot books
   Jon Amtrup  
   [[kindle](http://www.amazon.co.uk/Sail-Svalbard-Jon-Amtrup-ebook/dp/B0056GW9S4/ref=sr_1_1)]
   
-* ***High Latitude Sailing*** *How to sail the cold waters of the world*
+* ***High Latitude Sailing*** *How to sail the cold waters of the world*  
   Jon Amtrup, Bob Shepton  
   [[kindle](http://www.amazon.co.uk/High-Latitude-Sailing-waters-world-ebook/dp/B00KDYK2FQ/ref=sr_1_1)]
   
