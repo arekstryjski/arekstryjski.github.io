@@ -27,7 +27,7 @@ pilot books
   Jane Russell   
   [[pdf](http://www.rccpf.org.uk/passage-planning/arctic)]
   
-* *The Nowegian Pilot volume 7* ***Sailing Directions Svalbard and Jan Mayen***  
+* *The Nowegian Pilot, volume 7:* ***Sailing Directions Svalbard and Jan Mayen***  
   Norwegian Hydrographic Service  
   [[pdf](http://www.statkart.no/en/Kart/Nautical-Publications/The-Norwegian-Pilot-Guide/)]
 
@@ -40,7 +40,7 @@ przewodniki
     
 * *DK Eyewitness* ***Travel Guide Norway***  
   Snorre Evensberget                                                 
-  [[druk](http://www.amazon.co.uk/DK-Eyewitness-Travel-Guide-Norway/dp/1405368918/ref=sr_1_1)]]  
+  [[druk](http://www.amazon.co.uk/DK-Eyewitness-Travel-Guide-Norway/dp/1405368918/ref=sr_1_1)]  
 
 
 wspomnienia / reportaże
