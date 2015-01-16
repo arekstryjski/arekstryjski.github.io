@@ -18,6 +18,18 @@ pilot books
 * ***High Latitude Sailing*** *How to sail the cold waters of the world*
   Jon Amtrup, Bob Shepton  
   [[kindle](http://www.amazon.co.uk/High-Latitude-Sailing-waters-world-ebook/dp/B00KDYK2FQ/ref=sr_1_1)]
+  
+* ***Norwegian Cruising Guide*** *Norway, Svalbard, and the west coast of Sweden*  
+  Phyllis Nickel, John Harries, Hans Jakob Valderhaug, Eli Husum  
+  [[pdf](http://www.norwegiancruisingguide.com/)]
+  
+* ***Arctic and Northern Waters***  
+  Jane Russell   
+  [[pdf](http://www.rccpf.org.uk/passage-planning/arctic)]
+  
+* *The Nowegian Pilot volume 7* ***Sailing Directions Svalbard and Jan Mayen***  
+  Norwegian Hydrographic Service  
+  [[pdf](http://www.statkart.no/en/Kart/Nautical-Publications/The-Norwegian-Pilot-Guide/)]
 
 
 przewodniki
@@ -36,6 +48,10 @@ wspomnienia / reportaże
 * ***Addicted to Adventure*** *Between rocks and cold places*   
   Bob Shepton  
   [[kindle](http://www.amazon.co.uk/Addicted-Adventure-Between-rocks-places-ebook/dp/B00JKLRKXK/ref=sr_1_1)]
+  
+* ***Białe*** *zimna wyspa Spitsbergen*  
+  Ilona Wiśniewska  
+  [[druk](https://czarne.com.pl/katalog/ksiazki/biale)]
 
 
 kultura / społeczeństwo
@@ -67,6 +83,8 @@ historia
 
 albumy
 -------
-* 
+* ***The Fjords of Norway*** *- Photo Gallery*  
+  Fred Kox  
+  [[kindle](http://www.amazon.co.uk/Fjords-Norway-Photo-Gallery-ebook/dp/B00NU5VNIK/ref=sr_1_1)]
 
 
