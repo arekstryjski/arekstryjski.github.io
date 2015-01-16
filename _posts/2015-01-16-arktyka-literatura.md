@@ -18,14 +18,18 @@ pilot books
 * ***Sail to Svalbard***  
   Jon Amtrup;
   <small>[kindle](http://www.amazon.co.uk/Sail-Svalbard-Jon-Amtrup-ebook/dp/B0056GW9S4/ref=sr_1_1)</small>  
-    
-* *RCC Pilotage Foundation:* ***Arctic and Northern Waters***  
-  Jane Russell;
-  <small>[pdf](http://www.rccpf.org.uk/passage-planning/arctic)</small>  
   
 * *The Nowegian Pilot, volume 7:* ***Sailing Directions Svalbard and Jan Mayen***  
   Norwegian Hydrographic Service;
   <small>[pdf](http://www.statkart.no/en/Kart/Nautical-Publications/The-Norwegian-Pilot-Guide/)</small>  
+    
+* *RCC Pilotage Foundation:* ***Arctic and Northern Waters***  
+  Jane Russell; 2011;
+  <small>[pdf](http://www.rccpf.org.uk/publications/arctic/arctic-contents)</small>  
+  
+* *RCC Pilotage Foundation:* ***Norway Cruising Guide***   
+  Judy Lomax; 2010;
+  <small>[druk](http://www.rccpf.org.uk/publications/europe-a-mediterranean/norway)</small>
   
   
 poradniki

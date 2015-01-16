@@ -171,16 +171,7 @@ Jeśli sytuacja lodowa nas do tego zmusi zostaniemy na zachodnim wybrzeżu - ca�
 | n  |  9.08 | ląd |  -   | odlot |
 
 
-
-mapy
-------
 ![Spitsbergen](/img/2013/spitsbergen_2015/Spitsbergen.png)
-
-* [mapa rejsów z JoinUs](https://www.google.com/maps/d/viewer?mid=zHDe-kFjtftk.k8fwsvfMvkyA) 
-* [mapa topograficzna Svalbardu](http://toposvalbard.npolar.no/)
-* [mapa topograficzna i satelitarna](http://svalbardkartet.npolar.no/html5/)
-* [mapy lodowe](http://polarview.met.no/)
-
 
 jacht
 ------
@@ -206,7 +197,8 @@ Dało mi to okazję dobrze poznać tą jednostkę.
 organizatorzy
 --------------
 Rejs jest jednym z etapów szerszej wyprawy na Spitsbergen i do Norwegii zorganizowanej przez [JoinUs](http://joinus.eu).
-Odwiedź główna stronę wyprawy [Svalbard 2015](http://www.svalbard.com.pl/).
+Odwiedź główna stronę wyprawy [Svalbard 2015](http://www.svalbard.com.pl/) i 
+[mapę tras](https://www.google.com/maps/d/viewer?mid=zHDe-kFjtftk.k8fwsvfMvkyA) 
 
 W ramach tej imprezy prowadzę również rejs [Trondheim - Lofoty - Bodo](/norwegia-2015).
 
@@ -224,27 +216,13 @@ odwiedzane miejsca
 Polska jako jedyny kraj poza Norwegią i Rosją wykorzystuje porozumienie Traktatu Spitsbergeńskiego i utrzymuje stałą osadę na terytorium Svalbard.
 [Polska Stacja Badawcza](http://hornsund.igf.edu.pl) jest nieprzerwanie zamieszkała, przez około 10 osób, od ponad 50 lat.
 
-  
-
-
 
 
 ![svalbard archipelago](/img/2013/spitsbergen_2015/svalbard_archipelago_norway_1996.jpg)
 
 
-Linki
--------
-**Miejsca**
+arktyczne wiki
+--------------
+Znajdź więcej informacji na stronach poświęconych [Arktyce](/arktyka/).
 
-* Polska Stacja Polarna Hornsund im. Stanisława Siedleckiego <http://hornsund.igf.edu.pl>
 
-**Locje**
-
-* Norwegian Cruising Guide: <http://www.norwegiancruisingguide.com/buy/>
-* RCC Pilot Norway: <http://www.rccpf.org.uk/publications/europe-a-mediterranean/norway>
-* RCC Pilot Arctic: <http://www.rccpf.org.uk/publications/arctic/arctic-contents>
-* mapy Norwegii: <http://kart.kystverket.no/>
-
-**Pogoda**
-
-* <http://nsidc.org/cryosphere/sotc/sea_ice_animation.html>

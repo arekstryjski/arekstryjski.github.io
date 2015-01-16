@@ -25,7 +25,7 @@ Rejs zaczynamy w **Trondheim**. Planujemy odwiedzić północne wybrzeże Norweg
 
 <p>
 <a role="button" href="/norwegia-2015/" type="button" class="btn btn-xs btn-primary">szczegóły</a>
-<a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-danger pull-right">zarezerwuj miejsce</a>
+<a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-danger pull-right">lista rezerwowa</a>
 <span class="pull-right" >&nbsp;&nbsp;</span>
 <a role="button" href="/rejsy/pytanie.html" type="button" class="btn btn-xs btn-success pull-right">mam pytanie</a>         
 <br>
