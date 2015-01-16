@@ -68,6 +68,7 @@ Jeśli uznasz ten słownik za pomocny proszę podziel się informacja o nim z in
 podziękowania
 ---------------
 
+* Dziękuję Kasi Stefanof w pomocy przy tłumaczeniu haseł. 
 * Na stronach słownika wykorzystuję ilustracje pobrane z Wikipedii i dystrybuowane na podstawie licencji [Creative Commons](http://en.wikipedia.org/wiki/Creative_Commons)
 
 

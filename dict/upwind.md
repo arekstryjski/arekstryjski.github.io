@@ -1,13 +1,12 @@
 ---
-en: beating
-pl: płynąć na wiatr
+en: upwind
+pl: pod wiatr
 layout: dict_word
-date: 2014-01-04
+date: 2015-01-16
 cat: sailing
 ---
 
-
 *zobacz też:*
 
-* [upwind](/dict/upwind.html)
+* [beating](/dict/beating.html)
 * [tacking](/dict/tacking.html)
