@@ -92,7 +92,8 @@ historia
 albumy
 -------
 * ***A Voyage North on Morgan’s Cloud***
-  [[eBook](http://www.morganscloud.com/2012/10/07/arctic-voyage-ebook/)]   
+  [[pdf](http://www.morganscloud.com/2012/10/07/arctic-voyage-ebook/)] 
+  [[druk](http://www.blurb.com/b/3065135-a-voyage-north-on-morgan-s-cloud)]  
   John Harries   
 
 * ***The Fjords of Norway*** *- Photo Gallery*
