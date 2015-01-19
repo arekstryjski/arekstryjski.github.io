@@ -64,11 +64,11 @@ rejsy weekendowe
 W UK prowadzę weekendowe rejsy organizowane przez polonijny klub żeglarski SetSail.  
 Najbliższe terminy:  
 
-* **13-15 marzec 2015**: *rejs szkoleniowo turystyczny - Solent*
+* **21-22 luty 2015**: *rejs turystyczny - Solent*
+* **21-22 marzec 2015**: *rejs szkoleniowo turystyczny - Solent*
 * **10-12 kwiecień 2015**: *rejs szkoleniowo turystyczny - Solent*
 * **1-4 maj 2015**: *Bank Holiday*
-* **25-28 czerwiec 2015**: *4 dni - Wyspy Scilly*
-* **28-31 sierpień 2015**: *Bank Holiday*
+* **28 sierpień - 1 wrzesień 2015**: *Bank Holiday +1*  Wyspy Scilly(?)
 * **25-27 wrzesień 2015**: *rejs szkoleniowo turystyczny - Solent*
 * **16-18 październik 2015**: *rejs szkoleniowo turystyczny - Solent*
 * **6-8 listopad 2015**: *2 rocznica SetSail - Solent*
