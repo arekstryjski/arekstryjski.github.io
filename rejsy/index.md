@@ -18,7 +18,6 @@ Najbliższe terminy:
 
 * weekend **21-22 marzec 2015** - *Weymouth*
 * weekend **10-12 kwiecień 2015** - *Brighton*
-* weekend **24-26 kwiecień** regaty *dookoła wyspy Wight*
 * Bank Holiday **1-4 maj 2015** - *Wyspy Normandzkie/Dieppe*
 * Bank Holiday **28 sierpień - 1 wrzesień 2015** - *Wyspy Normandzkie/Dieppe*
 * weekend **25-27 wrzesień 2015** rejs dla rodziców i młodzieży - *Solent*
