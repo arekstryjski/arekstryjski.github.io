@@ -1,4 +1,15 @@
 - log: 37
+  start: 2015-03-20
+  end: 2015-03-22
+  day: 2
+  nm: 97
+  pos: skipper 
+  sea: English Channel
+  ports: Gosport, Brighton, Gosport
+  y_name: Vantage
+  y_type: Sun Odyssey 43 
+  
+- log: 37
   start: 2015-02-20
   end: 2015-02-22
   day: 2
