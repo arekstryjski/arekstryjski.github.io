@@ -34,8 +34,8 @@ sailing experience
 * days at sea: 221 - 174 as skipper
 * sailing areas: North Atlantic, Bay of Biscay, North Sea, Irish and Celtic Seas, English Channel, Mediterranean 
 
-Working as skipper for JoinUs.pl on vacation cruises with people of various experience, including kids and complete beginners.  
-Co-organizing and skippering weekend sailing trips in UK for SetSail sailing club with people of various experience.  
+*2007 - current*: Working as skipper for JoinUs.pl on vacation cruises with people of various experience, including kids and complete beginners.  
+*2014 - current*: Co-organizing and skippering weekend sailing trips in UK for SetSail sailing club with people of various experience.  
 
 For more details see my [logbook](http://stryjski.net/arek/logbook.html).
 
