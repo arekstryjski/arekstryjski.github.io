@@ -1,3 +1,14 @@
+- log: 39
+  start: 2015-04-24
+  end: 2015-04-26
+  day: 2
+  nm: 95
+  pos: skipper 
+  sea: Solent
+  ports: Southampton - Cowes - Cowes - Southampton
+  y_name: Flying Banana
+  y_type: Sigma 38 
+  
 - log: 38
   start: 2015-03-20
   end: 2015-03-22
@@ -5,7 +16,7 @@
   nm: 97
   pos: skipper 
   sea: English Channel
-  ports: Gosport, Brighton, Gosport
+  ports: Gosport - Brighton - Gosport
   y_name: Vantage
   y_type: Sun Odyssey 43 
   
@@ -16,7 +27,7 @@
   nm: 52
   pos: skipper (supervision)
   sea: Solent
-  ports: Gosport, Yarmouth, Gosport
+  ports: Gosport - Yarmouth - Gosport
   y_name: Vantage
   y_type: Sun Odyssey 43 
   
@@ -27,7 +38,7 @@
   nm: 181
   pos: skipper (supervision)
   sea: English Channel
-  ports: Gosport, Alderney, Gosport
+  ports: Gosport - Alderney - Gosport
   y_name: Destination Anywhere
   y_type: Bavaria 46
   
@@ -38,7 +49,7 @@
   nm: 32
   pos: skipper 
   sea: Solent
-  ports: Gosport, Cowes, Gosport
+  ports: Gosport - Cowes - Gosport
   y_name: Destination Anywhere
   y_type: Bavaria 46
   
@@ -49,7 +60,7 @@
   nm: 228
   pos: skipper 
   sea: North Sea
-  ports: Bergen, Espevær, Skudeneshavn, Lysebotn, Mosterøy, Stavanger
+  ports: Bergen - Espevær - Skudeneshavn - Lysebotn - Mosterøy - Stavanger
   y_name: JoinUs
   y_type: Bruce Roberts NY 46
   
@@ -60,7 +71,7 @@
   nm: 302
   pos: skipper 
   sea: North Sea
-  ports: Bergen, Fedje, Vik, Flam, Mundal, Bergen
+  ports: Bergen - Fedje - Vik - Flam - Mundal - Bergen
   y_name: JoinUs
   y_type: Bruce Roberts NY 46
   
@@ -71,7 +82,7 @@
   nm: 220
   pos: skipper 
   sea: English Channel
-  ports: Gosport, St Peters Port, Gosport
+  ports: Gosport - St Peters Port - Gosport
   y_name: Destination Anywhere
   y_type: Bavaria 46
   
@@ -82,7 +93,7 @@
   nm: 134
   pos: skipper (supervision)
   sea: English Channel
-  ports: Gosport, Weymouth, Poole, Gosport
+  ports: Gosport - Weymouth - Poole - Gosport
   y_name: Forrader
   y_type: Sun Odyssey 43 
   
@@ -104,7 +115,7 @@
   nm: 164
   pos: skipper 
   sea: English Channel
-  ports: Gosport, Cherbourg, Gosport
+  ports: Gosport - Cherbourg - Gosport
   y_name: JoinUs
   y_type: Bruce Roberts NY 46
 
@@ -115,7 +126,7 @@
   nm: 457
   pos: skipper 
   sea: Atlantic
-  ports: Lisbon, Porto, Viana do Castelo, Combarro, Muros, A Coruña
+  ports: Lisbon - Porto - Viana do Castelo - Combarro - Muros - A Coruña
   y_name: JoinUs
   y_type: Bruce Roberts NY 46
 
@@ -126,7 +137,7 @@
   nm: 88
   pos: skipper (supervision)
   sea: Solent
-  ports: Gosport, Yarmouth, Gosport
+  ports: Gosport - Yarmouth - Gosport
   y_name: Vantage
   y_type: Sun Odyssey 43 
 
@@ -137,7 +148,7 @@
   nm: 31
   pos: skipper
   sea: Solent
-  ports: Gosport, Cowes, Gosport
+  ports: Gosport - Cowes - Gosport
   y_name: Forrader
   y_type: Sun Odyssey 43 
   
@@ -148,7 +159,7 @@
   nm: 76
   pos: skipper
   sea: Solent
-  ports: Gosport, Yarmouth, Gosport
+  ports: Gosport - Yarmouth - Gosport
   y_name: Vantage
   y_type: Sun Odyssey 43 
   
@@ -159,7 +170,7 @@
   nm: 75
   pos: skipper
   sea: Solent
-  ports: Gosport, Yarmouth, Gosport
+  ports: Gosport - Yarmouth - Gosport
   y_name: Forrader
   y_type: Sun Odyssey 43 
   
@@ -170,7 +181,7 @@
   nm: 400
   pos: skipper
   sea: Irish and Celtic Seas
-  ports: Lochinver, Stornoway, Tobermory, Peel, Howth
+  ports: Lochinver - Stornoway - Tobermory - Peel - Howth
   y_name: Sifu of Avon
   y_type: Bruce Roberts 44
   
@@ -181,7 +192,7 @@
   nm: 850
   pos: skipper
   sea: North Atlantic
-  ports: Reykjavik, Vestmannaey, Torshavn, Lochinver
+  ports: Reykjavik - Vestmannaey - Torshavn - Lochinver
   y_name: Sifu of Avon
   y_type: Bruce Roberts 44
   
@@ -192,7 +203,7 @@
   nm: 420
   pos: skipper
   sea: Adriatic Sea
-  ports: Kotor, Perast, Tivat, Herceg Novi, Zelenika, Cavat, Dubrovnik, Mljet, Korcula, Komiza (Vis), Piskera (Kornati), Molat, Pula, Rovinj, Prian, Grado
+  ports: Kotor - Perast - Tivat - Herceg Novi - Zelenika - Cavat - Dubrovnik - Mljet - Korcula - Komiza (Vis) - Piskera (Kornati) - Molat - Pula - Rovinj - Prian - Grado
   y_name: Gypsy Queen
   y_type: Gib Sea 352
   
@@ -203,7 +214,7 @@
   nm: 230
   pos: skipper
   sea: Tyrrhenian Sea
-  ports: Agropoli, Amalfi, Ponza, Ventotene, Ischia, Capri, Sorrento, Agropoli
+  ports: Agropoli - Amalfi - Ponza - Ventotene - Ischia - Capri - Sorrento - Agropoli
   y_name: Sybil
   y_type: Bavaria 46  
   
@@ -214,7 +225,7 @@
   nm: 580
   pos: skipper
   sea: Mediterranean
-  ports: Palma, Ibiza, Alicante, Melilla, Ceuta, Gibraltar
+  ports: Palma - Ibiza - Alicante - Melilla - Ceuta - Gibraltar
   y_name: El Intrepido
   y_type: Cyclades 43.4	
   
@@ -225,7 +236,7 @@
   nm: 638
   pos: skipper
   sea: Mediterranean
-  ports: Malta, Gozo, Lampeduza, Mahdia, Monastir, Hammamet, Kelibia, Sidi Bou Said, Favignana, Cefalu, Sant'Agata
+  ports: Malta - Gozo - Lampeduza - Mahdia - Monastir - Hammamet - Kelibia - Sidi Bou Said - Favignana - Cefalu - Sant'Agata
   y_name: Amethyst
   y_type: Oceanis 43
   
@@ -236,7 +247,7 @@
   nm: 328
   pos: skipper
   sea: Aegean Sea
-  ports: Athens, Milos, Ios, Santorini, Astypalea, Nissyros, Symi, Rhodes
+  ports: Athens - Milos - Ios - Santorini - Astypalea - Nissyros - Symi - Rhodes
   y_name: Dita
   y_type: Bavaria 42
   
@@ -247,7 +258,7 @@
   nm: 204
   pos: skipper
   sea: Aegean Sea
-  ports: Athens, Egina, Poros, Ydra, Serifos, Kythnos, Kea, Athens
+  ports: Athens - Egina - Poros - Ydra - Serifos - Kythnos - Kea - Athens
   y_name: Kos 43.1
   y_type: Sun Odyssey 43  
   
@@ -269,7 +280,7 @@
   nm: 443
   pos: crew
   sea: North Sea
-  ports: Falkenberg, Skagen, Arendal, Lillesand, Kristiansand, Mandal, Stavanger
+  ports: Falkenberg - Skagen - Arendal - Lillesand - Kristiansand - Mandal - Stavanger
   y_name: Argonaut
   y_type: Jarmor 34AC
   
@@ -280,7 +291,7 @@
   nm: 275
   pos: skipper
   sea: Mediterranean
-  ports: Palermo, Ustica, Stromboli, Cefalu, Palermo
+  ports: Palermo - Ustica - Stromboli - Cefalu - Palermo
   y_name: Popper
   y_type: Cyclades 43.4
   
@@ -290,8 +301,8 @@
   day: 7
   nm: 515
   pos: skipper
-  sea: Irish and Celtic Seas, English Channel
-  ports: Conwy, Milford Haven, Newlyn, Weymouth
+  sea: Irish and Celtic Seas - English Channel
+  ports: Conwy - Milford Haven - Newlyn - Weymouth
   y_name: Fraggle
   y_type: Beneteau First
   
@@ -302,7 +313,7 @@
   nm: 439
   pos: skipper
   sea: Irish Sea
-  ports: Troon, Bangor (Belfast), Peel, Howth (Dublin), Liverpool, Conwy
+  ports: Troon - Bangor (Belfast) - Peel - Howth (Dublin) - Liverpool - Conwy
   y_name: Fraggle
   y_type: Beneteau First
   
@@ -313,7 +324,7 @@
   nm: 183
   pos: skipper
   sea: Adriatic Sea
-  ports: Vodice, Piskera, Telascica, Luka, Zadar, Skradin, Sibenik, Vodice
+  ports: Vodice - Piskera - Telascica - Luka - Zadar - Skradin - Sibenik - Vodice
   y_name: Leo
   y_type: Elan 431  
   
@@ -324,7 +335,7 @@
   nm: 38
   pos: crew
   sea: North Sea
-  ports: Walton on Naze, Ispwich, Woolverston, Walton on Naze
+  ports: Walton on Naze - Ispwich - Woolverston - Walton on Naze
   y_name: Kinder Spirit
   y_type: 
   
@@ -335,7 +346,7 @@
   nm: 140
   pos: skipper
   sea: Adriatic Sea
-  ports: Sukosan, Kornaty, Sibenik, Krka, Primosen, Sukosan
+  ports: Sukosan - Kornaty - Sibenik - Krka - Primosen - Sukosan
   y_name: Danica
   y_type: Bavaria 30
   
@@ -346,7 +357,7 @@
   nm: 163
   pos: crew
   sea: North Sea
-  ports: Walton on Naze, Ostend, Walton on Naze
+  ports: Walton on Naze - Ostend - Walton on Naze
   y_name: Kinder Spirit
   y_type: 
   
@@ -357,7 +368,7 @@
   nm: 273
   pos: skipper
   sea: Adriatic Sea
-  ports: Vodice, Rogoznica, Hvar, Vis, Lastovo, Korcula, Makarska, Split, Trogir, Vodice
+  ports: Vodice - Rogoznica - Hvar - Vis - Lastovo - Korcula - Makarska - Split - Trogir - Vodice
   y_name: Scorpio
   y_type: Elan 431
   
@@ -368,7 +379,7 @@
   nm: 1093
   pos: crew
   sea: Bay of Biscay
-  ports: Lisbon, Vigo, La Coruna, Cherbourg, Brighton
+  ports: Lisbon - Vigo - La Coruna - Cherbourg - Brighton
   y_name: Gemelos
   y_type: 44 ft
   
@@ -379,7 +390,7 @@
   nm: 43
   pos: course
   sea: North Sea
-  ports: Walton on Naze, Woolverstone, Walton on Naze
+  ports: Walton on Naze - Woolverstone - Walton on Naze
   y_name: Canada Goose
   y_type: Oceanis 321   
   
@@ -390,7 +401,7 @@
   nm: 49
   pos: course
   sea: North Sea
-  ports: Walton on Naze, Shotley, Walton on Naze
+  ports: Walton on Naze - Shotley - Walton on Naze
   y_name: Canada Goose
   y_type: Oceanis 321
   
@@ -401,7 +412,7 @@
   nm: 54
   pos: course
   sea: North Sea
-  ports: Walton on Naze, Ispwich, Walton on Naze
+  ports: Walton on Naze - Ispwich - Walton on Naze
   y_name: Canada Goose
   y_type: Oceanis 321
   
@@ -412,6 +423,6 @@
   nm: 281	
   pos: crew	
   sea: Adriatic Sea	
-  ports: Kasztela, Hvar, Korcula, Dubrownik, Kasztela
+  ports: Kasztela - Hvar - Korcula - Dubrownik - Kasztela
   y_name:
   y_type: Elan 31
