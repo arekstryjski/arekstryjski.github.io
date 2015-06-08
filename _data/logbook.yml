@@ -1,3 +1,14 @@
+- log: 41
+  start: 2015-05-22
+  end: 2015-06-02
+  day: 12
+  nm: 466
+  pos: skipper 
+  sea: Norwegian Sea
+  ports: Trondheim - Austratt - Rørvik - Torghatten - Holandsfjorden - Værsøya - Reine - Bodø
+  y_name: JoinUs
+  y_type: Bruce Roberts NY 46
+
 - log: 40
   start: 2015-05-01
   end: 2015-05-04
