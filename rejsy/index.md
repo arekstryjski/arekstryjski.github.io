@@ -8,26 +8,6 @@ img: /img/2013/setsail/sun_l.jpg
 date: 2015-02-24
 ---
 
-rejsy weekendowe
------------------
-
-[![Solent](/img/2013/setsail/sun_l.jpg)](/solent-trasy/) 
-
-W UK prowadzę weekendowe rejsy organizowane przez polonijny klub żeglarski [SetSail](http://setsail.org.uk).  
-Najbliższe terminy:  
-
-* Bank Holiday **28 sierpień - 1 wrzesień 2015** - *Wyspy Normandzkie/Dieppe*
-* weekend **25-27 wrzesień 2015** rejs dla rodziców i młodzieży - *Solent*
-* weekend **16-18 październik 2015** - *dookoła wyspy Wight*
-* weekend **6-8 listopad 2015** druga rocznica SetSail - *Solent*
-* weekend **4-6 grudzień 2015** - *Poole*
-
-Planowane trasy mogą ulec zmianie. Zobacz stronę z [opisami tras](/solent-trasy).  
-Jeśli masz pytanie [napisz do mnie](/rejsy/rezerwacja).  
-
-Zobacz jak było na poprzednich rejsach: [Dookoła wyspy Wight - Solent zimą](/dookola-wight-solent-zima/)
-
-----------------------------------------------------
 
 [Wyprawa na Spitsbergen 2015](/wyprawa-polonijna-na-spitsbergen-2015)
 ------------------------------------------------------------------------------
@@ -49,6 +29,27 @@ Zobacz jak było na poprzednich rejsach: [Dookoła wyspy Wight - Solent zimą](/
 <br>
 </p>
 
+----------------------------------------------------
+
+
+rejsy weekendowe
+-----------------
+
+[![Solent](/img/2013/setsail/sun_l.jpg)](/solent-trasy/) 
+
+W UK prowadzę weekendowe rejsy organizowane przez polonijny klub żeglarski [SetSail](http://setsail.org.uk).  
+Najbliższe terminy:  
+
+* Bank Holiday **28 sierpień - 1 wrzesień 2015** - *Wyspy Normandzkie/Dieppe*
+* weekend **25-27 wrzesień 2015** rejs dla rodziców i młodzieży - *Solent*
+* weekend **16-18 październik 2015** - *dookoła wyspy Wight*
+* weekend **6-8 listopad 2015** druga rocznica SetSail - *Solent*
+* weekend **4-6 grudzień 2015** - *Poole*
+
+Planowane trasy mogą ulec zmianie. Zobacz stronę z [opisami tras](/solent-trasy).  
+Jeśli masz pytanie [napisz do mnie](/rejsy/rezerwacja).  
+
+Zobacz jak było na poprzednich rejsach: [Dookoła wyspy Wight - Solent zimą](/dookola-wight-solent-zima/)
 
 ----------------------------------------------------
 

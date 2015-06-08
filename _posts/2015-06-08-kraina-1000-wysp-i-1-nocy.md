@@ -6,6 +6,14 @@ keywords: żeglowanie, Norwegia, Lofoty
 desc: Rejs Trondheim - Lofoty - Bodø, maj-czerwiec 2015.
 ---
 
+>  
+> Zwolniło się jedno miejsce na rejs na **Svalbard/Spitsbergen**  
+> 25 lipiec - 8 sierpień 2015   
+> Więcej informacji na stronie rejsu: [Wyprawa na Spitsbergen 2015](/wyprawa-polonijna-na-spitsbergen-2015)  
+>   
+> Osoby zainteresowane proszone są o szybki [kontakt](/rejsy/rezerwacja.html).  
+>  
+
 *Poniższy tekst jest pierwszą częścią relacji z rejsu Trondheim - Lofoty - Bodø, maj-czerwiec 2015.*
 
 ![Trondheim Latarnia](/img/2015/norwegia/trondheim-latarnia.jpg)
@@ -110,10 +118,8 @@ W końcu płyniemy!
 
 *cdn.*
 
->  
-> Zwolniło się jedno miejsce na rejs na **Svalbard/Spitsbergen**  
-> 25 lipiec - 8 sierpień 2015   
-> Więcej informacji na stronie rejsu: [Wyprawa na Spitsbergen 2015](/wyprawa-polonijna-na-spitsbergen-2015)  
->   
-> Osoby zainteresowane proszone są o szybki [kontakt](/rejsy/rezerwacja.html).  
->  
+------------------------------------------------------------------------------------
+Zobacz więcej zdjęć z rejsu:
+
+* [Trondheim](https://www.facebook.com/media/set/?set=a.10152841999061820.1073741833.672761819&type=1&l=c675b28568)
+* [katedra w Nidaros](https://www.facebook.com/media/set/?set=a.10152842008391820.1073741834.672761819&type=1&l=4b2e98a0f9)
