@@ -5,8 +5,23 @@ category: relacje
 keywords: relacje z rejsów, rejsy, rejsy morskie, żeglarstwo, yachting, jachting, Grecja, Gibraltar, Sycylia, Chorwacja
 desc: Relacje z rejsów które prowadziłem w przeszłości. Rejsy weekendowe w UK, Grecja, Gibraltar, Sycylia.
 img: /img/2013/setsail/sun_l.jpg
-date: 2014-01-18
+date: 2015-06-08
 ---
+
+
+[Kraina tysiąca wysp i jednej nocy](/kraina-1000-wysp-i-1-nocy/) 
+---------------------------------------------------------------
+
+Relacji z rejsu Trondheim - Lofoty - Bodø, maj-czerwiec 2015.
+
+> Po porannej pogodzie ani śladu. Teraz świeci słońce. Wiatr praktycznie ucichł.  
+> Czas na eksploatację wyspy.  
+> (...)  
+> Wejście na wzgórze i widoki wynagradzają wszystko. To dla nich tu jesteśmy.  
+
+[![Lofoty](/img/2015/norwegia/lofoty.jpg)](/kraina-1000-wysp-i-1-nocy/) 
+
+
 
 
 [Dookoła wyspy Wight - Solent zimą](/dookola-wight-solent-zima/) 
