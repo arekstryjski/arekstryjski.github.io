@@ -66,7 +66,7 @@ i wcale nie jest to najmilsza część przygotowań. Przynajmniej jednak poznam 
 Z UK przylatuje większość załogi. Przylecieli już teraz bo bezpośrednich połączeń lotniczych z UK do Trondheim nie ma zbyt wiele.   
 
 Kuba z Polski przyleciał już po południu i zdążył już nawet łowić ryby w główkach portu. Pierwsza złapana rybka jest jednak zbyt mała i zostaje wypuszczona. 
-Nie wiem czy wypuszczając ją prosił o spełnienie jakiegoś życzenia, ale za kilka dni złowi już znacznie większe sztuki. Podczas całego rejsu będzie też najgorętszym
+Nie wiem czy wypuszczając ją poprosił o spełnienie jakiegoś życzenia, ale za kilka dni złowi już znacznie większe sztuki. Podczas całego rejsu będzie też najgorętszym
 orędownikiem wędkowania zawsze i wszędzie.  
 
 Nagle na jachcie zrobiło się bardzo tłoczno. W czasie żeglugi JoinUs może pomieścić tylko 10 osób, jednak w porcie jakoś udaje się rozlokować 15 osób i sprzęt szkutników.   
@@ -112,8 +112,8 @@ ma ściany o grubości 3 metrów i 3.5 metrowy zbrojony strop.
 Budynek chciano wysadzić po wojnie, ale jego rozmiary oznaczały, że wybuch zniszczyłby również okoliczne domy. Dziś mieści się tutaj archiwum państwowe, tor do kręgli 
 i biura kilku firm.  
 Jacek zapalony historyk i przewodnik w Instytucie im. Sikorskiego w Londynie zasypuje nas informacjami na temat samej budowli, naprawianych tu U-Bootów 
-i okupacji niemieckiej Norwegii. W drodze powrotnej na jacht rozmawiamy o wojnie morskiej na Atlantyku, powoli zataczają coraz szersze kręgi, 
-schodząc na temat dalekich bitwach morskich na Pacyfiku oraz na dywagacje co by było gdyby...  
+i okupacji niemieckiej Norwegii. W drodze powrotnej na jacht rozmawialiśmy o bitwach morskich na Atlantyku. Zataczając coraz szersze kręgi o II wojnie światowej zeszliśmy na temat dalekich bitew morskich 
+na Pacyfiku i dywagacji co by było gdyby...
 
 ![Trondheim Uboot](/img/2015/norwegia/trondheim-uboot.jpg)
 
