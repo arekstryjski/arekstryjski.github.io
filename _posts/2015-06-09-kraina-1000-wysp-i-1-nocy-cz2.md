@@ -61,11 +61,12 @@ ale i zjeść takiej ilości ryby.
 ![rybak](/img/2015/norwegia/statek-norwegia.jpg)
 
 **2118 - Kjeungskjær**  
-Płyniemy dalej. Niestety nie ma w ogóle wiatru i musimy użyc silnika. Powoli mijamy wysepki, skały i niezliczoną ilość bojek, tyczek i innych znaków nawigacyjnych 
+Płyniemy dalej. Niestety nie ma w ogóle wiatru i musimy użyć silnika. Powoli mijamy wysepki, skały i niezliczoną ilość bojek, tyczek i innych znaków nawigacyjnych 
 wytyczających nam trasę i ostrzegających nas przed niebezpieczeństwami.  
 Jedna z nich, niewątpliwie zasługuje na więcej uwagi. Latarnia morska Kjeungskjær została wybudowana w 1880 roku. Była na stale zamieszkała przez ponad 100 lat 
 aż do 1987 kiedy ją zautomatyzowano.
-Przepływamy obok niej w środku nocy, jednak jak większość świetlnych znaków nawigacyjnych jest ona wyłączona o tej porze roku ze względu na białe noce.
+Przepływamy obok niej w środku nocy, jednak jak większość świetlnych znaków nawigacyjnych jest ona wyłączona o tej porze roku ze względu na białe noce. Latarnia
+powoli przesuwa się na tle zachodzącego, czy może juz wschodzącego od kilku godzin słońca...
 
 ![Kjeungskjær](/img/2015/norwegia/kjeungskjaer.jpg)
 

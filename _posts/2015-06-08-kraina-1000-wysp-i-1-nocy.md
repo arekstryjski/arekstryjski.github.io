@@ -78,7 +78,7 @@ Bynajmniej nie przyszli bo przeszkadzał im hałas i rozmowy. Raczej usłyszeli 
 zakupionego w strefie wolnocłowej prawie nienapoczęte, więc załoga zaprasza ich ochoczo.  
 Ta noc nie skończy się zbyt wcześnie. Formalnie rejs jeszcze się nie rozpoczął, ale nikomu to nie przeszkadza w dobrej zabawie. Podobno niegdyś nasi piastowscy wojowie 
 sprzymierzali się z Wikingami i brali udział w ich podbojach europy zachodniej. Na pewno nie brakowało wtedy hucznych uczt wyprawianych w przeddzień wypłynięcia łodzi 
-na wyprawę. Polscy i Norwescy żeglarze - chyba nieświadomie - godnie nawiązują teraz do tech tradycji.    
+na wyprawę. Polscy i Norwescy żeglarze - chyba nieświadomie - godnie nawiązują teraz do tych tradycji.    
 Czas jednak pozostawić rozbawioną załogę i gości w mesie i iść spać. Jutro jest jeszcze kilka rzeczy do zrobienia przed wypłynięciem.
 
 ![Viking horn](/img/2015/norwegia/viking-horn.jpg)
@@ -115,10 +115,10 @@ Jacek zapalony historyk i przewodnik w Instytucie im. Sikorskiego w Londynie zas
 i okupacji niemieckiej Norwegii. W drodze powrotnej na jacht rozmawiamy o wojnie morskiej na Atlantyku, powoli zataczają coraz szersze kręgi, 
 schodząc na temat dalekich bitwach morskich na Pacyfiku oraz na dywagacje co by było gdyby...  
 
+![Trondheim Uboot](/img/2015/norwegia/trondheim-uboot.jpg)
+
 **2100 - Trondhaimsfjord**  
 W końcu płyniemy!   
-
-![Trondheim Uboot](/img/2015/norwegia/trondheim-uboot.jpg)
 
 
 *Inne części relacji:*
