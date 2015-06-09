@@ -56,7 +56,8 @@ Leszek rzuca pierwszy tłumacząc się, że on ma strasznego pecha z łowieniem 
 Zaraz potem kolejną.  
 Kuba, Piotrek i Robert szybko zarzucają swoje wędki. Za chile każdy z nich wyciąga rybę.  
 Kolejne przejście nad podwodnym stokiem leżącym na głębokości 60 do 300 metrów i mamy 12 sztuk! Głównie czarniaka. Jeszcze trochę, a nie będziemy w stanie nie tylko oprawić, 
-ale i zjeść takiej ilości ryby.  
+ale i zjeść takiej ilości ryby. Trzeba powiedzieć stop choc ryby same wieszają sie na haczyk.    
+Filetowanie i przygotowanie ryb do smażenia trwa chyba dłużej niż samo łowienie, albo może po prostu opadły nam już emocje i czas nie biegnie już tak szybko.   
 
 ![rybak](/img/2015/norwegia/statek-norwegia.jpg)
 
