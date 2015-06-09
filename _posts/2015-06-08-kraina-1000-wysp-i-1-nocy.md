@@ -14,7 +14,11 @@ desc: Rejs Trondheim - Lofoty - Bodø, maj-czerwiec 2015.
 > Osoby zainteresowane proszone są o szybki [kontakt](/rejsy/rezerwacja.html).  
 >  
 
-*Poniższy tekst jest pierwszą częścią relacji z rejsu Trondheim - Lofoty - Bodø, maj-czerwiec 2015.*
+*Poniższy tekst jest pierwszą częścią relacji z rejsu Trondheim - Lofoty - Bodø, maj-czerwiec 2015.*  
+*Inne części relacji:*
+
+* **Trondheim**
+* *[Austrått - Kjeungskjær](/kraina-1000-wysp-i-1-nocy-cz2/)*
 
 ![Trondheim Latarnia](/img/2015/norwegia/trondheim-latarnia.jpg)
 
@@ -99,7 +103,7 @@ Może kiedyś i to marzenie się ziści. Na razie myślimy już jednak tylko o j
 ![Trondheim/Nidaros katedra](/img/2015/norwegia/trondheim-nidaros-katedra.jpg)
 
 ## poniedziałek, 25 maj 2015
-**1530**  
+**1630**  
 Po odpoczynku znajdujemy w końcu nieco czasu by zwiedzić miasto.   
 Katedra w Nidaros (średniowieczna nazwa Trondheim) jest już niestety zamknięta i możemy ją obejrzeć jedynie z zewnątrz. Nic nie szkodzi, odwiedzimy ją w drodze powrotnej.  
  
@@ -111,12 +115,16 @@ Jacek zapalony historyk i przewodnik w Instytucie im. Sikorskiego w Londynie zas
 i okupacji niemieckiej Norwegii. W drodze powrotnej na jacht rozmawiamy o wojnie morskiej na Atlantyku, powoli zataczają coraz szersze kręgi, 
 schodząc na temat dalekich bitwach morskich na Pacyfiku oraz na dywagacje co by było gdyby...  
 
-**1700 - Trondhaimsfjord**  
+**2100 - Trondhaimsfjord**  
 W końcu płyniemy!   
 
 ![Trondheim Uboot](/img/2015/norwegia/trondheim-uboot.jpg)
 
-*cdn.*
+
+*Inne części relacji:*
+
+* **Trondheim**
+* *[Austrått - Kjeungskjær](/kraina-1000-wysp-i-1-nocy-cz2/)*
 
 ------------------------------------------------------------------------------------
 Zobacz więcej zdjęć z rejsu:
