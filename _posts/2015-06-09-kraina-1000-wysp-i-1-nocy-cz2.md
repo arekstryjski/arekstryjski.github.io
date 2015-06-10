@@ -15,14 +15,15 @@ desc: Rejs Trondheim - Lofoty - Bodø, maj-czerwiec 2015.
 >  
 
 *Poniższy tekst jest drugą częścią relacji z rejsu Trondheim - Lofoty - Bodø, maj-czerwiec 2015.*  
-*face:*
+*Pozostałe części relacji:*
 
 * *[Trondheim](/kraina-1000-wysp-i-1-nocy/)*
 * **Austrått - Kjeungskjær**
+* *[Rørvik - Torghatten](/kraina-1000-wysp-i-1-nocy-cz3/)*
 
 ![przystań w Austrått](/img/2015/norwegia/austratt-przystan.jpg)
 
-## wtorek, 26 maj 2015
+## poniedziałek, 25 maj 2015
 **0455 - Austrått**  
 Dopływamy do małego portu obok zamku w Austrått. Porcik opisany jest w locji, ale nie ma go na mapach elektronicznych którymi dysponujemy. Ostrożnie zbliżamy się
 do falochronu przyglądając się bacznie układowi pomostów. Konfrontujemy to co widzimy z przeczytanym wcześniej opisem.   
@@ -71,4 +72,15 @@ powoli przesuwa się na tle zachodzącego, czy może juz wschodzącego od kilku 
 
 ![Kjeungskjær](/img/2015/norwegia/kjeungskjaer.jpg)
 
-*cdn.*
+*Pozostałe części relacji:*
+
+* *[Trondheim](/kraina-1000-wysp-i-1-nocy/)*
+* **Austrått - Kjeungskjær**
+* *[Rørvik - Torghatten](/kraina-1000-wysp-i-1-nocy-cz3/)*
+
+------------------------------------------------------------------------------------
+Zobacz więcej zdjęć z rejsu:
+
+* [Austrått](https://www.facebook.com/media/set/?set=a.10152843469481820.1073741835.672761819&type=1&l=2df8a08dfe)
+* [łowienie ryb](https://www.facebook.com/media/set/?set=a.10152843475191820.1073741836.672761819&type=1&l=b6c3ce26ca)
+* [Kjeungskjær](https://www.facebook.com/media/set/?set=a.10152843477931820.1073741837.672761819&type=1&l=4665a5102f)
