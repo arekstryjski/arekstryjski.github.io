@@ -20,7 +20,7 @@ desc: Rejs Trondheim - Lofoty - Bodø, maj-czerwiec 2015.
 * *[Trondheim](/kraina-1000-wysp-i-1-nocy/)*
 * *[Austrått - Kjeungskjær](/kraina-1000-wysp-i-1-nocy-cz2/)*
 * **Rørvik - Torghatten**
-* *[koło podbiegunowe, Holandsfjorden, Værøy*](/kraina-1000-wysp-i-1-nocy-cz4/)*
+* *[koło podbiegunowe, Holandsfjorden, Værøy](/kraina-1000-wysp-i-1-nocy-cz4/)*
 
 ![Rørvik](/img/2015/norwegia/rorvik.jpg)
 
@@ -95,7 +95,7 @@ Sam tunel-jaskina, jak również widok otaczających nas wysp i wysepek całkowi
 * *[Trondheim](/kraina-1000-wysp-i-1-nocy/)*
 * *[Austrått - Kjeungskjær](/kraina-1000-wysp-i-1-nocy-cz2/)*
 * **Rørvik - Torghatten**
-* *[koło podbiegunowe, Holandsfjorden, Værøy*](/kraina-1000-wysp-i-1-nocy-cz4/)*
+* *[koło podbiegunowe, Holandsfjorden, Værøy](/kraina-1000-wysp-i-1-nocy-cz4/)*
 
 ------------------------------------------------------------------------------------
 Zobacz więcej zdjęć z rejsu:
