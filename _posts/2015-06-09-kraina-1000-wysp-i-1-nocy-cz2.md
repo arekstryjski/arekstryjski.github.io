@@ -20,6 +20,7 @@ desc: Rejs Trondheim - Lofoty - Bodø, maj-czerwiec 2015.
 * *[Trondheim](/kraina-1000-wysp-i-1-nocy/)*
 * **Austrått - Kjeungskjær**
 * *[Rørvik - Torghatten](/kraina-1000-wysp-i-1-nocy-cz3/)*
+* *[koło podbiegunowe, Holandsfjorden, Værøy*](/kraina-1000-wysp-i-1-nocy-cz4/)*
 
 ![przystań w Austrått](/img/2015/norwegia/austratt-przystan.jpg)
 
@@ -77,6 +78,7 @@ powoli przesuwa się na tle zachodzącego, czy może juz wschodzącego od kilku 
 * *[Trondheim](/kraina-1000-wysp-i-1-nocy/)*
 * **Austrått - Kjeungskjær**
 * *[Rørvik - Torghatten](/kraina-1000-wysp-i-1-nocy-cz3/)*
+* *[koło podbiegunowe, Holandsfjorden, Værøy*](/kraina-1000-wysp-i-1-nocy-cz4/)*
 
 ------------------------------------------------------------------------------------
 Zobacz więcej zdjęć z rejsu:
