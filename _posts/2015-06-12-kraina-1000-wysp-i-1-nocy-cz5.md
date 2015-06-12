@@ -141,3 +141,10 @@ W czasie rejsu:
 * *[Rørvik, Torghatten](/kraina-1000-wysp-i-1-nocy-cz3/)*
 * *[66°33′45.8″N, Holandsfjorden, Værsøya](/kraina-1000-wysp-i-1-nocy-cz4/)*
 * **Reine, Bodø**
+
+----------------------------------
+
+Zobacz więcej zdjęć z rejsu:
+
+* [Reine](https://www.facebook.com/media/set/?set=a.10152849207916820.1073741844.672761819&type=1&l=00a4588f75)
+* [powrót](https://www.facebook.com/media/set/?set=a.10152849213131820.1073741845.672761819&type=1&l=54b53222bd)
