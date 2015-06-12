@@ -15,12 +15,13 @@ desc: Rejs Trondheim - Lofoty - Bodø, maj-czerwiec 2015.
 >  
 
 *Poniższy tekst jest czwartą częścią relacji z rejsu Trondheim - Lofoty - Bodø, maj-czerwiec 2015.*  
-*Poprzednie części:*
+*Pozostałe części relacji:*
 
 * *[Trondheim](/kraina-1000-wysp-i-1-nocy/)*
 * *[Austrått, Kjeungskjær](/kraina-1000-wysp-i-1-nocy-cz2/)*
 * *[Rørvik, Torghatten](/kraina-1000-wysp-i-1-nocy-cz3/)*
 * **koło podbiegunowe, Holandsfjorden, Værøy**
+* *[Reine, Bodø](/kraina-1000-wysp-i-1-nocy-cz5/)*
 
 ![koło podbiegunowe](/img/2015/norwegia/kolo-podbiegunowe.jpg)
 
@@ -31,13 +32,13 @@ w tym samym czasie co prom turystyczny mimo, że od godzin nie widzieliśmy żad
 Statek używa swojego donośnego sygnału dźwiękowego by oznajmić nam i wszystkim swoim pasażerom, że jesteśmy w Arktyce. Tak jak i u nas, tak i na promie wszyscy wychodzą 
 na pokład by podziwiać widoki, zrobić fotkę, zupdateować status na Facebooku - tak na "końcu świata" jest w miarę dobry zasięg telefonów i internetu.  
 
-Faktycznie koło podbiegunowe jest kilka mil dalej. Cyfry na GPS powoli się przesuwają i w końcu pojawia się magiczna cyfra 66°33′45.8″N. Całą załogą uczci ten moment 
+Faktycznie koło podbiegunowe jest kilka mil dalej. Cyfry na GPS powoli się przesuwają i w końcu pojawia się magiczna cyfra 66°33′45.8″N. Cała załoga uczciła ten moment 
 szklaneczką najlepszego wina jakie jeszcze mamy na pokładzie.  
 
 **0900**  
 Przepływając koło małych wysepek, Kuba który akurat jest na wachcie, zauważa stado ptaków nurkujących do wody. Autorytatywnie ogłasza, że to dobry znak i musimy tu łowić.  
 Stajemy w dryfie. Połów rzeczywiście okazuje się pomyślny. Po nieco ponad godzinie mamy 5 sztuk, w tym jedna którą załoga nazwała "spawacz".  
-Robert który łowił w Norwegii już wcześniej rozpoznaje rybę jako brosman, ale oficjalna raczej sie nie przyjęła. Załoga wciąż głośno zastanawia się jak byłoby najlepiej 
+Robert który łowił w Norwegii już wcześniej rozpoznaje rybę jako brosman, ale oficjalna nazwa raczej się nie przyjęła. Załoga wciąż głośno zastanawia się jak byłoby najlepiej 
 przyrządzić "spawacza".  
 
 ![Holandsfjorden - lodowiec](/img/2015/norwegia/holandsfjorden-lodowiec.jpg)
@@ -60,12 +61,12 @@ Naturalnie ukształtowane kostki lodu wręcz proszą się o wrzucenie go do jaki
 ## sobota, 30 maj 2015
 **1400 - Værøy**  
 Po 20 godzinach żeglugi w końcu dochodzimy do Værøy. Jesteśmy na Lofotach!   
-Po tej stronie Vestfjord - raczej zatoki, a nie fiordu oddzielającej Lofoty od kontynentu - wiatr i fale są znacznie większe niż, gdy zaczynaliśmy xx godzin temu. 
+Po tej stronie Vestfjord - raczej zatoki, a nie fiordu oddzielającej Lofoty od kontynentu - wiatr i fale są znacznie większe niż, gdy zaczynaliśmy 16 godzin temu. 
 Cel naszej dzisiejszej żeglugi jest już na wyciągnięcie ręki, ale trzeba jeszcze znaleźć miejsce gdzie staniemy. Najpierw wchodzimy do mniejszego portu Røssnesvågen 
 polecanego w locji.  
 Tam, miedzy kutrami, nie znajdujemy jednak odpowiedniego miejsca do którego można by przycumować. Nie do końca rozumiem też dlaczego to miejsce było opisane przez autorów 
 jako bardziej atrakcyjne.  
-By zawrócić musimy wykonać tzw. ciasna cyrkulację czyli obrót jachtu o 180 stopni w miejscu. Manewr ten nie jest łatwy do wykonania naszym 20 tonowym stalowym jachtem 
+By zawrócić musimy wykonać tzw. ciasną cyrkulację czyli obrót jachtu o 180 stopni w miejscu. Manewr ten nie jest łatwy do wykonania naszym 20 tonowym stalowym jachtem 
 przy silnym bocznym wietrze. Wysoka burta i nadbudówka działają wtedy niczym żagiel, którego jednak nie da się zrefować.   
 Wychodzimy na pełne morze tylko by zawrócić i wejść ponownie tym razem do dużego portu Sørlandsvågen. Wejścia obu portów/zatok połozone sa obok siebie i przy lepszej pogodzie 
 moglibyśmy przejść tuż obok falochronu i latarni skracając sobie drogi, ale teraz lepiej nie ryzykować.   
@@ -99,7 +100,7 @@ Wejście na najbliższe wzgórze wynagradza jednak wszystko. To dla takich widok
 
 **2200**   
 Cześć załogi, nie chcąca kąpać się w mini łazience na jachcie, wyrusza na poszukiwania "prawdziwego" prysznica na lądzie. Wcześniej znaleźliśmy wydawałoby 
-się całkowicie opuszczony, ale otwarty hotel. Nie odważyliśmy się skorzystać bez pytania.  
+się całkowicie opuszczony, ale otwarty hotel. Nie odważyliśmy się jednak korzystać z łazienki bez pytania.  
 Na nasze nawoływania i dzwonki odpowiedziała w końcu chyba jedyna para gości. Dostajemy telefon do właścicielki. Niestety nie możemy skorzystać. Podobno prysznice są 
 tylko w pokojach, choć nam wydawało się inaczej...   
 Inne miejsce wskazała nam nasza rodaczka pracująca w lokalnym sklepie. Tu mamy większe szczęście.  
@@ -108,4 +109,17 @@ Wracając już około północy wciąż spotykamy ludzi. Jedna osoba kosi nawet 
 
 ![Værøy](/img/2015/norwegia/vaeroy.jpg)
 
-*cdn.*
+*Pozostałe części relacji:*
+
+* *[Trondheim](/kraina-1000-wysp-i-1-nocy/)*
+* *[Austrått, Kjeungskjær](/kraina-1000-wysp-i-1-nocy-cz2/)*
+* *[Rørvik, Torghatten](/kraina-1000-wysp-i-1-nocy-cz3/)*
+* **koło podbiegunowe, Holandsfjorden, Værøy**
+* *[Reine, Bodø](/kraina-1000-wysp-i-1-nocy-cz5/)*
+
+------------------------------------------------------------------------------------
+Zobacz więcej zdjęć z rejsu:
+
+* [koło podbiegunowe](https://www.facebook.com/media/set/?set=a.10152847213481820.1073741841.672761819&type=1&l=f18221d65f)
+* [Holandsfjorden](https://www.facebook.com/media/set/?set=a.10152847222221820.1073741842.672761819&type=1&l=993cc41e7f)
+* [Værøy](https://www.facebook.com/media/set/?set=a.10152848643196820.1073741843.672761819&type=1&l=815c1c1094)
