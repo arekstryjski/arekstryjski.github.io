@@ -11,6 +11,7 @@ pogoda
 ------
 * mapy prognoz pogody dla **[Arktyki](http://www.weather-forecast.com/maps/Arctic)** z Weather Forecast
 * animowana mapa synoptyczna **[Północnego Atlantyku](http://www.stormsurfing.com/cgi/display_alt.cgi?a=natla_slp)** Stormsurfing
+* inna animacja prognozy dla **[całego świata](https://www.windyty.com/?69.915,-2.988,4)**
 
 
 sytuacja lodowa

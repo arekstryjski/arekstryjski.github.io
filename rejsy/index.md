@@ -17,14 +17,13 @@ rejsy weekendowe
 W UK prowadzę weekendowe rejsy organizowane przez polonijny klub żeglarski [SetSail](http://setsail.org.uk).  
 Najbliższe terminy:  
 
-* Bank Holiday **28 sierpień - 1 wrzesień 2015** - *Wyspy Normandzkie/Dieppe*
-* weekend **25-27 wrzesień 2015** rejs dla rodziców i młodzieży - *Solent*
-* weekend **16-18 październik 2015** - *dookoła wyspy Wight*
-* weekend **6-8 listopad 2015** druga rocznica SetSail - *Solent*
-* weekend **4-6 grudzień 2015** - *Poole*
+* Bank Holiday **28 sierpień - 1 wrzesień 2015** - *Wyspy Normandzkie/Dieppe* [zapisy i informacje](http://www.meetup.com/SetSail-Polish-Sailing-Club/events/223934841/)
+* weekend **9-11 październik 2015** - rejs stażowy ICC - *Solent* [zapisy i informacje](http://www.meetup.com/SetSail-Polish-Sailing-Club/events/223935940/)
+* weekend **6-8 listopad 2015** II rocznica SetSail - *Solent* [zapisy i informacje](http://www.meetup.com/SetSail-Polish-Sailing-Club/events/223935764/)
+* weekend **4-6 grudzień 2015** - Rejs hard-core *Wyspy Normandzkie* [zapisy i informacje](http://www.meetup.com/SetSail-Polish-Sailing-Club/events/223936889/)
 
-Planowane trasy mogą ulec zmianie. Zobacz stronę z [opisami tras](/solent-trasy).  
-Jeśli masz pytanie [napisz do mnie](/rejsy/rezerwacja).  
+Planowane trasy mogą ulec zmianie. Zobacz stronę z [opisami tras](/solent-trasy).   
+Zapisy i więcej informacji w podanych powyżej linkach. Jeśli masz pytanie [napisz do mnie](/rejsy/rezerwacja).  
 
 Zobacz jak było na poprzednich rejsach: [Dookoła wyspy Wight - Solent zimą](/dookola-wight-solent-zima/)
 
