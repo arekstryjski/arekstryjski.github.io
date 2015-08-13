@@ -2,7 +2,7 @@
 title: Arek Stryjski - sailing CV
 layout: page
 category: arek
-date: 2015-06-08
+date: 2015-08-12
 desc: Arek Stryjski - sailing CV
 ---
 
@@ -30,12 +30,13 @@ languages
 
 sailing experience
 ------------------
-* nautical miles: 10647 - 8341 as skipper
-* days at sea: 238 - 191 as skipper
-* sailing areas: North Atlantic, Bay of Biscay, Norwegian Sea, North Sea, Irish and Celtic Seas, English Channel, Mediterranean 
+* nautical miles: 11513 - 9207 as skipper
+* days at sea: 254 - 207 as skipper
+* sailing areas: Arctic, North Atlantic, Bay of Biscay, Norwegian Sea, North Sea, Irish and Celtic Seas, English Channel, Mediterranean 
 
 *2007 - current*: Working as skipper for JoinUs.pl on vacation cruises with people of various experience, including kids and complete beginners.  
 *2014 - current*: Co-organizing and skippering weekend sailing trips in UK for SetSail sailing club with people of various experience.  
+*In 2015* during the sailing trip in Svalbard I skippered we reached latitude 81°N. 
 
 For more details see my [logbook](http://stryjski.net/arek/logbook.html).
 
@@ -75,7 +76,7 @@ other work experience
 ----------------------
 * CTO / software architect at Accountz.com Ltd. (current).  
 * Managing small team of developers and playing important role in management of the whole company.  
-* 16 years professional programmer experience in creating web, mobile and desktop applications.  
+* 17 years professional programmer experience in creating web, mobile and desktop applications.  
 * 3 years experience in desktop publishing.  
 * Writing various articles in professional magazines and web portals (in Polish).  
 

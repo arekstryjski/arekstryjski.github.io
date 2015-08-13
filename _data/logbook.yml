@@ -1,3 +1,25 @@
+- log: 43
+  start: 2015-07-25
+  end: 2015-08-08
+  day: 14
+  nm: 784
+  pos: skipper 
+  sea: Arctic
+  ports: Longyearbyen - Piramiden - Poolepynten - Ny Ålesund - Magdalenefjord - 81°N - Kinnvika - Vulkanhamna - Amsterdamoya - Ny Ålesund - Kaffioyra (Copernicus University Polar Station) - Barentsburg - Longyearbyen
+  y_name: JoinUs
+  y_type: Bruce Roberts NY 46
+  
+- log: 42
+  start: 2015-06-26
+  end: 2015-06-28
+  day: 2
+  nm: 82
+  pos: skipper 
+  sea: Solent
+  ports: Southampton - Chichester - Southampton
+  y_name: Cloud Nine
+  y_type: Dufour 36  
+
 - log: 41
   start: 2015-05-22
   end: 2015-06-02

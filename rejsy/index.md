@@ -9,29 +9,6 @@ date: 2015-02-24
 ---
 
 
-[Wyprawa na Spitsbergen 2015](/wyprawa-polonijna-na-spitsbergen-2015)
-------------------------------------------------------------------------------
-
-[![Spitsbergen](/img/2014/norwegia/spitsbergen_mis.jpg)](/wyprawa-polonijna-na-spitsbergen-2015/) 
-
-> Głównym celem rejsu jest opłynięcie wyspy Spitsbergen w archipelagu Svalbard.  
-
-**25 lipiec - 8 sierpień 2015**   
-*2 tygodnie*  
-*~720 mil morskich*  
-*2496zł (£480) + kasa jachtowa*  
-
-<p>
-<a role="button" href="/wyprawa-polonijna-na-spitsbergen-2015/" type="button" class="btn btn-xs btn-primary">szczegóły</a>
-<a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-danger pull-right">1 miejsce wolne!</a>
-<span class="pull-right" >&nbsp;&nbsp;</span>
-<a role="button" href="/rejsy/pytanie.html" type="button" class="btn btn-xs btn-success pull-right">mam pytanie</a>         
-<br>
-</p>
-
-----------------------------------------------------
-
-
 rejsy weekendowe
 -----------------
 

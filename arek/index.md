@@ -12,7 +12,7 @@ Nazywam się Arek Stryjski. Mieszkam w Cambridgeshire w UK.
 Na co dzień jestem programistą Java piszącym aplikacje księgowe.
 
 Od ponad 10 lat moją największą pasją jest żeglarstwo.  
-Posiadam brytyjski paten żeglarski RYA Yachtmaster Offshore (odpowiednik polskiego kapitana jachtowego).
+Posiadam zawodowy brytyjski paten żeglarski RYA Yachtmaster Offshore (odpowiednik polskiego kapitana jachtowego).
 
 Strona ta powstała by promować moje projekty żeglarskie, ale także by dzielić się swoim doświadczeniem.
 
