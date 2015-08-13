@@ -98,5 +98,8 @@ Dotyczą one rejsu jachtem żaglowym z ograniczonymi elementami trekingu w czasi
 
 * **ubranie na powrót** - już od kilku rejsów biorę zapakowany w hermetyczny worek ubranie na powrót. Może to fanaberia, 
   ale lubię wracać w czymś co nie przesiąknęło 'atmosferą' jachtu.
+  
+* **bagaż podręczny** - prawie na każdym rejsie przynajmniej jednej osobie bagaż nie dolatuje na czas. W bagażu podręcznym 
+  należy zabrać wszystko co pozwoli nam przetrwać pierwsze 3 dni.  
 
 
