@@ -41,6 +41,12 @@ poradniki
   Phyllis Nickel, John Harries;
   <small>[www](http://www.morganscloud.com/series/why-the-high-latitudes/)</small>  
 
- 
+
+linki
+------  
+
+* [Polar Research Journal](http://www.polarresearch.net/)
+
+* [Norwegian Polar Institute](http://www.npolar.no/en/)
 
 

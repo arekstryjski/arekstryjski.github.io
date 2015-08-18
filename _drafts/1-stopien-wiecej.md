@@ -183,9 +183,17 @@ Na razie był to kontakt bardzo nieśmiały. Powoli okrążamy, a potem jeszcze 
 nie większy niż 3 wiaderka. Odłupujemy kawałek do garnka. 
 Zdobycz może nie za wielka, ale po raz pierwszy mamy kilkusetletni lód pochodzący z lodowca! Trzeba to uczcić drinkiem.
 
-Wpływając do Kongsfjorden przy którym leży Ny-Ålesund
+Wpływając do Kongsfjorden przy którym leży Ny-Ålesund wieje silny wschodni wiatr. Do tej pory byliśmy od niego osłonięci wysokimi górami.
+Tutaj ukształtowanie terenu powoduje, że wiatr 
+
 
 ## 81°N
+
+Opłynięcie Spitsbergenu - największej wyspy archipelagu Svalbard - jest w tym roku niemożliwe. Przynajmniej teraz w lipcu, gdy my 
+tu jesteśmy. Południowa część cieśniny Hinlopen oddzielająca Spitsbergen od Nordaustlandet (Ziemi Północno-Wschodniej) wciąż 
+zablokowana jest zwartym lodem który przyniosły tu z północnego wschodu zimne prądy morskie.
+Mapy lodowe pokazują jednak, że północna strona archipelagu jest stosunkowo wolna od lodu. Jest szansa eksploracji północnych 
+wysp archipelagu. 
 
 ## pan pan
 
