@@ -6,10 +6,10 @@ keywords: żeglarstwo, Spitsbergen, Svalbard, Arktyka
 desc: Rejs na Svalbardzie, lipiec-sierpień 2015.
 ---
 
-## białe, czarne, szare, niebieskie...
+## białe, czarne, szare, niebieskie... i kolorowe
 
 Wszyscy wiedzą, że Spitsbergen to *[Białe](https://czarne.com.pl/katalog/ksiazki/biale)*.  
-Jednak latem i to na rejsie jachtem kolorów jest kilka.
+Jednak latem i to na rejsie jachtem kolorów jest przynajmniej kilka.
 
 *Biały* jest śnieg lodowca.  
 *Biała* jest kra sięgająca horyzontu.  
@@ -109,11 +109,11 @@ obok siebie burta przy burcie.
 
 Zaskakująco dużo jachtów pod polską banderą. Obok naszego JoinUs stoi Barlovento II z Sekstant Expedition. Trochę dalej mniejszy Berg.
 Na kotwicy przed portem stoi polski statek badawczy Oceania. O zaledwie kilka dni minęliśmy się z jachtem Stary.  
-Za dwa tygodnie spotkamy tu legendarny jacht 'transportowo-badawczy' Eltanin i Polonusa.
+Za dwa tygodnie spotkamy tu legendarny jacht 'transportowo-badawczy' Eltanin i Solanus.
 
 Polacy upodobali sobie stal. Obok stoją dwa specjalnie zaprojektowane do żeglugi arktycznej francuskie aluminiowe jachty Boreal 
 oraz już bardziej tradycyjny, ale wciąż aluminiowy Onvi. 
-Bestewind wciąż jest jachtem przystosowanym do żeglugi arktycznej, choć to już "plastik". Są jednak i bardziej standardowe konstrukcje jak 
+Bestewind wciąż można nazwać jachtem specjalnie przystosowanym do żeglugi arktycznej, choć to już "plastik". Są jednak i bardziej standardowe konstrukcje jak 
 Delphie z chyba jedynej tu firmy czarterowej Boreal Yachting, czy nawet starsza prywatna Bavaria. Jest tu nawet potężny luksusowy
 jacht na maltańskiej banderze.
 
@@ -175,29 +175,112 @@ Udziela nam się ich spokój. Moglibyśmy tu zostać i wylegiwać się z nimi na
 Trzeba jednak wracać na jacht i dać drugiej grupie możliwość zobaczenia tych nie bojących się niczego i nikogo dzikich zwierząt. 
 
 
-## lód
+## lodowce
 
 Opuszczając Isfjorden trzymaliśmy się północnej jego części odwiedzając lodowce w zatokach Borebukta i Trygghamna. Pierwszy z nich
-okazał się zdecydowanie bardziej okazalszy. Tu po raz pierwszy mieliśmy kontakt z lodem. 
+okazał się zdecydowanie bardziej okazalszy. To tu po raz pierwszy mieliśmy kontakt z lodem. 
 Na razie był to kontakt bardzo nieśmiały. Powoli okrążamy, a potem jeszcze wolniej podpływamy pod unoszący się kawałek lodu 
 nie większy niż 3 wiaderka. Odłupujemy kawałek do garnka. 
 Zdobycz może nie za wielka, ale po raz pierwszy mamy kilkusetletni lód pochodzący z lodowca! Trzeba to uczcić drinkiem.
 
 Wpływając do Kongsfjorden przy którym leży Ny-Ålesund wieje silny wschodni wiatr. Do tej pory byliśmy od niego osłonięci wysokimi górami.
-Tutaj ukształtowanie terenu powoduje, że wiatr 
+Tutaj ukształtowanie terenu powoduje, że wiatr wciska się w fiord zmieniając kierunek i przybierając na sile. Sterowanie utrudnia fakt,
+że wiatr i fala wypycha z fiordu krę i małe góry lodowe. 
+te większe wielkości jachtu, czy nawet małego statku łatwo dostrzec i ominąć. Wśród drobnego lodu może jednak czyhać całkowicie znużony, 
+ale większy kawałek lodu. Nam się udaje, ale wiemy że jedna z poprzednich załóg najechała na taki lód z dużą prędkością, co mogło 
+przyczynić się do uszkodzenia drugiej echosondy. 
+
+Prawdziwy chrzest lodowy przejdziemy jednak dopiero w Magdalenefjord. Po zwiedzeniu pozostałości osady wielorybników i cmentarza z XVII wieku - 
+całość obszaru archeologicznego jest odgrodzona i raczej nie widać zbyt wiele zza barierki - oraz pobliskiego małego lodowca, 
+wyciągamy kotwicę i płyniemy do czoła lodowca. Lewy brzeg fiordu pokrywa gęsta warstwa kry i małych górek lodowych, prawa jest jednak 
+całkowicie wolna od lodu.
+Nie zbliżamy się do czoła lodowca bliżej niż na 300-500 metrów. W razie oderwania większego kawałka lodu powstanie silna fala przypominająca tsunami.
+Dla jachtu bardziej niebezpieczne może być jednak oderwanie się i raptowne wypłynięcie lodu z dolnej podwodnej części czoła lodowca.
+Wyczekujemy oderwania się większego kawałka lodu. Raz tylko uderzając i roztrzaskując się z hukiem przypominającym wybuch, odrywa się 
+i obsuwa średniej wielkości kawał lodu.
+Możemy stać i obserwować lodowiec przez godziny, ale czas jednak płynąć dalej. Przed chwilą cieszyła nas raptowna poprawa pogody,
+wyjście za chmur słońca i uciszenie wiatru. Pozwoliło to nam wykonać kilka efektownych zdjęć. Zmieniło to jednak także diametralnie
+sytuację w fiordzie.
+Zgarnięty do tej pory na jednym brzegu lód równomiernie się teraz rozproszył po całej zatoce. Kawałki lodu są relatywnie małe,
+ale trudno wypatrzeć jakikolwiek wolne od lodu przejście. Nie ma wyjścia, cztery osoby stają na dziobie trzymając bambusowe tyczki 
+i odpychają od kadłuba lód. Płyniemy na silniku zaledwie 1.5 - 2 węzły, często zwalniając.
+
+
+## nowe plany 
+
+Opłynięcie Spitsbergenu - największej wyspy archipelagu Svalbard - jest w tym roku niemożliwe. Przynajmniej teraz w lipcu, gdy my 
+tu jesteśmy. Inaczej niż w poprzednich latach południowa część cieśniny Hinlopen oddzielająca Spitsbergen od Nordaustlandet 
+(Ziemi Północno-Wschodniej) wciąż zablokowana jest zwartym lodem który przyniosły tu z północnego wschodu zimne prądy morskie.
+
+Z ostatnich map lodowych jakie widzieliśmy jeszcze w Ny-Ålesund - ostatnim miejscu gdzie dostępny był internet - wynikało, że 
+powinno się udać dopłynąć do Nordkapp - przylądka nazwanego tak jak ten w kontynentalnej Norwegii i jednej z najdalej na północ 
+wysuniętej części Svalbardu.
+
+Granica wiecznego lodu nigdy nie jest jasno zdefiniowana i zazwyczaj wolne od lodu morze przeradza się w stały wieloletni lód na 
+przestrzeni wielu kilometrów. Pas pomiędzy otwartym morzem a biegunem przeplatają pola lodowe o różnym stosunku procentowym 
+wody i lodu na ich powierzchni.
+Stopień zalodzenia podaje się w ułamkach gdzie 1/10 to sporadyczna kra, a 9/10 lekko spękana stała pokrywa lodowa.
+Podobnie jak prognozę pogody Norweski Instytut Meteorologiczny publikuje mapy tej części arktyki na których kolorami oznaczone 
+jest zalodzenie. 
+Nasz jacht może bezpiecznie pływać w lodzie o stosunku 3/10 - to kolory niebieski i zielony na mapie. Na południu Hinlopen  
+wciąż w przeważa kolor zółty, a nawet czerwony. 
+Północ wydaje się wyglądać znacznie lepiej. Kolor niebieski dość szybko przechodzi w czerwony, z wąskimi paskami zieleni i zółci 
+jedynie na wschód od Nordkapp.
+
+Wypływając z Magdalenefjord kierujemy się na północny-wschód. Niedaleko płaskiej i ledwo widocznej wyspy Moffen przekraczamy 
+magiczna granicę 80 stopni szerokości geograficznej północnej. Inne jachty często tu zawracają ograniczając swój pobyt 
+na Svalbardzie jedynie do zachodniego Spitsbergenu. 
+Błękitne niebo, brak fal - i niestety wiatru - upewniają nas jednak, że powinniśmy podążać dalej w nieznane.
+
+
+## koniec mapy
+
+Współczesnym żeglarzom rzadko zdarza się sytuacja gdy płyną naprawdę w nieznane. GPS i podpięte do nich plotery wyświetlają
+dokładną pozycję jachtu na dokładnych mapach morskich z dokładnością do kilku metrów.
+My, jak dawni odkrywcy, wpływamy na wody poza zasięgiem dostępnych map - tych elektronicznych przynajmniej. Twórcy współczesnego 
+oprogramowania elektronicznego uznali najwidoczniej, że nikt nie popłynie dalej niż 80°N. Może dlatego tyle osób tu zawraca.
+Tu kończy się morze i zaczyna niezbadana otchłań w którą nieostrożne statki mogą się stoczyć - tak przynajmniej wygląda to na 
+ploterze czy laptopie.
+
+Oczywiście morze się tu nie kończy. Dla wód położonych dalej na północ dalej istnieją mapy - jednak jedynie tradycyjne, papierowe. 
+Także na nich występują białe plamy w których nie ma podanych miarodajnych głębokości, gdyż nikt nie badał tych terenów od XVII - XVIII wieku.
+Dalej działa GPS podając naszą pozycję. Coraz trudniej jednak przeliczyć kurs rzeczywisty na magnetyczny, bo zbliżając się 
+do bieguna występują coraz większe odchylenia, a kompas magnetyczny staje się coraz mniej miarodajny.
+
+Prowadząc tradycyjną nawigację i zaznaczając pozycję co godzina na papierowej mapie kierujemy się coraz dalej na północ.
+
+
+## fatamorgana
+
+Wbrew obiegowej opinii tereny arktyczne to tereny pustynne. Pokryte lodowcami wysokie góry mogą mylić, ale wbrew pozorom 
+śniegu i deszczu pada tu stosunkowo mało. Występują tu też zjawiska które kojarzymy raczej z Saharą.
+
+Płynąc wzdłuż brzegów wyspy Lagoya widzimy już klify ostatnich siedmiu wysp Svalbardu - Sjuøyane. Jedyny problem to to, że
+te wyspy nie posiadają wybrzeża klifowego. Znajdują sią na nich góry, ale jedynie kilkuset metrowe i raczej w ich wnętrzu, 
+nie na wybrzeżu. Mapy są tu niedokładne, ale w stosunku do dna morskiego. Co do lądu nie mogą się aż tak mylić.
+Co gorsza ostatnia większa wyspa archipelagu - Vesle Tavleøya - wyraźnie przypomina swym wyglądem grzyb.
+
+Nie zostaliśmy oślepieni słońcem północy, ani w naszych zbiornikach ze słodką wodą nie zalęgła się jakaś groźna bakteria 
+powodująca omamy.
+Zjawisko chodź przedziwne jest dobrze znane. Widzimy wyspy które znajdują się jeszcze za horyzontem. Przejrzystość powietrza
+i jego zmiany temperatury nad woda i polami lodowymi powodują załamanie się światła i tą przedziwną arktyczną fatamorganę.
+W dawnych wiekach złudzenie to myliło badaczy szukających przejścia północno-wschodniego i północno-zachodniego, my jednak 
+nie damy się zwieść i nie zawrócimy.
+
+Wygląda na to że damy radę dopłynąć do ostatniej wyspy - a w zasadzie większej skały - archipelagu Svalbardzkiego do Rossøya.
+
+
+## kra
+
 
 
 ## 81°N
 
-Opłynięcie Spitsbergenu - największej wyspy archipelagu Svalbard - jest w tym roku niemożliwe. Przynajmniej teraz w lipcu, gdy my 
-tu jesteśmy. Południowa część cieśniny Hinlopen oddzielająca Spitsbergen od Nordaustlandet (Ziemi Północno-Wschodniej) wciąż 
-zablokowana jest zwartym lodem który przyniosły tu z północnego wschodu zimne prądy morskie.
-Mapy lodowe pokazują jednak, że północna strona archipelagu jest stosunkowo wolna od lodu. Jest szansa eksploracji północnych 
-wysp archipelagu. 
+
 
 ## pan pan
 
-## lodowa cisza
+## cisza
 
 ## koniec świata
 
@@ -211,14 +294,43 @@ wysp archipelagu.
 
 ## miejscowi
 
-## białe
-
 Przyjdzie nam jeszcze raz przeczytać *Białe*. Tym razem wolniej. Ze zrozumieniem.  
 Teraz znamy już miejsca i przynajmniej część z występujących tam postaci osobiście.
 
+
+## najdalej na północ
+
+W czasie tych przeszło dwu tygodni - czy raczej jednego dnia, który trwał nieprzerwanie ponad 400 godzin - zobaczyliśmy 
+i dokonaliśmy rzeczy które obiektywnie były najdalej na północ i które sa udziałem wielu turystów:
+* widzieliśmy najdalej na północ zbudowany basen;  
+* widzieliśmy najdalej na północ wysunięte bazy wielorybników i kopalnie węgla;  
+* wypiliśmy piwo z najdalej na północ wysuniętych browarów i to w dniu ich otwarcia.
+
+Były tez rekordy które nie są udziałem wszystkich odwiedzających Svalbard:
+* byliśmy w najdalej na północ wysuniętej polskiej stacji badawczej,
+* dopłynęliśmy poza najdalej na północ wysuniętej wyspy Svalbardu.
+ 
+Pobiliśmy też pewne prywatne rekordy:  
+* najdalej na północ wysuniętej kąpieli morskiej Łukasza i Zwierzaka,
+* najdalej na północ wykonanej asany jogi Marioli,
+* czy najdalej na północ (i najkrótszej) sesji opalania się na pokładzie jachtu Zwierzaka. 
+
+Nie przyszło nam pobić światowych rekordów żeglarstwa, jak było to w udziale załogi Barlovento, która wypływając z nami 
+z Longyearbyen, w tym samym czasie, osiągnęła pozycję 81°37'N dopływając do stałego lodu powyżej archipelagu Nowej Ziemi.
+Pewnie: 
+* najwyżej na północ dokonana naprawa wału napędowego, 
+* czy najwyżej na północ upieczone przez Mariolę ciasto,
+nie przejdą - niestety - do historii polskiego żeglarstwa, choć powinny. 
+
+Nie opłynęliśmy Spitsbergenu, jak było w naszych planach. 
+Nie odwiedziliśmy wszystkich miejsc, które chcieliśmy. 
+Nie zobaczyliśmy niedźwiedzia.
+
+Będzie po co wracać.
+
 -----------------------------------------------
 
-Rejs na Spitsbergenie na przełomie lipca i sierpnia 2015 był jednym z etapów wyprawy polarnej [Svalbard 2015](http://svalbard.com.pl/) 
+Rejs na Spitsbergenie na przełomie lipca i sierpnia 2015 roku był jednym z etapów wyprawy polarnej [Svalbard 2015](http://svalbard.com.pl/) 
 zorganizowanej przez [JoinUs](http://joinus.eu/), na jachcie o tej samej nazwie.  
 
 Rejs był współorganizowany przez polonijny klub żeglarski [SetSail](http://setsail.org.uk/), 
@@ -237,9 +349,5 @@ W rejsie udział wzięli *(patrząc od lewej)*:
 * *Piotr* - co niczego się nie lęka
 * *Bernard* - co...
 
-W czasie rejsu:  
-
-* przepłynęliśmy 784 mil morskich - głównie niestety na silniku, 
-* kupiliśmy 2 ryby, bo nic nie złowiliśmy, 
-* dokonaliśmy najdalej na północ wykonanej naprawy wału napędowego w historii polskiego żeglarstwa.
+W czasie rejsu przepłynęliśmy 784 mil morskich - głównie niestety na silniku.
 
