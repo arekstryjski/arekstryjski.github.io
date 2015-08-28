@@ -250,28 +250,35 @@ do bieguna występują coraz większe odchylenia, a kompas magnetyczny staje si�
 Prowadząc tradycyjną nawigację i zaznaczając pozycję co godzina na papierowej mapie kierujemy się coraz dalej na północ.
 
 
-## fatamorgana
-
-Wbrew obiegowej opinii tereny arktyczne to tereny pustynne. Pokryte lodowcami wysokie góry mogą mylić, ale wbrew pozorom 
-śniegu i deszczu pada tu stosunkowo mało. Występują tu też zjawiska które kojarzymy raczej z Saharą.
+## wysoki brzeg
 
 Płynąc wzdłuż brzegów wyspy Lagoya widzimy już klify ostatnich siedmiu wysp Svalbardu - Sjuøyane. Jedyny problem to to, że
 te wyspy nie posiadają wybrzeża klifowego. Znajdują sią na nich góry, ale jedynie kilkuset metrowe i raczej w ich wnętrzu, 
 nie na wybrzeżu. Mapy są tu niedokładne, ale w stosunku do dna morskiego. Co do lądu nie mogą się aż tak mylić.
-Co gorsza ostatnia większa wyspa archipelagu - Vesle Tavleøya - wyraźnie przypomina swym wyglądem grzyb.
+Co gorsza ostatnia większa wyspa archipelagu - Vesle Tavleøya - wyraźnie przypomina swym wyglądem grzyb, czy babeczkę.
 
 Nie zostaliśmy oślepieni słońcem północy, ani w naszych zbiornikach ze słodką wodą nie zalęgła się jakaś groźna bakteria 
 powodująca omamy.
-Zjawisko chodź przedziwne jest dobrze znane. Widzimy wyspy które znajdują się jeszcze za horyzontem. Przejrzystość powietrza
-i jego zmiany temperatury nad woda i polami lodowymi powodują załamanie się światła i tą przedziwną arktyczną fatamorganę.
+To dziwne zjawisko jest dobrze znane. Wyspy które widzimy znajdują się jeszcze za horyzontem. Przejrzystość powietrza
+i jego zmiany temperatury nad woda i polami lodowymi powodują załamanie się światła i powodują tą przedziwną arktyczną fatamorganę.
 W dawnych wiekach złudzenie to myliło badaczy szukających przejścia północno-wschodniego i północno-zachodniego, my jednak 
 nie damy się zwieść i nie zawrócimy.
 
-Wygląda na to że damy radę dopłynąć do ostatniej wyspy - a w zasadzie większej skały - archipelagu Svalbardzkiego do Rossøya.
+Obraz może jest zniekształcony, wygląda jednak na to że damy radę dopłynąć do ostatniej i chyba najmniejszej wyspy archipelagu Svalbardzkiego - 
+do Rossøya.
 
 
 ## kra
 
+Żeglarze z reguły starają się omijać krę i góry lodowe. Kolizja z nawet stosunkowo małą górą lodową może zakończyć się tragicznie.
+Ewentualne zderzenie można porównać z uderzeniem w skałę.
+My jednak pojawienie sie pierwszej kry witamy jednak dość entuzjastycznie. W końcu widzimy lód morski, a nie lodowcowy. W końcu 
+widzimy kawałki lodu które zapewne jeszcze kilkanaście dni temu stanowiły integralna część Antarktydy - bieguna północnego.
+ 
+Pierwsze rzadko rozrzucone kawałki kry które wystarczyło ominąć lekkim zmiana kursu zaczynają gęstnieć. To co wpierw przypominało
+labirynt małych płaskich wysp i skał powoli zaczyna się przeradzać bardziej w grupę jezior połączonych rzekami i kanałami.
+Wiatr słabnie - nie martwi nas to zbytnio jednak bo i tak do tej pory był zawsze za słaby dla naszego ciężkiego stalowego jachtu,
+bądź
 
 
 ## 81°N

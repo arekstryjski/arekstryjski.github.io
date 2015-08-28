@@ -9,6 +9,25 @@ desc: Mapy, pogoda i linki dotyczące Grenlandia.
 <iframe src="https://embed.windyty.com/?surface,wind,now,67.709,-38.320,4,,menu,message," width="800" height="500" frameborder="0"></iframe>
         
         
+
+sytuacja lodowa
+---------------
+* duńskie [mapy lodowe](http://www.dmi.dk/en/groenland/hav/ice-charts/)      
+* norweskie [mapy lodowe](http://polarview.met.no/)
+* strona [duńskiego polarview](http://ocean.dmi.dk/polarview/)
+
+wiatry historia
+---------------
+* [mapa obserwatoriów](http://windhistory.com/map.html#5.00/65.931/-36.509)
+* [Nerlerit Inaat Airport/Ittoqqortoormiit](http://windhistory.com/station.html?BGCO)
+* [Kulusuk](http://windhistory.com/station.html?BGKK)
+
+linki
+---------
+* [Rząd Grenlandii](http://naalakkersuisut.gl/en)
+* [oficjalna strona dla turystów](http://www.greenland.com/en/)
+* [Nanu Travel w Ittoqqortoormiit](http://www.nanutravel.dk/)
+        
 wspomnienia / reportaże
 ------------------------
 * ***Addicted to Adventure*** *Between rocks and cold places*  

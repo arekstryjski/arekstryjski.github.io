@@ -19,6 +19,11 @@ sytuacja lodowa
 * norweskie **[mapy lodowe](http://polarview.met.no/)**
 * **[animacje](http://nsidc.org/cryosphere/sotc/sea_ice_animation.html)** sytuacji lodowej z lat poprzednich
 
+mapy
+----
+* [fizyczna](http://www.arcgis.com/home/webmap/viewer.html?webmap=ee27a893c7914598983a7fb3ed5244ac)
+* [satelitarna](http://www.arcgis.com/home/webmap/viewer.html?webmap=1fffeabdb30949f4aa10daa6cb355001)
+
 
 pilot books
 -----------
