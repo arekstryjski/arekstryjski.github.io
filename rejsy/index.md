@@ -8,7 +8,6 @@ img: /img/2013/setsail/sun_l.jpg
 date: 2015-02-24
 ---
 
-
 rejsy weekendowe
 -----------------
 
@@ -17,7 +16,6 @@ rejsy weekendowe
 W UK prowadzę weekendowe rejsy organizowane przez polonijny klub żeglarski [SetSail](http://setsail.org.uk).  
 Najbliższe terminy:  
 
-* Bank Holiday **28 sierpień - 1 wrzesień 2015** - *Wyspy Normandzkie/Dieppe* [zapisy i informacje](http://www.meetup.com/SetSail-Polish-Sailing-Club/events/223934841/)
 * weekend **9-11 październik 2015** - rejs stażowy ICC - *Solent* [zapisy i informacje](http://www.meetup.com/SetSail-Polish-Sailing-Club/events/223935940/)
 * weekend **6-8 listopad 2015** II rocznica SetSail - *Solent* [zapisy i informacje](http://www.meetup.com/SetSail-Polish-Sailing-Club/events/223935764/)
 * weekend **4-6 grudzień 2015** - Rejs hard-core *Wyspy Normandzkie* [zapisy i informacje](http://www.meetup.com/SetSail-Polish-Sailing-Club/events/223936889/)
@@ -40,7 +38,7 @@ Zobacz jak było na poprzednich rejsach: [Dookoła wyspy Wight - Solent zimą](/
 > W czasie naszej wyprawy chcielibyśmy odwiedzić wszystkie te miejsca. Co najmniej 1200 mil morskich żeglugi w większości po Oceanie Arktycznym 
 > to niepowtarzalna okazja dla ludzi szukających prawdziwej przygody i pragnących odkryć daleką północ. 
 
-**lipiec 2016**   
+**sierpień 2016**   
 *3 tygodnie*  
 *~1200 mil morskich*  
 

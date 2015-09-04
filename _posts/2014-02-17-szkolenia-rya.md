@@ -148,6 +148,16 @@ Commercial Endorsements jest uznawany zamiennie z zawodowym certyfikatem STCW wy
 nieco się od siebie różnią.
 
 
+International Certificate of Competence
+---------------------------------------
+ICC jest międzynarodowym certyfikatem wydawanym na podstawie posiadanego patentu, lub dodatkowego egzaminu. Wykracza on poza 
+standardowe ramy szkolenia zarówno w Polsce jak i w Wielkiej Brytanii.  
+Wszystkie osoby posiadające patent Day Skipper i będące rezydentami UK mogą się starać o wydanie ICC.  
+
+Osoby nie posiadające patentów mogą przystąpić do kilkugodzinnego egzaminu w szkole żeglarskiej RYA,
+lub w odpowiednim klubie żeglarskim.
+
+
 więcej informacji 
 -----------------
 
