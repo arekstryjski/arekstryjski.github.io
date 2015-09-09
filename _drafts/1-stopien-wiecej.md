@@ -223,14 +223,16 @@ ale trudno wypatrzeć jakikolwiek wolne od lodu przejście. Nie ma wyjścia, czt
 i odpychają od kadłuba lód. Płyniemy na silniku zaledwie 1.5 - 2 węzły, często zwalniając.
 
 
-## nowe plany 
+## zmiana planów 
 
-Opłynięcie Spitsbergenu - największej wyspy archipelagu Svalbard - jest w tym roku, a przynajmniej teraz w lipcu, niemożliwe.
-Było to naszym marzeniem i głównym celem wyprawy. Inaczej niż w poprzednich latach południowa część cieśniny Hinlopen oddzielająca 
+
+Opłynięcie Spitsbergenu - największej wyspy archipelagu Svalbard - było naszym marzeniem i głównym celem wyprawy.
+W tym roku, a przynajmniej teraz w lipcu, jest to jednak niemożliwe.   
+Inaczej niż w poprzednich latach południowa część cieśniny Hinlopen oddzielająca 
 Spitsbergen od Nordaustlandet (Ziemi Północno-Wschodniej) wciąż zablokowana jest zwartym lodem, który przyniosły tu z 
 północnego wschodu zimne prądy morskie.
 
-Z ostatnich map lodowych jakie widzieliśmy jeszcze w Ny-Ålesund - ostatnim miejscu gdzie dostępny był internet - wynikało, że 
+Z ostatnich map lodowych jakie widzieliśmy w Ny-Ålesund - ostatnim miejscu gdzie dostępny był internet - wynikało, że 
 powinno się udać dopłynąć do Nordkapp - przylądka nazwanego tak jak ten w kontynentalnej Norwegii i jednej z najdalej na północ 
 wysuniętej części Svalbardu.
 
@@ -306,6 +308,7 @@ nie chcemy uszkodzić.
 Nigdy nie płyniemy tez wprost do celu. Stale trzeba wypatrywać przejść które choć w przybliżeniu poprowadzą nas na północ.
 Kilka razy trzeba jednak zawracać ze ślepych zaułków i szukać innej drogi.
 
+
 ## 81°N
 
 Pole lodowe które wydawało się sięgać horyzontu w końcu jednak się kończy. Do ostatnich dwu wysp archipelagu Svalbardzkiego
@@ -317,16 +320,201 @@ przywiana tutaj z północy. Lód wystaje kilka metrów nad wodę, ale zapewne j
 Na północ od Vesle Tavleøya widać Rossøya. Ostatnia z wysp Svalbardu wydaje się jakby najmniej okazała. Na pewno brakuje jej
 szpiczastych szczytów Spitsbergenu. Jest raczej zaskakująco obła i niska. Wydaje się, że lód który przez tysiące, jesli nie miliony 
 lat zatrzymywał się na niej płynąć z północy oszlifował jej brzegi.
-Dalej na północ jest juz wyłącznie Ocean Arktyczny. Gdzieś daleko w linni prostej geograficzny biegun, a dalej Cieśnina Beringa...
+Dalej na północ jest już wyłącznie Ocean Arktyczny. Przed nami w lini prostej geograficzny biegun, a dalej Cieśnina Beringa...
+
+Płyniemy dalej, teraz już wprost na północ. Kolejne pole lodowe, potem znów odcinek wolny od lodu... Mile wleką się powoli. 
+Czas wydaje się stać w miejscu. Trzeba by w końcu iść spać, ale przecież nie tutaj, nie teraz.  
+W końcu ostateczne odliczanie. Wszyscy na pokładzie, kamery i aparaty fotograficzne naszykowane. Wpatrujemy się w ekran
+tabletu i wyświetlaną przez z niego pozycję z GPS. W końcu przekraczamy magiczną cyfrę - 81 stopni szerokości geograficznej północnej.
+
+Osiągnęliśmy swój cel. Wyłączamy silnik by uczcić tą chwilę, ale oczywiście wokół nas nic się nie zmieniło.     
+Jest północ więc słońce świeci wysoko na niebie. Woda i niebo wciąż błękitne. W oddali praktycznie w każdym kierunku widać 
+biel kry. Słaby północny wiatr. 
+81°N to tylko kreska na mapie, która zresztą już od dawna się nie wyświetla.  
+
+Jeśli jest jakaś zmiana to jedynie w nas samych. Radość, że dotarliśmy tak daleko jak mało kto na jachcie. 
 
 
+## bang
+
+Wracamy.   
+Znów silnik. Wiatr tym razem z dobrego kierunku - rufy - ale wciąż za słaby.  
+Znów pole lodowe. Oczywiście nie da się płynąć "po śladach". Kra choć powoli i niezauważalnie to ciągle dryfuje, ciągle
+zmienia swoją konfigurację. Trzeba manewrować i szukać nowego przejścia.
+
+Wracamy, ale z Tomkiem za sterem rozmawiamy, a co by było gdybyśmy płynęli dalej.  
+Jak daleko było do następnego pola lodowego? Czy dałoby się go przejść? Jak daleko był stały lód?
+
+Nagle głuche bang. Nie zbyt głośna, jakby coś wpadło do zenzy. Nic co mogłoby wzbudzić natychmiastowy alarm, ale
+wyraźnie słyszeliśmy coś niepokojącego. Przerywamy rozmowę.   
+Teraz najważniejsze jest pytanie co się stało kilka sekund temu, a nie co by było gdyby...   
+Czy to zwiastun czegoś większego? Czy początek problemów? 
+
+Może śruba w coś uderzyła?  
+Przy burcie i za nami nie ma jednak odłamków lodu. Na dziobie cały czas stoją dwie osoby i odgarniają mniejsze kawałki, 
+ale ostatnio droga jest wolna. Większe kawałki kry ostrożnie omijamy.
+
+Silnik pracuje wciąż miarowo, ale jacht zaczyna wyraźnie zwalniać.
+Cała naprzód - nic.  
+Cała wstecz - nic.  
+Kontrola sprzęgła przy manetce - wszystko w porządku, nic nie wydaje się zablokowane, ale jacht dalej nie reaguje.
+
+Nagle problem z silnikiem odchodzi na dalszy plan. Trzeba zdecydować gdzie płyniemy. Duża kra, która jeszcze przed chwilą 
+była daleko przed nami, coraz wolniej, ale jednak nieubłaganie się przybliża. Nie widać dużego otwartego przejścia ani, na 
+prawo, ani na lewo.   
+Jacht sam zwalnia, ale prędkość to wciąż ponad 2 węzły. Na tym kursie uderzymy...  
+
+Jesteśmy już kilka metrów od kry. Skręt. Koło i płetwa sterowa wychylone. Najpierw nic, w końcu z trudem łapiemy jakieś 
+resztki sterowności. Jacht skręca. Dobijamy burtą tak jak do kei.   
+Nie było jednak czasu wyjąć odbijacza i nie można wyhamować silnikiem. Na dziobie dwie osoby wystawiają tyczki, ale ręką 
+nie da się odepchnąć kilkuset ton lodu, ani 18 ton napierającej na niego stali.  
+Słychać nieprzyjemny odgłos tarcia burty o lód. Stoimy.
+
+Gdyby nie sytuacja która zmusiła nas do zatrzymania można by nawet pomyśleć o zejściu na krę. Lód ma przynajmniej metr
+grubości, może więcej.
+Nikt jednak o tym nie myśli. Schodzimy pod pokład, otwieramy gretingi nad silnikiem, zaglądamy do zenzy.  
+Na pierwszy rzut oka nie widać nic niepokojącego. Silnik na swoim miejscu, nadal miarowo pracuje. Wał napędowy biegnie do
+śruby napędowej, ale nie obraca się, dalej... stalowy walec łączący wał i silnik leży oparty na dnie zenzy, niecałe 10cm
+poniżej pozycji w której powinien być, ale silnik i wał wyraźnie nie są ze sobą połączone...
+
+Notujemy czas 04?? i pozycję 80°??'N 20°??E. Wciąż jesteśmy na północ od Rossøya choć teraz zdecydowanie bardziej na zachód.
+
+Przyglądamy się elementom. Wyraźnie widać 3 śruby łączące dwie metalowe tarcze. Te przy silniku na pewno da się wykręcić, te
+od strony wału złamane utkwiły wewnątrz metalu.
+Dalsze oględziny ujawniają przyczynę awarii. Jedna z czterech śrub mocujących silnik do kadłuba jest luźna. Wypadła poduszka. 
+Silnik przekrzywił się nieznacznie, ale naprężenie wystarczyło by złamać mocowanie z wałem napędowym.
+
+Jesteśmy powyżej archipelagu Svalbardzkiego w miejscu gdzie "nikt" nie pływa...  
+Nie mamy silnika...  
+Stoimy unieruchomieni w lodzie...
 
 
-## pan pan
+# najdalej na północ
+
+Dalsze oględziny strat. Głośne zastanawianie, czy da się z tym coś zrobić...  
+Wyjmujemy narzędzia. Przeglądamy części.  
+Od tej pory notujemy pozycję co 10 minut.  
+
+Trzeba poinformować innych o naszej sytuacji.  
+Dzwonimy do Marcina armatora jachtu. Najpierw nie odbiera - dla nich tam na lądzie jest środek nocy - ale za chwilę oddzwania.  
+Próbuje zrozumieć nasz problem, doradzić, ale niewiele więcej byłby w stanie zrobić nawet gdyby był tu na miejscu.
+
+Ponowne sprawdzenie pozycji. Wraz z lodem dryfujemy powoli dokładnie na zachód, do Grenlandii... To nie wróży dobrze. 
+Co prawda nie grozi nam zepchnięcie na mieliznę czy skały, ale przejścia między lodem raczej się nie poszerzą.  
+Z prędkością jednego węzła oddalamy się od Svalbardu. Jedynej oazy cywilizacji w tym rejonie.
+Trzeba poinformować odpowiednie służby o naszym położeniu. W tej chwili nic nam nie grozi, ale jeśli nie uda się nic zrobić 
+z silnikiem i jeśli nie wyrwiemy się z lodu na żaglach, to co dalej...
+
+Główne elementy łączenia zostają wykręcone. Na górze, w mesie, w lepszym świetle przyglądamy się co da się zrobić.  
+Gdyby tylko udało się wykręcić 3 końcówki śrub, które utkwiły w otworach, może da się to złożyć ponownie.  
+Jeśli uda się je nawiercić, damy radę je wyjąć!  
+
+Ponownie włączamy silnik by mieć ładowanie. Przetwornica jest już włączona, podpinamy pod nią wiertarkę. Włączamy...   
+Wiertło dość anemicznie zaczyna się kręcić, jednak po maksymalnie trzech obrotach staje.  
+Pisk alarmu na przetwornicy. Na sekundę prąd jest odłączony od wszystkich urządzeń na jachcie. Po chwili wszystko wraca  
+do normy, ale jest jasne, że nie uda się użyć jakichkolwiek narzędzi elektrycznych...
+
+Można jeszcze spróbować naciąć. Rafał znalazł już brzeszczot i czeka na naszą opinię, ale raczej już zdecydował.   
+Element jest gruby i kilkumilimetrowe nacięcia nie osłabią go. Zresztą tak jak teraz - ze śrubami wewnątrz - i tak 
+do niczego się nie przyda. Nie mamy nic do stracenia.
+Zaczynamy od śruby która najbardziej wystaje. Najpierw płytkie nacięcie. Śrubokręt nie chce zmieścić się w cienką szczelinę.
+W końcu wchodzi. Pół obrotu i wypada. 
+Nieważne metoda działa, śruba ruszyła! Jest nadzieja na naprawę.
+
+Żmudna, ciężka praca będzie trwać przez następne godziny. Tomek, Rafał i Wojtek powoli rozwiązują kolejne problemy.  
+Wykręcenie śrub nie idzie łatwo, ale potem trzeba to jeszcze złożyć. Na jachcie na szczęście są śruby o odpowiedniej średnicy,
+ale oczywiście długość jest inna, trzeba je dociąć. Elementy trzeba ponownie dopasować, a szybko okazuje się, że jest co najmniej  
+24 możliwych kombinacji. 
+Brakuje klucza którym można by dokręcić silnik do kadłuba. Rafał jedna ręką podnosi silnik do góry przy pomocy prowizorycznego 
+lewarka, drugą ręcznie dokręca śrubę. W zenzie nie ma miejsca dla dwu osób, a silnik jest obudowany.
+   
+   
+# na żaglach   
+
+Ze wszystkich miejsc w jakich można pływać na żaglach na Svalbardzie to jest najmniej odpowiednie.  
+
+Do tej pory wiatry nam nie sprzyjały. Wpływając do fiordu mieliśmy silny wiatr z dziobu. Wypływając ciszę.  
+Gdy wiatr nagle się pojawił wystarczyło postawić żagle i zwykle ucichł. Zwijamy żagle, włączamy silnik i po 15 minutach 
+wiatr znów jest. Tym razem z innego kierunku. Rozwijamy się... cisza.  
+Piękna słoneczna pogoda nie pomaga. Wiatry nawet jeśli stałe są wyjątkowo słabe, a takich ciężki stalowy JoinUs nie lubi.
+
+W lodzie natomiast "nikt" nie pływa na żaglach.   
+Wąskie przejścia, konieczność częstych zwrotów, hamowania, czy obrócenia jachtu o 180° w miejscu, gdy trzeba zawrócić 
+ze ślepego zaułka, zniechęcają nawet najbardziej ambitnych żeglarzy.  
+My jednak nie mamy wyjścia. Jest szansa na naprawę, ale teraz dryfujemy do Grenlandii.
+
+Rozwijamy genuę. Wiatr jest słaby, ale teraz to dobrze. Jacht rozwija prędkość jednego do półtorej węzła.  
+Mało, na granicy sterowności, ale jeśli nie znajdziemy drogi, nie wyrobimy się na zakręcie, to uderzenie nie będzie duże 
+i fatalne w konsekwencjach.
+Wszystko dzieje się powoli a sterowanie jachem zaczyna przypominać rozgrywkę szachową - trzeba myśleć na kilka ruchów na 
+przód. Przewidzieć po której stronie i pod jakim kątem będzie wiatr, za dwa zwroty. Czy jacht da wtedy jeszcze radę płynąć 
+na żaglach. Jeśli nie które alternatywne przejście wybrać. 
+Sterujemy po kolei, najpierw ja, potem Bernard. Z mozołem, ale jednak systematycznie przesuwamy się na południe.
+
+
+# cała naprzód
+
+W końcu chłopaki ogłaszają, że udało się skręcić!  
+Włączamy silnik. Powoli, ostrożnie dodajemy gazu. Jacht rusza!  
+Nieco więcej obrotów, przyśpiesza. Wszystko pracuje bez zarzutu. Nie ma żadnych niepokojących dźwięków, wibracji itp.
+Silnik działa jak nowy.
+ 
+Żeglarze po dopłynięciu do portu często wznoszą żartobliwy toast: "Za cudowne uratowanie!". 
+Teraz nie ma w nim jednak nawet nutki żartu, czy cynizmu.  
+
+Nie ma jednak nadmiernej euforii. Wszystko prawie natychmiast wraca do normy. Wracamy do systemu wacht. Większość załogi 
+natychmiast znika pod pokładem w kojach. 
+Zasypiają, ale zapewne we wszystkich drzemie jeszcze nuta niepewności. Na ile naprawa okazała się skuteczna. Ile wytrzyma.
+Minie jeszcze sporo godzin, nim zaczniemy ponownie ufać naszemu jachtowi.
+
 
 ## cisza
 
+Kolejne pole lodowe. Upłynęło tyle godzin, ale my w dalszym ciągu jesteśmy niewiele poniżej Rossøya. Przy Vesle Tavleøya
+nie widać jednak ściany lodu. Mamy go wokół siebie.  
+Tak jak wcześniej kre można było porównywać z wyspami, skałami czy systemem rzek i jezior, tak teraz mamy przed sobą coś
+co można porównać jedynie do lodowego grzęzawiska. Przejścia są coraz węższe, coraz bardziej kręte i zagmatwane, coraz 
+częściej trzeba używać tyczek by odepchnąć kawałki lodu od kadłuba.
+ 
+Słaby dotychczas wiatr ucicha. Równo i gęsto rozsiany lód ochłodził zapewne powietrze nad wodą i zaczyna wytwarzać swój 
+własny mikroklimat. Ściąga cieplejsze powietrze z góry w dół, wytwarza lokalny mini wyż arktyczny, który niweluje wszelkie 
+wiatry.
+
+Cisza ma w sobie coś potwornego znanego jedynie z opowieści o starych żaglowcach unieruchomionych na dni, czy tygodnie 
+w totalnej ciszy występującej czasami na oceanie.  
+Mocno świeci słońce i jest dobra widoczność, ale bezruch powietrza przypomina ten jaki można również doświadczyć we mgle.  
+Lód wydaje się zaciskać wokół nas. Teraz może mamy silnik i możemy płynąć, ale coraz mniej widać drogę którą moglibyśmy 
+podążać.
+
+Cisza, słońce, ciepło i bezruch powietrza wywołują poczucie spokoju. Wszystkie emocje ostatnich 24 godzin odpływają.  
+W końcu przychodzi jednak również zmęczenie i senność. Ile to już godzin bez snu: 18? 24? 36...   
+Nieważne, byle tylko nie zasnąć do następnego zwrotu za 10 metrów, potem jeszcze dwa zakręty i otwarty kawałek wody. Może  
+nawet całe 100 metrów...
+
+Kiedyś mój instruktor przestrzegając nas przed niebezpieczeństwem żeglowania w stanie chronicznego braku snu opowiadał 
+historię z własnego życia.  
+Po wielu godzinach samotnego sterowania zobaczył przed sobą górę lodową, będąc latem na południowym wybrzeżu anglii. Odczyt 
+z radaru i głębokie przeświadczenie, że to niemożliwe w niczym nie pomagały.  
+Teraz lód był jednak realny. Piotrek stojący na dziobie wskazuje przejście w które powinniśmy się zmieścić, więc on także 
+je widzi.  
+Czy tam 500 metrów na lewo rzeczywiście jest tyle otwartej wody? Czy tam są fale, więc jest wiatr, więc to kraniec 
+pola lodowego...  
+
+
 ## koniec świata
+
+Wyspy Sjuøyane juz daleko za nami. Wpływamy w cieśninę Hinlopen. Nie będziemy próbowali jej przepłynąć wciąż jest zamknięta,
+ale chcemy odwiedzić przynajmniej jedno miejsce na Nordaustlandet. Potrzebujemy też przerwy od żeglugi non-stop.
+
+Krajobraz jest znów inny niż dotychczas. Ani na lewo na Ziemi Północno-Wschodniej, ani na prawo na Spitsbergenie nie widać
+wysokich szpiczastych szczytów. Nagie stoki niskich góry widoczne są tylko przy brzegu. Dalej i nad nimi widoczne są ogromne
+połacie czap lodowych i spływające do morza lodowce.
+Jednak prawie całkowity brak lodu w wodzie powoduje wrażenie, że wróciliśmy z północy do jakiś południowych wysp. Tu czeka 
+na nas bezpieczna zatoka i odpoczynek.
+  
+  
+
+
 
 ## źródła
 
@@ -344,8 +532,8 @@ Teraz znamy już miejsca i przynajmniej część z występujących tam postaci o
 
 ## najdalej na północ
 
-W czasie tych przeszło dwu tygodni - czy raczej jednego dnia, który trwał nieprzerwanie ponad 400 godzin - zobaczyliśmy 
-i dokonaliśmy rzeczy które obiektywnie były najdalej na północ i które sa udziałem wielu turystów:
+W czasie tych przeszło dwu tygodni - czy raczej jednego dnia, który trwał nieprzerwanie przez ponad 400 godzin - zobaczyliśmy 
+i dokonaliśmy rzeczy, które obiektywnie były najdalej na północ i które są udziałem wielu turystów:
 * widzieliśmy najdalej na północ zbudowany basen;  
 * widzieliśmy najdalej na północ wysunięte bazy wielorybników i kopalnie węgla;  
 * wypiliśmy piwo z najdalej na północ wysuniętych browarów i to w dniu ich otwarcia.
@@ -385,7 +573,7 @@ W rejsie udział wzięli *(patrząc od lewej)*:
 * *Arek* - skipper
 * *Michał* - syn skippera
 * *Tomek* - co-skipper
-* *Wojtek* - drugi co-skipper
+* *Wojtek* - co-skipper
 * *Mariola* - muza Wojtka
 * *Rafał* - brat, kolega i ponownie tatuś
 * *Zwierzak* - co sztormu się nie boi
