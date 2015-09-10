@@ -225,7 +225,6 @@ i odpychają od kadłuba lód. Płyniemy na silniku zaledwie 1.5 - 2 węzły, cz
 
 ## zmiana planów 
 
-
 Opłynięcie Spitsbergenu - największej wyspy archipelagu Svalbard - było naszym marzeniem i głównym celem wyprawy.
 W tym roku, a przynajmniej teraz w lipcu, jest to jednak niemożliwe.   
 Inaczej niż w poprzednich latach południowa część cieśniny Hinlopen oddzielająca 
@@ -318,14 +317,15 @@ czoło lodowca. Przy brzegu wyspy osiadła na mieliźnie wielka kilkusetmetrowa 
 przywiana tutaj z północy. Lód wystaje kilka metrów nad wodę, ale zapewne jeszcze większa warstwa ukryta jest pod wodą.
 
 Na północ od Vesle Tavleøya widać Rossøya. Ostatnia z wysp Svalbardu wydaje się jakby najmniej okazała. Na pewno brakuje jej
-szpiczastych szczytów Spitsbergenu. Jest raczej zaskakująco obła i niska. Wydaje się, że lód który przez tysiące, jesli nie miliony 
-lat zatrzymywał się na niej płynąć z północy oszlifował jej brzegi.
+szpiczastych szczytów Spitsbergenu. Jest raczej zaskakująco obła i niska. Wydaje się, że lód który przez tysiące, jeśli nie  
+miliony lat zatrzymywał się na niej płynąć z północy oszlifował jej brzegi.
 Dalej na północ jest już wyłącznie Ocean Arktyczny. Przed nami w lini prostej geograficzny biegun, a dalej Cieśnina Beringa...
 
 Płyniemy dalej, teraz już wprost na północ. Kolejne pole lodowe, potem znów odcinek wolny od lodu... Mile wleką się powoli. 
 Czas wydaje się stać w miejscu. Trzeba by w końcu iść spać, ale przecież nie tutaj, nie teraz.  
 W końcu ostateczne odliczanie. Wszyscy na pokładzie, kamery i aparaty fotograficzne naszykowane. Wpatrujemy się w ekran
-tabletu i wyświetlaną przez z niego pozycję z GPS. W końcu przekraczamy magiczną cyfrę - 81 stopni szerokości geograficznej północnej.
+tabletu i wyświetlaną przez z niego pozycję z GPS. W końcu przekraczamy magiczną cyfrę - 81 stopni szerokości geograficznej 
+północnej.
 
 Osiągnęliśmy swój cel. Wyłączamy silnik by uczcić tą chwilę, ale oczywiście wokół nas nic się nie zmieniło.     
 Jest północ więc słońce świeci wysoko na niebie. Woda i niebo wciąż błękitne. W oddali praktycznie w każdym kierunku widać 
@@ -503,7 +503,7 @@ pola lodowego...
 
 ## koniec świata
 
-Wyspy Sjuøyane juz daleko za nami. Wpływamy w cieśninę Hinlopen. Nie będziemy próbowali jej przepłynąć wciąż jest zamknięta,
+Wyspy Sjuøyane już daleko za nami. Wpływamy w cieśninę Hinlopen. Nie będziemy próbowali jej przepłynąć wciąż jest zamknięta,
 ale chcemy odwiedzić przynajmniej jedno miejsce na Nordaustlandet. Potrzebujemy też przerwy od żeglugi non-stop.
 
 Krajobraz jest znów inny niż dotychczas. Ani na lewo na Ziemi Północno-Wschodniej, ani na prawo na Spitsbergenie nie widać
@@ -512,13 +512,60 @@ połacie czap lodowych i spływające do morza lodowce.
 Jednak prawie całkowity brak lodu w wodzie powoduje wrażenie, że wróciliśmy z północy do jakiś południowych wysp. Tu czeka 
 na nas bezpieczna zatoka i odpoczynek.
   
-  
+Kinnvika w to stara opuszczona Szwecko-Fińsko-Swajcarska stacja arktyczna. Założona w 1957 roku jedynie przez pierwsze 3 lata
+była zamieszkana non stop. Później w latach 60-tych i 80-tych służyła za letnią bazę. Ponownie naukowcy wracali tu w latach
+2005-2009. Dziś stacja jest całkowicie opuszczona, ale wszystkie budynki są w dobrym stanie i widać że są należycie  
+zabezpieczone przed działaniem surowego klimatu. 
 
+Chodząc po opuszczonych budynkach stacji - z których wszystkie prócz jednego są dostępne - ma się dziwne uczucie jakbyśmy
+przenieśli się w czasie. Budowniczowie stacji już dawno ją opuścili, może nawet już nie żyją, ale wydaje się, że byli tu
+dosłownie przed  chwilą. Na szkolnej tablicy w głównej sali bazy wciąż widać napis pożegnalny załogi stacji z 1966 roku.  
+Jednocześnie mamy poczucie że trafiliśmy do na kraniec świata. Ludzie tu kiedyś mieszkali, ale surowy klimat i trudności
+komunikacyjne sprawiły, że musieli się wycofać w bardziej południowe rejony. W tym momencie jesteśmy prawdopodobnie jedynymi 
+ludźmi na wyspie o wielkości Północnej Irlandii. 
+
+Siedząc w słońcu na schodkach do głównego budynku chciałoby się pozostać tu na dłużej. Rozpalić ogień w saunie. Usiąść 
+w głównej sali do posiłku.  
+Świat i czas najwyraźniej się tu zatrzymał. Chciałoby się pozostać tu na zawsze, z dala od zgiełku i tępa codziennego 
+życia. Przesiąknąć mocną ciszą i spokojem tego miejsca. Zaszyć sie tu niczym w pustelni.
 
 
 ## źródła
 
-## wieloryby
+Czas jednak płynie dalej i my musimy płynąć w kolejne miejsca.  
+Po kolejnych wachtach i kolejnych godzinach znów niestety bezwietrznej żeglugi docieramy do Bockfjorden, odnogi większego 
+Woodfjorden. Tu mamy znaleźć jedyne na Spitsbergenie gorące źródła. Czas budzić wszystkich i przygotować się na eksplorację
+lądu.
+
+Płyniemy razem, ale każda wachta wydaje się żyć własnym rytmem. Nie ma dnia i nocy więc spać trzeba, w czasie wolnym 
+od obowiązków i gdy akurat nie ma niczego ciekawego do zobaczenia.  
+Od kilku dni nie zebraliśmy sie na żaden wspólny posiłek poza obiadem. Teraz jest okazja, bo i tak trzeba zadecydować kto
+pierwszy rusza na "podboje" lądu. Zarządzamy śniadanio-kolację.  
+Jedni przygotowują jedzenie, inni spuszczają na wodę ponton, uzupełniają paliwo w zbiorniku silnika zaburtowego, pakują 
+plecaki. Największym entuzjazmem wydaje się tryskać Wojtek, przynajmniej do momentu, gdy mariola w końcu zdołała mu 
+wytłumaczyć, że jest formalnie 4 rano i wstali po zaledwie dwu godzinach snu.
+
+Nie ważne która godzina. Słońce świeci wysoko, a my mamy przed sobą długa drogę. 
+Niestety nie mamy mapy topograficznej, ale z przewodnika i mapy morskiej wygląda że mamy do pokonania 10 km idąc cały czas
+kamienistym brzegiem. Oczywiście jak wszędzie na Spitsbergenie nie ma tu jakichkolwiek oznaczonych, czy nie ścieżek. Na 
+wszelki wypadek bierzemy ze sobą ręczny GPS ze wpisanymi do niego współrzędnymi.
+
+Droga jest rzeczywiście długa kamienista i uciążliwa. Wg GPS jesteśmy zaledwie 500 metrów od celu.  
+Niestety jest on na przeciwległym brzegu wypływającej z lodowca rzeki. Nie jest ona bardzo duża, może zaledwie 4-5 metrów,
+ale zdecydowanie za daleko by próbować przeskoczyć jak na wcześniejszych wyprawach. Głębokość nieco powyżej metra.  
+Na obu brzegach zalega jednak jeszcze sporo śniegu. Raczej nie ma co liczyć, że źródła jakośs specjalnie ogrzały wodę w 
+rzece.  
+Na Islandii przekonaliśmy się, że czasami lepiej nie próbować forsować tego typu rwących górskich strumieni, nawet 
+samochodem terenowym. Tu nie mamy nawet tego. Niestety trzeba zarządzić odwrót.
+
+Druga grupa nauczona naszym niepowodzeniem rusza pontonem i kajakiem na drugi brzeg. Część postanawia przejść lądem, 
+cześć płynie jak najdalej się da w górę fiordu.  
+Niestety im również nie udaje się odnaleźć źródeł. Padają baterie w jednej UKF-ce i nie mogą początkowo się porozumieć 
+i odnaleźć. Później gdy się spotykają, jest już mało paliwa w pontonie. Wzmaga sie wiatr i w fiordzie pojawia się fala.
+Do źródeł jest wciąż daleko, a sił i czasu coraz mniej. Wracają.
+
+
+## wielorybnicy
 
 ## stacja
 
