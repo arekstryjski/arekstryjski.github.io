@@ -327,12 +327,12 @@ W końcu ostateczne odliczanie. Wszyscy na pokładzie, kamery i aparaty fotograf
 tabletu i wyświetlaną przez z niego pozycję z GPS. W końcu przekraczamy magiczną cyfrę - 81 stopni szerokości geograficznej 
 północnej.
 
-Osiągnęliśmy swój cel. Wyłączamy silnik by uczcić tą chwilę, ale oczywiście wokół nas nic się nie zmieniło.     
-Jest północ więc słońce świeci wysoko na niebie. Woda i niebo wciąż błękitne. W oddali praktycznie w każdym kierunku widać 
-biel kry. Słaby północny wiatr. 
-81°N to tylko kreska na mapie, która zresztą już od dawna się nie wyświetla.  
+Osiągnęliśmy swój cel. Zgodnie z ustaleniami Traktatu Spitsbergeńskiego, jesteśmy poza wodami archipelagu Svalbard. Wyłączamy 
+silnik by uczcić tą chwilę, ale oczywiście wokół nas nic się nie zmieniło.     
+Jest północ, więc słońce świeci wysoko na niebie. Woda i niebo wciąż błękitne. W oddali praktycznie w każdym kierunku widać 
+biel kry. Wieje słaby północny wiatr. 
 
-Jeśli jest jakaś zmiana to jedynie w nas samych. Radość, że dotarliśmy tak daleko jak mało kto na jachcie. 
+81°N to tylko kreska na mapie. Jeśli coś przekroczyliśmy, czy gdzieś dotarliśmy to jest to miejsce w nas samych.  
 
 
 ## bang
@@ -471,7 +471,7 @@ Minie jeszcze sporo godzin, nim zaczniemy ponownie ufać naszemu jachtowi.
 ## cisza
 
 Kolejne pole lodowe. Upłynęło tyle godzin, ale my w dalszym ciągu jesteśmy niewiele poniżej Rossøya. Przy Vesle Tavleøya
-nie widać jednak ściany lodu. Mamy go wokół siebie.  
+nie widać jednak ściany lodu. Mamy go wokół siebie, rozrzucony.  
 Tak jak wcześniej kre można było porównywać z wyspami, skałami czy systemem rzek i jezior, tak teraz mamy przed sobą coś
 co można porównać jedynie do lodowego grzęzawiska. Przejścia są coraz węższe, coraz bardziej kręte i zagmatwane, coraz 
 częściej trzeba używać tyczek by odepchnąć kawałki lodu od kadłuba.
@@ -567,9 +567,93 @@ Do źródeł jest wciąż daleko, a sił i czasu coraz mniej. Wracają.
 
 ## wielorybnicy
 
+Trudno w to uwierzyć, ale w przeszłości na północy Svalbardu było więcej ludzi niż teraz. Płyniemy do jednej z 
+największych osad z XVII wieku, Smeerenburg na wyspie Amsterdamøya, na północno-zachodnim krańcu archipelagu.  
+
+Legenda mówi, że istniało tutaj prawdziwe miasto z kościołem, karczmami i domami "rozrywki" dla wielorybników. Podobno w
+sezonie wyspę mogło odwiedzać nawet 10 tysięcy żeglarzy. Najnowsze wykopaliska nie do końca to potwierdzają.
+W latach świetności - w latach 1630-40 - w tej Holendersko-Duńskiej bazie wielorybników latem mieszkało i pracowało do 
+200 osób. Dwa razy tyle pracowało prawdopodobnie na około 15 statkach łowiących na okolicznych wodach. Na wyspie 
+odnaleziono pozostałości 17 budynków w tym małego drewnianego fortu.
+
+Do dziś niewiele z tego pozostało. Widoczne są jedynie czarne pozostałości pieców gdzie kiedyś wytapiano tłuszcz 
+wielorybów i groby tych żeglarzy którzy nie zdołali wytrzymać trudów ciężkiej pracy w arktyce.  
+
+Osada zniknęła tak szybko jak się pojawiła. W 1660 roku nikt już tu nie mieszkał.  
+Stada okolicznych wielorybów zostały szybko wytrzebione. Łowić trzeba było coraz dalej od lądu i przestało się opłacać 
+ściąganie ciał wielorybów "do obróbki" na wyspę.  
+Polowania trwały jednak nadal przez cały XVIII i XIX wiek, a nawet w XX stuleciu. Dziś te majestatyczne zwierzęta są już 
+rzadkością. Wraz z nimi zniknął prawdopodobnie cały bogaty ekosystem morski tych wód.
+
+Łatwo oceniać naszych przodków i potępiać ich za spustoszenie jakiego dokonali w tutejszej przyrodzie. Z drugiej strony,
+czy tak bardzo różnią się od pracujących tu wciąż górników. Może bardziej zresztą przypominają pracowników platform
+wiertniczych, które już wkrótce w arktyce mogą się pojawić.  
+Tak jak wtedy, tak i teraz, liczy się często chęć szybkiego zysku i zapotrzebowanie na olej. Kogo jednak potępiać 
+producentów, czy użytkowników.
+
+Zresztą i my nie jesteśmy całkiem bez winy. Płynąc na jachcie wypatrujemy tych ogromnych majestatycznych ssaków w
+wodzie. Jednak w porcie szukamy ich także w menu lokalnych restauracji...  
+Przysłowie mówi *Gdy jesteś w Rzymie, czyń jak rzymianie*. Czy jednak rzeczywiście stek z wieloryba powinien być "atrakcją
+turystyczną". Czy Norwegowie i Duńczycy powinni być traktowani jak rdzenna ludność dalekiej północy i powinny im 
+przysługiwać jakieś inne prawa i przywileje. Kiedy polowania są częścią lokalnej kultury, a kiedy nie. Czy aby na pewno  
+wszystkie elementy przeszłości powinny być kultywowane.
+ 
+Odpowiedzi wydają się jednoznaczne w domu, w Europie. Tam, na dalekiej północy, nie są jednak tak wyraźne.
+
+
 ## stacja
 
+Ponownie przechodzimy przesmyk pomiędzy Spitsbergenem, a Ziemią Księcia Karola. Tym razem płyniemy w kierunku brzegu 
+Spitsbergenu.  
+Kaffioyra - Stacja Polarna Uniwersytetu Mikołaja Kopernika jest najdalej na północ wysuniętą polską stacją badawczą. W
+tym roku stacja obchodzi 40 lecie swojego założenia, jednak patrząc na naszych gospodarzy nie można by sie tego domyśleć. 
+Średnia wieku obecnej załogi stacji na pewno jest poniżej 30 lat. Mimo młodego wieku są to jednak osoby doświadczone. Z
+szóstki którą spotkaliśmy i która spędza na stacji całe wakacje połowa była już na Spitsbergenie wielokrotnie.
+    
+Rozmawiamy o badaniach i otaczających nas lodowcach, ale także o wydarzeniach na świecie. Nam wydaje się, że jesteśmy od
+dawna odcięci od cywilizacji. Tutaj wiadomości sprzed dziesięciu dni są jednak wciąż nowe. Stację oddzielają od reszty 
+wyspy dwa lodowce i potężna czapa lodowa. Zimą można ją pokonać na skuterze śnieżnym, teraz jest ona jednak zbyt spękana.
+Jedyną komunikację ze światem mieszkańcy utrzymują poprzez przepływające jachty i helikopter, który ma tu przylecieć 
+dopiero za tydzień.   
+Oczywiście jest telefon satelitarny, ale raczej jedynie do krótkich rozmów służbowych. W co najtrudniej uwierzyć naszemu 
+13 letniemu członkowi załogi - nie ma internetu.
+
+Zaskakujące jak szybko dwie grupy obcych i tak różnych sobie osób znajdują wspólny język. Po kilku godzinach wydaje się,
+że znamy się od dawna. Kolejne miejsce, gdzie chciałoby się pozostać dłużej. 
+
+
 ## Rosja
+
+W naszym rejsie zatoczyliśmy jednak pewnego rodzaju koło. Wypływając zaczęliśmy od opuszczonego rosyjskiego miasta 
+górniczego. Wracając odwiedzamy jeszcze wciąż wciąż zamieszkałe - Barentsburg.
+Port nie robi najlepszego wrażenia. Pomost może jeszcze nie tak zniszczony jak w Pyramiden, ale ani wielkie opony, ani tzw.
+przystań dla jachtów nie wydają się zapraszać. Po zacumowaniu widać stare, drewniane i zniszczone budynki portowe. Dopiero 
+po wdrapaniu nię na górę wysokiego nabrzeża widać właściwe miasto.
+
+Całość sprawia dziwne wrażenie. Bloki są zamieszkałe i odnowione, ale przed jednym z nich wciąż wielki napis-pomnik *Nasz
+cel - komunizm*. Jednak nie dalej niż 500 metrów od pomnika Lenina - cerkiew. Daleko widoczny jest budynek nowego 
+konsulatu Rosji. Przed nim w pełni odnowiony drewniany budynek który mógłby służyć za letnią siedzibę carów. Patrząc w 
+druga stronę obok całkowicie zawalonego budynku stoi inny właśnie remontowany. 
+Na szkole freski namalowane tu w czasach świetności miasta sa już nieco wyblakłe. Lata świetności ma już też kompleks 
+sportowy z basenem, choć wciąż jest on imponujący zważywszy liczbę mieszkańców nawet w latach świetności. Dalej nowy 
+budynek biurowy kompanii węglowej, odnowiony hotel, ale dalej budynki kopalni w które trochę strach się zapuszczać.  
+Jedyne samochody to kamaz i chyba 30 letni autobus, oraz kilka nowych samochodów terenowych bez rejestracji.
+
+Idziemy do baru spróbować 3 rodzai lokalnego piwa. Potem do budynku który jest chyba lokalnym domem kultury, bibliotekom 
+i muzeum.
+Muzeum sprawia wrażenie opuszczonego, ale zaraz pojawia się młoda dziewczyna i pyta czy chcemy zobaczyć. Włącza światło 
+i zostawia nas samych. Możemy nie tylko dotknąć wypchanych zwierząt i kości wielorybów, ale także wziąć do ręki 
+autentyczny harpun wielorybnika. 
+Dużo eksponatów poświęconych jest pierwszym eksploracją Svalbardu przez Pomorców - ludności pochodzącej z Nowgorodu Wielkiego
+i osiadłą nad brzegami Morza Białego, która już w średniowieczu wykształciła pewna odmienność kulturową od rosjan. Do 
+dziś rosjanie uważają, że to właśnie Pomorcy byli pierwszymi odkrywcami dalekiej północy w tym także Svalbardu. Jak na 
+ironię ostatnie zamieszkane przez Rosjan miasto na wyspie nosi jednak nazwę holenderskiego odkrywcy archipelagu.   
+Dziś mieszka tu już tylko 500 osób. O dziwo są to nie tylko Rosjanie, ale także Ukraińcy. Czyżby dawny duch bratnich 
+narodów jakoś tu przetrwał.
+
+Osobiście odczuliśmy jakąś pro-słowiańską sympatię mieszkańców. Wielu nie chciało za wiele rozmawiać z turystami z jachtu 
+
+
 
 ## miejscowi
 
