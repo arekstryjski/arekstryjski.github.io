@@ -9,15 +9,17 @@ desc: Rejs na Svalbardzie, lipiec-sierpień 2015.
 ## białe, czarne, szare, niebieskie... i kolorowe
 
 Wszyscy wiedzą, że Spitsbergen to *[Białe](https://czarne.com.pl/katalog/ksiazki/biale)*.  
-Jednak latem i to na rejsie jachtem kolorów jest przynajmniej kilka.
 
 *Biały* jest śnieg lodowca.  
 *Biała* jest kra sięgająca po horyzont.  
-*Białe* są owoce wełnianki, lub jak mówią anglicy bawełnianej trawy (cotton-grass).   
+*Białe* są owoce wełnianki, czyli cotton-grass (bawełnianej trawy).   
 *Biały* jest marmur który kiedyś próbowano wydobywać w rejonie Ny-Ålesund.  
 *Biały* jest miś którego nie spotkaliśmy...  
 
-*Czarny* jest węgiel wydobywany w Longyearbyen i Barentsburgu i ten po prostu leżący na stokach górskich niczym polne kamienie.  
+Jest jednak przynajmniej jeszcze kilka kolorów.
+
+*Czarny* jest węgiel wydobywany w Longyearbyen i Barentsburgu oraz ten po prostu leżący na stokach górskich niczym 
+polne kamienie.  
 *Czarne* są pozostałości pieców wielorybników.  
 *Czarna* jest ciemność opuszczonej kopalni.  
  
@@ -29,15 +31,15 @@ Jednak latem i to na rejsie jachtem kolorów jest przynajmniej kilka.
 *Szare* są runy Pyramiden.   
 *Szary* jest port Barentsburga.  
 
-*Niebieskie* jest morze tętniące życiem i będące dokładnym przeciwstawieniem martwego, pustynnego lądu.  
-*Niebieskie* jest niebo w czasie trwającego nieustanie dnia arktycznego.  
+*Niebieskie* jest tętniące życiem morze.  
+*Niebieskie* jest niebo nieustanie dnia arktycznego.  
 *Niebieskie* są nasączone topniejącą wodą i sprasowane dolne partie lodowca.  
 
 *Kolorowe* są kwiatki wyrastające spomiędzy skał.   
 *Kolorowe* są skandynawskie domy w Longyearbyen.  
 *Kolorowe* są bloki w Barentsburgu.  
 
-Ale *Kolorowi* są przede wszystkim ludzie, którzy przyjeżdżają tu na kilka dni i często pozostają na kilka lat arktycznych - i 
+*Kolorowi* są przede wszystkim ludzie, którzy przyjeżdżają tu na kilka dni i często pozostają na kilka lat arktycznych - i 
 bynajmniej nie chodzi tu o kolor ich skóry.
 
 
@@ -45,111 +47,119 @@ bynajmniej nie chodzi tu o kolor ich skóry.
 
 Po całym dniu podróży lądujemy w Longyearbyen. Wysiadamy z samolotu wprost na płytę lotniska. Podchodzimy do budynku, 
 ale drzwi są jeszcze zamknięte. 
-Najwyraźniej obsługa daje nam jeszcze czas by spokojnie obejść samolot dookoła, porobić sobie pierwsze fotki, 
-trochę ochłonąć po podróży. My jednak chcemy czym prędzej pokazać nasze paszporty i ruszyć dalej 
-by zobaczyć coś więcej.  
+Najwyraźniej obsługa daje nam czas by spokojnie obejść samolot dookoła, porobić sobie pierwsze fotki, trochę ochłonąć
+po podróży. My jednak chcemy czym prędzej pokazać nasze paszporty i ruszyć dalej. Chcemy czym prędzej zobaczyć arktykę.  
+Wkrótce przekonamy się, że pośpiech to cecha, którą wykazują tu jedynie turyści.
 
-Kontroli paszportowej jednak nie będzie. Svalbard to formalnie terytorium Norwegii, ale także archipelag leżący 
-poza tradycyjnym podziałem politycznym świata. Dla krajów z grupy Schengen jesteśmy już poza Europą. Przyjechać tu może każdy, 
-bez jakiejkolwiek wizy więc nie ma sensu cokolwiek kontrolować.  
-Wkrótce przekonamy się też, że pośpiech to cecha, którą wykazują tu jedynie turyści.
+Kontroli paszportowej nie ma. Svalbard to formalnie terytorium Norwegii, ale także archipelag leżący poza tradycyjnym
+podziałem politycznym świata. Dla krajów z grupy Schengen jesteśmy już poza Europą. Bez wizy może przyjechać tu każdy,
+więc nie ma sensu czegokolwiek kontrolować.  
 
 W końcu wchodzimy do głównej hali lotniska. Zaraz za nami zaczynają wjeżdżać nasze bagaże.  
-Ulga - w Oslo, w trakcie przesiadki, wcale nie byliśmy pewni, czy nadal z nami lecą - tu jednak są wszystkie.
+Ulga - w Oslo, w trakcie przesiadki, wcale nie byliśmy pewni, czy nadal z nami lecą. 
 
 
 ## kemping
 
-Przed wejściem na lotnisku widnieje drogowskaz pokazujący jak daleko jesteśmy od największych miast świata. Nie widać za to 
-nigdzie drogowskazu na kemping.  
+Przed wejściem na lotnisku widnieje drogowskaz pokazujący odległość od największych miast świata. Za to nigdzie nie widać
+drogowskazu na kemping. Powinien być gdzieś niedaleko.  
 Pytamy taksówkarza. Ten ze zdziwieniem pokazuje nam skarpę i morze. Podchodzimy do brzegu parkingu i rzeczywiście jakieś 
-20 metrów niżej przy brzegu rozciąga się małe pole namiotowe.
+20 metrów w dół i 500 metrów dalej, przy brzegu rozciąga się małe pole namiotowe.
  
 Pomysł by pierwszą noc w arktyce spędzić w namiocie wydaje się szalony. No, ale pomysł by spędzić wakacje w arktyce sam 
 w sobie jest już szalony. Zresztą nie ma tu za wiele hoteli, ceny są wygórowane, a wolnych miejsc nie ma już od dawna.  
-Dla większości z nas będzie to pierwsze biwakowanie od lat. W nocy będzie nieco twardo, ale w odpowiednim śpiworze wręcz zadziwiająco ciepło.
+Dla większości z nas będzie to pierwsze biwakowanie od lat. W nocy będzie nieco twardo, ale w odpowiednim śpiworze wręcz 
+zadziwiająco ciepło.
 
-Przed snem siadamy w świetlicy kempingu. Czas coś jeszcze zjeść. Uczcić dotarcie na północ pierwszym toastem.  
-Nie będziemy jednak czekać do rana, czy nawet do zmierzchu. Po innych wyprawach za kołem podbiegunowym wiemy, że te przyjdą tu
-dopiero za kilka miesięcy.
+Za nim pójdziemy spać siadamy w świetlicy kempingu. Czas coś jeszcze zjeść. Uczcić dotarcie na północ pierwszym toastem.  
+Nie będziemy jednak czekać do rana, czy nawet do zmierzchu. Po innych wyprawach za kołem podbiegunowym wiemy, że te 
+przyjdą tu dopiero za kilka miesięcy.
 
 
 ## nowi
 
-Rano - tzn. tak mówi zegarek i wewnętrzny rytm dnia i nocy którego jeszcze nie straciliśmy - szybko ruszamy do miasta by wszystko załatwić. 
-Trzeba odebrać pozwolenie na żeglugę z biura gubernatora, zrobić pierwsze zakupy, wypożyczyć broń.  
-Idziemy szybko, a jednak dotarcie gdziekolwiek zajmuje mnóstwo czasu. Co chwila trzeba się zatrzymać, przyjrzeć egzotycznemu krajobrazowi, 
-zrobić zdjęcie. 
+Rano - tzn. tak mówi zegarek i wewnętrzny rytm dnia i nocy którego jeszcze nie straciliśmy - szybko ruszamy do miasta by 
+wszystko załatwić. Trzeba odebrać pozwolenie na żeglugę z biura gubernatora, zrobić pierwsze zakupy, wypożyczyć broń.  
+Idziemy szybko, a jednak dotarcie gdziekolwiek zajmuje mnóstwo czasu. Co chwila trzeba się zatrzymać, przyjrzeć 
+egzotycznemu krajobrazowi, zrobić zdjęcie. 
  
-Nie jest aż tak zimno jak się spodziewaliśmy jednak na wszelki wypadek chodzimy opatuleni w zimowe kurtki, czapki i rękawiczki.
-W sklepie kupujemy nie tylko kartki pocztowe i pamiątki, ale także swetry i wełnianą odzież termiczną. W decyzji by wydać 
-nieco ponad planowany budżet, pomagają przede wszystkim niskie ceny - nie ma tu podatku VAT - a nie klimat.
+Nie jest aż tak zimno jak się spodziewaliśmy, jednak na wszelki wypadek chodzimy opatuleni w zimowe kurtki, czapki i 
+rękawiczki. W sklepie kupujemy nie tylko kartki pocztowe i pamiątki, ale także swetry i wełnianą odzież termiczną. W  
+decyzji by wydać nieco ponad planowany budżet, pomagają przede wszystkim niskie ceny - nie ma tu podatku VAT - a nie 
+klimat.
 
 
 ## broń
 
-Z pewnym niedowierzaniem wychodzimy ze sklepu ze sprzętem turystycznym. Mamy dwa mausery z czasów II Wojny Światowej 
-z dobrze widoczną wygrawerowaną swastyką oraz pistolet sygnalizacyjny. Nie zapytano nas o szkolenie jakie przeszliśmy w Polsce. 
-Istotne było tylko tymczasowe pozwolenie na broń od gubernatora, które dostaliśmy wcześniej emailem.   
-Broni w sklepie było znacznie więcej, ale inne nowsze karabiny można jedynie kupić mieszkając tu na stałe.
+Dość niepewnie wychodzimy z ostatniego sklepu. Na plecach mamy zawieszone dwa mausery z czasów II Wojny Światowej, w 
+torbie dodatkowo pistolet sygnalizacyjny. Na broni dobrze widoczna jest wygrawerowaną swastyka.  
+Gdy wypożyczaliśmy broń nie zapytano nas o szkolenie jakie przeszliśmy w Polsce. Istotne było tylko tymczasowe pozwolenie 
+od gubernatora, które dostaliśmy kilka tygodni wcześniej emailem.   
+Broni w *sklepie sportowym* było zresztą znacznie więcej, ale inne nowsze karabiny można jedynie kupić mieszkając tu na 
+stałe.
 
-Idąc na strzelnicę by jeszcze trochę poćwiczyć, sami stajemy się atrakcją turystyczną. Niemieccy emeryci, 
-którzy właśnie wytoczyli się z promu turystycznego, oglądają się za nami i robią nam zdjęcia. Chyba nie dlatego, 
-że rozpoznają swoją broń...   
-Raczej jesteśmy dla nich uosobieniem wolności tego miejsca. Już wkrótce ruszymy w dzikie górskie regiony bez obstawy ochrony i przewodników. 
-Może sami stawimy też czoła niedźwiedziowi polarnemu, który choć rzadki i zagrożony wyginięciem, stanowi tu realne niebezpieczeństwo i 
-zdołał już w tym roku zranić jednego turystę.
+Idziemy na strzelnicę jeszcze trochę poćwiczyć, ale po drodze sami stajemy się atrakcją turystyczną. Niemieccy emeryci, 
+którzy właśnie wytoczyli się z promu turystycznego, oglądają się za nami i robią nam zdjęcia. Zastanawiamy się czy 
+dlatego, że rozpoznają swoją starą broń...   
+Raczej jednak dla tego, że staliśmy sie dla nich uosobieniem wolności tego miejsca. Już wkrótce ruszymy w dzikie górskie 
+regiony bez obstawy ochrony i przewodników. Może sami stawimy też czoła niedźwiedziowi polarnemu, który choć rzadki i 
+zagrożony wyginięciem, stanowi tu realne niebezpieczeństwo. W tym roku zranić jednego turystę.
 
 
 ## jachty
 
-Do rozpoczęcia rejsu jeszcze jeden dzień, ale poprzednia załoga już w porcie. W weekend trudno będzie zatankować jacht, kupić gaz, 
-zrobić zakupy etc., tak więc praktycznie wszystkie jachty planujące wymianę załogi w ten weekend są tu już w piątek, a czasami nawet wcześniej.
+Do rozpoczęcia rejsu jeszcze jeden dzień, ale poprzednia załoga już w porcie. W weekend trudno będzie zatankować jacht,
+kupić gaz, zrobić zakupy etc. Praktycznie wszystkie jachty planujące wymianę załogi w ten weekend są tu już w piątek w 
+porcie. Niektóre nawet wcześniej.
 
-Tzw. marina - czyli jeden pływający pomost - w Longyearbyen jest przepełniona. Stoi tu aż 10 jachtów, ale miejsca jest wyłącznie na 3. 
-Część miejsc zarezerwowanych jest dla mniejszych statków wycieczkowych. Jachty muszą więc stać obok siebie, burta przy burcie.  
+Tzw. marina - czyli jeden pływający pomost - w Longyearbyen jest przepełniona. Stoi tu aż 10 jachtów, ale miejsca jest 
+wyłącznie na 3. Część miejsc zarezerwowanych jest dla mniejszych statków wycieczkowych. Jachty muszą więc stać obok 
+siebie, burta w burtę.  
 
-Zaskakująco dużo jest jachtów pod polską banderą. Obok naszego JoinUs stoi Barlovento II z Sekstant Expedition. Trochę dalej mniejszy Berg.
-Na kotwicy przed portem stoi polski statek badawczy Oceania. O zaledwie kilka dni minęliśmy się z jachtem Stary.  
-Za dwa tygodnie spotkamy tu legendarny jacht 'transportowo-badawczy' Eltanin i Solanus.
+Zaskakująco dużo jest jachtów pod polską banderą. Obok naszego *JoinUs* stoi *Barlovento II* z Sekstant Expedition. Trochę 
+dalej mniejszy *Berg*. Na kotwicy przed portem stoi polski statek badawczy *Oceania*. O zaledwie kilka dni minęliśmy się 
+z jachtem *Stary*.  
+Za dwa tygodnie spotkamy tu legendarny jacht 'transportowo-badawczy' *Eltanin* oraz podobny do niego, ale młodszy 
+*Solanus*.
 
-Polacy upodobali sobie stal. Obok stoją dwa specjalnie zaprojektowane do żeglugi arktycznej francuskie aluminiowe jachty Boreal 
-oraz już bardziej tradycyjny, ale wciąż aluminiowy Onvi.  
-Bestewind wciąż można nazwać jachtem specjalnie przystosowanym do żeglugi arktycznej, choć to już "plastik". Są jednak i bardziej 
-standardowe konstrukcje jak Delphie - z chyba jedynej tu firmy czarterowej Boreal Yachting - czy nawet starsza prywatna Bavaria. 
-Jest tu nawet potężny luksusowy jacht na maltańskiej banderze.
+Polacy upodobali sobie stal. Obok stoją dwa specjalnie zaprojektowane do żeglugi arktycznej francuskie aluminiowe jachty 
+Boreal oraz już bardziej tradycyjny, ale wciąż aluminiowy Onvi.  
+Bestewind wciąż można nazwać jachtem specjalnie przystosowanym do żeglugi arktycznej, choć to już "plastik". Są jednak 
+i bardziej standardowe konstrukcje m.in. polskie Delphie - z chyba jedynej tu firmy czarterowej Boreal Yachting - czy 
+nawet starsza prywatna Bavaria. Jest tu nawet potężny luksusowy jacht na maltańskiej banderze.
 
 
 ## węgiel
 
-XX wieczna historia Spitsbergenu to historia wydobycia węgla. 100 lat temu Norwegia i Rosja toczyły spór o ten wówczas strategiczny 
-surowiec i o przynależność państwową archipelagu.   
+XX wieczna historia Spitsbergenu to historia wydobycia węgla. 100 lat temu Norwegia i Rosja toczyły spór o ten wówczas 
+strategiczny surowiec i przynależność państwową archipelagu.   
 Dziś, tak jak w innych częściach świata, węgiel powoli traci na znaczeniu.
 
-W Longyearbyen wciąż stoją jeszcze drewniane wieże podtrzymujące liny i wiszące na nich wagoniki na węgiel. W ten sposób transportowano 
-surowiec z kopalni do portu. Większość kopalni jest już jednak dawno zamknięta.  
-Wdrapujemy się do kopalni Nr 2 czynnej w latach 1938-1969. W przeciwieństwie do tych na Śląsku, kopalnie nie posiadały oficjalnych nazw. 
-Również w przeciwieństwie do czego przywykliśmy, kopalnie nie znajdują się pod miastem, ale nad nim. Dokładnie w połowie wysokości 
-otaczających Longyearbyen gór.
+W Longyearbyen wciąż stoją jeszcze drewniane wieże podtrzymujące liny i wiszące na nich wagoniki na węgiel. W ten sposób 
+transportowano surowiec z kopalni do portu. Większość kopalni jest już jednak dawno zamknięta.  
+Wdrapujemy się do kopalni Nr 2 czynnej w latach 1938-1969. W przeciwieństwie do tych na Śląsku, kopalnie nie posiadały 
+oficjalnych nazw. Również w przeciwieństwie do tego czemu przywykliśmy, kopalnie nie znajdują się pod miastem, ale nad 
+nim. Dokładnie w połowie wysokości otaczających Longyearbyen gór.
 
-Drewniana konstrukcja wydaje się bardzo niestabilna. Część jest już zawalona. Mimo to postanawiamy eksplorować budowlę od środka 
-powoli odważając się zapuszczać coraz dalej i coraz wyżej.
+Drewniana konstrukcja wydaje się bardzo niestabilna. Część jest już zawalona. Mimo to postanawiamy eksplorować budowlę 
+od środka. Powoli odważamy się zapuszczać coraz dalej i coraz wyżej.
  
 Kopalnie Nr 2 to jednak przedsmak tego co zobaczymy za dwa dni w Pyramiden. Tu mamy nie tylko jedną opuszczona kopalnię,
 ale całe opuszczone górnicze miasto.  
-Miasto założyli Szwedzi, ale od 1927 roku jest własnością Rosji. W latach świetności miało 1000 mieszkańców.  
-W 1998 roku zamknięto kopalnie, a mieszkańców ewakuowano. Przez 7 lat miasto stało całkowicie opuszczone. 
-Dziś próbuje się stworzyć z niego turystyczną atrakcję. Otwarto hotel i uruchomiono ponownie kotłownię. Zamknięto budynki i 
-dokonuje się najpotrzebniejszych napraw tak by powstrzymać dalszą dewastację. Na stałe mieszka tu obecnie 8 osób latem i 3 zimą 
+Założyli je Szwedzi, ale od 1927 roku jest własnością Rosji. W latach świetności miało 1000 mieszkańców. W 1998 roku 
+zamknięto kopalnie, a mieszkańców ewakuowano. Przez 7 lat miasto stało całkowicie opuszczone.  
+Dziś próbuje się przekształcić je w atrakcję turystyczną. Otwarto hotel i uruchomiono ponownie kotłownię. Zabezpieczono  
+wejścia i dokonuje się najpotrzebniejszych napraw. Stara się powstrzymać dalszą dewastację.  
+Obecnie na stałe mieszka tu osiem osób latem i trzy zimą. 
 
-Większość dawnych budynków mieszkalnych jest wciąż w dobrym stanie. Bardziej zniszczone budynki samej kopalni opanowała kolonia 
-ptaków.  
-Drewniany pomost w porcie do którego przycumowaliśmy wydaje się stać już resztką sił i grozić zawaleniem, choć stoją na nim 
-kilkutonowe dźwig i koparka, więc powyginane deski i pale są jednak w stanie wytrzymać wciąż znaczne obciążenia.
+Większość dawnych budynków mieszkalnych jest wciąż w dobrym stanie. Bardziej zniszczone budynki samej kopalni opanowała 
+kolonia ptaków.  
+Drewniany pomost w porcie do którego przycumowaliśmy wydaje się stać już resztką sił i grozić zawaleniem. Wciąż stoją  
+jednak na nim kilkutonowe: dźwig i koparka. Powyginane deski i pale wciąż są w stanie jakoś wytrzymać znaczne obciążenia.
 
-Patrząc na umarłe miasto łatwo wpaść w melancholię i nawet żałować odchodzącego świata przemysłu XX wieku. Z drugiej strony 
-węgiel bardzo negatywnie odbił się na przyrodzie Svalbardu, bądź bezpośrednio poprzez przemysł wydobywczy, bądź pośrednio poprzez 
-efekt cieplarniany.  
+Patrząc na umarłe miasto łatwo wpaść w melancholię i nawet żałować odchodzącego świata przemysłu XX wieku. Z drugiej  
+strony węgiel bardzo negatywnie odbił się na przyrodzie Svalbardu, bądź bezpośrednio poprzez przemysł wydobywczy, bądź 
+pośrednio poprzez efekt cieplarniany.  
 Może dla żyjących tu zwierząt lepiej, że kopalnię zamknięto, a ludzie wyjechali.
 
 
