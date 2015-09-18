@@ -50,6 +50,8 @@ poradniki
 linki
 ------  
 
+* portal [Polskie Żeglarstwo Polarne](http://polskiezeglarstwopolarne.pl/)
+
 * [Polar Research Journal](http://www.polarresearch.net/)
 
 * [Norwegian Polar Institute](http://www.npolar.no/en/)

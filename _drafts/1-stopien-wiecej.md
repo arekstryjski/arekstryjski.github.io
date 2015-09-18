@@ -167,169 +167,175 @@ Może dla żyjących tu zwierząt lepiej, że kopalnię zamknięto, a ludzie wyj
 
 Svalbard to jednak nie skansen realnego socjalizmu. Już raczej park safari, gdzie dzikie zwierzęta można zobaczyć naprawdę 
 z bliska.  
-Przypływamy do Poolepynten na wyspie Prins Karls Forland. Kotwicowisko nie wydaje się szczególnie dogodne i nie osłania nas 
-całkowicie od fal i wiatru, ale tutaj mamy prawie 100% szansę spotkać morsy.
+Przypływamy do Poolepynten na wyspie Prins Karls Forland. Kotwicowisko nie wydaje się szczególnie dogodne i nie osłania  
+nas całkowicie od fal i wiatru. Tutaj mamy jednak dużą szansę spotkać morsy.
 
 Jacht stoi na głębokości 7 metrów, ale do brzegu jest jeszcze co najmniej setka. Bernard kierując pontonem stara się ominąć 
 największe fale, ale i tak jesteśmy nieco zmoczeni. Szybko znajdujemy najkorzystniejsze miejsce do lądowania na kamienistej 
 plaży.  
-Ja i Michał zostajemy z bronią, a Bernard za chwilę przywiezie Mariolę i Wojtka. Teraz trzeba tylko wyciągnąć wyżej na brzeg ponton 
-i zabezpieczyć go tak by nie zabrał go nam przypływ. 
-Na jachcie z Tomkiem pozostała połowa załogi. Przy takiej pogodzie konieczne jest by ktoś został i pilnował jachtu. Może 
-też okazać się konieczne przestawienie go jeśli pogoda by się raptownie pogorszyła, bądź jeśli kotwica zaplątana w kelp - wyjątkowo 
-duże wodorosty morskie o długim ponad metrowym liściu i grubej łodydze - puści.
+Ja i Michał zostajemy z bronią. Bernard za chwilę przywiezie Mariolę i Wojtka. Teraz trzeba tylko wyciągnąć ponton wyżej 
+na brzeg  i zabezpieczyć go tak by nie zabrał go przypływ. 
+Na jachcie z Tomkiem pozostała połowa załogi. Przy takiej pogodzie konieczne jest by ktoś został i pilnował jachtu. Jeśli 
+pogoda sie raptownie pogorszy, bądź jeśli kotwica zaplątana w kelp - wyjątkowo duże wodorosty morskie o długim ponad 
+metrowym liściu i grubej łodydze - puści, konieczne może okazać się przestawienie jachtu.  
 Reszta załogi przypłynie tu w drugiej turze.
 
-Z miejsca, gdzie zakotwiczyliśmy mamy jeszcze 500 metrów plażą do końca półwyspu, gdzie widzieliśmy morsy przepływając. Ta 
-część wyspy jest całkowicie płaska, ale plażę zawalają dosłownie setki pni drzew utrudniając nam drogę.   
-Na Svalbardzie nie znajdziemy żadnego rosnącego drzewa, czy nawet krzewu. Drewno zostało przyniesione tutaj przez prądy 
-morskie z Syberii, gdzie wcześniej spłynęło z nurtem rzek i zostało wyrzucone na brzeg przez zimowe sztormy. 
-Obok drewna znaleźć tu można metalowe kule przypominające miny morskie, do których zapewne dowiązane były kiedyś sieci 
-rybackie. Od jak dawna nie stosuje się już takich i ile tat musiały wędrować po oceanach by tu osiąść?  
-Obok niestety również wytwory najnowszej cywilizacji jak plastikowe butelki.
+Z miejsca, gdzie zakotwiczyliśmy mamy jeszcze kilkaset metrów plażą do końca półwyspu. Tam widzieliśmy morsy przez 
+lornetkę gdy przepływaliśmy. Ta część wyspy jest całkowicie płaska, ale plażę zawalają dosłownie setki pni drzew 
+utrudniając nam drogę.   
+Na Svalbardzie nie ma żadnego rosnącego drzewa, czy nawet krzewu. Drewno zostało przyniesione tutaj przez prądy morskie
+z Syberii, gdzie wcześniej spłynęło z nurtem rzek i zostało wyrzucone na brzeg przez zimowe sztormy. Obok drewna znaleźć 
+tu można metalowe kule przypominające miny morskie, do których zapewne dowiązane były kiedyś sieci rybackie. Od dawna się 
+już takich nie stosuje, więc musiały wędrować po oceanach sporo czasu. Obok spoczeły niestety również wytwory najnowszej 
+cywilizacji jak plastikowe butelki.
 
-Do Morsów podejść musimy od zawietrznej tak by nie wyczuły naszego zapachu - podobno nie chodzi o fakt że załogi jachtów 
-nie mają możliwości częstych kąpieli, ale o zapach kosmetyków - i nie uciekły do morza. Wiemy, że na pewno nie możemy 
-znaleźć się między kolonią, a brzegiem morskim. Mogą wtedy poczuć się osaczone i próbować zaatakować.
+Do Morsów podchodzimy od zawietrznej, tak by nie wyczuły naszego zapachu i nie uciekły do morza. Oodobno nie chodzi o 
+fakt że załogi jachtów nie mają możliwości częstych kąpieli, ale o zapach kosmetyków. W żadnym wypadku nie możemy 
+znaleźć się między kolonią, a brzegiem morskim. Morsy mogą wtedy poczuć się osaczone i próbować zaatakować.  
 Podchodzimy dość nieśmiało. W pewnym momencie morsy się budzą i niektóre z nich spoglądają na nas. Są nieco nieufne, 
-ale na pewno nie boją się człowieka. Powoli je obchodzimy.
+ale na pewno nie boją się człowieka. Powoli je obchodzimy.  
 Nasz zapach najwyraźniej im nie przeszkadza. My powoli też przyzwyczajamy się do doś intensywnego zapachu morsów.
 
-Udziela nam się ich spokój. Moglibyśmy tu zostać i wylegiwać się z nimi na plaży na słońcu przez resztę dnia. 
-Trzeba jednak wracać na jacht i dać drugiej grupie możliwość zobaczenia tych nie bojących się niczego i nikogo dzikich zwierząt. 
+Fotografując i filmując morsy udziela nam się ich spokój. Moglibyśmy tu zostać i wylegiwać się z nimi na słońcu przez 
+resztę dnia. Trzeba jednak wracać na jacht i dać drugiej grupie możliwość zobaczenia tych nie bojących się niczego i 
+nikogo dzikich zwierząt. 
 
 
 ## lodowce
 
-Wcześniej opuszczając Isfjorden trzymaliśmy się północnej strony odwiedzając lodowce w zatokach Borebukta i Trygghamna. Pierwszy 
-z nich okazał się zdecydowanie bardziej okazalszy. To tu po raz pierwszy mieliśmy kontakt z lodem. 
-Na razie był to kontakt bardzo nieśmiały. Powoli okrążamy, a potem jeszcze wolniej podpływamy pod unoszący się kawałek lodu 
-nie większy niż 3 wiaderka. Odłupujemy kawałek do garnka. 
+Wcześniej, opuszczając Isfjorden, trzymaliśmy się północnej strony odwiedzając lodowce w zatokach Borebukta i Trygghamna. 
+Pierwszy z nich okazał się zdecydowanie bardziej okazalszy. To tu mamy pierwszy kontakt z lodem.  
+Bardzo nieśmiały powoli okrążamy, a potem jeszcze wolniej podpływamy do unoszącego się na wodzie kawałka lodu. Jest on 
+nie większy niż 3 wiaderka. Odłupujemy kawałek do garnka.  
 Zdobycz może nie za wielka, ale po raz pierwszy mamy kilkusetletni lód pochodzący z lodowca! Trzeba to uczcić drinkiem.
 
-Wpływając do Kongsfjorden przy którym leży Ny-Ålesund wieje silny wschodni wiatr. Do tej pory byliśmy od niego osłonięci wysokimi górami.
-Tutaj ukształtowanie terenu powoduje, że wiatr wciska się w fiord zmieniając kierunek i przybierając na sile. Sterowanie utrudnia fakt,
-że wiatr i fala wypycha z fiordu krę i małe góry lodowe. 
-tNiektóre z nich są wielkości jachtu, czy nawet małego statku i łatwo je dostrzec i ominąć. Małe - takie jak złowiliśmy wcześniej 
+Teraz wpływając do Kongsfjorden, przy którym leży Ny-Ålesund, wieje silny wschodni wiatr. Do tej pory byliśmy od niego 
+osłonięci wysokimi górami. Tutaj ukształtowanie terenu powoduje, że wiatr wciska się w fiord zmieniając kierunek i 
+przybierając na sile. Sterowanie utrudnia fakt, że wiatr i fala wypycha z fiordu krę i małe góry lodowe. Niektóre z nich 
+są wielkości jachtu, czy nawet małego statku i łatwo je dostrzec i ominąć. Małe - takie jak złowiliśmy wcześniej 
 i mniejsze - nie stanowią zagrożenia. Wśród drobnego lodu może jednak czyhać większy całkowicie znużony kawałek.  
-Nam się udaje, ale wiemy że jedna z poprzednich załóg najechała na taki lód z dużą prędkością, co mogło przyczynić się do uszkodzenia 
-jednej z dwu zamontowanych na jachcie echosond. 
+Nam się udaje, ale wiemy że jedna z poprzednich załóg najechała na taki lód z dużą prędkością. Jak się później dowiemy
+mogło przyczynić się do uszkodzenia jednej z dwu zamontowanych na jachcie echosond. 
 
 Prawdziwy chrzest lodowy przejdziemy jednak dopiero w Magdalenefjord. Tu zwiedzamy pozostałości osady wielorybników i 
-cmentarza z XVII wieku. Całość obszaru archeologicznego jest odgrodzona i raczej nie widać zbyt wiele zza barierki. Ciekawsza wydaje 
-się wspinaczka do pobliskiego małego lodowca, choć pewnie nie powinniśmy chodzić po lodowej czapie bez odpowiedniego sprzętu.  
-W końcu jednak wyciągamy kotwicę i płyniemy do czoła głownego lodowca. Lewy brzeg fiordu pokrywa gęsta warstwa kry i małych górek lodowych, 
-prawa jest jednak całkowicie wolna od lodu.
-Nie zbliżamy się do czoła lodowca bliżej niż na 300-500 metrów. W razie oderwania fragmentu jego czoła powstanie silna fala, przypominająca tsunami.
-Dla jachtu bardziej niebezpieczne może być jednak oderwanie się i raptowne wypłynięcie lodu z dolnej podwodnej części.
-Nadaremnie wyczekujemy oderwania się większego kawałka. Raz tylko uderzając po drodze i roztrzaskując się z hukiem przypominającym wybuch, 
-oderwał się z górnej części średniej wielkości kawałek.
+cmentarza z XVII wieku. Całość obszaru archeologicznego jest ogrodzona i raczej nie widać zbyt wiele zza barierki. 
+Ciekawsza wydaje się wspinaczka do pobliskiego małego lodowca. Odważamy się wejść na lodową czapę bez odpowiedniego 
+sprzętu, gdyż lód jest tutaj bardzo stabilny i nie jest popękany.  
+W końcu jednak czas wyciągnąć kotwicę i popłynąć do czoła głównego lodowca. Lewy brzeg fiordu pokrywa gęsta warstwa kry 
+i małych górek lodowych. Prawa jest jednak całkowicie wolna od lodu.  
+Nie zbliżamy się do czoła lodowca bliżej niż na 300-500 metrów. W razie oderwania fragmentu jego czoła powstanie silna 
+fala, przypominająca tsunami.  
+Dla jachtu bardziej niebezpieczne może być jednak oderwanie się i raptowne wypłynięcie do góry lodu z dolnej podwodnej 
+części. Nadaremnie wyczekujemy oderwania się dużej części lodowca. Raz tylko uderzając po drodze i roztrzaskując się z 
+hukiem przypominającym wybuch, oderwał się z górnej części średniej wielkości kawałek, nie powodując jednak fali przy 
+wpadaniu do wody.
 
-Możemy stać i obserwować lodowiec przez godziny, ale czas jednak płynąć dalej. Przed chwilą cieszyła nas raptowna poprawa pogody,
-wyjście za chmur słońca i ustanie wiatru. Pozwoliło to nam wykonać kilka efektownych zdjęć. Zmieniło to jednak także diametralnie
-sytuację w fiordzie.  
-Zgarnięty do tej pory na jednym brzegu lód równomiernie się teraz rozproszył po całej zatoce. Kawałki lodu są relatywnie małe,
-ale trudno wypatrzeć jakikolwiek wolne od lodu przejście. Nie ma wyjścia, cztery osoby stają na dziobie trzymając bambusowe tyczki 
-i odpychają od kadłuba lód. Płyniemy na silniku zaledwie 1.5 - 2 węzły, często zwalniając.
+Możemy stać i obserwować lodowiec przez godziny, ale czas jednak płynąć dalej.  
+Przed chwilą cieszyła nas raptowna poprawa pogody, wyjście za chmur słońca i ustanie wiatru. Pozwoliło to nam wykonać 
+kilka efektownych zdjęć. Zmieniło to jednak także diametralnie sytuację w fiordzie.  
+Zgarnięty wiatrem lód równomiernie się teraz rozproszył po całej zatoce. Kawałki lodu są relatywnie małe, ale trudno 
+wypatrzeć jakikolwiek wolne od lodu przejście. Nie ma wyjścia, cztery osoby stają na dziobie trzymając bambusowe tyczki 
+i odpychają od kadłuba krę. Płyniemy na silniku zaledwie 1.5 - 2 węzły, często zwalniając jeszcze bardziej.
 
 
 ## zmiana planów 
 
-Opłynięcie Spitsbergenu - największej wyspy archipelagu Svalbard - było naszym marzeniem i głównym celem wyprawy.
-W tym roku, a przynajmniej teraz w lipcu, jest to jednak niemożliwe.   
-Inaczej niż w poprzednich latach południowa część cieśniny Hinlopen oddzielająca 
-Spitsbergen od Nordaustlandet (Ziemi Północno-Wschodniej) wciąż zablokowana jest zwartym lodem, który przyniosły tu z 
-północnego wschodu zimne prądy morskie.
+Opłynięcie Spitsbergenu - największej wyspy archipelagu Svalbard - było naszym marzeniem i głównym celem wyprawy. W tym 
+roku, a przynajmniej teraz w lipcu, jest to jednak niemożliwe.   
+Inaczej niż w poprzednich latach południowa część cieśniny Hinlopen oddzielająca Spitsbergen od Nordaustlandet (Ziemi 
+Północno-Wschodniej) wciąż zablokowana jest zwartym lodem, który przyniosły tu z północnego wschodu zimne prądy morskie.
 
 Z ostatnich map lodowych jakie widzieliśmy w Ny-Ålesund - ostatnim miejscu gdzie dostępny był internet - wynikało, że 
-powinno się udać dopłynąć do Nordkapp - przylądka nazwanego tak jak ten w kontynentalnej Norwegii i jednej z najdalej na północ 
-wysuniętej części Svalbardu.
+powinno się udać dopłynąć do Nordkapp - przylądka nazwanego tak jak ten w kontynentalnej Norwegii. Tak jak tam, jest to 
+wyspa, a nie przylądek i tak jak tam, nie jest to wcale najdalej na północ wysunięta część archipelagu.
 
-Granica wiecznego lodu nigdy nie jest jasno zdefiniowana i zazwyczaj wolne od lodu morze przeradza się w stały wieloletni lód na 
-przestrzeni kilkuset kilometrów. Pas pomiędzy otwartym morzem, a biegunem przeplatają pola lodowe o różnym stosunku procentowym 
-wody i lodu na ich powierzchni.
-Stopień zalodzenia podaje się w ułamkach gdzie 1/10 to sporadyczna kra, a 9/10 lekko spękana stała pokrywa lodowa.
-Podobnie jak prognozę pogody Norweski Instytut Meteorologiczny publikuje mapy tej części arktyki na których kolorami oznaczone 
-jest zalodzenie. 
+Granica wiecznego lodu nigdy nie jest jasno zdefiniowana. Zazwyczaj wolne od lodu morze stopniowo przeradza się w stały 
+wieloletni lód na przestrzeni nawet kilkuset kilometrów. Pas pomiędzy otwartym morzem, a biegunem, przeplatają pola 
+lodowe o różnym stosunku procentowym wody i lodu na ich powierzchni.  
+Stopień zalodzenia podaje się w ułamkach gdzie 1/10 to sporadyczna kra, a 9/10 lekko spękana stała pokrywa lodowa. Podobnie 
+jak prognozę pogody Norweski Instytut Meteorologiczny publikuje mapy tej części arktyki na których kolorami oznaczone 
+jest zalodzenie.  
 Nasz jacht może bezpiecznie pływać w lodzie o stosunku 3/10 - to kolory niebieski i zielony na mapie. Na południu Hinlopen  
-wciąż w przeważa kolor zółty, a nawet czerwony. 
-Północ wydaje się wyglądać znacznie lepiej. Kolor niebieski dość szybko przechodzi w czerwony, z wąskimi paskami zieleni i zółci 
-jedynie na wschód od Nordkapp.
+wciąż przeważa kolor zółty, a nawet czerwony. 
+Północ wydaje się wyglądać znacznie lepiej. Kolor niebieski dość szybko przechodzi w czerwień, z wąskimi paskami zieleni 
+i zółci jedynie na wschód od Nordkapp. Oznacza to że tam powinno udać nam się żeglować bez większych problemów.
 
-Wypływając z Magdalenefjord kierujemy się więc na północny-wschód. Niedaleko płaskiej i ledwo widocznej wyspy Moffen przekraczamy 
-magiczna granicę 80 stopni szerokości geograficznej północnej. Inne jachty często tu zawracają ograniczając swój pobyt 
-na Svalbardzie jedynie do zachodniego Spitsbergenu. 
+Wypływając z Magdalenefjord kierujemy się więc na północny-wschód. Niedaleko płaskiej i ledwo widocznej wyspy Moffen 
+przekraczamy magiczna granicę 80 stopni szerokości geograficznej północnej. Inne jachty często tu zawracają ograniczając 
+swój pobyt na Svalbardzie jedynie do zachodniego Spitsbergenu.  
 Błękitne niebo, brak fal - choć niestety i wiatru - upewniają nas jednak, że powinniśmy podążać dalej w nieznane.
 
 
 ## koniec mapy
 
-Współczesnym żeglarzom rzadko zdarza się sytuacja gdy płyną naprawdę w nieznane. GPS i podpięte do nich plotery wyświetlają
-pozycję jachtu na szczegółowych mapach morskich z dokładnością do kilku metrów.
-My, jak dawni odkrywcy, wpływamy na wody poza zasięgiem dostępnych map - tych elektronicznych przynajmniej. Twórcy współczesnego 
-oprogramowania elektronicznego uznali najwidoczniej, że nikt nie popłynie dalej niż 80°N. Może dlatego tyle osób tu zawraca.
-Tu kończy się morze i zaczyna niezbadana otchłań w którą nieostrożne statki mogą się stoczyć - tak przynajmniej wygląda to na 
-ploterze, tablecie czy laptopie.
+Współczesnym żeglarzom rzadko zdarza się sytuacja gdy płyną naprawdę w nieznane. GPS i podpięte do niego plotery 
+wyświetlają pozycję jachtu na szczegółowych mapach morskich z dokładnością do kilku metrów.  
+My, jak dawni odkrywcy, wpływamy na wody poza zasięgiem dostępnych map - tych elektronicznych przynajmniej. Z niejasnych 
+powodów twórcy współczesnego oprogramowania elektronicznego uznali najwidoczniej, że nikt nie popłynie dalej niż 80°N. 
+Może dlatego tyle osób tu zawraca. Tu kończy się morze i zaczyna niezbadana otchłań w którą nieostrożne statki mogą się 
+stoczyć - tak przynajmniej wygląda to na ploterze, tablecie czy laptopie.
 
-Oczywiście morze się tu nie kończy. Dla wód położonych dalej na północ dalej istnieją mapy - jednak jedynie tradycyjne, papierowe. 
-Jednak i tu znaleźć można białe plamy na których nie ma podanych miarodajnych głębokości, gdyż nikt nie badał tych terenów 
-od XVII - XVIII wieku.  
-Oczywiście dalej działa GPS podając naszą pozycję. Coraz trudniej jednak przeliczyć kurs rzeczywisty na magnetyczny, bo 
-zbliżając się do bieguna ziemskiego występują coraz większe odchylenia, a kompas magnetyczny staje się coraz mniej miarodajny.
-Od tego momentu kierując się na północ co najmniej co godzina odczytywać będziemy pozycje z GPS i nanosić ją na papierową
+Oczywiście morze się tu nie kończy. Dla wód położonych dalej na północ dalej istnieją mapy - jednak jedynie tradycyjne, 
+papierowe. Również na nich można jednak znaleźć białe plamy. Nie ma tam podanych miarodajnych głębokości, gdyż nikt nie 
+badał tych terenów od XVII - XVIII wieku.  
+Coraz trudniej przeliczyć też kurs rzeczywisty na magnetyczny. Zbliżając się do bieguna ziemskiego występują coraz 
+większe odchylenia, a kompas magnetyczny staje się coraz mniej miarodajny. 
+
+Od tego momentu kierując się na północ co najmniej co godzinę odczytywać będziemy pozycje z GPS i nanosić ją na papierową
 mapę. Nowoczesne technologie wciąż nam pomagają, ale zbliżając się do bieguna coraz bardziej polegamy na tradycyjnych 
 technikach nawigacyjnych.
 
 
 ## wysoki brzeg
 
-Płynąc wzdłuż brzegów wyspy Lagoya widzimy już klify ostatnich siedmiu wysp Svalbardu - Sjuøyane. Jedyny problem to to, że
-te wyspy nie posiadają wybrzeża klifowego. W ich wnętrzu znajdują się raczej niskie góry, a brzeg powinien stosunkowo łagodnie 
-opadać do morza. Mapy są tu niedokładne - ale nie aż tak - i raczej tylko w stosunku do dna morskiego. Co do lądu nie mogą 
-się aż tak mylić.  
-Co gorsza ostatnia większa wyspa archipelagu - Vesle Tavleøya - wyraźnie przypomina swym wyglądem grzyb, czy babeczkę...
+Płynąc wzdłuż brzegów wyspy Lagoya widzimy już klify ostatnich siedmiu wysp Svalbardu - Sjuøyane. Jedyny problem to to, 
+że wyspy te nie posiadają wybrzeża klifowego. W ich wnętrzu znajdują się raczej niskie góry, a brzeg powinien stosunkowo 
+łagodnie opadać do morza. Mapy są tu niedokładne, ale nie aż tak. Niedokładności dotyczą raczej tylko dna morskiego. W 
+stosunku do lądu nie mogą się aż tak mylić.  
+Co gorsza, ostatnia większa wyspa archipelagu - Vesle Tavleøya - wyraźnie przypomina swym wyglądem grzyb, czy babeczkę...
 
 Nie zostaliśmy oślepieni słońcem północy, ani w naszych zbiornikach ze słodką wodą nie zalęgła się jakaś groźna bakteria 
 powodująca omamy.  
-Zjawisko jest dobrze znane. Wyspy które widzimy znajdują się jeszcze za horyzontem. Zadziwiająca przejrzystość powietrza
-oraz zmiany jego temperatury nad woda i polami lodowymi, powodują załamanie się światła i tą przedziwną arktyczną fatamorganę.
-W dawnych wiekach takie złudzenia optyczne myliły badaczy szukających przejść północno-wschodniego i północno-zachodniego.
-
-My jednak nie damy się zwieść i nie zawrócimy. Mimo, że obraz jest nieco zniekształcony, widzimy że damy radę dopłynąć do ostatniej 
-najmniejszej wyspy archipelagu Svalbardzkiego - do Rossøya.
+Zjawisko jest dobrze znane. Wyspy które widzimy znajdują się jeszcze za horyzontem.   
+Zadziwiająca przejrzystość powietrza oraz zmiany jego temperatury nad woda i polami lodowymi, powodują załamanie się 
+światła i tą przedziwną arktyczną fatamorganę. W dawnych wiekach takie złudzenia optyczne myliły badaczy szukających 
+przejść północno-wschodniego i północno-zachodniego.  
+My jednak nie damy się zwieść i nie zawrócimy. Mimo, że obraz jest nieco zniekształcony, widzimy już że damy radę dopłynąć 
+do ostatniej najmniejszej wyspy archipelagu Svalbardzkiego - do Rossøya.
 
 
 ## kra
 
-Żeglarze z reguły starają się omijać krę i góry lodowe. Kolizja z nawet stosunkowo małą górą lodową może zakończyć się tragicznie.
-Zderzenie z dużą prędkością można porównać z uderzeniem w skałę. Wszyscy słyszeli o losie Titanica...
-My jednak pojawienie się pierwszej kry witamy dość entuzjastycznie. W końcu widzimy lód morski, a nie lodowcowy.  
-W końcu widzimy kawałki lodu, które zapewne jeszcze kilkanaście dni temu stanowiły integralna część czapy lodowej bieguna północnego.
+Żeglarze z reguły starają się omijać krę i góry lodowe. Kolizja z nawet stosunkowo małą górą lodową może zakończyć się 
+tragicznie. Zderzenie z dużą prędkością można porównać do uderzenia w skałę. Wszyscy słyszeli o losie Titanica...  
+My jednak pojawienie się pierwszej kry witamy dość entuzjastycznie. W końcu widzimy lód morski, a nie lodowcowy.  W końcu 
+widzimy kawałki lodu, które jeszcze kilkanaście dni temu stanowiły integralna część czapy lodowej bieguna północnego!
  
-Pierwsze, rzadko rozrzucone kawałki kry, które wystarczyło ominąć lekkim zmiana kursu, zaczynają gęstnieć. To co wpierw przypominało
-labirynt małych płaskich wysp i skał powoli zaczyna się przeradzać bardziej w grupę jezior połączonych rzekami i kanałami.
-Słaby do tej pory wiatr, słabnie jeszcze bardziej. Zbytnio nas to nie martwi. Do tej pory był i tak zawsze za słaby 
-dla naszego ciężkiego stalowego jachtu.
+Pierwsze, rzadko rozrzucone kawałki kry, które wystarczyło ominąć lekkim zmiana kursu, zaczynają gęstnieć. To co wpierw 
+przypominało labirynt małych płaskich wysp i skał powoli zaczyna przeradzać się w grupę jezior połączonych rzekami i 
+kanałami. Słaby do tej pory wiatr, słabnie jeszcze bardziej. Zbytnio nas to nie martwi. Do tej pory i tak był zawsze za 
+słaby dla naszego ciężkiego stalowego jachtu.
 
-Lawirujemy między krą na silniku. Ciągłe zakręty i wypatrywanie drogi na początku wydawały się nawet zabawne. Teraz przypomina 
-to wpływanie do nigdy nie kończącej się mariny czy portu. Coraz więcej tu "zacumowanych" lodowych jednostek, których na pewno
-nie chcemy uszkodzić.
-Nigdy nie płyniemy tez wprost do celu. Stale trzeba wypatrywać przejść które choć w przybliżeniu poprowadzą nas na północ.
-Kilka razy trzeba jednak zawracać ze ślepych zaułków i szukać innej drogi.
+Lawirujemy między krą na silniku. Ciągłe zakręty i wypatrywanie drogi na początku wydawały się nawet zabawne. Teraz
+przypomina wpływanie do nigdy nie kończącej się mariny, czy portu. Coraz więcej tu "zacumowanych" lodowych jednostek, 
+których na pewno nie chcemy uszkodzić.  
+Nigdy nie płyniemy też wprost do celu. Stale trzeba wypatrywać przejść które choć w przybliżeniu poprowadzą nas na północ.
+Czasami trzeba jednak zawracać ze ślepych zaułków i szukać innej drogi.
 
 
 ## 81°N
 
-Pole lodowe które wydawało się sięgać horyzontu w końcu jednak się kończy. Do ostatnich dwu wysp archipelagu Svalbardzkiego
+Pole lodowe które wydawało się sięgać horyzontu w końcu się kończy. Do ostatnich dwu wysp archipelagu Svalbardzkiego
 dzieli nas tylko kilka mil otwartej wody.  
-Na południe od większej z nich Vesle Tavleøya widać wydawałoby się znajomą kilkumetrową ścianę lodu. Tu jednak nie jest to
-czoło lodowca. Przy brzegu wyspy osiadła na mieliźnie wielka kilkusetmetrowa tafla kilkuletniego lodu która została 
-przywiana tutaj z północy. Lód wystaje kilka metrów nad wodę, ale zapewne jeszcze większa warstwa ukryta jest pod wodą.
+Na południe od większej z nich Vesle Tavleøya widać wydawałoby się znajomą kilkumetrową ścianę lodu. Tu jednak nie jest 
+to czoło lodowca. Przy brzegu wyspy osiadła na mieliźnie wielka kilkusetmetrowa tafla kilkuletniego lodu która została 
+przywiana tutaj z północy. Lód wystaje kilka metrów nad wodę, ale zapewne jeszcze większa warstwa ukryta jest w głębinach.
 
-Na północ od Vesle Tavleøya widać Rossøya. Ostatnia z wysp Svalbardu wydaje się jakby najmniej okazała. Na pewno brakuje jej
-szpiczastych szczytów Spitsbergenu. Jest raczej zaskakująco obła i niska. Wydaje się, że lód który przez tysiące, jeśli nie  
-miliony lat zatrzymywał się na niej płynąć z północy oszlifował jej brzegi.
-Dalej na północ jest już wyłącznie Ocean Arktyczny. Przed nami w lini prostej geograficzny biegun, a dalej Cieśnina Beringa...
+Na północ od Vesle Tavleøya widać Rossøya. Ostatnia z wysp Svalbardu wydaje się jakby najmniej okazała. Na pewno brakuje 
+jej szpiczastych szczytów Spitsbergenu. Jest raczej zaskakująco obła i niska. Tak jakby lód który przez tysiące, jeśli nie  
+miliony lat, zatrzymywał się na niej płynąc z północy oszlifował ją i ściął jej wierzchołek. 
+Dalej na północ jest już wyłącznie Ocean Arktyczny. Przed nami w lini prostej geograficzny biegun, a gdzieś dalej Cieśnina 
+Beringa odgradzająca Azję i Amerykę.
 
 Płyniemy dalej, teraz już wprost na północ. Kolejne pole lodowe, potem znów odcinek wolny od lodu... Mile wleką się powoli. 
 Czas wydaje się stać w miejscu. Trzeba by w końcu iść spać, ale przecież nie tutaj, nie teraz.  
@@ -338,36 +344,35 @@ tabletu i wyświetlaną przez z niego pozycję z GPS. W końcu przekraczamy magi
 północnej.
 
 Osiągnęliśmy swój cel. Zgodnie z ustaleniami Traktatu Spitsbergeńskiego, jesteśmy poza wodami archipelagu Svalbard. Wyłączamy 
-silnik by uczcić tą chwilę, ale oczywiście wokół nas nic się nie zmieniło.     
-Jest północ, więc słońce świeci wysoko na niebie. Woda i niebo wciąż błękitne. W oddali praktycznie w każdym kierunku widać 
-biel kry. Wieje słaby północny wiatr. 
-
-81°N to tylko kreska na mapie. Jeśli coś przekroczyliśmy, czy gdzieś dotarliśmy to jest to miejsce w nas samych.  
+silnik by uczcić tą chwilę.       
+Wokół nas nic się nie zmieniło. Jest północ, więc słońce świeci wysoko na niebie. Woda i niebo wciąż błękitne. W oddali 
+w każdym kierunku widać biel kry. Wieje słaby północny wiatr.  
+81°N to nie szczyt. To jedynie kreska na mapie. Jeśli coś przekroczyliśmy, czy gdzieś dotarliśmy to jest to miejsce w 
+nas samych.  
 
 
 ## bang
 
-Wracamy.   
-Znów silnik. Wiatr tym razem z dobrego kierunku - rufy - ale wciąż za słaby.  
+Wracamy. Znów silnik. Wiatr tym razem z dobrego kierunku - z rufy - ale wciąż za słaby.  
 Znów pole lodowe. Oczywiście nie da się płynąć "po śladach". Kra choć powoli i niezauważalnie to ciągle dryfuje, ciągle
 zmienia swoją konfigurację. Trzeba manewrować i szukać nowego przejścia.
 
-Wracamy, ale z Tomkiem za sterem rozmawiamy, a co by było gdybyśmy płynęli dalej.  
-Jak daleko było do następnego pola lodowego? Czy dałoby się go przejść? Jak daleko był stały lód?
+Z Tomkiem za sterem rozmawiamy co by było, gdybyśmy płynęli dalej. Jak daleko było do następnego pola lodowego? Czy 
+dałoby się go przejść? Jak daleko był stały lód?
 
-Nagle głuche bang. Nie zbyt głośna, jakby coś wpadło do zenzy. Nic co mogłoby wzbudzić natychmiastowy alarm, ale
-wyraźnie słyszeliśmy coś niepokojącego. Przerywamy rozmowę.   
+Nagle głuche bang. Nie zbyt głośna, jakby coś wpadło do zenzy. Nic co mogłoby wzbudzić natychmiastowy alarm, ale wyraźnie
+słyszeliśmy coś dziwnego. Przerywamy rozmowę.   
 Teraz najważniejsze jest pytanie co się stało kilka sekund temu, a nie co by było gdyby...   
 Czy to zwiastun czegoś większego? Czy początek problemów? 
 
 Może śruba w coś uderzyła?  
 Przy burcie i za nami nie ma jednak odłamków lodu. Na dziobie cały czas stoją dwie osoby i odgarniają mniejsze kawałki, 
-ale ostatnio droga jest wolna. Większe kawałki kry ostrożnie omijamy.
+Ponadto od kilku minut mamy pas całkowicie wolny od lodu, większą krę zaś ostrożnie omijamy.
 
 Silnik pracuje wciąż miarowo, ale jacht zaczyna wyraźnie zwalniać.
 Cała naprzód - nic.  
 Cała wstecz - nic.  
-Kontrola sprzęgła przy manetce - wszystko w porządku, nic nie wydaje się zablokowane, ale jacht dalej nie reaguje.
+Kontrola sprzęgła przy manetce - wszystko w porządku. Nic nie wydaje się zablokowane, ale jacht dalej nie reaguje.
 
 Nagle problem z silnikiem odchodzi na dalszy plan. Trzeba zdecydować gdzie płyniemy. Duża kra, która jeszcze przed chwilą 
 była daleko przed nami, coraz wolniej, ale jednak nieubłaganie się przybliża. Nie widać dużego otwartego przejścia ani, na 
@@ -384,15 +389,15 @@ Gdyby nie sytuacja która zmusiła nas do zatrzymania można by nawet pomyśleć
 grubości, może więcej.
 Nikt jednak o tym nie myśli. Schodzimy pod pokład, otwieramy gretingi nad silnikiem, zaglądamy do zenzy.  
 Na pierwszy rzut oka nie widać nic niepokojącego. Silnik na swoim miejscu, nadal miarowo pracuje. Wał napędowy biegnie do
-śruby napędowej, ale nie obraca się, dalej... stalowy walec łączący wał i silnik leży oparty na dnie zenzy, niecałe 10cm
-poniżej pozycji w której powinien być, ale silnik i wał wyraźnie nie są ze sobą połączone...
+śruby napędowej, ale nie obraca się, dalej... stalowy walec łączący wał i silnik leży oparty na dnie zenzy. Opadł niecałe 
+10cm poniżej pozycji w której powinien być, ale silnik i wał wyraźnie nie są ze sobą połączone...
 
 Notujemy czas 04?? i pozycję 80°??'N 20°??E. Wciąż jesteśmy na północ od Rossøya choć teraz zdecydowanie bardziej na zachód.
 
-Przyglądamy się elementom. Wyraźnie widać 3 śruby łączące dwie metalowe tarcze. Te przy silniku na pewno da się wykręcić, te
-od strony wału złamane utkwiły wewnątrz metalu.
-Dalsze oględziny ujawniają przyczynę awarii. Jedna z czterech śrub mocujących silnik do kadłuba jest luźna. Wypadła poduszka. 
-Silnik przekrzywił się nieznacznie, ale naprężenie wystarczyło by złamać mocowanie z wałem napędowym.
+Przyglądamy się elementom. Wyraźnie widać 3 śruby łączące dwie metalowe tarcze. Te przy silniku na pewno da się wykręcić, 
+te od strony wału złamane utkwiły wewnątrz metalu.
+Dalsze oględziny ujawniają przyczynę awarii. Jedna z czterech śrub mocujących silnik do kadłuba jest luźna. Wypadła 
+poduszka. Silnik przekrzywił się nieznacznie, ale naprężenie wystarczyło by złamać mocowanie z wałem napędowym.
 
 Jesteśmy powyżej archipelagu Svalbardzkiego w miejscu gdzie "nikt" nie pływa...  
 Nie mamy silnika...  
