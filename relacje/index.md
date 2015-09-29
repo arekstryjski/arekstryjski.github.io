@@ -5,8 +5,24 @@ category: relacje
 keywords: relacje z rejsów, rejsy, rejsy morskie, żeglarstwo, yachting, jachting, Grecja, Gibraltar, Sycylia, Chorwacja
 desc: Relacje z rejsów które prowadziłem w przeszłości. Rejsy weekendowe w UK, Grecja, Gibraltar, Sycylia.
 img: /img/2013/setsail/sun_l.jpg
-date: 2015-06-08
+date: 2015-09-30
 ---
+
+
+Svalbard 2015
+--------------
+
+> Świat i czas najwyraźniej się tu zatrzymał.  
+> Chciałoby się pozostać tu na zawsze, z dala od zgiełku i tępa codziennego życia. Przesiąknąć mocną ciszą i spokojem tego miejsca.  
+> Zaszyć się tu niczym w pustelni.
+
+Tym razem nie jedna, ale aż trzy relacje:
+
+* Kasia Stefanow *[Svalbard 2015](/svalbard-2015)* - relacja z rejsu 22.08 - 5.09.2015 na jachcie *JoinUs*
+* Michał Stryjski *[Svalbard sailing holiday](/svalbard-sailing-holiday)* - relacja mojego syna z naszego rejsu (po angielsku)
+* i w końcu moja relacja *Jeden stopień dalej* z rejsu 25.07 - 8.08.2015 na *JoinUs* **(już wkrótce)**
+
+![Svalbard](/img/2015/svalbard/svalbard.jpg)]
 
 
 [Kraina tysiąca wysp i jednej nocy](/kraina-1000-wysp-i-1-nocy/) 
