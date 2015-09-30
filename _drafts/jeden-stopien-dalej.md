@@ -27,7 +27,7 @@ Spitsbergen jest także:
 *Szare* są ptaki atakujące nas, gdy zbyt blisko zbliżymy się do ich gniazd.  
 *Szare* są kamienie których rumowiska zagradzają drogę w każde niemal miejsce.  
 *Szare* są wieże kolejki węglowej w Longyearbyen.  
-*Szare* są runy Pyramiden.   
+*Szare* są ruiny Pyramiden.   
 *Szary* jest port Barentsburga.  
 
 *Niebieskie* jest tętniące życiem morze.  

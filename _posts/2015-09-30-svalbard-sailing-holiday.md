@@ -203,17 +203,3 @@ walruses, the animals with the easiest life in my opinion.
 ![crew](/img/2015/michal_svalbard/crew.jpg) 
 
 *Written by Michal Stryjski, 6th September 2015* 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
