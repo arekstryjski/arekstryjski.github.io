@@ -5,6 +5,8 @@ category: relacje
 keywords: sailing, Spitsbergen, Svalbard, Arctic
 desc: Svalbard Sailing Holiday July-August 2015.
 img: /img/2015/michal_svalbard/walruses.jpg
+imgw: 2048
+imgh: 1367
 ---
 
 > Another guest post. This time my son relation about our holidays in Svalbard.
