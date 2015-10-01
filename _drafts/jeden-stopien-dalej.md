@@ -34,7 +34,7 @@ Spitsbergen jest także:
 *Niebieskie* jest niebo nieustannego dnia arktycznego.  
 *Niebieskie* są nasączone wodą i sprasowane dolne partie lodowca.  
 
-*Kolorowe* są kwiatki wyrastające spomiędzy skał.   
+*Kolorowe* są kwiatki rosnące w szczelinach skał.   
 *Kolorowe* są skandynawskie domy w Longyearbyen.  
 *Kolorowe* są bloki w Barentsburgu.  
 
@@ -65,7 +65,7 @@ drogowskazu na kemping. Powinien być gdzieś niedaleko.
 Pytamy taksówkarza. Ten ze zdziwieniem pokazuje nam skarpę i morze. Podchodzimy do brzegu parkingu i rzeczywiście jakieś 
 kilkadziesiąt metrów w dół i kilkaset dalej, przy brzegu rozciąga się małe pole namiotowe.
  
-Pomysł by pierwszą noc w arktyce spędzić w namiocie wydaje się szalony. No, ale pomysł by spędzić wakacje w arktyce sam 
+Pomysł by pierwszą noc w Arktyce spędzić w namiocie wydaje się szalony. No, ale pomysł by spędzić wakacje w Arktyce sam 
 w sobie jest już szalony. Zresztą nie ma tu za wiele hoteli, ceny są wygórowane, a wolnych miejsc nie ma już od dawna.  
 Dla większości z nas będzie to pierwsze biwakowanie od lat. W nocy będzie nieco twardo, ale w odpowiednim śpiworze wręcz 
 zadziwiająco ciepło.
@@ -79,11 +79,11 @@ przyjdą tu dopiero za kilka miesięcy.
 
 Rano - tzn. tak mówi zegarek i wewnętrzny rytm dnia i nocy którego jeszcze nie straciliśmy - szybko ruszamy do miasta by 
 wszystko załatwić. Trzeba odebrać pozwolenie na żeglugę z biura gubernatora, zrobić pierwsze zakupy, wypożyczyć broń.  
-Idziemy szybko, a jednak dotarcie gdziekolwiek zajmuje mnóstwo czasu. Co chwila trzeba się zatrzymać, przyjrzeć 
+Idziemy szybko, a jednak dotarcie gdziekolwiek zajmuje mnóstwo czasu. Co chwila trzeba się zatrzymać, przyjrzeć się
 egzotycznemu krajobrazowi, zrobić zdjęcie. 
  
 Nie jest aż tak zimno jak się spodziewaliśmy, jednak na wszelki wypadek chodzimy opatuleni w zimowe kurtki, czapki i 
-rękawiczki. W sklepie kupujemy nie tylko kartki pocztowe i pamiątki, ale także swetry i wełnianą odzież termiczną. W  
+rękawiczki. W sklepie kupujemy nie tylko kartki pocztowe i pamiątki, ale także swetry i wełnianą odzież termiczną. W podjęciu  
 decyzji by wydać nieco ponad planowany budżet, pomagają jednak przede wszystkim niskie ceny i brak VAT, a nie klimat.
 
 
@@ -92,12 +92,12 @@ decyzji by wydać nieco ponad planowany budżet, pomagają jednak przede wszystk
 Dość niepewnie wychodzimy z ostatniego sklepu. Na plecach mamy zawieszone dwa mausery z czasów II Wojny Światowej. W 
 torbie dodatkowo pistolet sygnalizacyjny. Na broni dobrze widoczna jest wygrawerowaną swastyka.  
 Gdy wypożyczaliśmy broń nie zapytano nas o szkolenie jakie przeszliśmy w Polsce. Istotne było tylko tymczasowe pozwolenie 
-od gubernatora, które dostaliśmy kilka tygodni wcześniej emailem.   
+od gubernatora, które dostaliśmy kilka tygodni wcześniej e-mailem.   
 Broni w *sklepie sportowym* było znacznie więcej. Niestety inne, nowsze karabiny, można jedynie kupić mieszkając tu na 
 stałe.
 
 Idziemy na strzelnicę by jeszcze trochę poćwiczyć, ale po drodze sami stajemy się atrakcją turystyczną. Niemieccy emeryci, 
-którzy właśnie wytoczyli się z promu turystycznego, oglądają się za nami i robią nam zdjęcia. Zastanawiamy się czy 
+którzy właśnie wylegli z promu turystycznego, oglądają się za nami i robią nam zdjęcia. Zastanawiamy się czy 
 rozpoznają swoją starą broń...   
 Zainteresowanie wynika jednak bardziej z faktu, że jesteśmy dla nich uosobieniem wolności tego miejsca. Już wkrótce 
 ruszymy w dzikie górskie regiony bez obstawy ochrony i przewodników. Może sami stawimy też czoła niedźwiedziowi polarnemu, 
@@ -108,7 +108,7 @@ turystę.
 ## jachty
 
 Do rozpoczęcia rejsu jeszcze jeden dzień, ale poprzednia załoga już w porcie. W weekend trudno będzie zatankować jacht,
-kupić gaz, zrobić zakupy etc. Praktycznie wszystkie jachty planujące wymianę załogi w ten weekend są tu już w piątek w 
+kupić gaz, zrobić zakupy etc. Praktycznie wszystkie jachty planujące wymianę załogi w ten weekend są już w piątek w 
 porcie. Niektóre nawet wcześniej.
 
 Tzw. marina - czyli jeden pływający pomost - w Longyearbyen jest przepełniona. Stoi tu aż 10 jachtów, ale miejsca jest 
@@ -136,10 +136,10 @@ przynależność państwową archipelagu, a pośrednio o ten wówczas strategicz
 częściach świata, węgiel powoli traci na znaczeniu.
 
 W Longyearbyen wciąż stoją jeszcze drewniane wieże podtrzymujące liny i wiszące na nich wagoniki na węgiel. W ten sposób 
-do niedawna transportowano surowiec z kopalni do portu. Większość kopalni jest już jednak zamknięta.  
-Wdrapujemy się do kopalni Nr 2 czynnej w latach 1938-1969. W przeciwieństwie do tych na Śląsku, kopalnie nie posiadały tu
-oficjalnych nazw. Również w przeciwieństwie do tego czemu przywykliśmy, kopalnie nie znajdują się w głębi ziemi, pod 
-miastem, ale nad nim. Dokładnie w połowie wysokości otaczających Longyearbyen gór.
+do niedawna transportowano surowiec z kopalni do portu. Większość kopalni jest już jednak nieczynna.  
+Wdrapujemy się do kopalni Nr 2. Węgiel wydobywano w niej w latach 1938-1969. W przeciwieństwie do tych na Śląsku, 
+kopalnie nie posiadały tu oficjalnych nazw. Również w przeciwieństwie do tego czemu przywykliśmy, kopalnie nie znajdują 
+się w głębi ziemi, pod miastem, ale nad nim. Dokładnie w połowie wysokości otaczających Longyearbyen gór.	
 
 Drewniana konstrukcja wydaje się bardzo niestabilna. Część jest już zawalona. Mimo to postanawiamy eksplorować budowlę 
 od środka. Powoli odważamy się zapuszczać coraz dalej i coraz wyżej.
@@ -152,15 +152,15 @@ Dziś próbuje się przekształcić je w atrakcję turystyczną. Otwarto hotel i
 wejścia do budynków i dokonuje się najpotrzebniejszych napraw.  
 Nieliczni mieszkańcy starają się powstrzymać dalszą dewastację. Obecnie na stałe mieszka tu osiem osób latem i trzy zimą. 
 
-Większość dawnych budynków mieszkalnych jest wciąż w dobrym stanie. Bardziej zniszczone budynki samej kopalni opanowała 
-kolonia ptaków.  
+Większość dawnych budynków mieszkalnych jest wciąż w dobrym stanie. Bardziej zniszczone są budynki samej kopalni opanowne 
+przez kolonie ptaków.  
 Drewniany pomost w porcie do którego przycumowaliśmy wydaje się stać już resztką sił i grozić zawaleniem. Wciąż stoją  
-jednak na nim kilkutonowe: dźwig i koparka. Powyginane deski i pale wciąż są więc w stanie jakoś wytrzymać znaczne 
+jednak na nim kilkutonowe: dźwig i koparka. Powyginane deski i pale wciąż są w stanie jakoś wytrzymywać znaczne 
 obciążenia.
 
 Patrząc na umarłe miasto łatwo wpaść w melancholię i nawet żałować odchodzącego świata przemysłu XX wieku. Z drugiej  
 strony węgiel bardzo negatywnie odbił się na przyrodzie Svalbardu. Przemysł wydobywczy zanieczyszczał wprost, ale węgiel 
-chyba najbardziej przyczynił się też do efektu cieplarnianego zagrażając całej arktyce.  
+chyba najbardziej przyczynił się też do efektu cieplarnianego zagrażając całej Arktyce.  
 Może więc lepiej, że kopalnię zamknięto, a ludzie wyjechali.
 
 
@@ -171,7 +171,7 @@ naprawdę z bliska.
 Przypływamy do Poolepynten na wyspie Prins Karls Forland. Kotwicowisko nie wydaje się szczególnie dogodne i nie osłania  
 nas całkowicie od fal i wiatru. Tutaj mamy jednak dużą szansę spotkać morsy.
 
-Jacht stoi na głębokości 7 metrów, ale do brzegu jest jeszcze co najmniej setka. Bernard kierując pontonem stara się ominąć 
+Jacht stoi na głębokości 7 metrów, ale do brzegu jest jeszcze co najmniej sto. Bernard kierując pontonem stara się ominąć 
 największe fale, ale i tak jesteśmy nieco zmoczeni. Szybko znajdujemy najkorzystniejsze miejsce do lądowania na kamienistej 
 plaży.  
 Ja i Michał zostajemy z bronią. Bernard za chwilę przywiezie Mariolę i Wojtka. Teraz trzeba tylko wyciągnąć ponton wyżej 
@@ -211,13 +211,13 @@ Bardzo nieśmiało powoli okrążamy, a potem jeszcze wolniej podpływamy do uno
 nie większy niż 3 wiaderka. Odłupujemy kawałek do garnka.  
 Zdobycz może nie za wielka, ale po raz pierwszy mamy kilkusetletni lód pochodzący z lodowca! Trzeba to uczcić drinkiem.
 
-Teraz wpływając do Kongsfjorden, przy którym leży Ny-Ålesund, wieje silny wschodni wiatr. Do tej pory byliśmy od niego 
+Teraz, gdy  wpływamy do Kongsfjorden, przy którym leży Ny-Ålesund, wieje silny wschodni wiatr. Do tej pory byliśmy od niego 
 osłonięci wysokimi górami. Tutaj ukształtowanie terenu powoduje, że wiatr wciska się w fiord zmieniając kierunek i 
 przybierając na sile. Sterowanie utrudnia fakt, że wiatr i fala wypycha z fiordu krę i małe góry lodowe. Niektóre z nich 
 są wielkości jachtu, czy nawet małego statku i łatwo je dostrzec i ominąć. Małe - takie jak złowiliśmy wcześniej 
 i mniejsze - nie stanowią zagrożenia. Wśród drobnego lodu może jednak czyhać większy całkowicie znużony kawałek.  
 Nam się udaje, ale wiemy że jedna z poprzednich załóg najprawdopodobniej najechała na taki lód z dużą prędkością. Jak 
-się później dowiemy mogło przyczynić się do uszkodzenia jednej z dwu zamontowanych na jachcie echosond. 
+się później dowiemy mogło to przyczynić się do uszkodzenia jednej z dwu zamontowanych na jachcie echosond. 
 
 Prawdziwy chrzest lodowy przejdziemy jednak dopiero w Magdalenefjord. Tu zwiedzamy pozostałości osady wielorybników i 
 cmentarza z XVII wieku. Całość obszaru archeologicznego jest ogrodzona i raczej nie widać zbyt wiele zza barierki. 
@@ -225,14 +225,14 @@ Ciekawsza wydaje się wspinaczka do pobliskiego małego lodowca. Odważamy się 
 sprzętu, gdyż lód jest tutaj bardzo stabilny i nie jest popękany.  
 W końcu jednak czas wyciągnąć kotwicę i popłynąć do czoła głównego lodowca. Gdy płyniemy lewy brzeg fiordu pokrywa gęsta 
 warstwa kry i małych górek lodowych. Prawa jest całkowicie wolna od lodu.  
-Nie zbliżamy się do czoła lodowca bliżej niż na 300-500 metrów. W razie oderwania fragmentu jego czoła powstanie silna 
+Nie podpływamy  do czoła lodowca bliżej niż na 300-500 metrów. W razie oderwania fragmentu jego czoła powstanie silna 
 fala, przypominająca tsunami. Dla jachtu niebezpieczne może być także oderwanie się i raptowne wypłynięcie do góry lodu
 z dolnej podwodnej części czoła lodowca.   
 Nadaremnie wyczekujemy ocielenia się lodowca i powstania nowej góry lodowej. Raz tylko uderzając po drodze i roztrzaskując
 z hukiem przypominającym wybuch, ułamuje się średniej wielkości kawałek lodu. Nie wytworzył jednak fali przy wpadaniu 
 do wody.
 
-Możemy stać i obserwować lodowiec przez godziny, ale czas jednak płynąć dalej.  
+Możemy stać i obserwować lodowiec przez godziny, potem  czas jednak płynąć dalej.  
 Przed chwilą cieszyła nas raptowna poprawa pogody, wyjście za chmur słońca i ustanie wiatru. Pozwoliło to nam wykonać 
 kilka efektownych zdjęć. Zmieniło to jednak także diametralnie sytuację w fiordzie.  
 Zgarnięty wiatrem na jeden brzeg lód równomiernie rozproszył się teraz po całej zatoce. Kawałki lodu są relatywnie małe, 
@@ -248,7 +248,7 @@ roku, a przynajmniej teraz w lipcu, jest to jednak niemożliwe.
 Inaczej niż w poprzednich latach południowa część cieśniny Hinlopen oddzielająca Spitsbergen od Nordaustlandet (Ziemi 
 Północno-Wschodniej) wciąż zablokowana jest zwartym lodem, który przyniosły tu z północnego-wschodu zimne prądy morskie.
 
-Z ostatnich map lodowych jakie widzieliśmy w Ny-Ålesund - ostatnim miejscu gdzie dostępny był internet - wynikało, że 
+Z ostatnich map lodowych jakie widzieliśmy w Ny-Ålesund - w ostatnim miejscu gdzie dostępny był internet - wynikało, że 
 powinno się udać dopłynąć do Nordkapp - przylądka nazwanego tak jak ten w kontynentalnej Norwegii. Tak jak tam, jest to 
 w rzeczywistości wyspa, a nie część większego lądu i tak jak tam, nie jest to wcale najdalej na północ wysunięta część 
 archipelagu.
@@ -272,18 +272,18 @@ Błękitne niebo, brak fal - choć niestety i wiatru - upewniają nas jednak, ż
 
 ## koniec mapy
 
-Współczesnym żeglarzom rzadko zdarza się sytuacja, gdy płyną naprawdę w nieznane. Zazwyczaj GPS i podpięte do niego plotery 
+Współczesnym żeglarzom rzadko zdarza się sytuacja, że płyną naprawdę w nieznane. Zazwyczaj GPS i podpięte do niego plotery 
 wyświetlają pozycję jachtu na szczegółowych mapach morskich z dokładnością do kilku metrów. My, jak dawni odkrywcy, 
 wpływamy na wody poza zasięgiem dostępnych map - tych elektronicznych przynajmniej.   
 Z niejasnych powodów twórcy współczesnego oprogramowania elektronicznego uznali, że nikt nie popłynie dalej niż 80°N. 
 Może dlatego tyle osób tu zawraca. Tu kończy się morze i zaczyna niezbadana otchłań w którą nieostrożne statki mogą się 
-stoczyć - tak przynajmniej wygląda to na ploterze, tablecie czy laptopie.
+stoczyć... Tak przynajmniej wygląda to na ploterze, tablecie czy laptopie.
 
-Oczywiście morze się tu nie kończy. Dla wód położonych dalej na północ dalej istnieją mapy, jednak jedynie te tradycyjne, 
+Oczywiście morze się tu nie kończy. Dla wód położonych bardziej na północ dalej istnieją mapy, jednak jedynie te tradycyjne, 
 papierowe. Również na nich można jednak znaleźć białe plamy. Nie ma tam podanych miarodajnych głębokości, gdyż nikt nie 
 badał tych terenów od XVII - XVIII wieku.  
 Coraz trudniej przeliczyć też kurs rzeczywisty na magnetyczny. Zbliżając się do bieguna ziemskiego występują coraz 
-większe odchylenia, a kompas magnetyczny staje się coraz mniej miarodajny. 
+większe odchylenia, a kompas magnetyczny staje się coraz mniej dokładny. 
 
 Od tego momentu kierując się na północ co najmniej co godzinę odczytywać będziemy pozycje z GPS i nanosić ją na papierową
 mapę. Nowoczesne technologie wciąż nam pomagają, ale zbliżając się do bieguna coraz bardziej polegamy na tradycyjnych 
@@ -292,7 +292,7 @@ technikach nawigacyjnych.
 
 ## wysoki brzeg
 
-Płynąc wzdłuż brzegów wyspy Lagoya widzimy już klify ostatnich siedmiu wysp Svalbardu - Sjuøyane. Jedyny problem to to, 
+Płynąc wzdłuż brzegów wyspy Lagoya widzimy już klify ostatnich siedmiu wysp Svalbardu - Sjuøyane. Jedyny problem to ten, 
 że wyspy te nie posiadają wybrzeża klifowego. W ich wnętrzu znajdują się raczej niskie góry, a brzeg powinien stosunkowo 
 łagodnie opadać do morza. Mapy są tu niedokładne, ale nie aż tak. Ponadto niedokładności dotyczą raczej tylko dna 
 morskiego. W stosunku do lądu nie mogą się aż tak mylić.  
@@ -303,24 +303,24 @@ powodująca omamy. Zjawisko jest dobrze znane. Wyspy które widzimy znajdują si
 Zadziwiająca przejrzystość powietrza oraz zmiany jego temperatury nad woda i polami lodowymi, powodują załamanie się 
 światła i tą przedziwną arktyczną fatamorganę. W dawnych wiekach takie złudzenia optyczne myliły badaczy szukających 
 przejść północno-wschodniego i północno-zachodniego.  
-My jednak nie damy się zwieść i nie zawrócimy. Mimo, że obraz jest nieco zniekształcony, widzimy już że damy radę dopłynąć 
-do ostatniej najmniejszej wyspy archipelagu Svalbardzkiego - do Rossøya.
+My jednak nie damy się zwieść i nie zawrócimy. Mimo, że obraz jest nieco zniekształcony, przekonani jesteśmy, że damy 
+radę dopłynąć do ostatniej najmniejszej wyspy archipelagu Svalbardzkiego - do Rossøya.
 
 
 ## kra
 
 Żeglarze z reguły starają się omijać krę i góry lodowe. Kolizja z nawet stosunkowo małą górą lodową może zakończyć się 
-tragicznie. Zderzenie z dużą prędkością można porównać do uderzenia w skałę. Wszyscy słyszeli o losie Titanica...   
-My jednak pojawienie się pierwszej kry witamy dość entuzjastycznie. W końcu widzimy lód morski, a nie lodowcowy. W końcu 
+tragicznie. Zderzenie przy dużej prędkości można porównać do uderzenia w skałę. Wszyscy słyszeli o losie Titanica...   
+My jednak pojawienie się pierwszej kry witamy dość entuzjastycznie. W końcu widzimy lód morski, a nie lodowcowy. Wreszcie 
 widzimy kawałki lodu, które zapewne jeszcze kilkanaście dni temu stanowiły integralna część czapy lodowej bieguna 
 północnego!
  
-Pierwsze, rzadko rozrzucone kawałki kry, które wystarczyło ominąć lekkim zmiana kursu, zaczynają gęstnieć. To co wpierw 
+Pierwsze, rzadko rozrzucone kawałki kry, które wystarczyło ominąć lekką zmianą kursu, zaczynają gęstnieć. To, co dotychczas 
 przypominało labirynt małych płaskich wysp powoli zaczyna przeradzać się w grupę jezior połączonych rzekami i kanałami. 
 Słaby do tej pory wiatr, słabnie jeszcze bardziej. Zbytnio nas to nie martwi. Do tej pory i tak był zawsze za słaby dla 
 naszego ciężkiego stalowego jachtu.
 
-Lawirujemy między krą na silniku. Ciągłe zakręty i wypatrywanie drogi na początku wydawały się nawet zabawne. Teraz
+Lawirujemy między krą płynąc  na silniku. Ciągłe zakręty i wypatrywanie drogi na początku wydawały się nawet zabawne. Teraz
 przypomina to wpływanie do nigdy nie kończącej się mariny, czy portu. Coraz więcej tu "zacumowanych" lodowych jednostek, 
 których na pewno nie chcemy "uszkodzić".  
 Nigdy nie płyniemy też wprost do celu. Stale trzeba wypatrywać przejść, które choć w przybliżeniu poprowadzą nas na północ.
@@ -333,7 +333,7 @@ Pole lodowe które wydawało się sięgać horyzontu w końcu się kończy. Do o
 dzieli nas tylko kilka mil otwartej wody.  
 Na południe od większej z nich Vesle Tavleøya widać wydawałoby się znajomą kilkumetrową ścianę lodu. Nie jest to jednak
 czoło lodowca. Przy brzegu wyspy osiadła na mieliźnie, przywiana tutaj z północy, wielka kilkusetmetrowa tafla 
-kilkuletniego lodu. Lód wystaje kilka metrów, ale zapewne jeszcze więcej skrywa się pod wodą.
+kilkuletniego lodu. Lód wystaje kilka metrów, ale zapewne jeszcze więcej skrywa się go pod wodą.
 
 Na północ od Vesle Tavleøya widać Rossøya. Ostatnia z wysp Svalbardu wydaje się jakby najmniej okazała. Na pewno brakuje 
 jej szpiczastych szczytów Spitsbergenu. Jest raczej zaskakująco obła i niska. Tak jakby lód który przez tysiące, jeśli   
@@ -344,25 +344,25 @@ Beringa odgradzająca Azję i Amerykę.
 Płyniemy dalej, teraz już wprost na północ. Kolejne pole lodowe, potem znów odcinek wolny od lodu... Mile wleką się powoli. 
 Czas wydaje się stać w miejscu. Trzeba by w końcu iść spać, ale przecież nie tutaj, nie teraz.  
 W końcu ostateczne odliczanie. Wszyscy na pokładzie, kamery i aparaty fotograficzne naszykowane. Wpatrujemy się w ekran
-tabletu i wyświetlaną przez z niego pozycję z GPS. W końcu przekraczamy magiczną cyfrę - 81 stopni szerokości geograficznej 
-północnej.
+tabletu i wyświetlaną przez z niego pozycję z GPS... Przekraczamy magiczną cyfrę - 81 stopni szerokości geograficznej 
+północnej!
 
 Osiągnęliśmy swój cel. Zgodnie z ustaleniami Traktatu Spitsbergeńskiego, jesteśmy poza wodami archipelagu Svalbard. Wyłączamy 
 silnik by uczcić tą chwilę.       
 Wokół nas nic się nie zmieniło. Jest północ, więc słońce świeci wysoko na niebie. Woda i niebo wciąż błękitne. W oddali 
 w każdym kierunku widać biel kry. Wieje słaby północny wiatr.  
-81°N to nie szczyt. To jedynie kreska na mapie. Jeśli coś przekroczyliśmy, czy gdzieś dotarliśmy to jest to miejsce w 
-nas samych.  
+81°N to nie szczyt. To jedynie kreska na mapie. Jeśli coś przekroczyliśmy, czy gdzieś dotarliśmy to, tak naprawde,  jest 
+to miejsce w nas samych.  
 
 
 ## bang
 
 Wracamy. Znów silnik. Wiatr tym razem z dobrego kierunku - z rufy - ale wciąż za słaby.  
-Znów pole lodowe. Oczywiście nie da się płynąć "po śladach". Kra choć powoli i niezauważalnie to ciągle dryfuje, ciągle
+Znów pole lodowe. Oczywiście nie da się płynąć "po śladach". Kra choć powoli i niezauważalnie to ciągle dryfuje, wciąż
 zmienia swoją konfigurację. Trzeba manewrować i szukać nowego przejścia.
 
 Rozmawiamy co by było, gdybyśmy płynęli dalej. Jak daleko było do następnego pola lodowego? Czy dałoby się je przejść? 
-Jak daleko był stały lód?
+Jak daleko byłby stały lód?
 
 Nagle głuche bang. Nie zbyt głośna, jakby coś wpadło do zenzy. Nic co mogłoby wzbudzić natychmiastowy alarm, ale wyraźnie
 słyszeliśmy coś dziwnego. Przerywamy z Tomkiem rozmowę. Patrzymy po sobie aby się upewnić, że nam się to nie wydawało.    
@@ -408,8 +408,7 @@ Jesteśmy powyżej archipelagu Svalbardzkiego w miejscu gdzie "nikt" nie pływa.
 Nie mamy silnika...  
 Stoimy unieruchomieni w lodzie...
 
-
-# najdalej na północ
+## najdalej na północ
 
 Dalsze oględziny strat. Głośne zastanawianie, czy da się z tym coś zrobić...  
 Wyjmujemy narzędzia. Przeglądamy części.  
@@ -453,7 +452,7 @@ by głuszyc dźwięki. Musi to zrobić jedna osoba.
    
 # na żaglach   
 
-Ze wszystkich miejsc w jakich można pływać na żaglach na Svalbardzie to jest najmniej odpowiednie.  
+Ze wszystkich miejsc w których można pływać na żaglach na Svalbardzie to jest najmniej odpowiednie.  
 
 Do tej pory wiatry nam nie sprzyjały. Wpływając do fiordu mieliśmy silny wiatr z dziobu. Wypływając ciszę.  
 Gdy wiatr nagle się pojawił wystarczyło postawić żagle i zwykle ucichł. Zwijamy żagle, włączamy silnik i po 15 minutach 
@@ -463,7 +462,7 @@ Piękna słoneczna pogoda nie pomaga. Wiatry nawet jeśli stałe są wyjątkowo 
 W lodzie natomiast "nikt" nie pływa na żaglach.   
 Wąskie przejścia, konieczność częstych zwrotów, hamowania, czy obrócenia jachtu o 180° w miejscu, gdy trzeba zawrócić 
 ze ślepego zaułka, zniechęcają nawet najbardziej ambitnych żeglarzy.  
-My jednak nie mamy wyjścia. Jest szansa na naprawę, ale nie wiadomo ile potrwa, a teraz dryfujemy do Grenlandii.
+My jednak nie mamy wyjścia. Jest szansa na naprawę, ale nie wiadomo ile potrwa, a teraz dryfujemy do... Grenlandii.
 
 Rozwijamy genuę. Wiatr jest słaby, ale teraz to dobrze. Jacht rozwija prędkość jednego do półtorej węzła.  
 Mało, na granicy sterowności, ale jeśli nie znajdziemy drogi, lub nie wyrobimy się na zakręcie, to uderzenie nie będzie 
@@ -482,10 +481,10 @@ Nieco więcej obrotów, przyśpiesza. Wszystko pracuje bez zarzutu. Nie ma żadn
 Silnik działa jak nowy.
  
 Żeglarze po dopłynięciu do portu często wznoszą żartobliwy toast: "Za cudowne uratowanie!". 
-Teraz nie ma w nim jednak nawet nutki żartu, czy cynizmu.  
+Tym razem nie ma w tym jednak nawet nutki żartu, czy cynizmu.  
 
-Nie ma jednak nadmiernej euforii. Wszystko prawie natychmiast wraca do normy. Wracamy do systemu wacht. Większość załogi 
-natychmiast znika pod pokładem w kojach.  
+Nie ma też jednak nadmiernej euforii. Wszystko prawie natychmiast wraca do normy. Wracamy do systemu wacht. Większość załogi 
+szybko  znika pod pokładem w kojach.  
 Zasypiają, ale zapewne we wszystkich drzemie jeszcze nuta niepewności. Na ile naprawa okazała się skuteczna. Ile wytrzyma.
 Minie jeszcze sporo godzin, nim zaczniemy ponownie ufać naszemu jachtowi.
 
@@ -493,19 +492,19 @@ Minie jeszcze sporo godzin, nim zaczniemy ponownie ufać naszemu jachtowi.
 ## cisza
 
 Kolejne pole lodowe. Upłynęło tyle godzin, ale my w dalszym ciągu jesteśmy niewiele poniżej Rossøya. Przy Vesle Tavleøya
-nie widać jednak ściany lodu z wczoraj. Mamy go wokół siebie, pokruszony i rozrzucony po horyzont.   
-Tak jak wcześniej kre można było porównywać z wyspami, skałami czy systemem rzek i jezior, tak teraz mamy przed sobą coś
-co można porównać jedynie do lodowego grzęzawiska. Przejścia są coraz węższe, coraz bardziej kręte i zagmatwane, coraz 
-częściej trzeba używać tyczek by odepchnąć kawałki lodu od kadłuba.
+nie widać jednak ściany lodu, którą widzieliśmy wczoraj. Mamy go wokół siebie, pokruszony i rozrzucony po horyzont.   
+Tak jak wcześniej krę można było porównywać z wyspami, skałami czy systemem rzek i jezior, tak teraz mamy przed sobą coś
+co przypomina lodowe grzęzawisko. Przejścia są coraz węższe, coraz bardziej kręte i zagmatwane, coraz częściej trzeba 
+używać tyczek by odepchnąć kawałki lodu od kadłuba.
  
 Słaby dotychczas wiatr ucicha. Równo i gęsto rozsiany lód ochłodził zapewne powietrze nad wodą i zaczyna wytwarzać swój 
 własny mikroklimat. Ściąga cieplejsze powietrze z góry w dół, wytwarza lokalny mini wyż arktyczny, który niweluje wszelkie 
 wiatry.
 
-Cisza ma w sobie coś potwornego znanego jedynie z opowieści o starych żaglowcach unieruchomionych na dni, czy tygodnie 
+Cisza ma w sobie coś potwornego znanego jedynie z opowieści o starych żaglowcach unieruchomionych na długie dni, czy tygodnie 
 w totalnej ciszy występującej czasami na oceanie.  
 Mocno świeci słońce i jest dobra widoczność, ale bezruch powietrza przypomina ten jaki można również doświadczyć we mgle.  
-Lód wydaje się zaciskać wokół nas. Teraz może mamy silnik i możemy płynąć, ale coraz mniej widać drogę, którą moglibyśmy 
+Lód wydaje się zaciskać wokół nas. Teraz mamy silnik i możemy płynąć, ale coraz mniej widać drogę, którą moglibyśmy 
 podążać.
 
 Cisza, słońce, ciepło i bezruch powietrza wywołują poczucie spokoju. Wszystkie emocje ostatnich 24 godzin odpływają.  
@@ -520,32 +519,31 @@ z radaru i głębokie przeświadczenie, że to niemożliwe w niczym nie pomagał
 przed dziobem jachtu. Podświadomy strach nie pozwalał płynąc prosto, musiał ja okrążyć.   
 Teraz lód dookoła jest realny. Dalej, 500 metrów na lewo widać otwarta wodę. Czy to małe fale i wiatr? Czy to już 
 rzeczywiście koniec pola lodowego, czy to jakaś kolejna arktyczna fatamorgana...    
-Piotrek stojący na dziobie wskazuje przejście, w które powinniśmy się zmieścić by tam dojść. To upewnia, że to prawda i
-widać już wyjście.
+Piotrek stojący na dziobie wskazuje przejście, w które powinniśmy się zmieścić by tam dojść. Upewnia mnie to, że to prawda 
+i rzeczywiście widać już wyjście.
 
 
 ## koniec świata
 
-Wyspy Sjuøyane już daleko za nami. Wpływamy w cieśninę Hinlopen. Nie będziemy próbowali jej przepłynąć wciąż jest 
+Wyspy Sjuøyane już daleko za nami. Wpływamy w cieśninę Hinlopen. Nie będziemy próbowali jej przepłynąć, wciąż jest 
 zamknięta, ale chcemy odwiedzić przynajmniej jedno miejsce na Nordaustlandet - drugiej co do wielkości wyspie Svalbardu, 
 prawie całkowicie pokrytej przez lodowce. Potrzebujemy też przerwy od żeglugi non-stop.
 
 Krajobraz jest znów inny niż dotychczas. Ani na lewo na Ziemi Północno-Wschodniej, ani na prawo na Spitsbergenie nie widać
-wysokich szpiczastych szczytów. Nagie stoki niskich góry widoczne są tylko przy brzegu. Dalej i nad nimi widoczne są 
+wysokich szpiczastych szczytów. Nagie stoki niskich góry widoczne są tylko przy brzegu. Dalej i nad nimi rozciągają się  
 ogromne połacie czap lodowych i spływające do morza lodowce.
 Jednak prawie całkowity brak lodu w wodzie powoduje wrażenie, że wróciliśmy z północy do jakiś południowych wysp. Tu czeka 
 na nas bezpieczna zatoka i odpoczynek.
-  
-Kinnvika w to stara opuszczona Szwecko-Fińsko-Swajcarska stacja arktyczna. Założona w 1957 roku jedynie przez pierwsze 
+Kinnvika to stara opuszczona Szwecko-Fińsko-Swajcarska stacja arktyczna. Założona w 1957 roku jedynie przez pierwsze 
 3 lata była zamieszkana non stop. Później w latach 60-tych i 80-tych służyła za letnią bazę. Ponownie naukowcy wracali 
 tu w latach 2005-2009.   
-Dziś stacja jest całkowicie opuszczona, ale wszystkie budynki są w dobrym stanie i widać że są należycie zabezpieczone 
+Dziś stacja jest całkowicie opuszczona, ale wszystkie budynki są w dobrym stanie i widać, że są należycie zabezpieczone 
 przed działaniem surowego klimatu. 
 
 Chodząc po opuszczonych budynkach stacji - z których wszystkie prócz jednego są dostępne - ma się dziwne uczucie jakbyśmy
 przenieśli się w czasie. Budowniczowie stacji już dawno ją opuścili, może nawet już nie żyją, ale wydaje się, że byli tu
 dosłownie przed chwilą. Na szkolnej tablicy w głównej sali bazy wciąż widać napis pożegnalny załogi stacji z 1966 roku.  
-Jednocześnie mamy poczucie że trafiliśmy na kraniec świata. Ludzie tu kiedyś mieszkali, ale surowy klimat i trudności
+Jednocześnie mamy poczucie, że trafiliśmy na kraniec świata. Ludzie tu kiedyś mieszkali, ale surowy klimat i trudności
 komunikacyjne sprawiły, że musieli się wycofać w bardziej południowe rejony. W tym momencie jesteśmy prawdopodobnie 
 jedynymi ludźmi na wyspie o wielkości Północnej Irlandii. 
 
@@ -568,7 +566,7 @@ Od kilku dni nie zebraliśmy się na żaden wspólny posiłek poza obiadem. Tera
 pierwszy rusza na "podboje" lądu. Zarządzamy śniadanio-kolację.  
 Jedni przygotowują jedzenie, inni spuszczają na wodę ponton, uzupełniają paliwo w zbiorniku silnika zaburtowego, pakują 
 plecaki. Największym entuzjazmem wydaje się tryskać Wojtek, przynajmniej do momentu, gdy Mariola uświadamia mu, że jest 
-4 rano, a nie po południu tak jak myślał i, że wstali po zaledwie dwu godzinach snu.
+4 rano, a nie po południu, jak myślał i, że wstali po zaledwie dwu godzinach snu.
 
 Nie ważne która godzina. Słońce świeci wysoko, a my mamy przed sobą długa drogę.  
 Niestety nie mamy mapy topograficznej, ale z przewodnika i mapy morskiej wygląda że mamy do pokonania 10 km idąc cały 
@@ -602,20 +600,20 @@ W latach świetności - w latach 1630-40 - w tej Holendersko-Duńskiej bazie wie
 200 osób. Dwa razy tyle pracowało prawdopodobnie na około 15 statkach łowiących na okolicznych wodach. Na wyspie 
 odnaleziono pozostałości 17 budynków w tym małego drewnianego fortu.
 
-Do dziś niewiele z tego pozostało. Widoczne są jedynie czarne pozostałości pieców, gdzie kiedyś wytapiano tran i groby 
+Do dziś niewiele z tego ocalało. Widoczne są jedynie czarne pozostałości pieców, gdzie kiedyś wytapiano tran i groby 
 tych którzy nie zdołali wytrzymać trudów ciężkiej pracy w arktyce.  
 
-Osada zniknęła tak szybko jak się pojawiła. W 1660 roku nikt już tu nie mieszkał.  
-Stada okolicznych wielorybów zostały szybko wytrzebione. Łowić trzeba było coraz dalej od lądu i przestało się opłacać 
-ściąganie ciał wielorybów "do obróbki" na wyspę.  
-Polowania trwały jednak nadal przez cały XVIII i XIX wiek, a nawet w XX stuleciu. Dziś te majestatyczne zwierzęta są już 
-rzadkością. Wraz z nimi zniknął prawdopodobnie cały bogaty ekosystem morski tych wód.
+Osada zniknęła tak szybko jak się pojawiła. Stada okolicznych wielorybów zostały szybko wytrzebione i łowić trzeba było 
+coraz dalej od lądu. Ściąganie ciał wielorybów "do obróbki" na wyspę przestało się opłacać. W 1660 roku nikt już tu nie 
+mieszkał. 
+Jednak polowania na wieloryby trwały przez cały XVIII i XIX wiek i trwają nadal. Dziś te majestatyczne zwierzęta są już 
+rzadkością. Wraz z nimi zniknął prawdopodobnie cały bogaty ekosystem morski.
 
 Łatwo oceniać naszych przodków i potępiać ich za spustoszenie jakiego dokonali w tutejszej przyrodzie. Z drugiej strony,
 czy tak bardzo różnią się od pracujących tu wciąż górników. Może bardziej zresztą przypominają pracowników platform
 wiertniczych, które już wkrótce mogą się w arktyce pojawić.  
 Tak jak wtedy, tak i teraz, liczy się często chęć szybkiego zysku i zapotrzebowanie na olej. Kogo jednak potępiać 
-producentów, czy użytkowników.
+producentów, czy użytkowników?
 
 Zresztą i my nie jesteśmy całkiem bez winy. Płynąc na jachcie wypatrujemy tych ogromnych majestatycznych ssaków w
 wodzie. Jednak w porcie szukamy ich także w menu lokalnych restauracji...  
@@ -643,7 +641,7 @@ Stację oddzielają od reszty wyspy dwa lodowce i potężna czapa lodowa. Zimą 
 jest ona jednak zbyt spękana. Jedyną komunikację ze światem mieszkańcy utrzymują dzięki przepływającym jachtom i jeszcze 
 rzadziej odwiedzającym ich helikopterowi. W tym roku ma on pojawić sie tu po raz pierwszy dopiero za tydzień. Oczywiście 
 jest telefon satelitarny, ale używany raczej jedynie do krótkich rozmów służbowych.   
-W co najtrudniej uwierzyć naszemu 13 letniemu członkowi załogi - nie ma internetu.
+W co najtrudniej uwierzyć naszemu 13 letniemu członkowi załogi - nie ma tu internetu.
 
 Zaskakujące jak szybko dwie grupy obcych i tak różnych sobie osób znajdują wspólny język. Po kilku godzinach wydaje się,
 że znamy się od dawna. Kolejne miejsce, gdzie chciałoby się pozostać dłużej, ale trzeba odpłynąć. 
@@ -652,7 +650,7 @@ Zaskakujące jak szybko dwie grupy obcych i tak różnych sobie osób znajdują 
 ## Rosja
 
 Rejs powoli zbliża się ku końcowi. Mimo, że nie udało się opłynąć Spitsbergenu to zatoczyliśmy pewnego rodzaju koło. 
-Wypływając zaczęliśmy od opuszczonego rosyjskiego miasta górniczego. Wracając odwiedzamy jeszcze wciąż zamieszkały - 
+Wypływając, zaczęliśmy od opuszczonego rosyjskiego miasta górniczego. Wracając odwiedzamy jeszcze wciąż zamieszkały - 
 Barentsburg.  
 Port nie robi najlepszego wrażenia. Pomost może jeszcze nie tak zniszczony jak w Pyramiden, ale ani wielkie opony, ani 
 tzw. przystań dla jachtów nie wydają się zapraszać. Po zacumowaniu widać stare, drewniane i zniszczone budynki portowe. 
@@ -678,8 +676,8 @@ Wielkiego osiadłą nad brzegami Morza Białego, która już w średniowieczu wy
 od reszty Rosjan.   
 Do dziś Rosjanie uważają, że pierwszymi odkrywcami dalekiej północy, w tym także Svalbardu, byli właśnie Pomorcy. Jak na 
 ironię ostatnie zamieszkane przez Rosjan miasto na wyspie nosi jednak nazwę holenderskiego odkrywcy archipelagu.   
-Dziś mieszka tu już tylko 500 osób. O dziwo są to nie tylko Rosjanie, ale także Ukraińcy tak jakby dawny duch bratnich 
-narodów jakoś tu przetrwał.
+Dziś mieszka tu już tylko 500 osób. O dziwo są to nie tylko Rosjanie, ale także Ukraińcy tak jakby przetrwał tu dawny duch 
+bratnich narodów.
 
 My także czujemy się tu bardziej swojsko. Na początku mieszkańcy nie są zbyt rozmowni. Unikają turystów z jachtu.  
 Gdy jednak próbujemy porozumieć się po rosyjsku, są bardziej życzliwi. Pokazują, że możemy nieoficjalnie podłączyć się 
@@ -701,7 +699,7 @@ coś co wykracza poza zakres ich codziennych obowiązków.
 
 ## miejscowi
 
-Kilka godzin i znów jesteśmy w Longyearbyen. Miasto tym razem nie zaskakuje. Wydaje się przez to też jakoś bardziej szare, 
+Kilka godzin i znów jesteśmy w Longyearbyen. Miasto tym razem nie zaskakuje. Wydaje się też jakoś bardziej szare, 
 codzienne.  
 Odwiedzamy muzeum i odnajdujemy tzw. *Polską Chatę*, dom stanowiący rodzaj pierwszej bazy dla polskich wypraw naukowych 
 na Svalbardzie. Poznajemy tu Marka Zajączkowskiego, profesora Instytutu Oceanografii do którego lepiej chyba jednak pasuje 
@@ -710,11 +708,11 @@ otaczającej przyrodzie.
 Wieczorem pójdziemy do baru, bo tego właśnie dnia będzie po raz pierwszy w historii wyspy sprzedawane lokalne piwo.  
 
 Wszystko jednak toczy się już znacznie wolniej. Nigdzie się nie śpieszymy. Zdejmując kurtki i czapki - w końcu jest lato.  
-Powoli upodabniamy się do mieszkańców tak bardzo, że kolejna załoga *JoinUs* myli nas z nimi.
+Powoli upodabniamy się tak bardzo do mieszkańców, że kolejna załoga *JoinUs* myli nas z nimi.
 
 Czekając na samolot przychodzi refleksja, że przyjdzie nam jeszcze raz przeczytać *Białe*. Tym razem wolniej. Ze 
 zrozumieniem.  
-Teraz znamy już miejsca i przynajmniej część z występujących tam postaci.
+Teraz znamy już te miejsca i przynajmniej część z występujących tam postaci.
 
 Na pewno przyjdzie nam jeszcze wrócić na samą wyspę...
 
@@ -727,7 +725,7 @@ płyną i jakie dokładnie są ich plany - może żeby nie zapeszyć.
 W końcu popłynęli na północny-wschód docierając do 82°37'N powyżej Nowej Ziemi, bijąc tym samym rekord żeglugi na północ
 jachtem sportowym.
 
-Nam nie udało sie dotrzeć aż tak daleko, ale jak jak zauważył to Wojtek po rejsie, my też pobiliśmy swój rekord płynąc 
+Nam nie udało sie dotrzeć aż tak daleko, ale jak zauważył to Wojtek po rejsie, my też pobiliśmy swój rekord płynąc 
 najdalej na północ w swoim życiu. Zdobyliśmy swój własny, prywatny biegun północny.
 
 Jak sie okazuje można jednak dalej. Będzie więc po co wracać.
@@ -756,4 +754,3 @@ W rejsie udział wzięli *(patrząc od lewej)*:
 * *Bernard* - co...
 
 W czasie rejsu przepłynęliśmy 784 mil morskich - niestety głównie na silniku.
-
