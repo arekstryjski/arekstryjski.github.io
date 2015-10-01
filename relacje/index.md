@@ -20,9 +20,9 @@ Tym razem nie jedna, ale aż trzy relacje:
 
 * Kasia Stefanow *[Svalbard 2015](/svalbard-2015)* - relacja z rejsu 22.08 - 5.09.2015 na jachcie *JoinUs*
 * Michał Stryjski *[Svalbard sailing holiday](/svalbard-sailing-holiday)* - relacja mojego syna z naszego rejsu (po angielsku)
-* i w końcu moja relacja *Jeden stopień dalej* z rejsu 25.07 - 8.08.2015 na *JoinUs* **(już wkrótce)**
+* i w końcu moja relacja *[Jeden stopień dalej](/jeden-stopien-dalej)* z rejsu 25.07 - 8.08.2015 na *JoinUs* 
 
-![Svalbard](/img/2015/svalbard/svalbard.jpg)]
+![Svalbard](/img/2015/svalbard/svalbard.jpg)
 
 
 [Kraina tysiąca wysp i jednej nocy](/kraina-1000-wysp-i-1-nocy/) 

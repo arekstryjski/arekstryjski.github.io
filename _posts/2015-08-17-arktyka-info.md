@@ -45,6 +45,17 @@ poradniki
 * *Attainable Adventure Cruising:* ***Why The High Latitudes***  
   Phyllis Nickel, John Harries;
   <small>[www](http://www.morganscloud.com/series/why-the-high-latitudes/)</small>  
+  
+* ***Sea ice***
+  Pierre Taverniers
+  
+* ***Icebergs***
+  Christian Kempf
+  
+wspomnienia / reportaże
+------------------------  
+* ***Pod żaglami wśród polarnych lodów***
+  Ewa Skut
 
 
 linki
