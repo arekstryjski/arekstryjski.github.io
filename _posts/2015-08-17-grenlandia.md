@@ -27,18 +27,16 @@ linki
 * [Rząd Grenlandii](http://naalakkersuisut.gl/en)
 * [oficjalna strona dla turystów](http://www.greenland.com/en/)
 * [Nanu Travel w Ittoqqortoormiit](http://www.nanutravel.dk/)
-http://www.greenlandexpeditions.com/
-http://www.northsailing.is/tours/greenland/
+
+<!-- http://www.greenlandexpeditions.com/ -->
+<!-- http://www.northsailing.is/tours/greenland/ -->
 
 przewodniki
 ------------
-* ***Greenland & The Arctic***
+* ***Greenland & The Arctic*** *(Lonely Planet Country Guides)*
+   Etain O'Carroll, Mark Elliott; 
+   <small>[druk](http://www.amazon.co.uk/Greenland-Arctic-Lonely-Planet-Country/dp/1740590953)</small>  
 
-
-loty
-----
-* https://www.airiceland.is/information/travel-guide/flight-schedule?origin=CNP&periodFrom=03%2F09%2F2015&destination=AEY&periodTo=03%2F10%2F2015
-* https://www.airgreenland.com/destinations/greenland/nerlerit-inaat
         
 wspomnienia / reportaże
 ------------------------

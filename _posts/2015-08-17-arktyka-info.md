@@ -27,13 +27,14 @@ mapy
 
 pilot books
 -----------
+* ***Arctic and Northern Waters***
+  Andrew Wilkes; 2014;
+  <small>[druk](http://www.rccpf.org.uk/publications/263-anw)</small>
+  <small>[suplement](https://www.imray.com/files/book_supplements/IB0209-S.pdf?id=1432646132)</small>
+
 * *RCC Pilotage Foundation:* ***Arctic and Northern Waters***  
   Jane Russell; 2011;
   <small>[pdf](http://www.rccpf.org.uk/publications/arctic/arctic-contents)</small>  
-  
-* *RCC Pilotage Foundation:* ***Norway Cruising Guide***   
-  Judy Lomax; 2010;
-  <small>[druk](http://www.rccpf.org.uk/publications/europe-a-mediterranean/norway)</small>
   
   
 poradniki
@@ -46,6 +47,10 @@ poradniki
   Phyllis Nickel, John Harries;
   <small>[www](http://www.morganscloud.com/series/why-the-high-latitudes/)</small>  
   
+* ***Glacier Travel and Crevasse Rescue***: *Second Edition (Mountaineering Outdoor Experts Series)*
+  Andy Selters;
+  <small>[kindle](http://www.amazon.co.uk/Glacier-Travel-Crevasse-Rescue-Mountaineering-ebook/dp/B00B1FTMTS)</small>
+  
 * ***Sea ice***
   Pierre Taverniers
   
@@ -56,12 +61,12 @@ wspomnienia / reportaże
 ------------------------  
 * ***Pod żaglami wśród polarnych lodów***
   Ewa Skut
+  <small>[druk](http://www.skut.pl/)</small>
 
 
 linki
 ------  
-
-* portal [Polskie Żeglarstwo Polarne](http://polskiezeglarstwopolarne.pl/)
+* portal **[Polskie Żeglarstwo Polarne](http://polskiezeglarstwopolarne.pl/)**
 
 * [Polar Research Journal](http://www.polarresearch.net/)
 
