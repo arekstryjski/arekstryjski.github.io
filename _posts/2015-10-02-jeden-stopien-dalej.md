@@ -805,7 +805,7 @@ trasa
 <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
 <div class="map_canvas" id="trasa"></div>
 
-*Przesuń albo zoom-uj mapę jeśli wszystkie kursy jachtu nie sa widoczne.*
+*Przesuń i/lub zoom-uj mapę jeśli wszystkie kursy jachtu nie sa widoczne.*
 
 -----------------------------------------------
 
