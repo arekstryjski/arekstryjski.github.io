@@ -15,7 +15,7 @@
 		<Style id="TrackStyle">
 			<LineStyle>
 				<width>6.0</width>
-				<color>CD5500FF</color>
+				<color>CC1400FF</color>
 			</LineStyle>
 		</Style>
 		<Style id="StartStyle">

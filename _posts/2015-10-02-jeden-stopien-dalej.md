@@ -805,6 +805,8 @@ trasa
 <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
 <div class="map_canvas" id="trasa"></div>
 
+*Przesuń albo zoom-uj mapę jeśli wszystkie kursy jachtu nie sa widoczne.*
+
 -----------------------------------------------
 
 
@@ -838,8 +840,6 @@ function initialize() {
     var mapDiv = document.getElementById("trasa");
     var map = new google.maps.Map(mapDiv, {
       mapTypeId: google.maps.MapTypeId.TERRAIN,
-      zoom: 4,
-      center: {lat: 79.432073, lng: 17.046265}
     });        
     loadKmlLayer("http://stryjski.net/tracks/2015-07-26-svalbard.kml", map);
     loadKmlLayer("http://stryjski.net/tracks/2015-07-28-svalbard.kml", map);
