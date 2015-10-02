@@ -80,6 +80,12 @@ h1 {
     .jumbotron h1 {
         font-size: 20pt;
     }
+
+    .map_canvas {
+        width: 500px;
+        height: 400px;
+        background-color: #CCC;
+    }
 }
 
 blockquote {
