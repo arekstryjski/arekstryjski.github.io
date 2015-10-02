@@ -425,8 +425,8 @@ Na pierwszy rzut oka nie widać nic niepokojącego. Silnik na swoim miejscu, nad
 śruby, ale nie obraca się, dalej... stalowy walec łączący wał i silnik leży oparty na dnie zenzy. Opadł niecałe 10cm 
 poniżej pozycji w której powinien być, ale silnik i wał wyraźnie nie są ze sobą połączone...  
 
-Notujemy czas 04?? i pozycję 80°??'N 20°??E.   
-Wciąż jesteśmy na północ od Rossøya choć teraz zdecydowanie bardziej na zachód, dalej od lądu. To dobrze przynajmniej nie
+Notujemy czas 0421 i pozycję 80°56'N 20°12E.   
+Wciąż jesteśmy na północ od Rossøya choć teraz bardziej na zachód, dalej od lądu. To dobrze przynajmniej nie
 zdryfujemy na skały.   
 
 Przyglądamy się elementom. Wyraźnie widać 3 śruby łączące dwie metalowe tarcze. Te przy silniku na pewno da się wykręcić; 
