@@ -846,8 +846,8 @@ function initialize() {
     loadKmlLayer("http://stryjski.net/tracks/2015-07-29-svalbard.kml", map);
     loadKmlLayer("http://stryjski.net/tracks/2015-07-30-svalbard.kml", map);
     loadKmlLayer("http://stryjski.net/tracks/2015-08-02-svalbard.kml", map);
-    loadKmlLayer("http://stryjski.net/tracks/2015-08-03-a-svalbard.kml", map);
-    loadKmlLayer("http://stryjski.net/tracks/2015-08-03-b-svalbard.kml", map);
+    loadKmlLayer("http://stryjski.net/tracks/2015-08-03-1-svalbard.kml", map);
+    loadKmlLayer("http://stryjski.net/tracks/2015-08-03-2-svalbard.kml", map);
     loadKmlLayer("http://stryjski.net/tracks/2015-08-04-svalbard.kml", map);
     loadKmlLayer("http://stryjski.net/tracks/2015-08-05-svalbard.kml", map);
     loadKmlLayer("http://stryjski.net/tracks/2015-08-06-svalbard.kml", map);
