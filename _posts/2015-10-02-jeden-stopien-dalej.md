@@ -753,7 +753,7 @@ Czekając na samolot przychodzi refleksja, że przyjdzie nam jeszcze raz przeczy
 wolniej. Ze zrozumieniem.  
 Teraz znamy już te miejsca i przynajmniej część z występujących tam postaci.  
 
-Na pewno przyjdzie nam jeszcze wrócić na samą wyspę...  
+Na pewno przyjdzie nam jeszcze też wrócić na samą wyspę...  
 
 ![polska hata](/img/2015/svalbard/polska-hata.jpg) 
 
@@ -800,6 +800,10 @@ Więcej zdjęć z rejsu dostępne jest w albumach:
 * [Barentsburg](https://www.facebook.com/media/set/?set=a.10153006890306820.1073741858.672761819&type=1&l=5d5936c5d7)
 
 
+trasa
+------
+<script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+<div class="map_canvas" id="trasa"></div>
 
 -----------------------------------------------
 
@@ -818,3 +822,34 @@ najdalej na północ w swoim życiu. Zdobyliśmy swój własny, prywatny biegun 
 Jak sie okazuje można jednak dalej. Będzie więc po co wracać.  
 
 ![3 polskie załogiw Longyearbyen](/img/2015/svalbard/3_zalogi.jpg) 
+
+
+
+
+<script>
+function loadKmlLayer(src, map) {
+  var kmlLayer = new google.maps.KmlLayer(src, {
+    suppressInfoWindows: true,
+    preserveViewport: false,
+    map: map
+  });
+}
+function initialize() {    
+    var mapDiv = document.getElementById("trasa");
+    var map = new google.maps.Map(mapDiv, {
+      mapTypeId: google.maps.MapTypeId.TERRAIN
+    });        
+    loadKmlLayer("http://stryjski.net/tracks/2015-07-26-svalbard.kml", map);
+    loadKmlLayer("http://stryjski.net/tracks/2015-07-28-svalbard.kml", map);
+    loadKmlLayer("http://stryjski.net/tracks/2015-07-29-svalbard.kml", map);
+    loadKmlLayer("http://stryjski.net/tracks/2015-07-30-svalbard.kml", map);
+    loadKmlLayer("http://stryjski.net/tracks/2015-08-02-svalbard.kml", map);
+    loadKmlLayer("http://stryjski.net/tracks/2015-08-03-a-svalbard.kml", map);
+    loadKmlLayer("http://stryjski.net/tracks/2015-08-03-b-svalbard.kml", map);
+    loadKmlLayer("http://stryjski.net/tracks/2015-08-04-svalbard.kml", map);
+    loadKmlLayer("http://stryjski.net/tracks/2015-08-05-svalbard.kml", map);
+    loadKmlLayer("http://stryjski.net/tracks/2015-08-06-svalbard.kml", map);
+    loadKmlLayer("http://stryjski.net/tracks/2015-08-07-svalbard.kml", map);
+}
+google.maps.event.addDomListener(window, 'load', initialize);
+</script>
