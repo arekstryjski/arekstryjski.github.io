@@ -1,5 +1,5 @@
 ---
-title: Jeden stopień więcej
+title: Jeden stopień dalej
 layout: post
 category: relacje
 keywords: żeglarstwo, Spitsbergen, Svalbard, Arktyka
