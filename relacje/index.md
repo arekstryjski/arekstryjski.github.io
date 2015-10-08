@@ -2,10 +2,12 @@
 title: relacje z rejsów
 layout: section
 category: relacje
-keywords: relacje z rejsów, rejsy, rejsy morskie, żeglarstwo, yachting, jachting, Grecja, Gibraltar, Sycylia, Chorwacja
-desc: Relacje z rejsów które prowadziłem w przeszłości. Rejsy weekendowe w UK, Grecja, Gibraltar, Sycylia.
+keywords: relacje z rejsów, rejsy, rejsy morskie, żeglarstwo, yachting, jachting, Arktyka, Grecja, Gibraltar, Sycylia, Chorwacja
+desc: Relacje z rejsów które prowadziłem. Rejsy weekendowe w Spitsbergen, Norwegia, UK, Grecja, Gibraltar, Sycylia.
 img: /img/2013/setsail/sun_l.jpg
-date: 2015-09-30
+date: 2015-10-08
+imgw: 900
+imgh: 600
 ---
 
 
@@ -22,7 +24,11 @@ Tym razem nie jedna, ale aż trzy relacje:
 * Michał Stryjski *[Svalbard sailing holiday](/svalbard-sailing-holiday)* - relacja mojego syna z naszego rejsu (po angielsku)
 * i w końcu moja relacja *[Jeden stopień dalej](/jeden-stopien-dalej)* z rejsu 25.07 - 8.08.2015 na *JoinUs* 
 
+Zobacz także relację Kasi i Marty na ich blogu *[Sea Dreamers](http://sea-dreamers.blogspot.co.uk/2015/09/wakacje-w-arktyce.html)* 
+z rejsu 8.08 - 22.08.2015 na tym samym jachcie.
+
 ![Svalbard](/img/2015/svalbard/svalbard.jpg)
+
 
 
 [Kraina tysiąca wysp i jednej nocy](/kraina-1000-wysp-i-1-nocy/) 
