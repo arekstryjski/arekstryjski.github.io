@@ -221,6 +221,8 @@ blockquote p {
 
 .main-podpis {
     font-style: italic;
+    margin-top: 15px !important;
+    font-size: 20pt !important;
 }
 
 .main-link {
@@ -242,4 +244,8 @@ blockquote p {
     background:#fff; 
     clear:left; 
     font:14px Helvetica,Arial,sans-serif; 
+}
+
+.credit {
+    font-size: smaller;
 }
