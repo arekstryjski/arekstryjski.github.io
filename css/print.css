@@ -18,3 +18,10 @@
     color: #ffffff;
     page-break-before:always
 }
+
+body {
+    font-size: 9pt;
+    line-height: 120%;
+    margin-top: 2pt;
+    margin-bottom: 2pt;
+}

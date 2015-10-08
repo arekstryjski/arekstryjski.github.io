@@ -9,26 +9,9 @@
 </div>
 <div class="container">
     <div class="row">
-        <div class="col-sm-9">
+        <div class="col-sm-12">
             {% include interest.html label=page.interest paid=page.interest_paid res=page.interest_res free=page.interest_free label2=page.interest2 paid2=page.interest_paid2 res2=page.interest_res2 free2=page.interest_free2 %}
             <div>{{ content }}</div>
-        </div>
-        <div class="col-sm-3 no-print">
-            <div class="row main-row">
-                <div class="col-md-12">
-                    {% include newsletter.html %}
-                </div>
-            </div>
-            <div class="row main-row">
-                <div class="col-md-12">
-                    &nbsp;
-                </div>
-            </div>
-            <div class="row main-row">
-                <div class="col-md-12">
-                    {% include social_btn.html %}
-                </div>
-            </div>
         </div>
     </div>
     {% include back_btn.html goto=page.category  %}

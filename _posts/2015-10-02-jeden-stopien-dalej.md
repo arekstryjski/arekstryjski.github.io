@@ -91,7 +91,7 @@ Idziemy szybko, a jednak dotarcie gdziekolwiek zajmuje mnóstwo czasu. Co chwila
 egzotycznemu krajobrazowi, zrobić zdjęcie.  
  
 Nie jest aż tak zimno jak się spodziewaliśmy, jednak na wszelki wypadek chodzimy opatuleni w zimowe kurtki, czapki i 
-rękawiczki. W sklepie kupujemy nie tylko kartki pocztowe i pamiątki, ale także swetry i wełnianą odzież termiczną. W podjęciu  
+rękawiczki. W sklepie kupujemy nie tylko kartki pocztowe i pamiątki, ale także swetry i wełnianą odzież termiczną. W podjęciu 
 decyzji by wydać nieco ponad planowany budżet, pomagają jednak przede wszystkim niskie ceny i brak VAT, a nie klimat. 
 
 ## broń

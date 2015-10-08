@@ -33,12 +33,31 @@ img {
 }
 
 .post-jumbotron h1 {
-    font-size: 20pt;
+    font-size: 30pt;
     color: #424242;
 }
 
+.jumbotron {
+    background-color: #f8f8f8;
+}
+
+body {
+    font-size: 13pt;
+    line-height: 155%;
+    margin-top: 5pt;
+    margin-bottom: 5pt;
+    color: rgba(0, 0, 0, 0.8);
+}
+
 h1 {
+    margin-top: 35pt;
+    font-size: 30pt;
+}
+
+h2 {
+    margin-top: 30pt;
     font-size: 20pt;
+    font-weight: normal;
 }
 
 @media screen and (min-width: 768px) {
@@ -76,9 +95,11 @@ h1 {
         float: left;
         margin-right: 10px;
     }
+}
 
-    .jumbotron h1 {
-        font-size: 20pt;
+@media (min-width: 1200px) {
+    .container {
+        width: 900px;
     }
 }
 
@@ -89,11 +110,6 @@ blockquote {
     background-color: #fafaff;
 }
 
-h2 {
-    font-size: 21px;
-    text-transform: lowercase;
-    font-weight: normal;
-}
 
 .sub-menu {
     border-radius: 5px;
@@ -114,9 +130,10 @@ blockquote p {
 }
 
 .post-date {
-    font-size: 10px;
+    font-size: 10pt;
     text-transform: lowercase;
     color: #555555;
+    font-style: italic;
 }
 
 .post-address {
@@ -199,7 +216,7 @@ blockquote p {
 }
 
 .main-ahoj {
-    font-size: 42pt;
+    font-size: 40pt;
 }
 
 .main-podpis {
@@ -211,14 +228,14 @@ blockquote p {
 }
 
 .main-header {
-    font-size: 21pt;
+    font-size: 20pt;
 }
 
 .main-img {
 }
 
 .main-row {
-    margin-bottom:25px;
+    margin-bottom:20px;
 }
 
 #mc_embed_signup {
