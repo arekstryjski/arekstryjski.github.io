@@ -2,7 +2,7 @@
 title: Arek Stryjski - sailing CV
 layout: page
 category: arek
-date: 2015-08-12
+date: 2015-10-12
 desc: Arek Stryjski - sailing CV
 ---
 
