@@ -1,3 +1,14 @@
+- log: 44
+  start: 2015-10-09
+  end: 2015-10-10  
+  day: 2
+  nm: 23
+  pos: skipper 
+  sea: Solent
+  ports: Gosport - Gosport
+  y_name: Elli B
+  y_type: Beneteau Oceanis 37
+
 - log: 43
   start: 2015-07-25
   end: 2015-08-08

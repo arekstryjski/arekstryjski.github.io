@@ -30,8 +30,8 @@ languages
 
 sailing experience
 ------------------
-* nautical miles: 11513 - 9207 as skipper
-* days at sea: 254 - 207 as skipper
+* nautical miles: 11536 - 9230 as skipper
+* days at sea: 256 - 209 as skipper
 * sailing areas: Arctic, North Atlantic, Bay of Biscay, Norwegian Sea, North Sea, Irish and Celtic Seas, English Channel, Mediterranean 
 
 *2007 - current*: Working as skipper for JoinUs.pl on vacation cruises with people of various experience, including kids and complete beginners.  
