@@ -50,9 +50,6 @@ Zobacz jak było na poprzednich rejsach: [Dookoła wyspy Wight - Solent zimą](/
 <br>
 </p>
 
-----------------------------------------------------
-
-[zobacz w kalendarzu](/arek/kalendarz.html)
 
 
 

@@ -23,7 +23,6 @@ w czym mogę pomóc
 * pomoc w znalezieniu czarteru jachtu
 * pomoc w rejestracji jachtu pod brytyjską banderą (Part I Registry, MMSI, etc.)  
 
-Sprawdź mój [kalendarz](/arek/kalendarz.html)
 
 doświadczenie 
 --------------
