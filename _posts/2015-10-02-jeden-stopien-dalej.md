@@ -9,6 +9,8 @@ imgw: 2048
 imgh: 1367
 ---
 
+> Relacja z mojego etapu wyprawy [Svalbard 2015](http://svalbard.com.pl) na jachcie [JoinUs](http://joinus.eu) na przełomie lipca i sierpniu 2015.
+
 ![Svalbard](/img/2015/svalbard/svalbard.jpg) 
 
 ## białe, czarne, szare, niebieskie... i kolorowe

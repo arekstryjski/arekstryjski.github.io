@@ -6,14 +6,16 @@ keywords: żeglowanie, Norwegia, Lofoty
 desc: Rejs Trondheim - Lofoty - Bodø, maj-czerwiec 2015.
 ---
 
-*Poniższy tekst jest pierwszą częścią relacji z rejsu Trondheim - Lofoty - Bodø, maj-czerwiec 2015.*  
-*Pozostałe części relacji:*
-
-* **Trondheim**
-* *[Austrått - Kjeungskjær](/kraina-1000-wysp-i-1-nocy-cz2/)*
-* *[Rørvik - Torghatten](/kraina-1000-wysp-i-1-nocy-cz3/)*
-* *[koło podbiegunowe, Holandsfjorden, Værøy](/kraina-1000-wysp-i-1-nocy-cz4/)*
-* *[Reine, Bodø](/kraina-1000-wysp-i-1-nocy-cz5/)*
+> *Poniższy tekst jest pierwszą częścią relacji z rejsu Trondheim - Lofoty - Bodø, maj-czerwiec 2015.*, który był etapem 
+> wstępnym wyprawy [Svalbard 2015](http://svalbard.com.pl) na jachcie [JoinUs](http://joinus.eu).
+>
+> *Pozostałe części relacji:*
+> 
+> 1. **Trondheim**
+> 2. *[Austrått - Kjeungskjær](/kraina-1000-wysp-i-1-nocy-cz2/)*
+> 3. *[Rørvik - Torghatten](/kraina-1000-wysp-i-1-nocy-cz3/)*
+> 4. *[koło podbiegunowe, Holandsfjorden, Værøy](/kraina-1000-wysp-i-1-nocy-cz4/)*
+> 5. *[Reine, Bodø](/kraina-1000-wysp-i-1-nocy-cz5/)*
 
 ![Trondheim Latarnia](/img/2015/norwegia/trondheim-latarnia.jpg)
 
@@ -115,13 +117,13 @@ na Pacyfiku i dywagacji co by było gdyby...
 W końcu płyniemy!   
 
 
-*Pozostałe części relacji:*
-
-* **Trondheim**
-* *[Austrått - Kjeungskjær](/kraina-1000-wysp-i-1-nocy-cz2/)*
-* *[Rørvik - Torghatten](/kraina-1000-wysp-i-1-nocy-cz3/)*
-* *[koło podbiegunowe, Holandsfjorden, Værøy](/kraina-1000-wysp-i-1-nocy-cz4/)*
-* *[Reine, Bodø](/kraina-1000-wysp-i-1-nocy-cz5/)*
+> *Pozostałe części relacji:*
+> 
+> 1. **Trondheim**
+> 2. *[Austrått - Kjeungskjær](/kraina-1000-wysp-i-1-nocy-cz2/)*
+> 3. *[Rørvik - Torghatten](/kraina-1000-wysp-i-1-nocy-cz3/)*
+> 4. *[koło podbiegunowe, Holandsfjorden, Værøy](/kraina-1000-wysp-i-1-nocy-cz4/)*
+> 5. *[Reine, Bodø](/kraina-1000-wysp-i-1-nocy-cz5/)*
 
 ------------------------------------------------------------------------------------
 Zobacz więcej zdjęć z rejsu:

@@ -9,7 +9,7 @@ imgw: 2048
 imgh: 1367
 ---
 
-> Another guest post. This time my son relation about our holidays in Svalbard.
+> Another guest post. This time my son relation about our holidays in [Svalbard 2015](http://svalbard.com.pl) on yacht [JoinUs](http://joinus.eu).
 
 ![longyearbyen airport](/img/2015/michal_svalbard/longyearbyen_airport.jpg) 
 

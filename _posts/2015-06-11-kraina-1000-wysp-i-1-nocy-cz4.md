@@ -6,14 +6,16 @@ keywords: żeglowanie, Norwegia, Lofoty
 desc: Rejs Trondheim - Lofoty - Bodø, maj-czerwiec 2015.
 ---
 
-*Poniższy tekst jest czwartą częścią relacji z rejsu Trondheim - Lofoty - Bodø, maj-czerwiec 2015.*  
-*Pozostałe części relacji:*
-
-* *[Trondheim](/kraina-1000-wysp-i-1-nocy/)*
-* *[Austrått, Kjeungskjær](/kraina-1000-wysp-i-1-nocy-cz2/)*
-* *[Rørvik, Torghatten](/kraina-1000-wysp-i-1-nocy-cz3/)*
-* **koło podbiegunowe, Holandsfjorden, Værøy**
-* *[Reine, Bodø](/kraina-1000-wysp-i-1-nocy-cz5/)*
+> *Poniższy tekst jest czwartą częścią relacji z rejsu Trondheim - Lofoty - Bodø, maj-czerwiec 2015.*, który był etapem 
+> wstępnym wyprawy [Svalbard 2015](http://svalbard.com.pl) na jachcie [JoinUs](http://joinus.eu).
+>
+> *Pozostałe części relacji:*
+> 
+> 1. *[Trondheim](/kraina-1000-wysp-i-1-nocy/)*
+> 2. *[Austrått - Kjeungskjær](/kraina-1000-wysp-i-1-nocy-cz2/)*
+> 3. *[Rørvik, Torghatten](/kraina-1000-wysp-i-1-nocy-cz3/)*
+> 4. **koło podbiegunowe, Holandsfjorden, Værøy**
+> 5. *[Reine, Bodø](/kraina-1000-wysp-i-1-nocy-cz5/)*
 
 ![koło podbiegunowe](/img/2015/norwegia/kolo-podbiegunowe.jpg)
 
@@ -101,13 +103,13 @@ Wracając już około północy wciąż spotykamy ludzi. Jedna osoba kosi nawet 
 
 ![Værøy](/img/2015/norwegia/vaeroy.jpg)
 
-*Pozostałe części relacji:*
-
-* *[Trondheim](/kraina-1000-wysp-i-1-nocy/)*
-* *[Austrått, Kjeungskjær](/kraina-1000-wysp-i-1-nocy-cz2/)*
-* *[Rørvik, Torghatten](/kraina-1000-wysp-i-1-nocy-cz3/)*
-* **koło podbiegunowe, Holandsfjorden, Værøy**
-* *[Reine, Bodø](/kraina-1000-wysp-i-1-nocy-cz5/)*
+> *Pozostałe części relacji:*
+> 
+> 1. *[Trondheim](/kraina-1000-wysp-i-1-nocy/)*
+> 2. *[Austrått - Kjeungskjær](/kraina-1000-wysp-i-1-nocy-cz2/)*
+> 3. *[Rørvik, Torghatten](/kraina-1000-wysp-i-1-nocy-cz3/)*
+> 4. **koło podbiegunowe, Holandsfjorden, Værøy**
+> 5. *[Reine, Bodø](/kraina-1000-wysp-i-1-nocy-cz5/)*
 
 ------------------------------------------------------------------------------------
 Zobacz więcej zdjęć z rejsu:

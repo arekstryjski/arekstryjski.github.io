@@ -27,6 +27,7 @@ linki
 * [Rząd Grenlandii](http://naalakkersuisut.gl/en)
 * [oficjalna strona dla turystów](http://www.greenland.com/en/)
 * [Nanu Travel w Ittoqqortoormiit](http://www.nanutravel.dk/)
+* [strona o Grenlandii po Polsku](http://www.grenlandia.pl)
 
 <!-- http://www.greenlandexpeditions.com/ -->
 <!-- http://www.northsailing.is/tours/greenland/ -->
