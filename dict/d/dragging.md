@@ -7,4 +7,4 @@ cat: mooring
 ---
 
 Gdy kotwica nie zaczepiła należycie o dno, jacht jest spychany przez wiatr i/lub prąd morski [[tidal stream](/dict/tidal-streams.html)],
-a kotwica [[anchor](/dict/anchor.html)] i łańcuch [[chain](/dict/chain.html)] są wleczone po dnie.
+a kotwica [[anchor](/dict/a/anchor.html)] i łańcuch [[chain](/dict/chain.html)] są wleczone po dnie.

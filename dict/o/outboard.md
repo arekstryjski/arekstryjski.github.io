@@ -11,4 +11,4 @@ ale czasami również mniejszych jachtów.
 
 *zobacz też:*
 
-* [auxiliary engine](/dict/auxiliary-engine.html)
+* [auxiliary engine](/dict/a/auxiliary-engine.html)

@@ -21,7 +21,7 @@ Wyróżnia się następujące rodzaje rakiet:
 | handheld white | ręczna biała    | zwrócenie na siebie uwagę | 0 |
 | orange smoke | pomarańczowy dym  | użyta by pomóc odnaleźć jacht z powietrza | 2 |
 
-\* *podane liczby dla obszarów 2 i 3 [[area of operation](/dict/area-of-operation.html)]*
+\* *podane liczby dla obszarów 2 i 3 [[area of operation](/dict/a/area-of-operation.html)]*
 
 ![flares](/img/dict/flares.jpg)
 

@@ -8,7 +8,7 @@ cat: equipment
 ---
 
 Mała łódka wiosłowa lub wyposażona w silnik zaburtowy [[outboard](/dict/outboard.html)] 
-służąca do komunikacji pomiędzy zakotwiczonym [[anchor](/dict/anchor.html)] jachtem a brzegiem.
+służąca do komunikacji pomiędzy zakotwiczonym [[anchor](/dict/a/anchor.html)] jachtem a brzegiem.
 
 *zobacz też:*
 

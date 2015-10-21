@@ -7,7 +7,7 @@ cat: mooring
 ---
 
 Z reguły elektryczny silnik połączony z kołowrotkiem pozwalający wciągnąć łańcuch [[chain](/dict/chain.html)] 
-z kotwicą [[anchor](/dict/anchor.html)].
+z kotwicą [[anchor](/dict/a/anchor.html)].
 
 *zobacz też:*
 
