@@ -9,15 +9,15 @@ cat: sailing
 Słowo - jeśli użyte w odniesieniu do żeglarstwa, a nie rejsów statkami wycieczkowymi - nie ma dokładnego odpowiednika po
 Polsku.
 
-Spotkałem się z następującymi tłumaczeniami:
-* pływać, odbywać rejs po morzu;
-* poruszać się ze stałą prędkością;
-* krążyć, pływać bez celu;
-* szukać partnera w barach.
+Spotkałem się z następującymi tłumaczeniami:  
+* pływać, odbywać rejs po morzu;  
+* poruszać się ze stałą prędkością;  
+* krążyć, pływać bez celu;  
+* szukać partnera w barach.  
 
-Na pewno każde z tych tłumaczeń oddaje jakiś element znaczenia słowa `cruising`.  
+Na pewno każde z tych tłumaczeń oddaje jakiś element znaczenia słowa 'cruising'.  
 
-`Cruising` to przeciwieństwo zarówno żeglarstwa sportowego jak i żeglarstwa zawodowego. 
+'Cruising' to przeciwieństwo zarówno żeglarstwa sportowego jak i żeglarstwa zawodowego. 
 
 
 *zobacz też:*
