@@ -60,17 +60,14 @@ kategorie
 pomóż
 ------
 
-W chwili obecnej w słowniku wpisane są jedynie podstawowe pojęcia żeglarskie przydatne dla każdego członka załogi. 
-Z czasem mam nadzieje go uzupełnić także o bardziej zaawansowane zagadnienia.
-
 Jeśli jakiegoś słowa tu brakuje, chciałbyś coś dodać lub skorygować proszę o [kontakt](/arek/email.html)
 
-Jeśli uznasz ten słownik za pomocny proszę podziel się informacja o nim z innymi klikając na jeden z linków po prawej.
+Jeśli uznasz ten słownik za pomocny proszę podziel się informacja o nim z innymi.
 
 podziękowania
 ---------------
 
-* Dziękuję Kasi Stefanof w pomocy przy tłumaczeniu haseł. 
+* Dziękuję Kasi Stefanow w pomocy przy tłumaczeniu haseł. 
 * Na stronach słownika wykorzystuję ilustracje pobrane z Wikipedii i dystrybuowane na podstawie licencji [Creative Commons](http://en.wikipedia.org/wiki/Creative_Commons)
 
 
