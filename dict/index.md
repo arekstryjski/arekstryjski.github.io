@@ -41,7 +41,7 @@ kategorie
 * [hull](/dict/h/hull.html) / kadłub
 * [deck](/dict/d/deck.html) / pokład
 * [rig](/dict/r/rig.html) / ożaglowanie   
-* [equipment](/dict/equipment.html) / wyposażenie   
+* [equipment](/dict/e/equipment.html) / wyposażenie   
    
 **prowadzenie jachtu:**
 
