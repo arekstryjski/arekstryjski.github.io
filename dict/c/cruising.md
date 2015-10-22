@@ -10,6 +10,7 @@ Słowo - jeśli użyte w odniesieniu do żeglarstwa, a nie rejsów statkami wyci
 Polsku.
 
 Spotkałem się z następującymi tłumaczeniami:  
+
 * pływać, odbywać rejs po morzu;  
 * poruszać się ze stałą prędkością;  
 * krążyć, pływać bez celu;  
