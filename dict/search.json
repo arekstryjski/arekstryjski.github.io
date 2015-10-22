@@ -17,7 +17,7 @@ layout: nil
     {% endfor %}
     {
         "title"    : "słownik żeglarski",
-        "url"      : "/dict/i/index.html"
+        "url"      : "/dict/index.html"
     }
 ]            
     
