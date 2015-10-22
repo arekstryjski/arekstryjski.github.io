@@ -11,3 +11,4 @@ Kotwica na jachcie, ale także manewr zakotwiczenia.
 *zobacz też:*
 
 * [ground tackle](/dict/g/ground-tackle.html)
+* [sea anchor](/dict/s/sea-anchor.html)
