@@ -1,0 +1,15 @@
+---
+en: free off
+pl: odpaść
+layout: dict_word
+date: 2013-12-31
+cat: sailing
+---
+
+Zmienić kurs [[course](/dict/c/course.html)] jachtu w kierunku przeciwnym do tego z którego wieje wiatr i 
+zluzować [[ease](/dict/ease.html)] szoty [[sheet](/dict/s/sheet.html)].
+
+*zobacz też:*
+
+* [harden up](/dict/h/harden-up.html)
+* [bear away](/dict/b/bear-away.html)

@@ -1,12 +1,12 @@
 (function($) {
     $.fn.simpleJekyllSearch = function(options) {
         var settings = $.extend({
-            jsonFile            : '/dict/search.json',
+            jsonFile            : '/dict/s/search.json',
             template            : '<li role="presentation"><a class="quick_search_link" role="menuitem" tabindex="-1" href="{url}">{title}</a></li>',
             searchResults       : '#quick_search_results',
             searchResultsTitle  : '',
             limit               : '25',
-            noResults           : '<li role="presentation"><a class="quick_search_link" role="menuitem" tabindex="-1" href="/dict/index.html">nic nie znaleziono...</a></li>'
+            noResults           : '<li role="presentation"><a class="quick_search_link" role="menuitem" tabindex="-1" href="/dict/i/index.html">nic nie znaleziono...</a></li>'
         }, options);
 
         var jsonData = [],
