@@ -7,6 +7,6 @@ cat: rig
 sub: parts-of-sails
 ---
 
-Tylna część żagla do której przymocowane są szoty [[sheet](/dict/sheet.html)]
+Tylna część żagla do której przymocowane są szoty [[sheet](/dict/s/sheet.html)]
 
 ![części żagla](/img/dict/parts_of_a_sail.png)

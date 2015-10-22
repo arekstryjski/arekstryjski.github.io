@@ -7,5 +7,5 @@ cat: rig
 sub: running-rigging
 ---
 
-Lina napinająca lik dolny [[foot](/dict/foot.html)] grota [[mainsail](/dict/mainsail.html)] 
-poprzez ciągnięcie rogu szotowego [[clew](/dict/clew.html)] w kierunku końca bumu [[boom](/dict/boom.html)].
+Lina napinająca lik dolny [[foot](/dict/foot.html)] grota [[mainsail](/dict/m/mainsail.html)] 
+poprzez ciągnięcie rogu szotowego [[clew](/dict/c/clew.html)] w kierunku końca bumu [[boom](/dict/b/boom.html)].

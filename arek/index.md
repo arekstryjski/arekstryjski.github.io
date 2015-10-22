@@ -2,7 +2,7 @@
 title: więcej o mnie
 layout: section
 category: arek
-date: 2013-11-21
+date: 2015-10-22
 keywords: Arek Stryjski, Stryjski, rejsy, rejsy morskie, żeglarstwo, yachting, jachting, prowadzenie rejsów morskich, czarteru jachtu, rejestracji jachtu
 desc: Informacje na mój temat, moje żeglarskie CV, log book, kontakt. 
 ---

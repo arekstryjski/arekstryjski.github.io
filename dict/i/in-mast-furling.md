@@ -7,5 +7,5 @@ cat: rig
 sub: running-rigging
 ---
 
-System zwijania [[furl](/dict/furl.html)] / refowania [[reef](/dict/reef.html)] 
-grota [[mainsail](/dict/mainsail.html)] do masztu [[mast](/dict/mast.html)].
+System zwijania [[furl](/dict/furl.html)] / refowania [[reef](/dict/r/reef.html)] 
+grota [[mainsail](/dict/m/mainsail.html)] do masztu [[mast](/dict/m/mast.html)].

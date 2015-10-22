@@ -6,4 +6,4 @@ date: 2014-01-01
 cat: deck
 ---
 
-Otwór, klapa w pokładzie [[deck](/dict/deck.html)] służąca do wejścia pod pokład i wentylacji.  
+Otwór, klapa w pokładzie [[deck](/dict/d/deck.html)] służąca do wejścia pod pokład i wentylacji.  

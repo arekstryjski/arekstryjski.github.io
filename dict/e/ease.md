@@ -6,8 +6,8 @@ date: 2013-12-30
 cat: sailing
 ---
 
-Powoli i stopniowo wypuszczać linę [[line](/dict/line.html)].
+Powoli i stopniowo wypuszczać linę [[line](/dict/l/line.html)].
 
 *zobacz też:*
 
-* [sheet-in](/dict/sheet-in.html)
+* [sheet-in](/dict/s/sheet-in.html)

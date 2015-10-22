@@ -10,5 +10,5 @@ Cumowanie jachtu burtą do nabrzeża, kei. Najczęstszy sposób cumowania na wod
 
 *zobacz też:*
 
-* [mediterranean style](/dict/mediterranean-style.html)
-* [rafting](/dict/rafting.html)
+* [mediterranean style](/dict/m/mediterranean-style.html)
+* [rafting](/dict/r/rafting.html)

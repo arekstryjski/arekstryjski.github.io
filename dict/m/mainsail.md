@@ -7,7 +7,7 @@ cat: rig
 sub: types-of-sails
 ---
 
-Główny żagiel jachtu przymocowany do masztu [[mast](/dict/mast.html)] i bumu [[boom](/dict/boom.html)].
+Główny żagiel jachtu przymocowany do masztu [[mast](/dict/m/mast.html)] i bumu [[boom](/dict/b/boom.html)].
 
 ![sails](/img/dict/sails.png)
 

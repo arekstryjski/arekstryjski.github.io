@@ -8,4 +8,4 @@ cat: hull
 
 Łóżko lub inne miejsce na jachcie przeznaczone do spania.
 
-Zobacz także: [berth](/dict/berth-2.html).
+Zobacz także: [berth](/dict/b/berth-2.html).

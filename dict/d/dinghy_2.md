@@ -10,4 +10,4 @@ Mały jacht mieczowy.
 
 *zobacz też:*
 
-* [dinghy](/dict/dinghy.html) / szalupa
+* [dinghy](/dict/d/dinghy.html) / szalupa

@@ -8,4 +8,4 @@ cat: knots
 
 Węzeł używany do przywiązania liny do mocowania, np. by przywiązać łódkę. 
 
-![round turn and two half hitches](/img/dict/round-turn-and-two-half-hitches.jpg)
+![round turn and two half hitches](/img/dict/r/round-turn-and-two-half-hitches.jpg)

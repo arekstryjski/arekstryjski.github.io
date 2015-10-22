@@ -7,4 +7,4 @@ cat: rig
 sub: spars
 ---
 
-Bum od spinakera [[spinnaker](/dict/spinnaker.html)].
+Bum od spinakera [[spinnaker](/dict/s/spinnaker.html)].

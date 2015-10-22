@@ -2,7 +2,7 @@
 title: słownik żeglarski 
 layout: dict
 desc: Angielsko-Polski słownik żeglarski. Angielskie słownictwo i terminologia żeglarska. 
-date: 2013-12-31
+date: 2015-10-22
 ---
 
 [![słownik żeglarski](/img/logo/beta.jpg)](class:img-right)
@@ -31,28 +31,30 @@ i zaczniesz w ten sposób poznawać nowe terminy.
 
 Jeśli nie wiesz gdzie zacząć wybierz jedna z kategorii wymienionych poniżej.
 
+Jeśli szukasz tłumaczenia słowa w innych językach zobacz także [Yachtsman's Ten Language Dictionary](http://www.theca.org.uk/catalog/publications/10language)
+
 kategorie
 ----------
 
 **części jachtu:**
 
-* [hull](/dict/hull.html) / kadłub
-* [deck](/dict/deck.html) / pokład
-* [rig](/dict/rig.html) / ożaglowanie   
+* [hull](/dict/h/hull.html) / kadłub
+* [deck](/dict/d/deck.html) / pokład
+* [rig](/dict/r/rig.html) / ożaglowanie   
 * [equipment](/dict/equipment.html) / wyposażenie   
    
 **prowadzenie jachtu:**
 
-* [sailing](/dict/sailing.html) / żegluga    
-* [mooring](/dict/mooring.html) / cumowanie     
-* [navigation](/dict/navigation.html) / nawigacja 
-* [communication](/dict/communication.html) / komunikacja 
-* [safety](/dict/safety.html) / bezpieczeństwo 
+* [sailing](/dict/s/sailing.html) / żegluga    
+* [mooring](/dict/m/mooring.html) / cumowanie     
+* [navigation](/dict/n/navigation.html) / nawigacja 
+* [communication](/dict/c/communication.html) / komunikacja 
+* [safety](/dict/s/safety.html) / bezpieczeństwo 
 
 **inne:**
 
-* [knots](/dict/knots.html) / węzły 
-* [port](/dict/port.html) / w porcie 
+* [knots](/dict/k/knots.html) / węzły 
+* [port](/dict/p/port.html) / w porcie 
   
   
 pomóż

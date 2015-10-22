@@ -7,11 +7,11 @@ cat: rig
 sub: parts-of-sails
 ---
 
-Górna część żagla [[sails](/dict/sails.html)] do której przymocowany jest fał [[halyard](/dict/halyard.html)].
+Górna część żagla [[sails](/dict/s/sails.html)] do której przymocowany jest fał [[halyard](/dict/h/halyard.html)].
 
 ![części żagla](/img/dict/parts_of_a_sail.png)
 
 
 *zobacz też:*
 
-* [heads](/dict/heads.html)
+* [heads](/dict/h/heads.html)

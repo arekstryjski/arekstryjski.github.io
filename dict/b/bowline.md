@@ -15,7 +15,7 @@ Po lewej forma alternatywna tzw. *cowboy bowline* albo *Dutch bowline*
 *a* - wolny koniec liny  
 *b* - koniec liny pod obciążeniem  
 
-Węzeł pomocny głównie w czasie cumowania by obwiązać linę dookoła poleru [[bollard](/dict/bollard.html)] lub innego większego obiekt.  
+Węzeł pomocny głównie w czasie cumowania by obwiązać linę dookoła poleru [[bollard](/dict/b/bollard.html)] lub innego większego obiekt.  
 
 Polscy żeglarze utrzymują, że osoba która wypadnie za burtę jest w stanie zawiązać ten węzeł wokół siebie i to jedną ręką - stąd polska nazwa węzła.
 Nigdy nie słyszano jednak by ktokolwiek został uratowany w ten sposób.
@@ -25,13 +25,13 @@ W związku z bardziej praktycznym zastosowaniem tego węzła przez żeglarzy bry
 Do zapamiętania jak wiązać ten węzeł można użyć następującej rymowanki:
 
 * *The rabbit hole.*
-![bowline](/img/dict/bowline_1.jpg)
+![bowline](/img/dict/b/bowline_1.jpg)
 
 * *Out comes the rabbit,*
-![bowline](/img/dict/bowline_2.jpg)
+![bowline](/img/dict/b/bowline_2.jpg)
 
 * *runs around the tree,*
-![bowline](/img/dict/bowline_3.jpg)
+![bowline](/img/dict/b/bowline_3.jpg)
 
 * *and hops back into its hole.*
-![bowline](/img/dict/bowline_4.jpg)
+![bowline](/img/dict/b/bowline_4.jpg)

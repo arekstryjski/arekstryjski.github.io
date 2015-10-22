@@ -8,7 +8,7 @@ sub: safety-equipment
 ---
 
 Środki pirotechniczne używane w celu zwrócenia na siebie uwagi i/lub zakomunikowania innym że znajdujemy się 
-w sytuacji awaryjnej [[distress](/dict/distress.html)] i wzywamy pomocy.
+w sytuacji awaryjnej [[distress](/dict/d/distress.html)] i wzywamy pomocy.
 
 Wyróżnia się następujące rodzaje rakiet:
 

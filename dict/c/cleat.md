@@ -9,4 +9,4 @@ cat: deck
 Mocne przypominający podwójny hak zaczep przymocowany do pokładu [[deck](/dict/)].  
 Służy do mocowanie lin cumowniczych.
 
-![cleat](/img/dict/cleat_04.jpg)
+![cleat](/img/dict/c/cleat_04.jpg)

@@ -7,9 +7,9 @@ cat: rig
 ---
 
 Określenie dotyczy materiału z jakiego wykonane są liny na jachcie.  
-Jeśli lina została przycięta, zamocowana lub nadano jej jakąkolwiek funkcę na jachcie określa się ją jako [[line](/dict/line.html)].
+Jeśli lina została przycięta, zamocowana lub nadano jej jakąkolwiek funkcę na jachcie określa się ją jako [[line](/dict/l/line.html)].
 
 *zobacz też:*
 
-* [line](/dict/line.html)
-* [mooring line](/dict/mooring-line.html)
+* [line](/dict/l/line.html)
+* [mooring line](/dict/m/mooring-line.html)

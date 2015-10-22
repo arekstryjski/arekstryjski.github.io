@@ -6,6 +6,6 @@ date: 2013-12-29
 cat: knots
 ---
 
-Węzeł którym najczęściej przymocowuje się odbijacze [[fender](/dict/fender.html)] do [[guardrail](/dict/guardrail.html)]
+Węzeł którym najczęściej przymocowuje się odbijacze [[fender](/dict/fender.html)] do [[guardrail](/dict/g/guardrail.html)]
 
-![clove hitch](/img/dict/clove_hitch.jpg)
+![clove hitch](/img/dict/c/clove_hitch.jpg)

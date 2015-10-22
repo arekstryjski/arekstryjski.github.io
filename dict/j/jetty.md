@@ -6,10 +6,10 @@ date: 2014-01-04
 cat: port
 ---
 
-Wysunięty pomost do którego cumują [[moore](/dict/moore.html)] jachty.
+Wysunięty pomost do którego cumują [[moore](/dict/m/moore.html)] jachty.
 
 
 *zobacz też:*
 
-* [quay](/dict/quay.html)
-* [pier](/dict/pier.html)
+* [quay](/dict/q/quay.html)
+* [pier](/dict/p/pier.html)

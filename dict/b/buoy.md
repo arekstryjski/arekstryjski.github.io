@@ -9,7 +9,7 @@ cat: port
 
 *zobacz:*
 
-* [mooring buoy](/dict/mooring-buoy.html)
-* [navigation buoy](/dict/navigation-buoy.html)
-* [danbuoy](/dict/danbuoy.html)
-* [pick-up buoy](/dict/pick-up-buoy.html)
+* [mooring buoy](/dict/m/mooring-buoy.html)
+* [navigation buoy](/dict/n/navigation-buoy.html)
+* [danbuoy](/dict/d/danbuoy.html)
+* [pick-up buoy](/dict/p/pick-up-buoy.html)

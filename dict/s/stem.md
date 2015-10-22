@@ -7,7 +7,7 @@ cat: hull
 ---
 
 Przedłużenie stępki w kierunku dziobu. 
-Krawędź łącząca dwie burty [] na dziobie [[bow](/dict/bow.html)] jachtu. 
+Krawędź łącząca dwie burty [] na dziobie [[bow](/dict/b/bow.html)] jachtu. 
 
 <!-- TODO: burta -->
 <!-- TODO: stępka -->

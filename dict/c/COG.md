@@ -7,4 +7,4 @@ cat: navigation
 sub: course
 ---
 
-Skrót od [Course Over Ground](/dict/course-over-ground.html).
+Skrót od [Course Over Ground](/dict/c/course-over-ground.html).

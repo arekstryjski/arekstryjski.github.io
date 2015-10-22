@@ -6,7 +6,7 @@ date: 2014-01-01
 cat: sailing
 ---
 
-Wypuszczać/napinać linę [[line](/dict/line.html)].
+Wypuszczać/napinać linę [[line](/dict/l/line.html)].
 
 *zobacz też:*
 

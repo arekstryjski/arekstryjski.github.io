@@ -6,4 +6,4 @@ date: 2014-01-04
 cat: sailing
 ---
 
-Płynąć (halsować [[tack](/dict/tack.html)]) gdy wiatr wieje z prawej strony jachtu.
+Płynąć (halsować [[tack](/dict/t/tack.html)]) gdy wiatr wieje z prawej strony jachtu.

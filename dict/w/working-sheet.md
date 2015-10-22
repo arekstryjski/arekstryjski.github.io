@@ -7,8 +7,8 @@ cat: rig
 sub: running-rigging
 ---
 
-Szot [[sheet](/dict/sheet.html)] który w danym momencie jest używany.
+Szot [[sheet](/dict/s/sheet.html)] który w danym momencie jest używany.
 
 *zobacz też:*
 
-* [lazy sheet](/dict/lazy-sheet.html)
+* [lazy sheet](/dict/l/lazy-sheet.html)

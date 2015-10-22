@@ -9,5 +9,5 @@ cat: sailing
 
 *zobacz też:*
 
-* [upwind](/dict/upwind.html)
-* [tacking](/dict/tacking.html)
+* [upwind](/dict/u/upwind.html)
+* [tacking](/dict/t/tacking.html)

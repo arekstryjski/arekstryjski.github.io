@@ -6,4 +6,4 @@ date: 2014-01-05
 cat: sailing
 ---
 
-Zredukować wielkość żagla poprzez złożenie - grot [[mainsail](/dict/mainsail.html)], lub zrolowanie - fok [[jib](/dict/jib.html)].
+Zredukować wielkość żagla poprzez złożenie - grot [[mainsail](/dict/m/mainsail.html)], lub zrolowanie - fok [[jib](/dict/j/jib.html)].

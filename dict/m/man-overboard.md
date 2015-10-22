@@ -7,6 +7,6 @@ cat: safety
 sub: distress
 ---
 
-Używa się również skrótu [MOB](/dict/MOB.html).
+Używa się również skrótu [MOB](/dict/m/MOB.html).
 
 <!-- TODO: uzupełnij -->

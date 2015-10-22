@@ -8,14 +8,14 @@ cat: hull
 
 **strony jachtu**
 
-* [starboard](/dict/starboard.html)
-* [port](/dict/port.html)
+* [starboard](/dict/s/starboard.html)
+* [port](/dict/p/port.html)
 
 **strony względem wiatru**
 
-* [lee board](/dict/lee-board.html)
-* [weather board](/dict/weather-board.html)
+* [lee board](/dict/l/lee-board.html)
+* [weather board](/dict/w/weather-board.html)
 
 *zobacz też:*
 
-* [free board](/dict/free-board.html)
+* [free board](/dict/f/free-board.html)

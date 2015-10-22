@@ -13,6 +13,6 @@ Przedni żagiel na jachcie przymocowany do [[forestay](/dict/forestay.html)].
 
 *zobacz też:*
 
-* [jib](/dict/jib.html) / fok
-* [genoa](/dict/genoa.html) / genua
-* [spinnaker](/dict/spinnaker.html) / spinaker
+* [jib](/dict/j/jib.html) / fok
+* [genoa](/dict/g/genoa.html) / genua
+* [spinnaker](/dict/s/spinnaker.html) / spinaker

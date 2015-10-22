@@ -25,7 +25,7 @@
                     {% if page.sub != null %}
                     <p>
                         <span class="dict-tech">zobacz także inne hasła w podkategorii: </span>
-                        <a href="/dict/{{page.sub}}.html">{{page.sub | replace: '-', ' '}}</a>
+                        <a href="/dict/{{page.sub | truncate: 1, ''}}/{{page.sub}}.html">{{page.sub | replace: '-', ' '}}</a>
                     </p>
                     {% endif %}
                 </div>

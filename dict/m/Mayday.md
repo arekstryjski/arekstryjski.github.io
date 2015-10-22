@@ -31,15 +31,15 @@ Sygnał alarmowy nadawany przez radio VHF na kanale 16 w sytuacji zagrożenia i 
 
 **uwagi:**  
 
-* podając pozycję używamy długości [[longitude](/dict/longitude.html)] i szerokości [[latitude](/dict/latitude.html)] geograficznej, 
-albo odległości i kierunku od punktu orientacyjnego [[landmark](/dict/landmark.html)] np. wyspy czy przylądka
-* podając liczbę osób nie zapomnijmy o sobie i osobie poszkodowanej np. człowieku za burtą [[man overboard](/dict/man-overboard.html)]
+* podając pozycję używamy długości [[longitude](/dict/l/longitude.html)] i szerokości [[latitude](/dict/l/latitude.html)] geograficznej, 
+albo odległości i kierunku od punktu orientacyjnego [[landmark](/dict/l/landmark.html)] np. wyspy czy przylądka
+* podając liczbę osób nie zapomnijmy o sobie i osobie poszkodowanej np. człowieku za burtą [[man overboard](/dict/m/man-overboard.html)]
 * po wypowiedzeniu *over* nie zapomnijmy zwolnić przycisku służącego do nadawania.
 * normalnie radio VHF może obsługiwać jedynie osoba posiadająca odpowiednie uprawnienia, jednak Mayday powinna nadać każda osoba do tego zdolna.
 
 Nazwa powstała od francuskiego *M'aidez*.  
 Wbrew obiegowej opinii jednostki pływające nie wysyłają sygnału SOS.
 
-Zobacz także sygnał [Pan-Pan](/dict/Pan-Pan.html).
+Zobacz także sygnał [Pan-Pan](/dict/p/Pan-Pan.html).
 
 <!-- procedury na nowym radiu -->

@@ -11,4 +11,4 @@ sub: running-rigging
 
 *zobacz też:*
 
-* [lazy sheet](/dict/lazy-sheet.html)
+* [lazy sheet](/dict/l/lazy-sheet.html)

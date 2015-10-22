@@ -7,5 +7,5 @@ cat: rig
 sub: standing-rigging
 ---
 
-Linki przymocowane do boków bumu [[boom](/dict/boom.html)] i masztu [[mast](/dict/mast.html)] 
-pomagające w opuszczaniu i złożeniu grota [[mainsail](/dict/mainsail.html)].
+Linki przymocowane do boków bumu [[boom](/dict/b/boom.html)] i masztu [[mast](/dict/m/mast.html)] 
+pomagające w opuszczaniu i złożeniu grota [[mainsail](/dict/m/mainsail.html)].

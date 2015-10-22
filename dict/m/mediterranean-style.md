@@ -16,4 +16,4 @@ Najczęstszy sposób cumowanie na wodach niepływowych.
 *zobacz też:*
 
 * [alongside](/dict/a/alongside.html)
-* [rafting](/dict/rafting.html)
+* [rafting](/dict/r/rafting.html)

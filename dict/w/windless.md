@@ -6,9 +6,9 @@ date: 2014-01-01
 cat: mooring
 ---
 
-Z reguły elektryczny silnik połączony z kołowrotkiem pozwalający wciągnąć łańcuch [[chain](/dict/chain.html)] 
+Z reguły elektryczny silnik połączony z kołowrotkiem pozwalający wciągnąć łańcuch [[chain](/dict/c/chain.html)] 
 z kotwicą [[anchor](/dict/a/anchor.html)].
 
 *zobacz też:*
 
-* [ground tackle](/dict/ground-tackle.html)
+* [ground tackle](/dict/g/ground-tackle.html)

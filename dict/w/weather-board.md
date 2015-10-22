@@ -10,4 +10,4 @@ Burta z której strony wieje wiatr.
 
 *zobacz też:*
 
-* [lee board](/dict/lee-board.html)
+* [lee board](/dict/l/lee-board.html)

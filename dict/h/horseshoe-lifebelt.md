@@ -7,4 +7,4 @@ cat: equipment
 sub: safety-equipment
 ---
 
-Koło ratunkowe [[lifebelt](/dict/lifebelt.html)] otwarte u dołu.
+Koło ratunkowe [[lifebelt](/dict/l/lifebelt.html)] otwarte u dołu.

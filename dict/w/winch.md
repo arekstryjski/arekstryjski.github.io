@@ -12,5 +12,5 @@ cat: deck
 
 *zobacz też:*
 
-* [self tailer](/dict/self-tailer.html)
-* [winch handle](/dict/winch-handle.html)
+* [self tailer](/dict/s/self-tailer.html)
+* [winch handle](/dict/w/winch-handle.html)

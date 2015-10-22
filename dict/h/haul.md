@@ -6,6 +6,6 @@ date: 2013-12-29
 cat: sailing
 ---
 
-Stopniowe wybieranie liny [[line](/dict/line.html)].
+Stopniowe wybieranie liny [[line](/dict/l/line.html)].
 
 

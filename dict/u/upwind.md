@@ -8,5 +8,5 @@ cat: sailing
 
 *zobacz też:*
 
-* [beating](/dict/beating.html)
-* [tacking](/dict/tacking.html)
+* [beating](/dict/b/beating.html)
+* [tacking](/dict/t/tacking.html)

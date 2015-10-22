@@ -9,9 +9,9 @@ sub: running-rigging
 
 System do zwijania żagla [sail]. 
 
-System zwijania żagla stosowany jest głównie do żagla przedniego [[headsail](/dict/headsail.html)], 
-ale czasem również dla grota [[mainsail](/dict/mainsail.html)] 
-zwijanego do masztu [[in-mast furling](/dict/in-mast-furling.html)].
+System zwijania żagla stosowany jest głównie do żagla przedniego [[headsail](/dict/h/headsail.html)], 
+ale czasem również dla grota [[mainsail](/dict/m/mainsail.html)] 
+zwijanego do masztu [[in-mast furling](/dict/i/in-mast-furling.html)].
 
 *zobacz też:*
 

@@ -12,4 +12,4 @@ Węzeł łączący dwie liny o różnej grubości.
 
 *zobacz też:* 
 
-* [double sheet bend](/dict/double-sheet-bend.html)
+* [double sheet bend](/dict/d/double-sheet-bend.html)

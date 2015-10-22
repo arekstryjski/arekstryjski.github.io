@@ -8,8 +8,8 @@ sub: safety-equipment
 ---
 
 Koło ratunkowe. 
-Z reguły na jachcie koło ratunkowe trzymane jest na koszu [[pushpit](/dict/pushpit.html)].
+Z reguły na jachcie koło ratunkowe trzymane jest na koszu [[pushpit](/dict/p/pushpit.html)].
 
 *zobacz też:*
 
-* [horseshoe lifebelt](/dict/horseshoe-lifebelt.html)
+* [horseshoe lifebelt](/dict/h/horseshoe-lifebelt.html)

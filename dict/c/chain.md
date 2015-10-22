@@ -10,5 +10,5 @@ cat: equipment
 
 *zobacz też:*
 
-* [chain plate](/dict/chain-plate.html)
-* [ground tackle](/dict/ground-tackle.html)
+* [chain plate](/dict/c/chain-plate.html)
+* [ground tackle](/dict/g/ground-tackle.html)

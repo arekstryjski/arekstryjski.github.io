@@ -6,6 +6,6 @@ date: 2014-01-05
 cat: knots
 ---
 
-Odmiana węzła płaskiego [[reef knot](/dict/reef-knot.html)] gdzie jeden z końców zawiązany jest w panterkę, co ułatwia jego rozwiązanie.
+Odmiana węzła płaskiego [[reef knot](/dict/r/reef-knot.html)] gdzie jeden z końców zawiązany jest w panterkę, co ułatwia jego rozwiązanie.
 
-![slipped reef knot](/img/dict/reefing_knot.jpg)
+![slipped reef knot](/img/dict/r/reefing_knot.jpg)

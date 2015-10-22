@@ -10,4 +10,4 @@ Zawietrzna strona jachtu.
 
 *zobacz też:*
 
-* [lee board](/dict/lee-board.html)
+* [lee board](/dict/l/lee-board.html)

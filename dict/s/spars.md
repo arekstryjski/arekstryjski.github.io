@@ -6,5 +6,5 @@ date: 2014-01-05
 cat: rig
 ---
 
-Elementy ożaglowanie [[rig](/dict/rig.html)] nie będące liną [[line](/dict/line.html)], czy żaglem [[sails](/dict/sails.html)]
-takie jak maszty [[mast](/dict/mast.html)], bum [[boom](/dict/boom.html)] etc.
+Elementy ożaglowanie [[rig](/dict/r/rig.html)] nie będące liną [[line](/dict/l/line.html)], czy żaglem [[sails](/dict/s/sails.html)]
+takie jak maszty [[mast](/dict/m/mast.html)], bum [[boom](/dict/b/boom.html)] etc.

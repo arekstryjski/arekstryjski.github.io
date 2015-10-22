@@ -6,10 +6,10 @@ date: 2014-01-01
 cat: hull
 ---
 
-Część burty [[board](/dict/board.html)] pomiędzy linią wodną [[waterline](/dict/waterline.html)] 
-a pokładem [[deck](/dict/deck.html)].
+Część burty [[board](/dict/b/board.html)] pomiędzy linią wodną [[waterline](/dict/w/waterline.html)] 
+a pokładem [[deck](/dict/d/deck.html)].
 
 *zobacz też:*
 
-* [overhang](/dict/overhang.html)
-* [topside](/dict/topside.html)
+* [overhang](/dict/o/overhang.html)
+* [topside](/dict/t/topside.html)

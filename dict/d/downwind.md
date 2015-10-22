@@ -7,4 +7,4 @@ cat: sailing
 sub: point-of-sail
 ---
 
-*to samo co: [dead run](/dict/dead-run.html)*
+*to samo co: [dead run](/dict/d/dead-run.html)*

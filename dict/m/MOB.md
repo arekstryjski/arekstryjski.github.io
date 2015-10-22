@@ -7,4 +7,4 @@ cat: safety
 sub: distress
 ---
 
-Skrót od [Man OverBoard](/dict/man-overboard.html).
+Skrót od [Man OverBoard](/dict/m/man-overboard.html).

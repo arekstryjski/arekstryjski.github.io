@@ -6,4 +6,4 @@ date: 2014-01-01
 cat: communication
 ---
 
-Skrót od [[Very Height Frequency](/dict/very-height-frequency.html)] radio.
+Skrót od [[Very Height Frequency](/dict/v/very-height-frequency.html)] radio.

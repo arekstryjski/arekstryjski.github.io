@@ -10,4 +10,4 @@ Czynność cumowania.
 
 *zobacz też:*
 
-* [mooring](/dict/mooring.html)
+* [mooring](/dict/m/mooring.html)

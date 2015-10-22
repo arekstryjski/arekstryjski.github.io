@@ -10,5 +10,5 @@ Tu znajda się tylko te najczęściej spotykane, albo których nazwa może spraw
 
 podkategorie:
 -------------
-* [safety equipment](/dict/safety-equipment.html)
-* [navigation equipment](/dict/navigation-equipment.html)
+* [safety equipment](/dict/s/safety-equipment.html)
+* [navigation equipment](/dict/n/navigation-equipment.html)

@@ -4,4 +4,4 @@ layout: dict_letter
 morse: •
 pho: Echo
 ---
-> I am altering my course to [starboard](/dict/starboard.html).
+> I am altering my course to [starboard](/dict/s/starboard.html).

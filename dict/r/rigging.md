@@ -6,4 +6,4 @@ date: 2013-12-27
 cat: rig
 ---
 
-*to samo co: [rig](/dict/rig.html)*
+*to samo co: [rig](/dict/r/rig.html)*
