@@ -16,9 +16,9 @@ Spotkałem się z następującymi tłumaczeniami:
 * krążyć, pływać bez celu;  
 * szukać partnera w barach.  
 
-Na pewno każde z tych tłumaczeń oddaje jakiś element znaczenia słowa 'cruising'.  
+Na pewno każde z tych tłumaczeń oddaje jakiś element znaczenia słowa *cruising*.  
 
-'Cruising' to przeciwieństwo zarówno żeglarstwa sportowego jak i żeglarstwa zawodowego. 
+*Cruising* to przeciwieństwo zarówno żeglarstwa sportowego jak i żeglarstwa zawodowego. 
 
 
 *zobacz też:*
