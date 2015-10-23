@@ -1,6 +1,6 @@
 ---
 title: Accountz
-layout: post
+layout: post-no-comment
 category: arek
 date: 2014-01-28
 desc: Oprogramowanie księgowe dla małych przedsiębiorstw i osób prywatnych.

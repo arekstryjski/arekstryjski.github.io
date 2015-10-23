@@ -1,6 +1,6 @@
 ---
 title: email wysłany
-layout: post
+layout: post-no-comment
 date: 2013-11-22
 ---
 
