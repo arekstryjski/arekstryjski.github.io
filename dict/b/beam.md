@@ -1,6 +1,7 @@
 ---
 en: beam
 pl: śródokręcie
+pl2: szerokość jachtu
 layout: dict_word
 date: 2013-12-27
 cat: hull

@@ -1,5 +1,5 @@
 ---
-en: moore
+en: moor
 pl: zacumować
 layout: dict_word
 date: 2014-01-04

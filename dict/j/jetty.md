@@ -1,12 +1,13 @@
 ---
 en: jetty
 pl: pomost
+pl2: molo
 layout: dict_word
 date: 2014-01-04
 cat: port
 ---
 
-Wysunięty pomost do którego cumują [[moore](/dict/m/moore.html)] jachty.
+Wysunięty pomost do którego cumują [[moor](/dict/m/moor.html)] jachty.
 
 
 *zobacz też:*

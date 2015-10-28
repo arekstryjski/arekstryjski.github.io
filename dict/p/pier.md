@@ -7,7 +7,7 @@ date: 2014-01-04
 cat: port
 ---
 
-Pomost do którego cumują [[moore](/dict/m/moore.html)] jachty.
+Pomost do którego cumują [[moor](/dict/m/moor.html)] jachty.
 
 
 *zobacz też:*
