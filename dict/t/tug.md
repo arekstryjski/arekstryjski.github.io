@@ -1,8 +1,15 @@
 ---
 en: tug
-pl: holować
+pl: holownik
 layout: dict_word
 date: 2014-01-08
+cat: safety
+sub: distress
 ---
 
-<!-- TODO opis, kategoria-->
+
+*zobacz też:*
+
+* [tow](/dict/t/tow.html)
+
+<!-- TODO opis-->

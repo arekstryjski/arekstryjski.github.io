@@ -7,7 +7,7 @@ date: 2013-12-31
 
 podkategorie:
 -------------
-* [distress](/dict/d/distress.html)
+* [distress](/dict/d/.html)
 * [safety equipment](/dict/s/safety-equipment.html)
 
 
