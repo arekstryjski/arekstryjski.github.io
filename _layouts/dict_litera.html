@@ -1,12 +1,10 @@
 {% include header.html %}
-
 {% assign ch = page.title | upcase %}
 {% assign t = 'hasła polskie: ' | append: ch %}
 {% assign l = page.title | size %}
 {% if l > 2 %}
 {% assign t = page.title %}
-{% endif %}
-        
+{% endif %}        
 <div class="jumbotron post-jumbotron">
     <div class="container">
         <h1 class="post-title">{{ t }}</h1>

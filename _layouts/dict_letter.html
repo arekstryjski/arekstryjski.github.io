@@ -1,12 +1,8 @@
 {% include header.html %}
-
 {% assign ch = page.title | upcase %}
 {% assign t = 'hasła angielskie: ' | append: ch %}
 {% assign l = page.title | size %}
-{% if l > 2 %}
-{% assign t = page.title %}
-{% endif %}        
-
+{% if l > 2 %} {% assign t = page.title %} {% endif %}        
 <div class="jumbotron post-jumbotron">
     <div class="container">
         <h1 class="post-title">{{ t }}</h1>
@@ -14,7 +10,6 @@
         <h6 class="post-address">{{ site.url }}{{ page.url }}</h6>
     </div>
 </div>
-
 <div class="container">      
     <div class="row">
         <div class="col-sm-12">
@@ -32,9 +27,7 @@
                             {{ content }}
                         </div>
                         <div class="col-sm-2">
-                            {% if page.title != 'ś' and page.title != 'ż' and l < 2 %}
-                            <img src="/img/letters/{{page.title}}.png"/>
-                            {% endif %}
+                            {% if page.title != 'ś' and page.title != 'ż' and l < 2 %}<img src="/img/letters/{{page.title}}.png"/>{% endif %}
                         </div>                
                     </div>
                     <div class="row">
@@ -46,9 +39,7 @@
                                         {% if word.en != null %}
                                             {% assign ch = word.en | split : '' %}
                                             {% assign char = ch[0] | downcase %}
-                                            {% if char == page.title %}
-                                                <li><a href="{{word.url}}">{{ word.en }}</a> - {{ word.pl }} {{word.title}}</li>
-                                            {% endif %}
+                                            {% if char == page.title %}<li><a href="{{word.url}}">{{ word.en }}</a> - {{ word.pl }} {{word.title}}</li>{% endif %}
                                         {% endif %}
                                     {% endfor %}
                                 </ul>
@@ -60,5 +51,4 @@
         </div>
     </div>
 </div>
-
 {% include footer.html %}

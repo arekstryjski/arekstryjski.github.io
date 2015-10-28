@@ -4,46 +4,27 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <meta name="author" content="Arek Stryjski"/>
-    {% if page.en == null %}
-    <meta name="description" content="{{page.desc}}"/>
-    {% else %}
-    <meta name="description" content="Angielsko-Polski słownik żeglarski >> {{ page.en }} - {{ page.pl }}"/>
-    {% endif %}
-    
-    <meta property="fb:app_id" content="712513365439463" />
+    {% if page.en == null %} <meta name="description" content="{{page.desc}}"/> {% else %} <meta name="description" content="Angielsko-Polski słownik żeglarski >> {{ page.en }} - {{ page.pl }}"/> {% endif %}
+        <meta property="fb:app_id" content="712513365439463" />
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="{{ page.title }}"/>
     <meta property="og:locale" content="pl_PL"/>
     <meta property="og:site_name" content="Arek Stryjski"/>
     <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
-    {% if page.en == null %}
-    <meta property="og:description" content="{{ page.desc }}"/>
-    {% endif %}
+    {% if page.en == null %} <meta property="og:description" content="{{ page.desc }}"/> {% endif %}
     {% if page.img != null %}
     <meta property="og:image" content="{{ site.url }}{{ page.img }}"/>
     <meta property="og:image:type" content="image/jpeg"/>
     {% endif %}
-    {% if page.imgw != null %}
-    <meta property="og:image:width" content="{{ page.imgw }}"/>
-    {% endif %}
-    {% if page.imgh != null %}
-    <meta property="og:image:height" content="{{ page.imgh }}"/>
-    {% endif %}
-
+    {% if page.imgw != null %} <meta property="og:image:width" content="{{ page.imgw }}"/> {% endif %}
+    {% if page.imgh != null %} <meta property="og:image:height" content="{{ page.imgh }}"/> {% endif %}
     <link rel="shortcut icon" href="/img/logo/as_small.png">
-
-    {% if page.en == null %}
-    <title>{{ page.title }} :: Arek Stryjski</title>
-    {% else %}
-    <title>{{ page.en }} po polsku :: {{ page.pl }} po angielsku :: słownik żeglarski </title>
-    {% endif %}
-
+    {% if page.en == null %} <title>{{ page.title }} :: Arek Stryjski</title> {% else %} <title>{{ page.en }} po polsku :: {{ page.pl }} po angielsku :: słownik żeglarski </title> {% endif %}
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap-theme.min.css"/>
     <link rel="stylesheet" href="/css/local.css"/>
     <link rel="stylesheet" href="/css/print.css" type="text/css" media="print"/>
-
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -51,9 +32,7 @@
     <![endif]-->
 
     <link rel="canonical" href="{{ site.url }}{{ page.url }}"/>
-    {% if page.no_index == true %}
-    <meta name="robots" content="noindex">
-    {% endif %}
+    {% if page.no_index == true %}<meta name="robots" content="noindex">{% endif %}
 </head>
 
 <body>

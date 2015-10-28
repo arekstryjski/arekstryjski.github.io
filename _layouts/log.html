@@ -1,5 +1,4 @@
-{% include header.html %}     
-        
+{% include header.html %}             
 <div class="jumbotron post-jumbotron">
     <div class="container">
         <h1 class="post-title">{{ page.title }}</h1>
@@ -22,8 +21,7 @@
                 {% assign nm = 0 %}
                 {% assign days = 0 %}
                 {% assign nmSkip = 0 %}
-                {% assign daysSkip = 0 %}
-                
+                {% assign daysSkip = 0 %}                
                 {% for log in site.data.logbook %}
                     {% assign nm = nm | plus:log.nm %}
                     {% assign days = days | plus:log.day %}
@@ -102,5 +100,4 @@
     </div>
     {% include back_btn.html goto=page.category  %}
 </div>
-
 {% include footer.html %}

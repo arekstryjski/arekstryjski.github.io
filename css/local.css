@@ -184,10 +184,15 @@ blockquote p {
     font-family: monospace;
 }
 
-
 .dic-word {
     color: #4e4e4e;
     font-weight: bold;
+}
+
+.dict-nr {
+    font-size: 10pt;
+    color: #555555;
+    font-style: italic;
 }
 
 .alfabet_select {
