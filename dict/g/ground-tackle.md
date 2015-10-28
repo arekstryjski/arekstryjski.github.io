@@ -4,6 +4,7 @@ pl: oprzyrządowanie kotwiczne
 layout: dict_word
 date: 2014-01-01
 cat: mooring
+sub: anchor
 ---
 
 Kotwica [[anchor](/dict/a/anchor.html)], łańcuch [[chain](/dict/c/chain.html)], winda kotwiczna [[windless](/dict/w/windless.html)] 

@@ -4,6 +4,7 @@ pl: dryfkotwa spadochronowa
 layout: dict_word
 date: 2015-10-22
 cat: equipment
+sub: anchor
 ---
 
 Urządzenie wykonane z materiału przypominające spadochron (dawniej wykorzystywano czasami małe spadochrony wojskowe)

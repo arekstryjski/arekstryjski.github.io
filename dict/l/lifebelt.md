@@ -13,3 +13,4 @@ Z reguły na jachcie koło ratunkowe trzymane jest na koszu [[pushpit](/dict/p/p
 *zobacz też:*
 
 * [horseshoe lifebelt](/dict/h/horseshoe-lifebelt.html)
+* [lifebuoy](/dict/l/lifebuoy.html)

@@ -4,6 +4,7 @@ pl: dryfkotwa linowa
 layout: dict_word
 date: 2015-10-22
 cat: equipment
+sub: anchor
 ---
 
 Seria małych stożków przyszytych do długiej liny i mocowanych do rufy jachtu. Urządzenie ma za zadanie nie tylko zwolnienie 
