@@ -2,7 +2,7 @@
 title: słownik żeglarski 
 layout: dict
 desc: Angielsko-Polski słownik żeglarski. Angielskie słownictwo i terminologia żeglarska. 
-date: 2015-10-22
+date: 2015-10-29
 ---
 
 [![słownik żeglarski](/img/logo/beta.jpg)](class:img-right)
@@ -55,6 +55,7 @@ kategorie
 
 * [knots](/dict/k/knots.html) / węzły 
 * [port](/dict/p/port.html) / w porcie 
+* [sailor](/dict/s/sailor.html) / żeglarz (funkcje i nazwy) 
   
   
 pomóż

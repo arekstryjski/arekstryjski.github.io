@@ -1,9 +1,9 @@
 ---
 en: sailor
 pl: żeglarz
-layout: dict_word
+layout: dict_cat
 date: 2015-01-16
-cat: 
 ---
 
-<!-- TODO kategoria? -->
+Szerokie pojęcie określające każdą osobę zajmująca się żeglarstwem, zarówno śródlądowym jak i morskim, na dowolnej 
+wielkości jachcie bądź żaglówce. 
