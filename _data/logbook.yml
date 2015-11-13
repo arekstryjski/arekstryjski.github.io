@@ -1,3 +1,14 @@
+- log: 45
+  start: 2015-11-07
+  end: 2015-11-08  
+  day: 2
+  nm: 39
+  pos: skipper 
+  sea: Solent
+  ports: Gosport - Cowes - Gosport
+  y_name: Wight Dimaond
+  y_type: Elan Impression 434
+
 - log: 44
   start: 2015-10-09
   end: 2015-10-10  
