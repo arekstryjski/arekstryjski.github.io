@@ -35,7 +35,8 @@ sailing experience
 * sailing areas: Arctic, North Atlantic, Bay of Biscay, Norwegian Sea, North Sea, Irish and Celtic Seas, English Channel, Mediterranean 
 
 *2007 - current*: Working as skipper for *JoinUs.eu* on vacation cruises with people of various experience, including kids and complete beginners.  
-*2014 - current*: One of directors of *SetSail* sailing club. Co-organizing and skippering weekend sailing trips in UK with people of various experience.  
+*2014 - current*: Co-organizing and skippering weekend sailing trips in UK with people of various experience for *SetSail*.  
+*2015 - current*: One of directors of *SetSail* sailing club. 
 *In 2015* during the sailing trip in Svalbard I skippered we reached latitude 81°N. 
 
 For more details see my [logbook](http://stryjski.net/arek/logbook.html).
