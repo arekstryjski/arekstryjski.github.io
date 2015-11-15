@@ -5,7 +5,7 @@ category: rejsy
 keywords: rejsy, rejsy morskie, rejsy weekendowe, żeglarstwo, yachting, jachting, Norwegia, Spitsbergen, Jan Mayen
 desc: Informacje na temat planowanych rejsów. Norwegia, Spitsbergen, Jan Mayen. Rejsy weekendowe w UK. 
 img: /img/2013/setsail/sun_l.jpg
-date: 2015-02-24
+date: 2015-11-15
 ---
 
 rejsy weekendowe
@@ -16,9 +16,11 @@ rejsy weekendowe
 W UK prowadzę weekendowe rejsy organizowane przez polonijny klub żeglarski [SetSail](http://setsail.org.uk).  
 Najbliższe terminy:  
 
-* weekend **9-11 październik 2015** - rejs stażowy ICC - *Solent* [zapisy i informacje](http://www.meetup.com/SetSail-Polish-Sailing-Club/events/223935940/)
-* weekend **6-8 listopad 2015** II rocznica SetSail - *Solent* [zapisy i informacje](http://www.meetup.com/SetSail-Polish-Sailing-Club/events/223935764/)
-* weekend **4-6 grudzień 2015** - Rejs hard-core *Wyspy Normandzkie* [zapisy i informacje](http://www.meetup.com/SetSail-Polish-Sailing-Club/events/223936889/)
+* weekend **4-6 grudzień 2015** - Rejs hard-core *Wyspy Normandzkie* [zapisy i informacje](http://SetSail.Club/events/223936889/)
+* weekend **19-21 luty 2016** - Rejs hard-core [zapisy i informacje](http://SetSail.Club/events/226702746/)
+* weekend **11-13 marzec 2016** - manewrówka / rejs stażowy ICC* [zapisy i informacje](http://SetSail.Club/events/226702816/)
+* weekend **8-10 kwiecień 2016** - rejs weekendowy Solent* [zapisy i informacje](http://SetSail.Club/events/226703127/)
+* weekend **27-30 maj 2016** - Spring Bank Holiday - Wyspy Normandzkie* [zapisy i informacje](http://SetSail.Club/events/226703041/)
 
 Planowane trasy mogą ulec zmianie. Zobacz stronę z [opisami tras](/solent-trasy).   
 Zapisy i więcej informacji w podanych powyżej linkach. Jeśli masz pytanie [napisz do mnie](/rejsy/rezerwacja).  
