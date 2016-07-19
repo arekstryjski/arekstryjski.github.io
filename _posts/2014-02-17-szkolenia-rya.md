@@ -163,6 +163,4 @@ więcej informacji
 
 * najobszerniejszym źródłem informacji o kursach żeglarskich w Wielkiej Brytanii jest oczywiście strona RYA:   
   <http://www.rya.org.uk>
-* świetny artykuł Agnieszki Schramm-Newth dlaczego warto szkolić się w systemie brytyjskim *Patenty z wyższej półki*   
-  <http://www.sailpro.pl/pdf/RYA-artykul-zagle.pdf>
 
