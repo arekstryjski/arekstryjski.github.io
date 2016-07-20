@@ -6,4 +6,4 @@ date: 2014-01-01
 cat: deck
 ---
 
-Poręcz przymocowana do nadbudówki pomagająca w przejściu na dziób [[bow](/dict/b/bow.html)] jachtu.
+Poręcz przymocowana do nadbudówki pomagająca w przejściu na dziób [[bow](/dict/b/bow/)] jachtu.

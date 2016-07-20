@@ -7,8 +7,8 @@ cat: rig
 sub: running-rigging
 ---
 
-Szot [[sheet](/dict/s/sheet.html)] który w danym momencie nie jest używany.
+Szot [[sheet](/dict/s/sheet/)] który w danym momencie nie jest używany.
 
 *zobacz też:*
 
-* [working sheet](/dict/w/working-sheet.html)
+* [working sheet](/dict/w/working-sheet/)

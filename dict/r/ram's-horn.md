@@ -7,5 +7,5 @@ cat: rig
 sub: spars
 ---
 
-Metalowy hak na maszcie [[mast](/dict/m/mast.html)] na który nakłada sie ucho szotowe [[cringle](/dict/c/cringle.html)] 
-grota [[mainsail](/dict/m/mainsail.html)] podczas refowania [[reef](/dict/r/reef.html)]. 
+Metalowy hak na maszcie [[mast](/dict/m/mast/)] na który nakłada sie ucho szotowe [[cringle](/dict/c/cringle/)] 
+grota [[mainsail](/dict/m/mainsail/)] podczas refowania [[reef](/dict/r/reef/)]. 

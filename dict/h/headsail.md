@@ -7,12 +7,12 @@ cat: rig
 sub: types-of-sails
 ---
 
-Przedni żagiel na jachcie przymocowany do [[forestay](/dict/forestay.html)].
+Przedni żagiel na jachcie przymocowany do [[forestay](/dict/forestay/)].
   
 ![sails](/img/dict/sails.png)
 
 *zobacz też:*
 
-* [jib](/dict/j/jib.html) / fok
-* [genoa](/dict/g/genoa.html) / genua
-* [spinnaker](/dict/s/spinnaker.html) / spinaker
+* [jib](/dict/j/jib/) / fok
+* [genoa](/dict/g/genoa/) / genua
+* [spinnaker](/dict/s/spinnaker/) / spinaker

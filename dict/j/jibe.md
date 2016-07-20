@@ -6,4 +6,4 @@ date: 2013-12-29
 cat: sailing
 ---
 
-*to samo co: [gybe](/dict/g/gybe.html)*
+*to samo co: [gybe](/dict/g/gybe/)*

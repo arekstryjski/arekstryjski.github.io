@@ -10,6 +10,6 @@ Przedednia część jachtu.
 
 *zobacz też:*
 
-* [beam](/dict/b/beam.html)
-* [stern](/dict/s/stern.html)
+* [beam](/dict/b/beam/)
+* [stern](/dict/s/stern/)
 

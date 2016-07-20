@@ -13,4 +13,4 @@ Ponieważ nie ma możliwości, aby żeglować wprost na wiatr płynie się zakos
 
 *zobacz też:*
 
-* [tack](/dict/t/tack.html)
+* [tack](/dict/t/tack/)

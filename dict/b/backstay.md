@@ -9,8 +9,8 @@ cat: rig
 sub: standing-rigging
 ---
 
-Stalowa linka - sztag [[stay](/dict/s/stay.html)] - biegnąca ze szczytu masztu [[mast](/dict/m/mast.html)] 
-do rufy [[stern](/dict/s/stern.html)] i podtrzymująca go.
+Stalowa linka - sztag [[stay](/dict/s/stay/)] - biegnąca ze szczytu masztu [[mast](/dict/m/mast/)] 
+do rufy [[stern](/dict/s/stern/)] i podtrzymująca go.
 
 W języku angielskim nie ma rozróżnienia na:
 

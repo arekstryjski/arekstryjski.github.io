@@ -6,6 +6,6 @@ date: 2013-12-27
 cat: port
 ---
 
-Miejsce do zacumowania w marinie [[marina](/dict/m/marina.html)], najczęściej z podanym numerem.
+Miejsce do zacumowania w marinie [[marina](/dict/m/marina/)], najczęściej z podanym numerem.
 
-Zobacz także: [berth](/dict/b/berth.html).
+Zobacz także: [berth](/dict/b/berth/).

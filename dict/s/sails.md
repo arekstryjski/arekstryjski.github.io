@@ -8,6 +8,6 @@ cat: rig
 
 *zobacz podkategorie:*
 
-* [types of sails](/dict/t/types-of-sails.html) / rodzaje żagli
-* [parts of sails](/dict/p/parts-of-sails.html) / części żagla
+* [types of sails](/dict/t/types-of-sails/) / rodzaje żagli
+* [parts of sails](/dict/p/parts-of-sails/) / części żagla
 

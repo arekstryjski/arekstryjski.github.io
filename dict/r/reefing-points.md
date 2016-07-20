@@ -7,9 +7,9 @@ cat: rig
 sub: parts-of-sails
 ---
 
-Wzmocnione miejsce w żaglu przez które przechodzą linki refowe [[reefing lines](/dict/r/reefing-lines.html)]
+Wzmocnione miejsce w żaglu przez które przechodzą linki refowe [[reefing lines](/dict/r/reefing-lines/)]
 
 ![części żagla](/img/dict/parts_of_a_sail.png)
 
-*to samo co: [cringle](/dict/c/cringle.html)*
+*to samo co: [cringle](/dict/c/cringle/)*
 

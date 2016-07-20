@@ -7,8 +7,8 @@ cat: rig
 sub: running-rigging
 ---
 
-Lina służąca do pociągnięcia bumu [[boom](/dict/b/boom.html)] w dół.  
+Lina służąca do pociągnięcia bumu [[boom](/dict/b/boom/)] w dół.  
 
-Zabieg ten ma na celu naciągnięcie liku wolnego [[leech](/dict/l/leech.html)] grota [[mainsail](/dict/m/mainsail.html)].
+Zabieg ten ma na celu naciągnięcie liku wolnego [[leech](/dict/l/leech/)] grota [[mainsail](/dict/m/mainsail/)].
 
 <!-- TODO: po co to naciągać? -->

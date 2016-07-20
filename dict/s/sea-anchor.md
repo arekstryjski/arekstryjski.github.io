@@ -15,5 +15,5 @@ uderzającą w burtę jachtu.
 
 *zobacz też:*
 
-* [drogue](/dict/d/drogue.html)
-* [series drogue](/dict/s/series-drogue.html)
+* [drogue](/dict/d/drogue/)
+* [series drogue](/dict/s/series-drogue/)

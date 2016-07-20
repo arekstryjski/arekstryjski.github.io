@@ -7,9 +7,9 @@ cat: sailor
 ---
 
 Osoba odpowiedzialna za prowadzenie statku komercyjnego zarówno handlowego jak i żaglowca.  
-Określenie bardziej formalne niż [captain](/dict/c/captain.html).
+Określenie bardziej formalne niż [captain](/dict/c/captain/).
 
 *zobacz też:*
 
-* [seafarer](/dict/s/seafarer.html)
+* [seafarer](/dict/s/seafarer/)
 

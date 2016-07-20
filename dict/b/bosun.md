@@ -10,6 +10,6 @@ Osoba odpowiedzialna za dbanie o techniczny stan jachtu i jego konserwację.
 
 *zobacz też:*
 
-* [bosun chair](/dict/b/bosun-chair.html)
+* [bosun chair](/dict/b/bosun-chair/)
 
 

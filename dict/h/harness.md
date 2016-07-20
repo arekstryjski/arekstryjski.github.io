@@ -8,9 +8,9 @@ cat: equipment
 sub: safety-equipment
 ---
 
-Szelki/uprząż służące do przypięcia się do pokładu [[deck](/dict/d/deck.html)] jachtu.
+Szelki/uprząż służące do przypięcia się do pokładu [[deck](/dict/d/deck/)] jachtu.
 
 *zobacz też:*
 
-* [lifeline](/dict/l/lifeline.html)
-* [jackstay](/dict/j/jackstay.html)
+* [lifeline](/dict/l/lifeline/)
+* [jackstay](/dict/j/jackstay/)

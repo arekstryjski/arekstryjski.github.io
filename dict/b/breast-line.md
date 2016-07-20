@@ -7,8 +7,8 @@ cat: mooring
 sub: mooring-line
 ---
 
-Gdy jach cumuje burtą [[alongside](/dict/a/alongside.html)] lina trzymająca jacht ze śródokręcia [[beam](/dict/b/beam.html)].
-Lina powstrzymuje yacht przed oddaleniem się od nabrzeża/pomostu lub innego jachtu jeśli cumujemy do niego [[rafting](/dict/r/rafting.html)].
+Gdy jach cumuje burtą [[alongside](/dict/a/alongside/)] lina trzymająca jacht ze śródokręcia [[beam](/dict/b/beam/)].
+Lina powstrzymuje yacht przed oddaleniem się od nabrzeża/pomostu lub innego jachtu jeśli cumujemy do niego [[rafting](/dict/r/rafting/)].
 
 Cuma ta ma najczęściej charakter tymczasowy i zastąpiona jest później innymi cumami, lub pomaga jedynie przy odejściu.  
 

@@ -16,5 +16,5 @@ Z reguły urządzenie jest zbyt małe by całkowicie zatrzymać jacht i wymaga k
 
 *zobacz też:*
 
-* [sea anchor](/dict/s/sea-anchor.html)
-* [series drogue](/dict/s/series-drogue.html)
+* [sea anchor](/dict/s/sea-anchor/)
+* [series drogue](/dict/s/series-drogue/)

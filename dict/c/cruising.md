@@ -23,5 +23,5 @@ Na pewno każde z tych tłumaczeń oddaje jakiś element znaczenia słowa *cruis
 
 *zobacz też:*
 
-* [cruising speed](/dict/c/cruising-speed.html)
-* [cruising range](/dict/c/cruising-range.html)
+* [cruising speed](/dict/c/cruising-speed/)
+* [cruising range](/dict/c/cruising-range/)

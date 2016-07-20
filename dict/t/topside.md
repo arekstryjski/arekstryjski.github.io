@@ -10,4 +10,4 @@ Części burty wystające ponad wodę.
 
 *zobacz też:*
 
-* [free board](/dict/free-board.html)
+* [free board](/dict/free-board/)

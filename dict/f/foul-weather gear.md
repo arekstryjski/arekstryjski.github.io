@@ -8,7 +8,7 @@ cat: equipment
 
 *zobacz też:*
 
-* [wet weather gear](/dict/w/wet-weather-gear.html)
-* [oliskin](/dict/o/oliskin.html)
+* [wet weather gear](/dict/w/wet-weather-gear/)
+* [oliskin](/dict/o/oliskin/)
 
 

@@ -10,5 +10,5 @@ Zmienić kurs [course] jachtu w kierunku z którego wieje wiatr.
 
 *zobacz też:*
 
-* [bear away](/dict/b/bear-away.html)
-* [luffing up](/dict/l/luffing-up.html)
+* [bear away](/dict/b/bear-away/)
+* [luffing up](/dict/l/luffing-up/)

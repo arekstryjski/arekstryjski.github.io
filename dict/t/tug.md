@@ -10,6 +10,6 @@ sub: distress
 
 *zobacz też:*
 
-* [tow](/dict/t/tow.html)
+* [tow](/dict/t/tow/)
 
 <!-- TODO opis-->

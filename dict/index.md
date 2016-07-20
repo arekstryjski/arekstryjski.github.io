@@ -38,30 +38,30 @@ kategorie
 
 **części jachtu:**
 
-* [hull](/dict/h/hull.html) / kadłub
-* [deck](/dict/d/deck.html) / pokład
-* [rig](/dict/r/rig.html) / ożaglowanie   
-* [equipment](/dict/e/equipment.html) / wyposażenie   
+* [hull](/dict/h/hull/) / kadłub
+* [deck](/dict/d/deck/) / pokład
+* [rig](/dict/r/rig/) / ożaglowanie   
+* [equipment](/dict/e/equipment/) / wyposażenie   
    
 **prowadzenie jachtu:**
 
-* [sailing](/dict/s/sailing.html) / żegluga    
-* [mooring](/dict/m/mooring.html) / cumowanie     
-* [navigation](/dict/n/navigation.html) / nawigacja 
-* [communication](/dict/c/communication.html) / komunikacja 
-* [safety](/dict/s/safety.html) / bezpieczeństwo 
+* [sailing](/dict/s/sailing/) / żegluga    
+* [mooring](/dict/m/mooring/) / cumowanie     
+* [navigation](/dict/n/navigation/) / nawigacja 
+* [communication](/dict/c/communication/) / komunikacja 
+* [safety](/dict/s/safety/) / bezpieczeństwo 
 
 **inne:**
 
-* [knots](/dict/k/knots.html) / węzły 
-* [port](/dict/p/port.html) / w porcie 
-* [sailor](/dict/s/sailor.html) / żeglarz (funkcje i nazwy) 
+* [knots](/dict/k/knots/) / węzły 
+* [port](/dict/p/port/) / w porcie 
+* [sailor](/dict/s/sailor/) / żeglarz (funkcje i nazwy) 
   
   
 pomóż
 ------
 
-Jeśli jakiegoś słowa tu brakuje, chciałbyś coś dodać lub skorygować proszę o [kontakt](/arek/email.html)
+Jeśli jakiegoś słowa tu brakuje, chciałbyś coś dodać lub skorygować proszę o [kontakt](/arek/email/)
 
 Jeśli uznasz ten słownik za pomocny proszę podziel się informacja o nim z innymi.
 

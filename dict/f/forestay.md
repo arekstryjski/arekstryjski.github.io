@@ -7,8 +7,8 @@ cat: rig
 sub: standing-rigging
 ---
 
-Stalowa linka - sztag [[stay](/dict/s/stay.html)] - biegnąca ze szczytu masztu [[mast](/dict/m/mast.html)] 
-do dziobnicy [[stem](/dict/s/stem.html)] i podtrzymująca go.  
-Także podtrzymuje lik przedni [luff] żagla przedniego [[headsail](/dict/h/headsail.html)].
+Stalowa linka - sztag [[stay](/dict/s/stay/)] - biegnąca ze szczytu masztu [[mast](/dict/m/mast/)] 
+do dziobnicy [[stem](/dict/s/stem/)] i podtrzymująca go.  
+Także podtrzymuje lik przedni [luff] żagla przedniego [[headsail](/dict/h/headsail/)].
 
 ![stay](/img/dict/stay.png)

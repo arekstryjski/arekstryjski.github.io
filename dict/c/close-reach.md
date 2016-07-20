@@ -7,4 +7,4 @@ cat: sailing
 sub: point-of-sail
 ---
 
-*to samo co: [fine reach](/dict/fine-reach.html)*
+*to samo co: [fine reach](/dict/fine-reach/)*

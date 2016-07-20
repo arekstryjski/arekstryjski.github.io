@@ -8,6 +8,6 @@ cat: equipment
 
 *zobacz też:*
 
-* [foul weather gear](/dict/f/foul-weather-gear.html)
-* [wet weather gear](/dict/w/wet-weather-gear.html)
+* [foul weather gear](/dict/f/foul-weather-gear/)
+* [wet weather gear](/dict/w/wet-weather-gear/)
 

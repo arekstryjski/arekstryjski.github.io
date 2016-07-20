@@ -7,7 +7,7 @@ cat: rig
 sub: standing-rigging
 ---
 
-Baksztag [[backstay](/dict/b/backstay.html)] który może być luzowany [[ease](/dict/ease.html)] z jednej strony.
+Baksztag [[backstay](/dict/b/backstay/)] który może być luzowany [[ease](/dict/ease/)] z jednej strony.
 
 Stosowany głównie w jachtach sportowych gdzie pomaga ustawić odpowiedni profil masztu 
-przy różnych kursach względem wiatru [[point-of-sail](/dict/p/point-of-sail.html)].
+przy różnych kursach względem wiatru [[point-of-sail](/dict/p/point-of-sail/)].

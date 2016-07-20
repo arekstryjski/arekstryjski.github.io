@@ -10,5 +10,5 @@ Kotwica na jachcie, ale także manewr zakotwiczenia.
 
 *zobacz też:*
 
-* [dragging anchor](/dict/d/dragging-anchor.html)
-* [fouled anchor](/dict/f/fouled-anchor.html)
+* [dragging anchor](/dict/d/dragging-anchor/)
+* [fouled anchor](/dict/f/fouled-anchor/)

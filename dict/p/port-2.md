@@ -8,10 +8,10 @@ cat: hull
 
 Lewa strona jachtu.
 
-W języku angielskim nie używa się słowa lewy [left] w stosunku do burt [[board](/dict/b/board.html)] jachtu, 
+W języku angielskim nie używa się słowa lewy [left] w stosunku do burt [[board](/dict/b/board/)] jachtu, 
 Jeśli ktoś go użyje będzie ono miało charakter względny, czyli będzie odnosiło się do lewej strony osoby mówiącej - a nie jachtu.  
 
 *zobacz też:*
 
-* [starboard](/dict/s/starboard.html)
+* [starboard](/dict/s/starboard/)
 

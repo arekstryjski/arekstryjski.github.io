@@ -12,9 +12,9 @@ W kompasie wykorzystywane jest zjawisko ustawiania się swobodnie zawieszonego m
 
 rodzaje:
 
-* [hand-bearing compass](/dict/h/hand-bearing-compass.html)
+* [hand-bearing compass](/dict/h/hand-bearing-compass/)
 
 *zobacz też:*
 
-* [deviation](/dict/d/deviation.html)
-* [variation](/dict/v/variation.html)
+* [deviation](/dict/d/deviation/)
+* [variation](/dict/v/variation/)

@@ -8,9 +8,9 @@ cat: sailor
 ---
 
 Osoba samodzielnie prowadząca (dowodząca) jacht lub statek rybacki.  
-W języku angielskim niepoprawne jest używanie słowa [captain](/dict/c/captain.html) na określenie tej pozycji. 
+W języku angielskim niepoprawne jest używanie słowa [captain](/dict/c/captain/) na określenie tej pozycji. 
 
 *zobacz też:*
 
-* [Yachtmaster](/dict/y/yachtmaster.html)
-* [Day Skipper](/dict/d/day-skipper.html)
+* [Yachtmaster](/dict/y/yachtmaster/)
+* [Day Skipper](/dict/d/day-skipper/)

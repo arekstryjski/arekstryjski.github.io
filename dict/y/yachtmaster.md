@@ -8,16 +8,16 @@ cat: sailor
 
 Określenie wyższych certyfikatów wystawianych przez RYA. W chwili obecnej dzielą się na:
 
-* [Yachtmaster Coastal](/dict/y/yachtmaster-coastal.html)
-* [Yachtmaster Offshore](/dict/y/yachtmaster-offshore.html)
-* [Yachtmaster Ocean](/dict/y/yachtmaster-ocean.html)
+* [Yachtmaster Coastal](/dict/y/yachtmaster-coastal/)
+* [Yachtmaster Offshore](/dict/y/yachtmaster-offshore/)
+* [Yachtmaster Ocean](/dict/y/yachtmaster-ocean/)
 
 Dwa pierwsze certyfikaty mają dokładnie ten sam zakres wymagań teoretycznych. Do *Yachtmaster Ocean* dochodzi dodatkowo
 znajomość astronawigacji.
 
 *zobacz też:*
 
-* [master](/dict/m/master.html)
-* [certificate](/dict/c/certificate.html)
+* [master](/dict/m/master/)
+* [certificate](/dict/c/certificate/)
 
 

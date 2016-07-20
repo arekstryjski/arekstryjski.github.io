@@ -8,9 +8,9 @@ cat: hull
 
 Prawa strona yachtu.  
 
-W języku angielskim nie używa się słowa prawy [right] w stosunku do burt [[board](/dict/b/board.html)] jachtu, 
+W języku angielskim nie używa się słowa prawy [right] w stosunku do burt [[board](/dict/b/board/)] jachtu, 
 Jeśli ktoś go użyje będzie ono miało charakter względny, czyli będzie odnosiło się do prawej strony osoby mówiącej, a nie jachtu.  
 
 *zobacz też:*
 
-* [port](/dict/p/port-2.html)
+* [port](/dict/p/port-2/)

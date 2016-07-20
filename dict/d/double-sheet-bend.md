@@ -12,4 +12,4 @@ Węzeł łączący dwie liny.
 
 *zobacz też:* 
 
-* [single sheet bend](/dict/s/single-sheet-bend.html)
+* [single sheet bend](/dict/s/single-sheet-bend/)

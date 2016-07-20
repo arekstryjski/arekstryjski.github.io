@@ -10,4 +10,4 @@ Toaleta na jachcie.
 
 *zobacz też:*
 
-* [head](/dict/h/head.html)
+* [head](/dict/h/head/)

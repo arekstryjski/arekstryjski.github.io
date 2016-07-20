@@ -6,5 +6,5 @@ date: 2013-12-27
 cat: knots
 ---
 
-*zobacz: [sheet bend](/dict/s/sheet-bend.html)*
+*zobacz: [sheet bend](/dict/s/sheet-bend/)*
 

@@ -11,5 +11,5 @@ cat: hull
 
 *zobacz też:*
 
-* [bow](/dict/b/bow.html)
-* [stern](/dict/s/stern.html)
+* [bow](/dict/b/bow/)
+* [stern](/dict/s/stern/)

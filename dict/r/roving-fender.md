@@ -6,4 +6,4 @@ date: 2014-01-05
 cat: equipment
 ---
 
-Odbijacz [[fender](/dict/fender.html)] który jest trzymany w ręku i może byc szybko użyty by chronić jedna z burt.
+Odbijacz [[fender](/dict/fender/)] który jest trzymany w ręku i może byc szybko użyty by chronić jedna z burt.

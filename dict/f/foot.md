@@ -8,7 +8,7 @@ sub: parts-of-sails
 ---
 
 Dolna cześć żagla.   
-W przypadku grata [[mainsail](/dict/m/mainsail.html)] przymocowana do bumu [[boom](/dict/b/boom.html)].
+W przypadku grata [[mainsail](/dict/m/mainsail/)] przymocowana do bumu [[boom](/dict/b/boom/)].
 
 ![części żagla](/img/dict/parts_of_a_sail.png)
 

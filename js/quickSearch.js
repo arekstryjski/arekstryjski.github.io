@@ -6,7 +6,7 @@
             searchResults       : '#quick_search_results',
             searchResultsTitle  : '',
             limit               : '25',
-            noResults           : '<li role="presentation"><a class="quick_search_link" role="menuitem" tabindex="-1" href="/dict/index.html">nic nie znaleziono...</a></li>'
+            noResults           : '<li role="presentation"><a class="quick_search_link" role="menuitem" tabindex="-1" href="/dict/index">nic nie znaleziono...</a></li>'
         }, options);
 
         var jsonData = [],

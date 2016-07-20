@@ -6,15 +6,15 @@ layout: dict_cat
 date: 2014-01-05
 ---
 
-Maszt [[mast](/dict/m/mast.html)], bum [[boom](/dict/b/boom.html)], sztagi [[stay](/dict/s/stay.html)] i żagle [[sails](/dict/s/sails.html)].
+Maszt [[mast](/dict/m/mast/)], bum [[boom](/dict/b/boom/)], sztagi [[stay](/dict/s/stay/)] i żagle [[sails](/dict/s/sails/)].
 
 podkategorie:
 -------------
 
-* [types of sails](/dict/t/types-of-sails.html) / rodzaje żagli
-* [parts of sails](/dict/p/parts-of-sails.html) / części żagla
-* [running rigging](/dict/r/running-rigging.html) / olinowanie ruchome
-* [standing rigging](/dict/s/standing-rigging.html) / standing rigging
-* [spars](/dict/s/spars.html) / drzewce
+* [types of sails](/dict/t/types-of-sails/) / rodzaje żagli
+* [parts of sails](/dict/p/parts-of-sails/) / części żagla
+* [running rigging](/dict/r/running-rigging/) / olinowanie ruchome
+* [standing rigging](/dict/s/standing-rigging/) / standing rigging
+* [spars](/dict/s/spars/) / drzewce
 
-*to samo co: [[rigging](/dict/r/rigging.html)]*
+*to samo co: [[rigging](/dict/r/rigging/)]*

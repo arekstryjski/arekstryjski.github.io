@@ -10,4 +10,4 @@ Rozwinąć żagle.
 
 *zobacz też:*
 
-* [furl](/dict/furl.html)
+* [furl](/dict/furl/)

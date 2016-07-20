@@ -6,9 +6,9 @@ date: 2014-01-01
 cat: mooring
 ---
 
-Elektryczna lub mechaniczna winda pozwalająca wciągnąć łańcuch [[chain](/dict/c/chain.html)] 
-z kotwicą [[anchor](/dict/a/anchor.html)] na pokład [[deck](/dict/d/deck.html)].
+Elektryczna lub mechaniczna winda pozwalająca wciągnąć łańcuch [[chain](/dict/c/chain/)] 
+z kotwicą [[anchor](/dict/a/anchor/)] na pokład [[deck](/dict/d/deck/)].
 
 *zobacz też:*
 
-* [ground tackle](/dict/g/ground-tackle.html)
+* [ground tackle](/dict/g/ground-tackle/)

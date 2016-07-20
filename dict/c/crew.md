@@ -10,5 +10,5 @@ Osoba aktywnie pomagająca w prowadzeniu jachtu bądź statku komercyjnego.
   
 *zobacz też:*
 
-* [competent crew](/dict/c/competent-crew.html)
+* [competent crew](/dict/c/competent-crew/)
 

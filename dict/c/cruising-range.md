@@ -12,5 +12,5 @@ optymalną dla zużycia paliwa.
 
 *zobacz też:*
 
-* [cruising](/dict/c/cruising.html)
-* [cruising speed](/dict/c/cruising-speed.html)
+* [cruising](/dict/c/cruising/)
+* [cruising speed](/dict/c/cruising-speed/)

@@ -24,7 +24,7 @@ Tym razem nie jedna, ale aż trzy relacje:
 * Michał Stryjski *[Svalbard sailing holiday](/svalbard-sailing-holiday)* - relacja mojego syna z naszego rejsu (po angielsku)
 * i w końcu moja relacja *[Jeden stopień dalej](/jeden-stopien-dalej)* z rejsu 25.07 - 8.08.2015 na *JoinUs* 
 
-Zobacz także relację Kasi i Marty na ich blogu *[Sea Dreamers](http://sea-dreamers.blogspot.co.uk/2015/09/wakacje-w-arktyce.html)* 
+Zobacz także relację Kasi i Marty na ich blogu *[Sea Dreamers](http://sea-dreamers.blogspot.co.uk/2015/09/wakacje-w-arktyce/)* 
 z rejsu 8.08 - 22.08.2015 na tym samym jachcie.
 
 ![Svalbard](/img/2015/svalbard/svalbard.jpg)

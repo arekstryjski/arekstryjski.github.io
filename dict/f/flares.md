@@ -8,7 +8,7 @@ sub: safety-equipment
 ---
 
 Środki pirotechniczne używane w celu zwrócenia na siebie uwagi i/lub zakomunikowania innym że znajdujemy się 
-w sytuacji awaryjnej [[distress](/dict/d/distress.html)] i wzywamy pomocy.
+w sytuacji awaryjnej [[distress](/dict/d/distress/)] i wzywamy pomocy.
 
 Wyróżnia się następujące rodzaje rakiet:
 
@@ -21,7 +21,7 @@ Wyróżnia się następujące rodzaje rakiet:
 | handheld white | ręczna biała    | zwrócenie na siebie uwagę | 0 |
 | orange smoke | pomarańczowy dym  | użyta by pomóc odnaleźć jacht z powietrza | 2 |
 
-\* *podane liczby dla obszarów 2 i 3 [[area of operation](/dict/a/area-of-operation.html)]*
+\* *podane liczby dla obszarów 2 i 3 [[area of operation](/dict/a/area-of-operation/)]*
 
 ![flares](/img/dict/flares.jpg)
 

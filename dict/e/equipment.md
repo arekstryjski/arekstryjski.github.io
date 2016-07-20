@@ -10,6 +10,6 @@ Tu znajda się tylko te najczęściej spotykane, albo których nazwa może spraw
 
 podkategorie:
 -------------
-* [anchor](/dict/a/anchor.html)
-* [safety equipment](/dict/s/safety-equipment.html)
-* [navigation equipment](/dict/n/navigation-equipment.html)
+* [anchor](/dict/a/anchor/)
+* [safety equipment](/dict/s/safety-equipment/)
+* [navigation equipment](/dict/n/navigation-equipment/)

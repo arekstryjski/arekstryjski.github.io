@@ -6,4 +6,4 @@ date: 2014-01-01
 cat: deck
 ---
 
-Główne wejście pod pokład - luk [[hatch](/dict/h/hatch.html)] przy zejściówce [[companionway](/dict/c/companionway.html)]. 
+Główne wejście pod pokład - luk [[hatch](/dict/h/hatch/)] przy zejściówce [[companionway](/dict/c/companionway/)]. 

@@ -8,5 +8,5 @@ sub: anchor
 ---
 
 Kotwica dodatkowa, najczęściej schowana w bakiście i używana w sytuacjach awaryjnych bądź jako druga kotwica rzucana 
-z rufy [[stern](/dict/s/stern.html)].
+z rufy [[stern](/dict/s/stern/)].
 

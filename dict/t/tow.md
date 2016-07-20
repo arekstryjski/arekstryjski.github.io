@@ -9,7 +9,7 @@ sub: distress
 
 *zobacz też:*
 
-* [tug](/dict/t/tug.html)
+* [tug](/dict/t/tug/)
 
 <!-- TODO: opis -->
 

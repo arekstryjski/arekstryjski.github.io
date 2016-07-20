@@ -9,10 +9,10 @@ cat: communication
 Radio krótkiego zasięgu wykorzystywane przez statki i porty do komunikacji.
 
 Stacje nasłuchują i wywołują się wzajemnie z reguły na kanale 16, a następnie przechodzą na inny kanał.
-Wyjątkiem może być komunikacja z kapitanatem portu [[harbour master](/dict/h/harbour-master.html)] 
+Wyjątkiem może być komunikacja z kapitanatem portu [[harbour master](/dict/h/harbour-master/)] 
 który z reguły nasłuchuje na innym kanale np. 12.
 
 *zobacz też:*
 
-* [Mayday](/dict/Mayday.html)
-* [Pan-Pan](/dict/Pan-Pan.html)
+* [Mayday](/dict/Mayday/)
+* [Pan-Pan](/dict/Pan-Pan/)

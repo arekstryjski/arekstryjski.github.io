@@ -7,9 +7,9 @@ cat: rig
 sub: types-of-sails
 ---
 
-Żagiel przedni [[headsail](/dict/h/headsail.html)] którego długość jest mniejsza niż długość pokładu [[deck](/dict/d/deck.html)] 
-od dziobu [[bow](/dict/b/bow.html)] do masztu [[mast](/dict/m/mast.html)].
+Żagiel przedni [[headsail](/dict/h/headsail/)] którego długość jest mniejsza niż długość pokładu [[deck](/dict/d/deck/)] 
+od dziobu [[bow](/dict/b/bow/)] do masztu [[mast](/dict/m/mast/)].
 
 ![jib vs genoa](/img/dict/jib_vs_genoa.png)
 
-*Na ilustracji **fok po lewej**, genua [[genoa](/dict/g/genoa.html)] po prawej.*
+*Na ilustracji **fok po lewej**, genua [[genoa](/dict/g/genoa/)] po prawej.*

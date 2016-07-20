@@ -10,5 +10,5 @@ Tylna część jachtu.
 
 *zobacz też:* 
 
-* [bow](/dict/b/bow.html)
-* [beam](/dict/b/beam.html)
+* [bow](/dict/b/bow/)
+* [beam](/dict/b/beam/)

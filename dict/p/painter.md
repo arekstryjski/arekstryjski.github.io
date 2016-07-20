@@ -6,4 +6,4 @@ date: 2014-01-04
 cat: equipment
 ---
 
-Cienka linka służąca do holowania oraz cumowania bączka (pontonu) [[dinghy](/dict/d/dinghy.html)].
+Cienka linka służąca do holowania oraz cumowania bączka (pontonu) [[dinghy](/dict/d/dinghy/)].

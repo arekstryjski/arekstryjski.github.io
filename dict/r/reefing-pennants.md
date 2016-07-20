@@ -7,4 +7,4 @@ cat: rig
 sub: running-rigging
 ---
 
-*to samo co: [reefing lines](/dict/r/reefing-lines.html)*
+*to samo co: [reefing lines](/dict/r/reefing-lines/)*

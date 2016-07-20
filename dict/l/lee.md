@@ -8,8 +8,8 @@ cat: sailing
 
 *zobacz:*
 
-* [leeway](/dict/l/leeway.html)
-* [leeward](/dict/l/leeward.html)
-* [lee board](/dict/l/lee-board.html)
-* [lee helm](/dict/l/lee-helm.html)
-* [lee cloth](/dict/l/lee-cloth.html)
+* [leeway](/dict/l/leeway/)
+* [leeward](/dict/l/leeward/)
+* [lee board](/dict/l/lee-board/)
+* [lee helm](/dict/l/lee-helm/)
+* [lee cloth](/dict/l/lee-cloth/)

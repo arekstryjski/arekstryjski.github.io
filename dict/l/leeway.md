@@ -7,7 +7,7 @@ cat: navigation
 sub: course
 ---
 
-Tendencja jachtu do znoszenie go w kierunku strony zawietrznej [[leeward](/dict/l/leeward.html)] w czasie płynięcia na żaglach 
-mimo, że kurs [[heading](/dict/h/heading.html)] trzymany przez sternika wynosi około 5° mniej lub więcej.
+Tendencja jachtu do znoszenie go w kierunku strony zawietrznej [[leeward](/dict/l/leeward/)] w czasie płynięcia na żaglach 
+mimo, że kurs [[heading](/dict/h/heading/)] trzymany przez sternika wynosi około 5° mniej lub więcej.
 
 <!-- TODO: schemat -->

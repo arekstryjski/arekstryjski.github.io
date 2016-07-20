@@ -6,4 +6,4 @@ date: 2014-01-05
 cat: sailing
 ---
 
-Obrót na kabestanie [[winch](/dict/w/winch.html)] który nakłada linę na tą juz sie tam znajdującą blokując ją przy tym.
+Obrót na kabestanie [[winch](/dict/w/winch/)] który nakłada linę na tą juz sie tam znajdującą blokując ją przy tym.

@@ -12,7 +12,7 @@ desc: Arek Stryjski - sailing CV
 * nationality: Polish / UK resident 
 * date of birth: 18/11/1970
 * married, 2 children, no smoker
-* email: [&#x61;&#114;&#101;&#x6b;&#64;&#x73;&#x74;&#x72;&#121;&#106;&#x73;&#107;&#x69;&#x2e;&#x6e;&#101;&#116;](http://stryjski.net/arek/email.html)
+* email: [&#x61;&#114;&#101;&#x6b;&#64;&#x73;&#x74;&#x72;&#121;&#106;&#x73;&#107;&#x69;&#x2e;&#x6e;&#101;&#116;](http://stryjski.net/arek/email/)
 
 qualifications
 ---------------
@@ -39,7 +39,7 @@ sailing experience
 *2015 - current*: One of directors of *SetSail* sailing club. 
 *In 2015* during the sailing trip in Svalbard I skippered we reached latitude 81°N. 
 
-For more details see my [logbook](http://stryjski.net/arek/logbook.html).
+For more details see my [logbook](http://stryjski.net/arek/logbook/).
 
 
 certificates

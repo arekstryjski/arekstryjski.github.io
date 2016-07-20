@@ -46,9 +46,9 @@ Zobacz jak było na poprzednich rejsach: [Dookoła wyspy Wight - Solent zimą](/
 
 <p>
 <a role="button" href="/jan-mayen-2016" type="button" class="btn btn-xs btn-primary">szczegóły</a>
-<a role="button" href="/rejsy/rezerwacja.html" type="button" class="btn btn-xs btn-danger pull-right">zarezerwuj miejsce</a>
+<a role="button" href="/rejsy/rezerwacja/" type="button" class="btn btn-xs btn-danger pull-right">zarezerwuj miejsce</a>
 <span class="pull-right" >&nbsp;&nbsp;</span>
-<a role="button" href="/rejsy/pytanie.html" type="button" class="btn btn-xs btn-success pull-right">mam pytanie</a>         
+<a role="button" href="/rejsy/pytanie/" type="button" class="btn btn-xs btn-success pull-right">mam pytanie</a>         
 <br>
 </p>
 

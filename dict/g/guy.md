@@ -7,4 +7,4 @@ cat: rig
 sub: running-rigging
 ---
 
-Lina ciągnąca bum spinakera [[spinaker pole](/dict/s/spinaker-pole.html)] do tyłu [[aft](/dict/a/aft.html)].
+Lina ciągnąca bum spinakera [[spinaker pole](/dict/s/spinaker-pole/)] do tyłu [[aft](/dict/a/aft/)].

@@ -4,4 +4,4 @@ layout: dict_litera
 morse: ‒ ‒ • • 
 pho: Zulu
 ---
-> Potrzebuję holownika [tug](/dict/t/tug.html).
+> Potrzebuję holownika [tug](/dict/t/tug/).

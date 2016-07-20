@@ -10,4 +10,4 @@ Tył jachtu.
 
 *zobacz też:*
 
-* [forward](/dict/forward.html)
+* [forward](/dict/forward/)

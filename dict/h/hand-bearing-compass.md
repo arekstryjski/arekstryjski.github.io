@@ -7,4 +7,4 @@ cat: equipment
 sub: navigation-equipment
 ---
 
-Kompas [[compass](/dict/c/compass.html)] ręczny najczęściej wykorzystywany do pomiaru kierunku [[bearing](/dict/b/bearing.html)] innych obiektów.
+Kompas [[compass](/dict/c/compass/)] ręczny najczęściej wykorzystywany do pomiaru kierunku [[bearing](/dict/b/bearing/)] innych obiektów.

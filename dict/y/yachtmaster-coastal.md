@@ -10,10 +10,10 @@ Certyfikat kompetencji wydawany przez RYA. Najbliższym polskim odpowiednikiem b
 Bałtyckiej w PZŻ, jednak *Yachtmaster Coastal* jest patentem na który wymagane jest doświadczenie na wodach pływowych.
 
 Jest to pierwszy certyfikat który można uzyskać na podstawie egzaminu.  
-Wymagania teoretyczne sa podobne jak na [Yachtmaster Offshore](/dict/y/yachtmaster-offshore.html), ale konieczny staż 
+Wymagania teoretyczne sa podobne jak na [Yachtmaster Offshore](/dict/y/yachtmaster-offshore/), ale konieczny staż 
 i wymagania praktyczne są niższe.
 
 *zobacz też:*
 
-* [certificate](/dict/c/certificate.html)
+* [certificate](/dict/c/certificate/)
 

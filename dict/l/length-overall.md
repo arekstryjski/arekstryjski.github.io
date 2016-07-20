@@ -10,5 +10,5 @@ cat: deck
 
 *zobacz też:*
 
-* [LOA](/dict/l/loa.html)
+* [LOA](/dict/l/loa/)
 

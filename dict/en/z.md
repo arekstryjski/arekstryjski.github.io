@@ -4,4 +4,4 @@ layout: dict_letter
 morse: ‒ ‒ • • 
 pho: Zulu
 ---
-> I require a [tug](/dict/t/tug.html).
+> I require a [tug](/dict/t/tug/).

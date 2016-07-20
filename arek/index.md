@@ -26,8 +26,8 @@ w czym mogę pomóc
 
 doświadczenie 
 --------------
-* [żeglarskie CV](/arek/sailing-cv.html)
-* [logbook](/arek/logbook.html)
+* [żeglarskie CV](/arek/sailing-cv/)
+* [logbook](/arek/logbook/)
 
 
 partnerzy
@@ -47,7 +47,7 @@ więcej o mnie
 
 kontakt
 --------
-* e-mail: [&#x61;&#114;&#101;&#x6b;&#64;&#x73;&#x74;&#x72;&#121;&#106;&#x73;&#107;&#x69;&#x2e;&#x6e;&#101;&#116;](http://stryjski.net/arek/email.html)
+* e-mail: [&#x61;&#114;&#101;&#x6b;&#64;&#x73;&#x74;&#x72;&#121;&#106;&#x73;&#107;&#x69;&#x2e;&#x6e;&#101;&#116;](http://stryjski.net/arek/email/)
 * facebook.com/[arek.stryjski](https://www.facebook.com/arek.stryjski)
 
 

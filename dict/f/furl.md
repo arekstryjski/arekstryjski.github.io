@@ -6,9 +6,9 @@ date: 2013-12-31
 cat: sailing
 ---
 
-Zwinąć żagle na rollerze [[roller](/dict/r/roller.html)].  
+Zwinąć żagle na rollerze [[roller](/dict/r/roller/)].  
 
 *zobacz też:*
 
-* [roller furling](/dict/r/roller-furling.html)
-* [unfurl](/dict/u/unfurl.html)
+* [roller furling](/dict/r/roller-furling/)
+* [unfurl](/dict/u/unfurl/)

@@ -7,4 +7,4 @@ cat: rig
 sub: spars
 ---
 
-Poprzeczny drążek przymocowany do masztu [[mast](/dict/m/mast.html)] do którego mocowany jest grot [[mainsail](/dict/m/mainsail.html)].
+Poprzeczny drążek przymocowany do masztu [[mast](/dict/m/mast/)] do którego mocowany jest grot [[mainsail](/dict/m/mainsail/)].

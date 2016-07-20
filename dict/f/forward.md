@@ -12,4 +12,4 @@ Płynąć do przodu.
 
 *zobacz też:*
 
-* [aft](/dict/a/aft.html)
+* [aft](/dict/a/aft/)

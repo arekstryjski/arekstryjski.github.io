@@ -10,5 +10,5 @@ cat:
 
 *zobacz też:*
 
-* [prop walk](/dict/p/prop-walk.html)
-* [prop wash](/dict/p/prop-wash.html)
+* [prop walk](/dict/p/prop-walk/)
+* [prop wash](/dict/p/prop-wash/)

@@ -8,5 +8,5 @@ cat: sailing
 
 Kierunek z którego wieje wiatr:
 
-* [port tack](/dict/p/port-tack.html)
-* [starboard tack](/dict/s/starboard-tack.html)
+* [port tack](/dict/p/port-tack/)
+* [starboard tack](/dict/s/starboard-tack/)

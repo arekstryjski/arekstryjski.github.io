@@ -9,7 +9,7 @@ desc: Opis systemu szkoleń żeglarskich i patentów w brytyjskim systemie RYA.
 <div class="alert alert-info">
   Członkowie <b><a href="http://setsail.org.uk">SetSail</a></b> mogą uzyskać <b>zniżki na kursy</b> w szkole żeglarskiej RYA 
   <b><a href="http://trafalgarsailing.co.uk">Trafalgar</a></b> na Gibraltarze.</br>
-  W sprawie szczegółów proszę o <a href="http://stryjski.net/arek/email.html">kontakt</a>.
+  W sprawie szczegółów proszę o <a href="http://stryjski.net/arek/email/">kontakt</a>.
 </div>
 
 Poniższy tekst tylko krótko przybliżyć brytyjski system szkoleń żeglarskich.   

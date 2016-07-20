@@ -13,5 +13,5 @@ Wymagania jest teoretyczna i praktyczna znajomość astronawigacji.
 
 *zobacz też:*
 
-* [certificate](/dict/c/certificate.html)
+* [certificate](/dict/c/certificate/)
 

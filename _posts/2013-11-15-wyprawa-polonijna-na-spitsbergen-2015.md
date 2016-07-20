@@ -189,7 +189,7 @@ podstawowe parametry techniczne:
 * silnik 85HP
 * powierzchnia żagla: 111m<sup>2</sup>
 * liczba koi: 10+1 (w 5 kabinach)
-* **[więcej o jachcie](/rejsy/joinus.html)**
+* **[więcej o jachcie](/rejsy/joinus/)**
 
 W 2014 roku na jachcie tym przeprowadziłem rejs [Portugalia - Galicja](/portugalia-2014), 
 dwa rejsy na Kanale Angielskim oraz 2 tygodniowy rejs w [Norwegii](/norwegia-2014). 

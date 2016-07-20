@@ -6,4 +6,4 @@ date: 2014-01-01
 cat: hull
 ---
 
-Zbiornik na nieczystości z toalety [[heads](/dict/h/heads.html)].
+Zbiornik na nieczystości z toalety [[heads](/dict/h/heads/)].

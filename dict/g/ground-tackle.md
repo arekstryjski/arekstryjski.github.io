@@ -7,5 +7,5 @@ cat: mooring
 sub: anchor
 ---
 
-Kotwica [[anchor](/dict/a/anchor.html)], łańcuch [[chain](/dict/c/chain.html)], winda kotwiczna [[windless](/dict/w/windless.html)] 
+Kotwica [[anchor](/dict/a/anchor/)], łańcuch [[chain](/dict/c/chain/)], winda kotwiczna [[windless](/dict/w/windless/)] 
 i inne elementy składające się na oprzyrządowanie służące do zakotwiczenia jachtu.

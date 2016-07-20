@@ -6,8 +6,8 @@ date: 2014-01-05
 cat: deck
 ---
 
-Konstrukcja z rurek metalowych na dziobie [[bow](/dict/b/bow.html)] jachtu zabezpieczająca przed wypadnięciem.
+Konstrukcja z rurek metalowych na dziobie [[bow](/dict/b/bow/)] jachtu zabezpieczająca przed wypadnięciem.
 
 *zobacz też:*
 
-* [pushpit](/dict/p/pushpit.html)
+* [pushpit](/dict/p/pushpit/)

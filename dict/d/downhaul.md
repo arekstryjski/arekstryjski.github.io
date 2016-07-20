@@ -7,4 +7,4 @@ cat: rig
 sub: running-rigging
 ---
 
-Lina która ciągnie spinaker bum [[spinaker pole](/dict/s/spinaker-pole.html)] w dół.
+Lina która ciągnie spinaker bum [[spinaker pole](/dict/s/spinaker-pole/)] w dół.

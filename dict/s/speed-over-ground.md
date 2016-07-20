@@ -8,4 +8,4 @@ cat: navigation
 
 Prędkość mierzona względem dna morskiego.
 
-Prędkość mierzona względem dna i wody mogą byc różne ze względu na m.in. prądy morskie [[tidal streams](/dict/t/tidal-streams.html)].
+Prędkość mierzona względem dna i wody mogą byc różne ze względu na m.in. prądy morskie [[tidal streams](/dict/t/tidal-streams/)].

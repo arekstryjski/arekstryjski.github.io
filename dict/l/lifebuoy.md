@@ -11,5 +11,5 @@ Koło ratunkowe.
 
 *zobacz też:*
 
-* [lifebelt](/dict/l/lifebelt.html)
+* [lifebelt](/dict/l/lifebelt/)
 

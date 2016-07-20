@@ -7,11 +7,11 @@ cat: rig
 sub: running-rigging
 ---
 
-Plastikowa lub metalowa prowadnica przymocowana do sztagu foka [[forestay](/dict/forestay.html)] 
-mocująca lik przedni [[luff](/dict/l/luff.html)] żagla przedniego [[headsail](/dict/h/headsail.html)].
+Plastikowa lub metalowa prowadnica przymocowana do sztagu foka [[forestay](/dict/forestay/)] 
+mocująca lik przedni [[luff](/dict/l/luff/)] żagla przedniego [[headsail](/dict/h/headsail/)].
 
 <!-- TODO: foto -->
 
 *zobacz też:*
 
-* [luff groove](/dict/l/luff-groove.html)
+* [luff groove](/dict/l/luff-groove/)

@@ -14,8 +14,8 @@ Gdy jacht jest w ten sposób zacumowany przechodzimy na nabrzeże przez dziób y
 
 *zobacz też:*
 
-* [alongside](/dict/a/alongside.html)
-* [mediterranean style](/dict/m/mediterranean-style.html)
+* [alongside](/dict/a/alongside/)
+* [mediterranean style](/dict/m/mediterranean-style/)
 
 
 <!-- TODO: PL -->

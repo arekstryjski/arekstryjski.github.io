@@ -8,5 +8,5 @@ cat: deck
 
 *zobacz:*
 
-* [length overall](/dict/l/length overall.html)
+* [length overall](/dict/l/length overall/)
 

@@ -10,5 +10,5 @@ Przyrząd składający cie najczęściej z deski/ławeczki i uprzęży służąc
 
 *zobacz też:*
 
-* [bosun](/dict/b/bosun.html)
+* [bosun](/dict/b/bosun/)
 

@@ -7,6 +7,6 @@ cat: mooring
 sub: mooring-line
 ---
 
-Gdy jach cumuje burtą [[alongside](/dict/a/alongside.html)] lina trzymająca jacht z dziobu [[bow](/dict/b/bow.html)].  
+Gdy jach cumuje burtą [[alongside](/dict/a/alongside/)] lina trzymająca jacht z dziobu [[bow](/dict/b/bow/)].  
 Lina powstrzymuje jacht przed oddaleniem się od nabrzeża/pomostu.
 

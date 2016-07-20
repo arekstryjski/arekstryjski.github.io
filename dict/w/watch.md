@@ -13,5 +13,5 @@ załoga podzielona jest na 3 wachty, by odcinek pracy był dłuższy od odpoczyn
 
 *zobacz też:*
 
-* [watchkeeper](/dict/w/watchkeeper.html)
+* [watchkeeper](/dict/w/watchkeeper/)
 

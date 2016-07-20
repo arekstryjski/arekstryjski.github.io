@@ -10,5 +10,5 @@ Burta przeciwna do tej z której strony wieje wiatr.
 
 *zobacz też:*
 
-* [weather board](/dict/w/weather-board.html)
-* [leeward](/dict/l/leeward.html)
+* [weather board](/dict/w/weather-board/)
+* [leeward](/dict/l/leeward/)

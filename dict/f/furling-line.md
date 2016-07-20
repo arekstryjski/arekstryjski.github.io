@@ -7,4 +7,4 @@ cat: rig
 sub: running-rigging
 ---
 
-Linka która kontroluje roller [[roller](/dict/r/roller.html)] systemu zwijania żagla [[furl](/dict/furl.html)].
+Linka która kontroluje roller [[roller](/dict/r/roller/)] systemu zwijania żagla [[furl](/dict/furl/)].

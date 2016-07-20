@@ -7,4 +7,4 @@ cat: rig
 sub: spars
 ---
 
-Pionowy słup przymocowany do kadłuba [[hull](/dict/h/hull.html)] w osi centralnej jachtu. Służy do utrzymania żagli [[sails](/dict/s/sails.html)] 
+Pionowy słup przymocowany do kadłuba [[hull](/dict/h/hull/)] w osi centralnej jachtu. Służy do utrzymania żagli [[sails](/dict/s/sails/)] 

@@ -10,5 +10,5 @@ Części dziobu lub rufy wystające ponad wodę.
 
 *zobacz też:*
 
-* [free board](/dict/free-board.html)
-* [topside](/dict/t/topside.html)
+* [free board](/dict/free-board/)
+* [topside](/dict/t/topside/)

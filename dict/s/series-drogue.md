@@ -10,7 +10,7 @@ sub: anchor
 Seria małych stożków przyszytych do długiej liny i mocowanych do rufy jachtu. Urządzenie ma za zadanie nie tylko zwolnienie 
 i ustabilizowanie kursu jachtu w czasie płynięcia w sztormie, ale przede wszystkim uniemożliwienie stoczenia/spadnięcia 
 jachtu z przełamującej się fali.  
-Podobnie jak w przypadku dryfkotwy spadochronowej [sea anchor](/dict/s/sea-anchor.html) po zamontowaniu jacht pozostawia 
+Podobnie jak w przypadku dryfkotwy spadochronowej [sea anchor](/dict/s/sea-anchor/) po zamontowaniu jacht pozostawia 
 się najczęściej samemu sobie i nie steruje się aktywnie, a cała załoga schodzi pod pokład.
 
 ![Jordan Series Drogue](/img/dict/jordan-series-drogue.jpg)
@@ -23,5 +23,5 @@ lotniczego Dona Jordana.
 
 *zobacz też:*
 
-* [sea anchor](/dict/s/sea-anchor.html)
-* [drogue](/dict/d/drogue.html)
+* [sea anchor](/dict/s/sea-anchor/)
+* [drogue](/dict/d/drogue/)

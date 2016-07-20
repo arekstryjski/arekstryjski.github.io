@@ -7,5 +7,5 @@ cat: rig
 sub: running-rigging
 ---
 
-Klips/zaczep służący do przymocowania żagla przedniego [[headsail](/dict/h/headsail.html)] do sztagu [forestay].  
+Klips/zaczep służący do przymocowania żagla przedniego [[headsail](/dict/h/headsail/)] do sztagu [forestay].  
 Także czynność mocowania mocowania żagla przedniego.

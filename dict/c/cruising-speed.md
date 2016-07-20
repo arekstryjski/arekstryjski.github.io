@@ -12,5 +12,5 @@ i praktyczna prędkość jachtu na silniku i żaglach, jak również optymalne z
 
 *zobacz też:*
 
-* [cruising](/dict/c/cruising.html)
-* [cruising range](/dict/c/cruising-range.html)
+* [cruising](/dict/c/cruising/)
+* [cruising range](/dict/c/cruising-range/)
