@@ -1,3 +1,69 @@
+- log: 51
+  start: 2016-09-03
+  end: 2016-09-04 
+  day: 2
+  nm: 52
+  pos: skipper 
+  sea: English Channel
+  ports: Ramsgate
+  y_name: Bonawentura
+  y_type: 65ft wooden ketch
+  
+- log: 50
+  start: 2016-08-01
+  end: 2016-08-21 
+  day: 21
+  nm: 1626
+  pos: skipper 
+  sea: Greenland Sea
+  ports: Longyearbyen - Barentsburg - Jan Mayen - Ittoqqortoormiit - Siglufjörður
+  y_name: JoinUs
+  y_type: Bruce Roberts NY 46
+
+- log: 49
+  start: 2016-
+  end: 2016- 
+  day: 2
+  nm: 20
+  pos: crew 
+  sea: English Channel
+  ports: Eastbourne
+  y_name: 
+  y_type: Moody 31
+  
+- log: 48
+  start: 2016-05-28
+  end: 2016-05-30
+  day: 3
+  nm: 200
+  pos: skipper 
+  sea: English Channel
+  ports: Gosport - Alderney - Gosport
+  y_name: Wight Dimaond
+  y_type: Elan Impression 434
+  
+- log: 47
+  start: 2016-04-09 
+  end: 2016-04-10 
+  day: 2 
+  nm: 84 
+  pos: skipper 
+  sea: Solent
+  ports: Gosport - Limington - Gosport
+  y_name: Forrader
+  y_type: Sun Odyssey 43
+
+- log: 46
+  start: 2016-01-23 
+  end: 2016-01-24 
+  day: 2 
+  nm: 111
+  pos: skipper 
+  sea: English Channel
+  ports: Gosport - Brighton - Gosport
+  y_name: Wight Dimaond
+  y_type: Elan Impression 434
+ 
 - log: 45
   start: 2015-11-07
   end: 2015-11-08  

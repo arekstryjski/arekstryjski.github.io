@@ -1,7 +1,7 @@
 ---
 title: Arek Stryjski - sailing certificates
 layout: page
-date: 2014-06-16
+date: 2016-08-05
 category: arek
 no_index: true
 desc: Arek Stryjski - sailing certificates
@@ -15,7 +15,7 @@ desc: Arek Stryjski - sailing certificates
 
 <hr class="print-nl">
 
-![Arek Stryjski - First Aid](/img/certificates/1aid.jpg)
+![Arek Stryjski - First Aid](/img/certificates/1aid2015.jpg)
 
 <hr class="print-nl">
 
@@ -23,12 +23,18 @@ desc: Arek Stryjski - sailing certificates
 
 <hr class="print-nl">
 
+![Arek Stryjski - ISAF Offshore Safety](/img/certificates/isaf.jpg)
+
+<hr class="print-nl">
+
 ![Arek Stryjski - Radar](/img/certificates/radar.jpg)
 
 <hr class="print-nl">
 
-![Arek Stryjski - Radar](/img/certificates/diesel.jpg)
+![Arek Stryjski - Diesel](/img/certificates/diesel.jpg)
   
 <hr class="print-nl">
 
 ![Arek Stryjski - ML5](/img/certificates/ml5.jpg)
+
+
