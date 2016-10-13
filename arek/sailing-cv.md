@@ -29,8 +29,9 @@ languages
 
 sailing experience
 ------------------
-* nautical miles: 13668 - 11342 as skipper
-* days at sea: 290 - 241 as skipper
+* nautical miles: 13000+  
+* including: 11000+ as skipper
+* including: 2500+ in Arctic
 * sailing areas: Arctic, Greenland Sea, North Atlantic, Bay of Biscay, Norwegian Sea, North Sea, Irish and Celtic Seas, English Channel, Mediterranean 
 
 *2007 - current*: Working as skipper for *JoinUs.eu* on vacation cruises with people of various experience, including kids and complete beginners.  
@@ -39,6 +40,8 @@ sailing experience
 *In 2015* during the sailing trip in Svalbard I skippered we reached latitude 81°N.   
 
 For more details see my [logbook](http://stryjski.net/arek/logbook/).
+
+I'm a member of [The Arctic Club](http://www.arcticclub.org.uk/) and [The Cruising Association](http://www.theca.org.uk/).
 
 
 certificates
