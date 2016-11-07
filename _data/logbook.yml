@@ -1,3 +1,14 @@
+- log: 52
+  start: 2016-10-06
+  end: 2016-10-09 
+  day: 4
+  nm: 123
+  pos: skipper 
+  sea: North Sea
+  ports: Peterhead - Port Edgar (Edinburgh)
+  y_name: JoinUs
+  y_type: Bruce Roberts NY 46
+  
 - log: 51
   start: 2016-09-03
   end: 2016-09-04 
@@ -8,7 +19,7 @@
   ports: Ramsgate
   y_name: Bonawentura
   y_type: 65ft wooden ketch
-  
+    
 - log: 50
   start: 2016-08-01
   end: 2016-08-21 
@@ -21,8 +32,8 @@
   y_type: Bruce Roberts NY 46
 
 - log: 49
-  start: 2016-
-  end: 2016- 
+  start: 2016-06-24
+  end: 2016-06-26 
   day: 2
   nm: 20
   pos: crew 
