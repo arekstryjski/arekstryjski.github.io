@@ -3,12 +3,25 @@ title: relacje z rejsów
 layout: section
 category: relacje
 keywords: relacje z rejsów, rejsy, rejsy morskie, żeglarstwo, yachting, jachting, Arktyka, Grecja, Gibraltar, Sycylia, Chorwacja
-desc: Relacje z rejsów które prowadziłem. Rejsy weekendowe w Spitsbergen, Norwegia, UK, Grecja, Gibraltar, Sycylia.
+desc: Relacje z rejsów które prowadziłem. Rejsy weekendowe, jak również: Grenlandia, Spitsbergen, Norwegia, UK, Grecja, Gibraltar, Sycylia.
 img: /img/2013/setsail/sun_l.jpg
-date: 2015-10-08
+date: 2016-11-11
 imgw: 900
 imgh: 600
 ---
+
+**Odwiedź również moją anglojęzyczna stronę poświęcona rejsom w Arktyce [North.Voyage](https://north.voyage).**
+
+Morze Grenlandzkie 2016
+-----------------------
+
+> I pomyśleć, że za miesiąc trzeba już będzie wracać.
+
+Zaczynamy relacja fotograficzną *[Grenlandzkie Góry Lodowe](/grenlandzkie-gory-lodowe)*
+
+Relacje z rejsu Svalbard - Jan Mayen - Grenlandia - Islandia w sierpniu 2016.
+
+![góra lodowa](/img/2016/icebergs/góra-lodowa-01.jpeg)
 
 
 Svalbard 2015
