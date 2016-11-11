@@ -3,7 +3,7 @@ title: relacje z rejsów
 layout: section
 category: relacje
 keywords: relacje z rejsów, rejsy, rejsy morskie, żeglarstwo, yachting, jachting, Arktyka, Grecja, Gibraltar, Sycylia, Chorwacja
-desc: Relacje z rejsów które prowadziłem. Rejsy weekendowe, jak również: Grenlandia, Spitsbergen, Norwegia, UK, Grecja, Gibraltar, Sycylia.
+desc: Relacje z rejsów które prowadziłem. Rejsy weekendowe, jak również Grenlandia, Spitsbergen, Norwegia, UK, Grecja, Gibraltar, Sycylia.
 img: /img/2013/setsail/sun_l.jpg
 date: 2016-11-11
 imgw: 900
