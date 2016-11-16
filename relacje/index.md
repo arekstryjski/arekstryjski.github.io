@@ -15,11 +15,13 @@ imgh: 600
 Morze Grenlandzkie 2016
 -----------------------
 
-> I pomyśleć, że za miesiąc trzeba już będzie wracać.
+> I pomyśleć, że za miesiąc trzeba będzie już wracać.
 
-Zaczynamy relacja fotograficzną *[Grenlandzkie Góry Lodowe](/grenlandzkie-gory-lodowe)*
+Relacje z rejsu ze Svalbardu do Jan Mayen, Grenlandii Wschodniej i Islandii z sierpniu 2016:
 
-Relacje z rejsu Svalbard - Jan Mayen - Grenlandia - Islandia w sierpniu 2016.
+* Relacja fotograficzna *[Grenlandzkie Góry Lodowe](/grenlandzkie-gory-lodowe)*
+* Pierwszy dzień na Grenlandii *[Weekend w Ittoqqortoormiit](/weekend-w-ittoqqortoormiit)* 
+
 
 ![góra lodowa](/img/2016/icebergs/góra-lodowa-01.jpeg)
 

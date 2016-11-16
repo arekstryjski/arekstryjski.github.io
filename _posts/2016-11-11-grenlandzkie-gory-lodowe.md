@@ -62,9 +62,9 @@ przybliżą one chociaż ich urok.
 ![góra lodowa](/img/2016/icebergs/góra-lodowa-17.jpeg)
 
 > Wszystkie zdjęcia zostały wykonane we Wschodniej Grenlandii w czasie 
-rejsu na jachcie 'JoinUs' ze Svalbardu do Jan Mayen, Grenlandii i Islandii 
-w sierpniu 2016.
-> Jeśli spodobał wam się artykuł i zdjęcia kliknijcie proszę w małe 
+rejsu na jachcie '[JoinUs](http://joinus.pl)' ze Svalbardu do Jan Mayen, 
+Grenlandii i Islandii w sierpniu 2016.
+> Jeśli spodobał Wam się artykuł i zdjęcia kliknijcie proszę w małe 
 serduszko na angielskiej wersji tego [artykułu](https://north.voyage/greenland-icebergs-59ee1dba756b#.eqkcjebl4). 
 
 ![góra lodowa](/img/2016/icebergs/góra-lodowa-18.jpeg)
