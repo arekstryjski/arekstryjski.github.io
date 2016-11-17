@@ -5,8 +5,33 @@ category: rejsy
 keywords: rejsy, rejsy morskie, rejsy weekendowe, żeglarstwo, yachting, jachting, Norwegia, Spitsbergen, Jan Mayen
 desc: Informacje na temat planowanych rejsów. Norwegia, Spitsbergen, Jan Mayen. Rejsy weekendowe w UK. 
 img: /img/2013/setsail/sun_l.jpg
-date: 2015-11-15
+date: 2016-11-17
 ---
+
+Wyprawa: [Nordkapp 2017](/nordkapp-2017)
+-------------------------------------------
+
+[![zorza](/img/2016/nordkapp/zorza.jpg)](https://www.meetup.com/SetSail-Polish-Sailing-Club/events/235416553/)
+
+W trakcie rejsu będziemy mieli okazję nie tylko  
+
+* opłynąć zimą Knivskjellodden na Nordkapp - najbardziej na północ wysuniętą cześć Europy,  
+
+ale również:  
+
+* Opłynąć Kinnarodden na Nordkinnhalvøya - najbardziej na północ wysuniętą cześć kontynentalnej Europy,  
+* Zobaczyć Finmark - najbardziej na północ wysuniętą część Norwegii którą zamieszkują jej rdzenni mieszkańcy Sami - ostatni nomadzi Europy,  
+* Odwiedzić Vardo - miasto z największą odnotowaną populacją czarownic, 
+ 
+**Wyśmienicie się bawić!**
+
+**luty 2017**   
+*10 dni*  
+*~400 mil morskich*  
+
+**Szczegóły i zapisy na stronie [SetSail.club](https://www.meetup.com/SetSail-Polish-Sailing-Club/events/235416553/)**
+
+----------------------------------------------------
 
 rejsy weekendowe
 -----------------
@@ -16,41 +41,18 @@ rejsy weekendowe
 W UK prowadzę weekendowe rejsy organizowane przez polonijny klub żeglarski [SetSail](http://setsail.org.uk).  
 Najbliższe terminy:  
 
-* weekend **4-6 grudzień 2015** - Rejs hard-core *Wyspy Normandzkie* [zapisy i informacje](http://SetSail.Club/events/223936889/)
-* weekend **19-21 luty 2016** - Rejs hard-core [zapisy i informacje](http://SetSail.Club/events/226702746/)
-* weekend **11-13 marzec 2016** - manewrówka / rejs stażowy ICC* [zapisy i informacje](http://SetSail.Club/events/226702816/)
-* weekend **8-10 kwiecień 2016** - rejs weekendowy Solent* [zapisy i informacje](http://SetSail.Club/events/226703127/)
-* weekend **27-30 maj 2016** - Spring Bank Holiday - Wyspy Normandzkie* [zapisy i informacje](http://SetSail.Club/events/226703041/)
+* weekend **25-27 listopad 2016** - *Kanał la Manche* [zapisy i informacje](http://SetSail.Club/events/231163198/)
+* weekend **28 kwienień - 1 maj 2017** - *May Bank Holiday we Francji - Dieppe* [zapisy i informacje](http://SetSail.Club/events/235420048/)
+* weekend **26-29 maj 2017** - *Spring Bank Holiday - Sark, Wyspy Normańskie* [zapisy i informacje](http://SetSail.Club/events/235420461/)
 
 Planowane trasy mogą ulec zmianie. Zobacz stronę z [opisami tras](/solent-trasy).   
-Zapisy i więcej informacji w podanych powyżej linkach. Jeśli masz pytanie [napisz do mnie](/rejsy/rezerwacja).  
+Zapisy i więcej informacji w podanych powyżej linkach. Jeśli masz pytanie napisz do mnie: [&#x61;&#114;&#101;&#x6b;&#64;&#x73;&#x74;&#x72;&#121;&#106;&#x73;&#107;&#x69;&#x2e;&#x6e;&#101;&#116;](http://stryjski.net/arek/email/)
 
 Zobacz jak było na poprzednich rejsach: [Dookoła wyspy Wight - Solent zimą](/dookola-wight-solent-zima/)
 
 ----------------------------------------------------
 
 
-[Wyprawa: Islandia - Grenlandia - Jan Mayen - Spitsbergen 2016](/jan-mayen-2016)
-------------------------------------------------------------------------------
-
-[![Jan Mayen](/img/2014/jan_mayen/jan_mayen_wieloryby.jpg)](/jan-mayen-2016)
-
-> Rzadko kto dociera jachtem do północnej Islandii. Jeszcze mniej osób pływa w Grenlandii i na Spitsbergenie. 
-> Jan Mayen to zagubiona wyspa północy o której rzadko kto nawet słyszał.  
-> W czasie naszej wyprawy chcielibyśmy odwiedzić wszystkie te miejsca. Co najmniej 1200 mil morskich żeglugi w większości po Oceanie Arktycznym 
-> to niepowtarzalna okazja dla ludzi szukających prawdziwej przygody i pragnących odkryć daleką północ. 
-
-**sierpień 2016**   
-*3 tygodnie*  
-*~1200 mil morskich*  
-
-<p>
-<a role="button" href="/jan-mayen-2016" type="button" class="btn btn-xs btn-primary">szczegóły</a>
-<a role="button" href="/rejsy/rezerwacja/" type="button" class="btn btn-xs btn-danger pull-right">zarezerwuj miejsce</a>
-<span class="pull-right" >&nbsp;&nbsp;</span>
-<a role="button" href="/rejsy/pytanie/" type="button" class="btn btn-xs btn-success pull-right">mam pytanie</a>         
-<br>
-</p>
 
 
 

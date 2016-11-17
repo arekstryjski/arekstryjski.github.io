@@ -17,8 +17,8 @@ określonym czasie. Istnieje nawet przesąd by nie wpisywać portu docelowego
 do dziennika jachtowego. Jak starzy żeglarze mawiali *płyniemy 'w kierunku', 
 a nie 'do' określonego portu*.
 
-W czasie ostatniego etapu z Jan Mayen płynęliśmy w miarę szybko - w 3 dni 
-pokonaliśmy 280 mil morskich. Jednak przez wcześniejsze opóźnienia byliśmy 
+W czasie ostatniego etapu z Jan Mayen płynęliśmy w miarę szybko - w niespełna 3 dni 
+pokonaliśmy 290 mil morskich. Jednak przez wcześniejsze opóźnienia byliśmy 
 nieco spóźnieni względem pierwotnych planów. W dalszym ciągu mieliśmy 
 jeszcze kilka dni rezerwowych, tak więc dotarcie do Grenlandii w sobotę, 
 a nie w piątek jak początkowo planowaliśmy, nie stanowiło dużego problemu.
