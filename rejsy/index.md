@@ -8,7 +8,7 @@ img: /img/2013/setsail/sun_l.jpg
 date: 2016-11-17
 ---
 
-Wyprawa: [Nordkapp 2017](/nordkapp-2017)
+Wyprawa: [Nordkapp 2017](https://www.meetup.com/SetSail-Polish-Sailing-Club/events/235416553/)
 -------------------------------------------
 
 [![zorza](/img/2016/nordkapp/zorza.jpg)](https://www.meetup.com/SetSail-Polish-Sailing-Club/events/235416553/)
