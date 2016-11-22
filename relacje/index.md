@@ -5,7 +5,7 @@ category: relacje
 keywords: relacje z rejsów, rejsy, rejsy morskie, żeglarstwo, yachting, jachting, Arktyka, Grecja, Gibraltar, Sycylia, Chorwacja
 desc: Relacje z rejsów które prowadziłem. Rejsy weekendowe, jak również Grenlandia, Spitsbergen, Norwegia, UK, Grecja, Gibraltar, Sycylia.
 img: /img/2013/setsail/sun_l.jpg
-date: 2016-11-11
+date: 2016-11-24
 imgw: 900
 imgh: 600
 ---
@@ -19,6 +19,7 @@ Morze Grenlandzkie 2016
 
 Relacje z rejsu ze Svalbardu do Jan Mayen, Grenlandii Wschodniej i Islandii z sierpniu 2016:
 
+* Kolejna wizyta w Longyearbyen na Spitsbergenie *[Trzeba będzie wracać...](/longyearbyen-trzeba-wracac)*
 * Relacja fotograficzna *[Grenlandzkie Góry Lodowe](/grenlandzkie-gory-lodowe)*
 * Pierwszy dzień na Grenlandii *[Weekend w Ittoqqortoormiit](/weekend-w-ittoqqortoormiit)* 
 
