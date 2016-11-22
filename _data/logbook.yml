@@ -1,3 +1,14 @@
+- log: 53
+  start: 2016-11-12
+  end: 2016-11-13 
+  day: 2
+  nm: 38
+  pos: skipper 
+  sea: Solent
+  ports: Gosport - Marchwood - Gosport
+  y_name: Elli B
+  y_type: Beneteau Oceanis 37
+  
 - log: 52
   start: 2016-10-06
   end: 2016-10-09 
