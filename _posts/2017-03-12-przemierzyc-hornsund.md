@@ -156,11 +156,14 @@ podstawowe parametry techniczne:
 
 cena
 ----
-Przewidywany koszt całkowity to **£1250,-**
+Przewidywany koszt całkowity to **£1250**
 w tym:
 
 * £850 koszty stałe 
 * £375 kasa jachtowa
+
+Cena zakłada, że w rejsie biorą udział skipper, bosman i 7 członków załogi.  
+Skipper i bosman nie partycypują w kosztach rejsu.
 
 Cena stała obejmuje:
 
@@ -180,6 +183,8 @@ Kasa jachtowa obejmuje:
 * inne wydatki (jak gaz itp.)
 
 Cena nie obejmuje kosztów transportu i ewentualnych noclegów przed i po rejsie na Spitsbergenie.
+
+
 
 ![lodowiec Sveabreen odbicie](/img/2016/julka/lodowiec_odbicie.jpg)
 
