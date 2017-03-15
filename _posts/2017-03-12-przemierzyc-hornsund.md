@@ -3,7 +3,7 @@ title: Przemierzyć Hornsund - Spitsbergen 2017
 layout: post
 category: arktyka
 keywords: Arktyka, żeglarstwo, Svalbard, Spitsbergen, Hornsund
-desc: Wyprawa żeglarska na Hornsund - sierpień 2017
+desc: Przemierzyć Hornsund - Wyprawa żeglarska na Spitsbergen, sierpień 2017
 ---
 
 ![Longyearbyen góry](/img/2016/julka/longyearbyen-gory.jpg)
@@ -87,7 +87,7 @@ plan rejsu
 -----------
 **termin**: piątek **4 sierpień** - piątek **18 sierpień 2017**
 
-Przepłyniemy około **570 mil** morskich eksplorując południe Zachodniego Spitsbergenu.
+Przepłyniemy około **570 mil morskich** eksplorując południe Zachodniego Spitsbergenu.
 
 Trasa rejsu zaplanowana jest tak by dotrzeć do miejsc, które nie wszyscy odwiedzają, ale jednocześnie mieć czas by je 
 eksplorować. Średnio 8-10 godzin musimy poświęcić na żeglugę, jednak dzięki temu że latem na Svalbardzie nigdy nie zachodzi 
@@ -220,6 +220,8 @@ Kasa jachtowa obejmuje:
 * dowóz jedzenia
 * jedzenie zakupione na miejscu
 * inne wydatki (jak gaz itp.)
+
+(Kasa jachtowa rozliczona zostanie wg. faktycznych wydatków)
 
 Cena nie obejmuje kosztów transportu i ewentualnych noclegów przed i po rejsie na Spitsbergenie.
 
