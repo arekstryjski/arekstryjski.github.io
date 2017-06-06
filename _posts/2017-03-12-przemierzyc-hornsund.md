@@ -197,11 +197,15 @@ cena
 Przewidywany koszt całkowity to **£1300**
 w tym:
 
-* £900 koszty stałe 
-* £400 kasa jachtowa
+* £900 koszty stałe w kabinie dwuosobowej
 
-Cena zakłada, że w rejsie biorą udział skipper, bosman i 7 członków załogi.  
-Skipper i bosman nie partycypują w kosztach rejsu.
+lub  
+
+* £1650 w wygodnej kabinie jednoosobowej 
+
+plus  
+
+* £400 kasa jachtowa (zakładając, że w rejsie weźmoe udział 7 osób)
 
 Cena stała obejmuje:
 
